@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Today — Your Morning News</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    color: #1a1a1a;
+    background: #fafafa;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 1100px; margin: 0 auto; padding: 32px 24px; }
+  .header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-bottom: 1px solid #e5e5e5; padding-bottom: 20px; margin-bottom: 24px;
+    flex-wrap: wrap; gap: 12px;
+  }
+  .title { font-size: 36px; font-weight: 700; letter-spacing: -0.5px; }
+  .date { font-size: 13px; color: #888; font-variant-numeric: tabular-nums; }
+  .refresh-bar {
+    display: flex; align-items: center; gap: 12px; margin-bottom: 24px;
+    font-size: 12px; color: #888;
+  }
+  .refresh-btn {
+    padding: 6px 12px; font-size: 12px; border: 1px solid #e5e5e5;
+    background: #fff; border-radius: 6px; cursor: pointer; color: #555;
+    font-family: inherit; transition: all 0.15s;
+  }
+  .refresh-btn:hover { background: #f0f0f0; }
+  .refresh-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+  .tabs { display: flex; gap: 6px; margin-bottom: 28px; flex-wrap: wrap; }
+  .tab {
+    padding: 8px 16px; font-size: 13px; border: 1px solid #e5e5e5;
+    background: #fff; border-radius: 999px; cursor: pointer; color: #555;
+    transition: all 0.15s; font-family: inherit;
+  }
+  .tab:hover { background: #f0f0f0; }
+  .tab.active { background: #1a1a1a; color: #fff; border-color: #1a1a1a; }
+  .grid { display: grid; grid-template-columns: 2fr 1fr; gap: 40px; }
+  @media (max-width: 760px) { .grid { grid-template-columns: 1fr; gap: 32px; } }
+  .main-story {
+    padding-bottom: 24px; border-bottom: 1px solid #e5e5e5;
+    margin-bottom: 20px;
+  }
+  .main-story a, .story-item a {
+    text-decoration: none; color: inherit; display: block;
+  }
+  .main-story a:hover .story-headline,
+  .story-item a:hover .item-headline { color: #c0392b; }
+  .tag {
+    display: inline-block; font-size: 11px; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.8px;
+    color: #c0392b; margin-bottom: 10px;
+  }
+  .story-headline {
+    font-size: 26px; font-weight: 700; line-height: 1.25;
+    margin-bottom: 10px; letter-spacing: -0.3px; transition: color 0.15s;
+  }
+  .story-summary { font-size: 15px; color: #555; margin-bottom: 10px; }
+  .story-meta { font-size: 12px; color: #999; }
+  .story-item { padding: 18px 0; border-bottom: 1px solid #f0f0f0; }
+  .story-item:last-child { border-bottom: none; }
+  .item-headline {
+    font-size: 17px; font-weight: 600; line-height: 1.35;
+    margin-bottom: 4px; transition: color 0.15s;
+  }
+  .sidebar-block { margin-bottom: 32px; }
+  .sidebar h3 {
+    font-size: 12px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 1px; margin-bottom: 14px; padding-bottom: 8px;
+    border-bottom: 2px solid #1a1a1a;
+  }
+  .region-pill {
+    display: inline-block; font-size: 10px; font-weight: 600;
+    padding: 2px 8px; border-radius: 4px; background: #f0f0f0;
+    color: #555; margin-right: 6px; text-transform: uppercase; letter-spacing: 0.5px;
+    min-width: 32px; text-align: center;
+  }
+  .read-item {
+    padding: 8px 0; font-size: 13px; line-height: 1.4;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .read-item:last-child { border-bottom: none; }
+  .read-item a { text-decoration: none; color: inherit; }
+  .read-item a:hover { color: #c0392b; }
+  .loading { text-align: center; padding: 60px 0; color: #999; font-size: 14px; }
+  .spinner {
+    display: inline-block; width: 18px; height: 18px;
+    border: 2px solid #e5e5e5; border-top-color: #1a1a1a;
+    border-radius: 50%; animation: spin 0.8s linear infinite;
+    margin-right: 8px; vertical-align: middle;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .error {
+    padding: 16px; background: #fff5f5; border: 1px solid #fed7d7;
+    border-radius: 8px; color: #c53030; font-size: 13px; margin: 16px 0;
+    line-height: 1.5;
+  }
+  .footer-note {
+    margin-top: 40px; padding-top: 20px; border-top: 1px solid #e5e5e5;
+    font-size: 11px; color: #aaa; text-align: center;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1 class="title">Today</h1>
+    <div class="date" id="current-date"></div>
+  </div>
+
+  <div class="refresh-bar">
+    <button class="refresh-btn" id="refresh-btn">↻ Refresh</button>
+    <span id="last-updated"></span>
+  </div>
+
+  <div class="tabs" id="tabs"></div>
+
+  <div class="grid">
+    <div id="main-column">
+      <div class="loading"><span class="spinner"></span>Loading the latest…</div>
+    </div>
+    <aside class="sidebar">
+      <div class="sidebar-block">
+        <h3>Across the regions</h3>
+        <div id="cross-region"><div class="loading" style="padding: 20px 0;">Loading…</div></div>
+      </div>
+      <div class="sidebar-block">
+        <h3>News sources</h3>
+        <div class="read-item"><a href="https://news.google.com" target="_blank">Google News</a></div>
+        <div class="read-item"><a href="https://www.bbc.com/news" target="_blank">BBC News</a></div>
+        <div class="read-item"><a href="https://www.romania-insider.com/" target="_blank">Romania Insider</a></div>
+        <div class="read-item"><a href="https://mexiconewsdaily.com/" target="_blank">Mexico News Daily</a></div>
+      </div>
+    </aside>
+  </div>
+
+  <div class="footer-note">Live from Google News RSS · Refreshes when you open or click ↻</div>
+</div>
+
+<script>
+// Google News RSS — most reliable, aggregates from many sources, supports geo + language
+// Each region is an array of feed URLs that get merged + deduped
+const REGIONS = {
+  "🇺🇸 United States": [
+    "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
+  ],
+  "🇪🇺 Europe": [
+    "https://news.google.com/rss?hl=en-GB&gl=GB&ceid=GB:en",
+    "https://news.google.com/rss?hl=en&gl=DE&ceid=DE:en",
+    "https://news.google.com/rss?hl=en&gl=FR&ceid=FR:en"
+  ],
+  "🇷🇴 Romania": [
+    "https://news.google.com/rss/search?q=when:1d+(site:g4media.ro+OR+site:hotnews.ro+OR+site:digi24.ro+OR+site:europalibera.org+OR+site:spotmedia.ro+OR+site:pressone.ro+OR+site:adevarul.ro)&hl=ro&gl=RO&ceid=RO:ro"
+  ],
+  "🇲🇽 Mexico": [
+    "https://news.google.com/rss/search?q=when:1d+(site:eluniversal.com.mx+OR+site:milenio.com+OR+site:elfinanciero.com.mx+OR+site:animalpolitico.com+OR+site:aristeguinoticias.com+OR+site:proceso.com.mx+OR+site:expansion.mx+OR+site:reforma.com)&hl=es-419&gl=MX&ceid=MX:es-419"
+  ]
+};
+
+const REGION_LABELS = {
+  "🇺🇸 United States": "US",
+  "🇪🇺 Europe": "EU",
+  "🇷🇴 Romania": "RO",
+  "🇲🇽 Mexico": "MX"
+};
+
+// Multiple CORS proxies — try in order, fall back on failure
+const PROXIES = [
+  url => "https://api.allorigins.win/raw?url=" + encodeURIComponent(url),
+  url => "https://corsproxy.io/?" + encodeURIComponent(url),
+  url => "https://api.codetabs.com/v1/proxy/?quest=" + encodeURIComponent(url)
+];
+
+let cache = {};
+let activeTab = Object.keys(REGIONS)[0];
+
+const tabsEl = document.getElementById('tabs');
+const mainEl = document.getElementById('main-column');
+const crossEl = document.getElementById('cross-region');
+const dateEl = document.getElementById('current-date');
+const lastUpdatedEl = document.getElementById('last-updated');
+const refreshBtn = document.getElementById('refresh-btn');
+
+dateEl.textContent = new Date().toLocaleDateString('en-US', {
+  weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'
+});
+
+function timeAgo(dateStr) {
+  if (!dateStr) return '';
+  const d = new Date(dateStr);
+  if (isNaN(d)) return '';
+  const mins = Math.floor((Date.now() - d.getTime()) / 60000);
+  if (mins < 1) return 'just now';
+  if (mins < 60) return mins + 'm ago';
+  const hrs = Math.floor(mins / 60);
+  if (hrs < 24) return hrs + 'h ago';
+  const days = Math.floor(hrs / 24);
+  return days + 'd ago';
+}
+
+function stripHtml(html) {
+  const tmp = document.createElement('div');
+  tmp.innerHTML = html || '';
+  return (tmp.textContent || tmp.innerText || '').replace(/\s+/g, ' ').trim();
+}
+
+function truncate(text, len) {
+  if (!text) return '';
+  return text.length > len ? text.slice(0, len).trim() + '…' : text;
+}
+
+// Extract source from Google News title format: "Headline - Source"
+function splitSource(title) {
+  const match = title.match(/^(.+?)\s+-\s+([^-]+)$/);
+  if (match) return { title: match[1].trim(), source: match[2].trim() };
+  return { title: title, source: '' };
+}
+
+async function fetchFeedWithFallback(feedUrl) {
+  for (const proxyFn of PROXIES) {
+    try {
+      const proxyUrl = proxyFn(feedUrl);
+      const res = await fetch(proxyUrl, { cache: 'no-store' });
+      if (!res.ok) continue;
+      const xmlText = await res.text();
+      if (!xmlText || xmlText.length < 100) continue;
+      return parseRss(xmlText);
+    } catch (e) {
+      console.warn('Proxy failed, trying next:', e);
+    }
+  }
+  return null;
+}
+
+function parseRss(xmlText) {
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(xmlText, 'text/xml');
+  const parseErr = doc.querySelector('parsererror');
+  if (parseErr) return null;
+
+  const items = Array.from(doc.querySelectorAll('item')).map(item => {
+    const rawTitle = stripHtml(item.querySelector('title')?.textContent || '');
+    const { title, source } = splitSource(rawTitle);
+    return {
+      title,
+      source,
+      link: item.querySelector('link')?.textContent?.trim() || '#',
+      summary: truncate(stripHtml(item.querySelector('description')?.textContent || ''), 180),
+      pubDate: item.querySelector('pubDate')?.textContent?.trim() || ''
+    };
+  });
+  return items.filter(i => i.title);
+}
+
+async function loadRegion(regionName) {
+  const urls = REGIONS[regionName];
+  const results = await Promise.all(urls.map(u => fetchFeedWithFallback(u)));
+  const merged = [].concat(...results.filter(r => r));
+  if (merged.length === 0) return [];
+
+  // Dedupe by normalized title (first 60 chars, lowercase)
+  const seen = new Set();
+  const unique = merged.filter(item => {
+    const key = item.title.toLowerCase().slice(0, 60);
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+
+  // Sort newest first
+  unique.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+  return unique;
+}
+
+function renderStories(items) {
+  if (!items || items.length === 0) {
+    mainEl.innerHTML = `
+      <div class="error">
+        <strong>Couldn't load this region.</strong><br>
+        All three proxy services may be temporarily down or rate-limited. Try the ↻ Refresh button in a moment, or check your internet connection.
+      </div>`;
+    return;
+  }
+  const featured = items[0];
+  const rest = items.slice(1, 8);
+
+  let html = `
+    <div class="main-story">
+      <a href="${featured.link}" target="_blank" rel="noopener">
+        ${featured.source ? `<span class="tag">${featured.source}</span>` : ''}
+        <h2 class="story-headline">${featured.title}</h2>
+        ${featured.summary ? `<p class="story-summary">${featured.summary}</p>` : ''}
+        <div class="story-meta">${timeAgo(featured.pubDate)}</div>
+      </a>
+    </div>
+  `;
+  rest.forEach(s => {
+    html += `
+      <div class="story-item">
+        <a href="${s.link}" target="_blank" rel="noopener">
+          <h3 class="item-headline">${s.title}</h3>
+          <div class="story-meta">${s.source ? s.source + ' · ' : ''}${timeAgo(s.pubDate)}</div>
+        </a>
+      </div>
+    `;
+  });
+  mainEl.innerHTML = html;
+}
+
+function renderCrossRegion() {
+  let html = '';
+  Object.keys(REGIONS).forEach(region => {
+    const items = cache[region];
+    const top = items && items[0];
+    const label = REGION_LABELS[region];
+    if (top) {
+      html += `<div class="read-item"><a href="${top.link}" target="_blank" rel="noopener"><span class="region-pill">${label}</span>${top.title}</a></div>`;
+    } else {
+      html += `<div class="read-item"><span class="region-pill">${label}</span><span style="color:#aaa">—</span></div>`;
+    }
+  });
+  crossEl.innerHTML = html;
+}
+
+function renderTabs() {
+  tabsEl.innerHTML = '';
+  Object.keys(REGIONS).forEach(name => {
+    const btn = document.createElement('button');
+    btn.className = 'tab' + (name === activeTab ? ' active' : '');
+    btn.textContent = name;
+    btn.onclick = () => {
+      activeTab = name;
+      renderTabs();
+      if (cache[name] && cache[name].length > 0) {
+        renderStories(cache[name]);
+      } else {
+        mainEl.innerHTML = '<div class="loading"><span class="spinner"></span>Loading…</div>';
+        loadRegion(name).then(items => {
+          cache[name] = items;
+          renderStories(items);
+          renderCrossRegion();
+        });
+      }
+    };
+    tabsEl.appendChild(btn);
+  });
+}
+
+async function loadAll() {
+  refreshBtn.disabled = true;
+  refreshBtn.textContent = '↻ Refreshing…';
+  cache = {};
+  mainEl.innerHTML = '<div class="loading"><span class="spinner"></span>Fetching the latest from around the world…</div>';
+  renderCrossRegion();
+
+  // Load active tab first
+  const activeItems = await loadRegion(activeTab);
+  cache[activeTab] = activeItems;
+  renderStories(activeItems);
+
+  // Load the rest in the background
+  const others = Object.keys(REGIONS).filter(r => r !== activeTab);
+  await Promise.all(others.map(async r => {
+    cache[r] = await loadRegion(r);
+  }));
+
+  renderCrossRegion();
+  lastUpdatedEl.textContent = 'Updated ' + new Date().toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' });
+  refreshBtn.disabled = false;
+  refreshBtn.textContent = '↻ Refresh';
+}
+
+refreshBtn.onclick = loadAll;
+renderTabs();
+loadAll();
+</script>
+</body>
+</html>
