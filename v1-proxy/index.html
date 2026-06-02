@@ -78,7 +78,7 @@
     display: inline-block; font-size: 10px; font-weight: 600;
     padding: 2px 8px; border-radius: 4px; background: #f0f0f0;
     color: #555; margin-right: 6px; text-transform: uppercase; letter-spacing: 0.5px;
-    min-width: 40px; text-align: center;
+    min-width: 32px; text-align: center;
   }
   .read-item {
     padding: 8px 0; font-size: 13px; line-height: 1.4;
@@ -100,35 +100,6 @@
     border-radius: 8px; color: #c53030; font-size: 13px; margin: 16px 0;
     line-height: 1.5;
   }
-  .verify-btn {
-    display: inline-flex; align-items: center; gap: 4px;
-    margin-top: 8px; padding: 4px 10px; font-size: 11px;
-    border: 1px solid #e5e5e5; background: #fff; border-radius: 999px;
-    cursor: pointer; color: #555; font-family: inherit;
-    transition: all 0.15s;
-  }
-  .verify-btn:hover { background: #f0f0f0; border-color: #ccc; }
-  .verify-panel {
-    margin-top: 12px; padding: 14px 16px; background: #f8f8f8;
-    border-left: 3px solid #1a1a1a; border-radius: 4px;
-    font-size: 13px;
-  }
-  .verify-panel-header {
-    font-size: 11px; font-weight: 700; text-transform: uppercase;
-    letter-spacing: 0.8px; color: #555; margin-bottom: 10px;
-  }
-  .verify-match { padding: 8px 0; border-bottom: 1px solid #ececec; }
-  .verify-match:last-child { border-bottom: none; }
-  .verify-match a { color: #1a1a1a; text-decoration: none; font-weight: 500; }
-  .verify-match a:hover { color: #c0392b; }
-  .verify-match-meta { font-size: 11px; color: #888; margin-top: 2px; }
-  .verify-result-summary {
-    margin-bottom: 10px; padding: 8px 12px; border-radius: 4px;
-    font-size: 12px; font-weight: 500;
-  }
-  .verify-corroborated { background: #f0f9f0; color: #166534; border: 1px solid #bbf0c4; }
-  .verify-uncorroborated { background: #fff8e1; color: #8a6500; border: 1px solid #f5e0a3; }
-  .verify-none { background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; }
   .footer-note {
     margin-top: 40px; padding-top: 20px; border-top: 1px solid #e5e5e5;
     font-size: 11px; color: #aaa; text-align: center;
@@ -158,24 +129,55 @@
         <h3>Across the regions</h3>
         <div id="cross-region"><div class="loading" style="padding: 20px 0;">Loading…</div></div>
       </div>
+      <div class="sidebar-block">
+        <h3>News sources</h3>
+        <div class="read-item"><a href="https://news.google.com" target="_blank">Google News</a></div>
+        <div class="read-item"><a href="https://www.bbc.com/news" target="_blank">BBC News</a></div>
+        <div class="read-item"><a href="https://www.romania-insider.com/" target="_blank">Romania Insider</a></div>
+        <div class="read-item"><a href="https://mexiconewsdaily.com/" target="_blank">Mexico News Daily</a></div>
+      </div>
     </aside>
   </div>
 
-  <div class="footer-note">Updated hourly by a scheduled job · Static, no proxy</div>
+  <div class="footer-note">Live from Google News RSS · Refreshes when you open or click ↻</div>
 </div>
 
 <script>
+// Google News RSS — most reliable, aggregates from many sources, supports geo + language
+// Each region is an array of feed URLs that get merged + deduped
+const REGIONS = {
+  "🇺🇸 United States": [
+    "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
+  ],
+  "🇪🇺 Europe": [
+    "https://news.google.com/rss?hl=en-GB&gl=GB&ceid=GB:en",
+    "https://news.google.com/rss?hl=en&gl=DE&ceid=DE:en",
+    "https://news.google.com/rss?hl=en&gl=FR&ceid=FR:en"
+  ],
+  "🇷🇴 Romania": [
+    "https://news.google.com/rss/search?q=when:1d+(site:g4media.ro+OR+site:hotnews.ro+OR+site:digi24.ro+OR+site:europalibera.org+OR+site:spotmedia.ro+OR+site:pressone.ro+OR+site:adevarul.ro)&hl=ro&gl=RO&ceid=RO:ro"
+  ],
+  "🇲🇽 Mexico": [
+    "https://news.google.com/rss/search?q=when:1d+(site:eluniversal.com.mx+OR+site:milenio.com+OR+site:elfinanciero.com.mx+OR+site:animalpolitico.com+OR+site:aristeguinoticias.com+OR+site:proceso.com.mx+OR+site:expansion.mx+OR+site:reforma.com)&hl=es-419&gl=MX&ceid=MX:es-419"
+  ]
+};
+
 const REGION_LABELS = {
-  "🌍 Global": "World",
   "🇺🇸 United States": "US",
   "🇪🇺 Europe": "EU",
   "🇷🇴 Romania": "RO",
   "🇲🇽 Mexico": "MX"
 };
 
+// Multiple CORS proxies — try in order, fall back on failure
+const PROXIES = [
+  url => "https://api.allorigins.win/raw?url=" + encodeURIComponent(url),
+  url => "https://corsproxy.io/?" + encodeURIComponent(url),
+  url => "https://api.codetabs.com/v1/proxy/?quest=" + encodeURIComponent(url)
+];
+
 let cache = {};
-let lastBuiltAt = null;
-let activeTab = "🌍 Global";
+let activeTab = Object.keys(REGIONS)[0];
 
 const tabsEl = document.getElementById('tabs');
 const mainEl = document.getElementById('main-column');
@@ -197,125 +199,95 @@ function timeAgo(dateStr) {
   if (mins < 60) return mins + 'm ago';
   const hrs = Math.floor(mins / 60);
   if (hrs < 24) return hrs + 'h ago';
-  return Math.floor(hrs / 24) + 'd ago';
+  const days = Math.floor(hrs / 24);
+  return days + 'd ago';
 }
 
-function domainFromUrl(url) {
-  try { return new URL(url).hostname.replace(/^www\./, ''); }
-  catch { return ''; }
+function stripHtml(html) {
+  const tmp = document.createElement('div');
+  tmp.innerHTML = html || '';
+  return (tmp.textContent || tmp.innerText || '').replace(/\s+/g, ' ').trim();
 }
 
-// --- Verify (cross-region check, fully offline) ---
-
-const STOPWORDS = new Set("the a an and or but of in on at to for with by from as is was are were be been being has have had do does did will would could should may might can this that these those it its he she they them his her their i you we my our your says said say over after before about into than then new amid".split(' '));
-
-function extractKeywords(title, limit = 10) {
-  const words = (title || '')
-    .replace(/[^\p{L}\p{N}\s]/gu, ' ')
-    .split(/\s+/)
-    .filter(Boolean);
-  const scored = words.map(w => {
-    if (STOPWORDS.has(w.toLowerCase())) return null;
-    if (w.length < 3) return null;
-    let score = w.length;
-    if (/^[\p{Lu}]/u.test(w)) score += 5;
-    if (/\d/.test(w)) score += 3;
-    return { w, score };
-  }).filter(Boolean);
-  scored.sort((a, b) => b.score - a.score);
-  return scored.slice(0, limit).map(x => x.w.toLowerCase());
+function truncate(text, len) {
+  if (!text) return '';
+  return text.length > len ? text.slice(0, len).trim() + '…' : text;
 }
 
-function headlineSimilarity(a, b) {
-  const tokensA = new Set(extractKeywords(a, 15));
-  const tokensB = new Set(extractKeywords(b, 15));
-  if (tokensA.size === 0 || tokensB.size === 0) return 0;
-  let shared = 0;
-  for (const t of tokensA) if (tokensB.has(t)) shared++;
-  return shared / Math.min(tokensA.size, tokensB.size);
+// Extract source from Google News title format: "Headline - Source"
+function splitSource(title) {
+  const match = title.match(/^(.+?)\s+-\s+([^-]+)$/);
+  if (match) return { title: match[1].trim(), source: match[2].trim() };
+  return { title: title, source: '' };
 }
 
-function verifyStory(originalTitle, originalLink) {
-  const originalDomain = domainFromUrl(originalLink);
-  const matches = [];
-  const seenDomains = new Set([originalDomain]);
-  for (const regionName of Object.keys(cache)) {
-    for (const item of cache[regionName] || []) {
-      if (item.link === originalLink) continue;
-      const sim = headlineSimilarity(originalTitle, item.title);
-      if (sim < 0.4) continue;
-      const d = domainFromUrl(item.link) || domainFromUrl(item.sourceUrl);
-      if (d && seenDomains.has(d)) continue;
-      if (d) seenDomains.add(d);
-      matches.push({ ...item, domain: d || item.source, _sim: sim });
+async function fetchFeedWithFallback(feedUrl) {
+  for (const proxyFn of PROXIES) {
+    try {
+      const proxyUrl = proxyFn(feedUrl);
+      const res = await fetch(proxyUrl, { cache: 'no-store' });
+      if (!res.ok) continue;
+      const xmlText = await res.text();
+      if (!xmlText || xmlText.length < 100) continue;
+      return parseRss(xmlText);
+    } catch (e) {
+      console.warn('Proxy failed, trying next:', e);
     }
   }
-  matches.sort((a, b) => b._sim - a._sim);
-  const top = matches.slice(0, 5);
-  let status;
-  if (top.length === 0) status = 'none';
-  else if (top.length === 1) status = 'uncorroborated';
-  else status = 'corroborated';
-  return { status, matches: top };
+  return null;
 }
 
-function renderVerifyPanel(result) {
-  const { status, matches } = result;
-  let summaryHtml = '';
-  if (status === 'corroborated') {
-    summaryHtml = `<div class="verify-result-summary verify-corroborated">✓ Reported by ${matches.length} other trusted source${matches.length > 1 ? 's' : ''}</div>`;
-  } else if (status === 'uncorroborated') {
-    summaryHtml = `<div class="verify-result-summary verify-uncorroborated">⚠ Only 1 other trusted source covers this — worth a closer look</div>`;
-  } else {
-    summaryHtml = `<div class="verify-result-summary verify-none">⚠ No other trusted sources found covering this — be cautious, or it may be too fresh / regional</div>`;
-  }
-  const matchesHtml = matches.map(m => `
-    <div class="verify-match">
-      <a href="${m.link}" target="_blank" rel="noopener">${m.title}</a>
-      <div class="verify-match-meta">${m.source || m.domain} · ${timeAgo(m.pubDate)}</div>
-    </div>
-  `).join('');
-  return `
-    <div class="verify-panel">
-      <div class="verify-panel-header">Cross-source check</div>
-      ${summaryHtml}
-      ${matchesHtml}
-    </div>
-  `;
+function parseRss(xmlText) {
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(xmlText, 'text/xml');
+  const parseErr = doc.querySelector('parsererror');
+  if (parseErr) return null;
+
+  const items = Array.from(doc.querySelectorAll('item')).map(item => {
+    const rawTitle = stripHtml(item.querySelector('title')?.textContent || '');
+    const { title, source } = splitSource(rawTitle);
+    return {
+      title,
+      source,
+      link: item.querySelector('link')?.textContent?.trim() || '#',
+      summary: truncate(stripHtml(item.querySelector('description')?.textContent || ''), 180),
+      pubDate: item.querySelector('pubDate')?.textContent?.trim() || ''
+    };
+  });
+  return items.filter(i => i.title);
 }
 
-const verifyCache = {};
-function handleVerifyClick(button, storyId, title, link) {
-  const panelId = `verify-panel-${storyId}`;
-  const existing = document.getElementById(panelId);
-  if (existing) { existing.remove(); button.textContent = '🔍 Verify across sources'; return; }
-  const result = verifyCache[storyId] || (verifyCache[storyId] = verifyStory(title, link));
-  button.textContent = '✕ Hide check';
-  const panel = document.createElement('div');
-  panel.id = panelId;
-  panel.innerHTML = renderVerifyPanel(result);
-  button.parentNode.insertBefore(panel, button.nextSibling);
-}
+async function loadRegion(regionName) {
+  const urls = REGIONS[regionName];
+  const results = await Promise.all(urls.map(u => fetchFeedWithFallback(u)));
+  const merged = [].concat(...results.filter(r => r));
+  if (merged.length === 0) return [];
 
-function escapeAttr(s) {
-  return (s || '').replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  // Dedupe by normalized title (first 60 chars, lowercase)
+  const seen = new Set();
+  const unique = merged.filter(item => {
+    const key = item.title.toLowerCase().slice(0, 60);
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+
+  // Sort newest first
+  unique.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+  return unique;
 }
 
 function renderStories(items) {
   if (!items || items.length === 0) {
-    mainEl.innerHTML = `<div class="error">No stories in this region right now.</div>`;
+    mainEl.innerHTML = `
+      <div class="error">
+        <strong>Couldn't load this region.</strong><br>
+        All three proxy services may be temporarily down or rate-limited. Try the ↻ Refresh button in a moment, or check your internet connection.
+      </div>`;
     return;
   }
   const featured = items[0];
-  const rest = items.slice(1, 10);
-
-  const verifyBtn = (story, id) => `
-    <button class="verify-btn" data-story-id="${id}"
-            data-title="${escapeAttr(story.title)}"
-            data-link="${escapeAttr(story.link)}">
-      🔍 Verify across sources
-    </button>
-  `;
+  const rest = items.slice(1, 8);
 
   let html = `
     <div class="main-story">
@@ -325,34 +297,27 @@ function renderStories(items) {
         ${featured.summary ? `<p class="story-summary">${featured.summary}</p>` : ''}
         <div class="story-meta">${timeAgo(featured.pubDate)}</div>
       </a>
-      ${verifyBtn(featured, 'featured')}
     </div>
   `;
-  rest.forEach((s, i) => {
+  rest.forEach(s => {
     html += `
       <div class="story-item">
         <a href="${s.link}" target="_blank" rel="noopener">
           <h3 class="item-headline">${s.title}</h3>
           <div class="story-meta">${s.source ? s.source + ' · ' : ''}${timeAgo(s.pubDate)}</div>
         </a>
-        ${verifyBtn(s, 'item-' + i)}
       </div>
     `;
   });
   mainEl.innerHTML = html;
-
-  mainEl.querySelectorAll('.verify-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      handleVerifyClick(btn, btn.dataset.storyId, btn.dataset.title, btn.dataset.link);
-    });
-  });
 }
 
 function renderCrossRegion() {
   let html = '';
-  Object.keys(cache).forEach(region => {
-    const top = (cache[region] || [])[0];
-    const label = REGION_LABELS[region] || region;
+  Object.keys(REGIONS).forEach(region => {
+    const items = cache[region];
+    const top = items && items[0];
+    const label = REGION_LABELS[region];
     if (top) {
       html += `<div class="read-item"><a href="${top.link}" target="_blank" rel="noopener"><span class="region-pill">${label}</span>${top.title}</a></div>`;
     } else {
@@ -364,14 +329,23 @@ function renderCrossRegion() {
 
 function renderTabs() {
   tabsEl.innerHTML = '';
-  Object.keys(cache).forEach(name => {
+  Object.keys(REGIONS).forEach(name => {
     const btn = document.createElement('button');
     btn.className = 'tab' + (name === activeTab ? ' active' : '');
     btn.textContent = name;
     btn.onclick = () => {
       activeTab = name;
       renderTabs();
-      renderStories(cache[name] || []);
+      if (cache[name] && cache[name].length > 0) {
+        renderStories(cache[name]);
+      } else {
+        mainEl.innerHTML = '<div class="loading"><span class="spinner"></span>Loading…</div>';
+        loadRegion(name).then(items => {
+          cache[name] = items;
+          renderStories(items);
+          renderCrossRegion();
+        });
+      }
     };
     tabsEl.appendChild(btn);
   });
@@ -380,30 +354,29 @@ function renderTabs() {
 async function loadAll() {
   refreshBtn.disabled = true;
   refreshBtn.textContent = '↻ Refreshing…';
-  try {
-    const res = await fetch('news.json?t=' + Date.now(), { cache: 'no-store' });
-    if (!res.ok) throw new Error('news.json not found (status ' + res.status + ')');
-    const data = await res.json();
-    cache = data.regions || {};
-    lastBuiltAt = data.lastUpdated;
-    if (!cache[activeTab]) activeTab = Object.keys(cache)[0];
-    renderTabs();
-    renderStories(cache[activeTab] || []);
-    renderCrossRegion();
-    lastUpdatedEl.textContent = 'News from ' + timeAgo(lastBuiltAt);
-  } catch (e) {
-    mainEl.innerHTML = `<div class="error">
-      <strong>Could not load news.json.</strong><br>
-      The scheduled build may not have run yet. Go to your GitHub repo's <strong>Actions</strong> tab and click "Run workflow" on "Build news" — or wait until the top of the next hour.
-    </div>`;
-    crossEl.innerHTML = '';
-    console.error(e);
-  }
+  cache = {};
+  mainEl.innerHTML = '<div class="loading"><span class="spinner"></span>Fetching the latest from around the world…</div>';
+  renderCrossRegion();
+
+  // Load active tab first
+  const activeItems = await loadRegion(activeTab);
+  cache[activeTab] = activeItems;
+  renderStories(activeItems);
+
+  // Load the rest in the background
+  const others = Object.keys(REGIONS).filter(r => r !== activeTab);
+  await Promise.all(others.map(async r => {
+    cache[r] = await loadRegion(r);
+  }));
+
+  renderCrossRegion();
+  lastUpdatedEl.textContent = 'Updated ' + new Date().toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' });
   refreshBtn.disabled = false;
   refreshBtn.textContent = '↻ Refresh';
 }
 
 refreshBtn.onclick = loadAll;
+renderTabs();
 loadAll();
 </script>
 </body>
