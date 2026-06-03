@@ -100,35 +100,6 @@
     border-radius: 8px; color: #c53030; font-size: 13px; margin: 16px 0;
     line-height: 1.5;
   }
-  .verify-btn {
-    display: inline-flex; align-items: center; gap: 4px;
-    margin-top: 8px; padding: 4px 10px; font-size: 11px;
-    border: 1px solid #e5e5e5; background: #fff; border-radius: 999px;
-    cursor: pointer; color: #555; font-family: inherit;
-    transition: all 0.15s;
-  }
-  .verify-btn:hover { background: #f0f0f0; border-color: #ccc; }
-  .verify-panel {
-    margin-top: 12px; padding: 14px 16px; background: #f8f8f8;
-    border-left: 3px solid #1a1a1a; border-radius: 4px;
-    font-size: 13px;
-  }
-  .verify-panel-header {
-    font-size: 11px; font-weight: 700; text-transform: uppercase;
-    letter-spacing: 0.8px; color: #555; margin-bottom: 10px;
-  }
-  .verify-match { padding: 8px 0; border-bottom: 1px solid #ececec; }
-  .verify-match:last-child { border-bottom: none; }
-  .verify-match a { color: #1a1a1a; text-decoration: none; font-weight: 500; }
-  .verify-match a:hover { color: #c0392b; }
-  .verify-match-meta { font-size: 11px; color: #888; margin-top: 2px; }
-  .verify-result-summary {
-    margin-bottom: 10px; padding: 8px 12px; border-radius: 4px;
-    font-size: 12px; font-weight: 500;
-  }
-  .verify-corroborated { background: #f0f9f0; color: #166534; border: 1px solid #bbf0c4; }
-  .verify-uncorroborated { background: #fff8e1; color: #8a6500; border: 1px solid #f5e0a3; }
-  .verify-none { background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; }
   .footer-note {
     margin-top: 40px; padding-top: 20px; border-top: 1px solid #e5e5e5;
     font-size: 11px; color: #aaa; text-align: center;
@@ -200,107 +171,6 @@ function timeAgo(dateStr) {
   return Math.floor(hrs / 24) + 'd ago';
 }
 
-function domainFromUrl(url) {
-  try { return new URL(url).hostname.replace(/^www\./, ''); }
-  catch { return ''; }
-}
-
-// --- Verify (cross-region check, fully offline) ---
-
-const STOPWORDS = new Set("the a an and or but of in on at to for with by from as is was are were be been being has have had do does did will would could should may might can this that these those it its he she they them his her their i you we my our your says said say over after before about into than then new amid".split(' '));
-
-function extractKeywords(title, limit = 10) {
-  const words = (title || '')
-    .replace(/[^\p{L}\p{N}\s]/gu, ' ')
-    .split(/\s+/)
-    .filter(Boolean);
-  const scored = words.map(w => {
-    if (STOPWORDS.has(w.toLowerCase())) return null;
-    if (w.length < 3) return null;
-    let score = w.length;
-    if (/^[\p{Lu}]/u.test(w)) score += 5;
-    if (/\d/.test(w)) score += 3;
-    return { w, score };
-  }).filter(Boolean);
-  scored.sort((a, b) => b.score - a.score);
-  return scored.slice(0, limit).map(x => x.w.toLowerCase());
-}
-
-function headlineSimilarity(a, b) {
-  const tokensA = new Set(extractKeywords(a, 15));
-  const tokensB = new Set(extractKeywords(b, 15));
-  if (tokensA.size === 0 || tokensB.size === 0) return 0;
-  let shared = 0;
-  for (const t of tokensA) if (tokensB.has(t)) shared++;
-  return shared / Math.min(tokensA.size, tokensB.size);
-}
-
-function verifyStory(originalTitle, originalLink) {
-  const originalDomain = domainFromUrl(originalLink);
-  const matches = [];
-  const seenDomains = new Set([originalDomain]);
-  for (const regionName of Object.keys(cache)) {
-    for (const item of cache[regionName] || []) {
-      if (item.link === originalLink) continue;
-      const sim = headlineSimilarity(originalTitle, item.title);
-      if (sim < 0.4) continue;
-      const d = domainFromUrl(item.link) || domainFromUrl(item.sourceUrl);
-      if (d && seenDomains.has(d)) continue;
-      if (d) seenDomains.add(d);
-      matches.push({ ...item, domain: d || item.source, _sim: sim });
-    }
-  }
-  matches.sort((a, b) => b._sim - a._sim);
-  const top = matches.slice(0, 5);
-  let status;
-  if (top.length === 0) status = 'none';
-  else if (top.length === 1) status = 'uncorroborated';
-  else status = 'corroborated';
-  return { status, matches: top };
-}
-
-function renderVerifyPanel(result) {
-  const { status, matches } = result;
-  let summaryHtml = '';
-  if (status === 'corroborated') {
-    summaryHtml = `<div class="verify-result-summary verify-corroborated">✓ Reported by ${matches.length} other trusted source${matches.length > 1 ? 's' : ''}</div>`;
-  } else if (status === 'uncorroborated') {
-    summaryHtml = `<div class="verify-result-summary verify-uncorroborated">⚠ Only 1 other trusted source covers this — worth a closer look</div>`;
-  } else {
-    summaryHtml = `<div class="verify-result-summary verify-none">⚠ No other trusted sources found covering this — be cautious, or it may be too fresh / regional</div>`;
-  }
-  const matchesHtml = matches.map(m => `
-    <div class="verify-match">
-      <a href="${m.link}" target="_blank" rel="noopener">${m.title}</a>
-      <div class="verify-match-meta">${m.source || m.domain} · ${timeAgo(m.pubDate)}</div>
-    </div>
-  `).join('');
-  return `
-    <div class="verify-panel">
-      <div class="verify-panel-header">Cross-source check</div>
-      ${summaryHtml}
-      ${matchesHtml}
-    </div>
-  `;
-}
-
-const verifyCache = {};
-function handleVerifyClick(button, storyId, title, link) {
-  const panelId = `verify-panel-${storyId}`;
-  const existing = document.getElementById(panelId);
-  if (existing) { existing.remove(); button.textContent = '🔍 Verify across sources'; return; }
-  const result = verifyCache[storyId] || (verifyCache[storyId] = verifyStory(title, link));
-  button.textContent = '✕ Hide check';
-  const panel = document.createElement('div');
-  panel.id = panelId;
-  panel.innerHTML = renderVerifyPanel(result);
-  button.parentNode.insertBefore(panel, button.nextSibling);
-}
-
-function escapeAttr(s) {
-  return (s || '').replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
-}
-
 function renderStories(items) {
   if (!items || items.length === 0) {
     mainEl.innerHTML = `<div class="error">No stories in this region right now.</div>`;
@@ -308,14 +178,6 @@ function renderStories(items) {
   }
   const featured = items[0];
   const rest = items.slice(1, 10);
-
-  const verifyBtn = (story, id) => `
-    <button class="verify-btn" data-story-id="${id}"
-            data-title="${escapeAttr(story.title)}"
-            data-link="${escapeAttr(story.link)}">
-      🔍 Verify across sources
-    </button>
-  `;
 
   let html = `
     <div class="main-story">
@@ -325,27 +187,19 @@ function renderStories(items) {
         ${featured.summary ? `<p class="story-summary">${featured.summary}</p>` : ''}
         <div class="story-meta">${timeAgo(featured.pubDate)}</div>
       </a>
-      ${verifyBtn(featured, 'featured')}
     </div>
   `;
-  rest.forEach((s, i) => {
+  rest.forEach(s => {
     html += `
       <div class="story-item">
         <a href="${s.link}" target="_blank" rel="noopener">
           <h3 class="item-headline">${s.title}</h3>
           <div class="story-meta">${s.source ? s.source + ' · ' : ''}${timeAgo(s.pubDate)}</div>
         </a>
-        ${verifyBtn(s, 'item-' + i)}
       </div>
     `;
   });
   mainEl.innerHTML = html;
-
-  mainEl.querySelectorAll('.verify-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      handleVerifyClick(btn, btn.dataset.storyId, btn.dataset.title, btn.dataset.link);
-    });
-  });
 }
 
 function renderCrossRegion() {

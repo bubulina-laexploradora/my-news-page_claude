@@ -5,7 +5,7 @@ A personalized news dashboard. RSS feeds are fetched server-side by a scheduled 
 ## What this version does
 
 1. Every hour, GitHub Actions runs `build-news.js` on a Linux runner.
-2. The script fetches every RSS feed directly (server-side has no CORS restriction), parses them, applies the same filters as v1 (international-only for Global, trusted-source whitelist for US and Romania), deduplicates, and writes a single `news.json` file.
+2. The script fetches every RSS feed directly (server-side has no CORS restriction), parses them, applies filters (international-only for Global, trusted-source whitelist for US and Romania), deduplicates, and writes a single `news.json` file.
 3. The workflow commits `news.json` back to the repository.
 4. GitHub Pages auto-deploys the new `news.json`.
 5. When you open `index.html`, it fetches `news.json` from the same origin and renders it. Total page load is a single HTTP request to a small JSON file on GitHub's CDN.
@@ -13,8 +13,6 @@ A personalized news dashboard. RSS feeds are fetched server-side by a scheduled 
 The refresh button in the UI just re-fetches `news.json`. News is as fresh as the most recent scheduled build (hourly by default; configurable in the workflow file).
 
 ## Regions and sources
-
-Identical to v1:
 
 - **🌍 Global** — Google News WORLD topic + BBC World + Guardian World + Al Jazeera, filtered to international stories.
 - **🇺🇸 United States** — Google News filtered to CNN, NYT, The Economist, CBS News, CBC News, Forbes.
@@ -59,7 +57,7 @@ No proxies. No third-party services. Everything in the data pipeline is either y
 
 ## Files
 
-- **`index.html`** — the UI. Loads `news.json` on page open, renders headlines, sidebar, and verify panels.
+- **`index.html`** — the UI. Loads `news.json` on page open, renders headlines and sidebar.
 - **`build-news.js`** — Node script that does the actual feed fetching, filtering, and JSON writing. Runs only on GitHub Actions; never in your browser.
 - **`package.json`** — declares the one runtime dependency: `rss-parser`.
 - **`.github/workflows/build-news.yml`** — the scheduled job. Runs hourly (`cron: '0 * * * *'`), on every push to relevant files, and on manual trigger via the Actions tab.
@@ -88,10 +86,6 @@ No proxies. No third-party services. Everything in the data pipeline is either y
 | Privacy                          | Proxy operators see your reading habits     | No one sees what you read                 |
 | Setup difficulty                 | Just open the file                          | Requires GitHub Pages + Actions setup     |
 
-## Verify-across-sources feature
-
-In v2, verification is purely client-side and instant. Because all five regions are loaded into the page's memory at once, the verify button compares the headline against every other story in the loaded data and shows matches from different publishers. No external lookups needed; no network calls beyond the initial `news.json` fetch.
-
 ## Customizing
 
 - **Refresh frequency.** Edit the `cron` line in `.github/workflows/build-news.yml`. `'0 * * * *'` = every hour. `'*/15 * * * *'` = every 15 minutes. (Note: GitHub may queue scheduled jobs during high-load periods.)
@@ -115,3 +109,8 @@ node build-news.js
 ```
 
 This writes `news.json` locally. Then open `index.html` in a browser (you may need to serve via a local web server because `fetch('news.json')` against a `file://` URL is blocked by browsers; `npx http-server` does the trick).
+
+## Change history
+
+- **v2.1** — Removed the cross-source verification feature. The keyword-overlap algorithm couldn't match across languages (Romanian/Spanish vs English) or detect wire-service syndication, and the labels could mislead more than they helped.
+- **v2.0** — Initial GitHub Actions build pipeline, replacing v1's browser-side proxy fetches.
