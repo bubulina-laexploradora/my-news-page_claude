@@ -150,9 +150,18 @@ function matchesTrustedSource(item, trustedList) {
 
 // --- Fetch + normalize a single feed ---
 
+const FEED_TIMEOUT_MS = 20000; // hard limit per feed — overrides rss-parser's own timeout
+
+function withTimeout(promise, ms, label) {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) => setTimeout(() => reject(new Error(`timeout after ${ms}ms`)), ms))
+  ]);
+}
+
 async function fetchFeed(url) {
   try {
-    const feed = await parser.parseURL(url);
+    const feed = await withTimeout(parser.parseURL(url), FEED_TIMEOUT_MS, url);
     return (feed.items || []).map(item => {
       const rawTitle = stripHtml(item.title || '');
       const { title, source: titleSource } = splitSource(rawTitle);
@@ -227,3 +236,9 @@ main().catch(e => {
   console.error(e);
   process.exit(1);
 });
+
+// Safety net: if something hangs unexpectedly, kill the whole process after 3 minutes
+setTimeout(() => {
+  console.error('Script ran longer than 3 minutes — something is hanging. Exiting.');
+  process.exit(1);
+}, 3 * 60 * 1000).unref();
