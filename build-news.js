@@ -189,7 +189,9 @@ async function loadRegion(name, urls) {
   console.log(`\n${name}:`);
   const lists = await Promise.all(urls.map(async u => {
     const items = await fetchFeed(u);
-    console.log(`  ✓ ${u.slice(0, 80)} → ${items.length} items`);
+    if (items.length > 0) {
+      console.log(`  ✓ ${u.slice(0, 80)} → ${items.length} items`);
+    }
     return items;
   }));
   let merged = lists.flat();
@@ -232,12 +234,14 @@ async function main() {
   console.log(`\n✓ news.json written (${Object.values(output.regions).reduce((a, b) => a + b.length, 0)} total items)`);
 }
 
-main().catch(e => {
-  console.error(e);
-  process.exit(1);
-});
+main()
+  .then(() => process.exit(0))
+  .catch(e => {
+    console.error(e);
+    process.exit(1);
+  });
 
-// Safety net: if something hangs unexpectedly, kill the whole process after 3 minutes
+// Safety net: if main() itself hangs (e.g. a feed library bug), force-quit after 3 minutes
 setTimeout(() => {
   console.error('Script ran longer than 3 minutes — something is hanging. Exiting.');
   process.exit(1);
