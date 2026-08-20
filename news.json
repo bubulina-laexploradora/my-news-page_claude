@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T10:16:37.258Z",
+  "lastUpdated": "2026-08-20T11:14:28.172Z",
   "regions": {
     "🌍 Global": [
       {
@@ -8,10 +8,122 @@
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/world",
         "summary": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
-        "pubDate": "Thu, 20 Aug 2026 10:11:26 GMT"
+        "pubDate": "Thu, 20 Aug 2026 11:08:19 GMT"
       },
       {
-        "title": "First Thing: Israel admits its soldiers opened fire at car carrying five-year-old Hind Rajab",
+        "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/world",
+        "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+        "pubDate": "Thu, 20 Aug 2026 11:06:54 GMT"
+      },
+      {
+        "title": "How Myanmar’s war drives the Rohingya crisis",
+        "link": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar’s civil war.",
+        "pubDate": "Thu, 20 Aug 2026 11:00:00 +0000"
+      },
+      {
+        "title": "GCSE results: girls still ahead but gender gap narrows as hundreds of thousands of pupils receive grades – latest updates",
+        "link": "https://www.theguardian.com/education/live/2026/aug/20/gcse-results-exams-schools-education-england-wales-northern-ireland-live-latest-updates",
+        "source": "Taz Ali (now)  and Mabel Banfield-Nwachi (earlier)",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Nearly a quarter of girls’ entries received one of the higher grades against around a fifth of those from boys Almost one in four boys in England get top grades in maths Myles McGi…",
+        "pubDate": "Thu, 20 Aug 2026 10:57:17 GMT"
+      },
+      {
+        "title": "Burnham announces plans to clean up illegal waste dumps – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
+        "source": "Tom Ambrose",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "The prime minister has promised a crackdown on criminal gangs making money from dumping waste Suella Braverman has urged young people getting their GCSE results not to “waste your…",
+        "pubDate": "Thu, 20 Aug 2026 10:56:04 GMT"
+      },
+      {
+        "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+        "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/world",
+        "summary": "Michele Sensi-Contugi and his wife Stephany Hollihan are among the seven people killed in the crash.",
+        "pubDate": "Thu, 20 Aug 2026 10:41:25 GMT"
+      },
+      {
+        "title": "A Russian missile and drone barrage kills at least 16 in Ukraine’s Kyiv region",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEM2OWViY2VqbDVyZFBIWHk5T05RYzVwbDEzeUQxZmtlQk9BRzJqVzVwWXZmQ1pwVnZXUkt2eVJLb3RncnpLUTJzT2txYlBVakhMWXpSY3BzR0JwM3dJVmhDZ1JTX3AwQUtuc0VXdmljOHhFeWlzdjlXakYtUmc0ekhOalRSZWZ3VVVYMzg4MUI3bDJa?oc=5",
+        "source": "AP News",
+        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+        "summary": "A Russian missile and drone barrage kills at least 16 in Ukraine’s Kyiv region AP News At least 13 killed in Kyiv as Ukraine grapples with air defence shortages BBC Russia launches…",
+        "pubDate": "Thu, 20 Aug 2026 10:38:00 GMT"
+      },
+      {
+        "title": "Russia launches ‘massive attack’ on Kyiv and surrounding region – Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
+        "source": "Jakub Krupa",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Ukraine faces ‘terror that is only growing’ from Russia, former army chief says Romania’s military has destroyed a marine drone spotted just “a few hundred meters” from the Neptun…",
+        "pubDate": "Thu, 20 Aug 2026 10:33:22 GMT"
+      },
+      {
+        "title": "Four workers dead after being hit by train in Japan",
+        "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/world",
+        "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+        "pubDate": "Thu, 20 Aug 2026 10:32:31 GMT"
+      },
+      {
+        "title": "Israel opens up bids for highly sensitive West Bank settlement project",
+        "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/world",
+        "summary": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
+        "pubDate": "Thu, 20 Aug 2026 10:30:52 GMT"
+      },
+      {
+        "title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
+        "link": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
+        "source": "By Hyung-Jin Kim, Associated Press",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea launched about 10 short-range ball…",
+        "pubDate": "Thu, 20 Aug 2026 10:25:29 GMT"
+      },
+      {
+        "title": "Travelodge boss quits amid fallout over hotel chain’s security failings",
+        "link": "https://www.theguardian.com/business/2026/aug/20/travelodge-boss-quits-amid-fallout-over-hotel-chains-security-failings",
+        "source": "Kalyeena Makortoff",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Joanna Boydell steps down after widespread criticism over company’s handling of guest safety issues The boss of Travelodge has resigned after widespread criticism of her handling o…",
+        "pubDate": "Thu, 20 Aug 2026 10:20:04 GMT"
+      },
+      {
+        "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
+        "link": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "The foreign minister says in an interview that Turkish military officials had visited the airbase as part of training.",
+        "pubDate": "Thu, 20 Aug 2026 10:16:08 +0000"
+      },
+      {
+        "title": "Taliban secures pragmatic global alliances without formal recognition",
+        "link": "https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "The Taliban navigates a complex web of global trade and security alliances without gaining full political recognition.",
+        "pubDate": "Thu, 20 Aug 2026 10:14:30 +0000"
+      },
+      {
+        "title": "Ex-Zambian minister killed in security raid on opposition",
+        "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/world",
+        "summary": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
+        "pubDate": "Thu, 20 Aug 2026 10:07:48 GMT"
+      },
+      {
+        "title": "Israel admits its soldiers opened fire at car carrying five-year-old Hind Rajab | First Thing",
         "link": "https://www.theguardian.com/us-news/2026/aug/20/first-thing-israel-admits-its-soldiers-opened-fire-at-car-carrying-five-year-old-hind-rajab",
         "source": "Jem Bartholomew",
         "sourceUrl": "https://www.theguardian.com/world",
@@ -19,52 +131,28 @@
         "pubDate": "Thu, 20 Aug 2026 09:57:07 GMT"
       },
       {
-        "title": "Burnham announces plans to clean up illegal waste dumps – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
-        "source": "Tom Ambrose",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "The prime minister has promised a crackdown on criminal gangs making money from dumping waste Andy Burnham has floated a number of policies, ideas and ambitions for his government…",
-        "pubDate": "Thu, 20 Aug 2026 09:55:26 GMT"
-      },
-      {
         "title": "From ‘elation’ to ‘terrible news’ in 10 minutes: how the confusion over missing bushwalker Lily Hooper unfolded",
         "link": "https://www.theguardian.com/australia-news/2026/aug/20/from-elation-to-terrible-news-in-10-minutes-how-the-confusion-over-missing-bushwalker-lily-hooper-unfolded",
         "source": "Luca Ittimani",
         "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "The 18-year-old’s body was found in Nattai national park on Thursday – but initial police messages indicated she had been found alive Police have blamed dense bushland and radio co…",
+        "summary": "The 18-year-old’s body was found in Nattai national park on Thursday – but initial police messages indicated she was alive Teen hiker Lily Hooper found dead as NSW police apologise…",
         "pubDate": "Thu, 20 Aug 2026 09:51:31 GMT"
-      },
-      {
-        "title": "Russia launches ‘massive attack’ on Kyiv and surrounding region – Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
-        "source": "Jakub Krupa",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Ukraine faces ‘terror that is only growing’ from Russia, former army chief says The death toll from the overnight Russian attack on Kyiv has gone up to 15, Kyiv authorities said. 3…",
-        "pubDate": "Thu, 20 Aug 2026 09:47:19 GMT"
-      },
-      {
-        "title": "GCSE results: hundreds of thousands of pupils across England, Wales and Northern Ireland receive grades – latest updates",
-        "link": "https://www.theguardian.com/education/live/2026/aug/20/gcse-results-exams-schools-education-england-wales-northern-ireland-live-latest-updates",
-        "source": "Taz Ali (now)  and Mabel Banfield-Nwachi (earlier)",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Education secretary says the government is looking at changing the resits policy in England Compulsory GCSE resits in England harm teenagers’ mental wellbeing, study finds Myles Mc…",
-        "pubDate": "Thu, 20 Aug 2026 09:45:47 GMT"
-      },
-      {
-        "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-        "pubDate": "Thu, 20 Aug 2026 09:37:31 GMT"
       },
       {
         "title": "Missing teen hiker Lily Hooper found dead as NSW police apologise for miscommunication ‘born of elation’",
         "link": "https://www.theguardian.com/australia-news/2026/aug/20/lily-hooper-missing-hiker-found-dead-nsw-national-park",
         "source": "Ima Caldwell and Luca Ittimani",
         "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Initial report from ‘thick and dense terrain’ where Hooper was located was she had been found alive but within 10 minutes a ‘more accurate account’ was relayed to police Follow our…",
+        "summary": "Initial report from ‘thick and dense terrain’ where Hooper was located was she had been found alive but within 10 minutes a ‘more accurate account’ was relayed to police Get our br…",
         "pubDate": "Thu, 20 Aug 2026 09:34:50 GMT"
+      },
+      {
+        "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
+        "link": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
+        "source": "Mark Brown North of England correspondent",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "‘Emma’ the Rotherham chatbot has 17 languages says AI firm – but health watchdog says system struggling with local ‘twangs’ Patients in a South Yorkshire town are frustrated by an…",
+        "pubDate": "Thu, 20 Aug 2026 09:25:57 GMT"
       },
       {
         "title": "Drug-dealing, makeshift weapons and a ‘culture of fear’ at Villawood detention centre, report warns",
@@ -91,14 +179,6 @@
         "pubDate": "Thu, 20 Aug 2026 09:13:18 GMT"
       },
       {
-        "title": "Russian missile barrage kills at least 13 people in Ukraine’s Kyiv",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTFGMG9FZmw2TlR3MXR5M09NSEVzLXlNMlh2d3VVdzZ6Mk1LcFh0UmlTenJUYk1pVlhfTDFnNVhwckZWemFJVlR2QTN6Y3BuRmFHTDdSTVRUSFNYY2Z2b2ZSTXF3ZElfTkh1cE1Oa2JEdHhEN21xNFF5NXJwYXl6RlZiVnUzNENNSGQ1bUNHSXdXeFNWdE1leGE5Ykx4by1jcjZXYUNqM2NpaVYtWk9j0gG0AUFVX3lxTE9QUUZLUWY5VE9Zbk5iend0eHhmXzFJUW5pWDhjMmF0c2gwVDVNcVM0MDBRV01XQnJBYkwxNUpiOTI5VS1OWG5HMXQtUjBmeWdvRkVXbFZxUjN5NHQ3eTlTZ3BoSUU3NjItLXZsZ0t0VGxvSVV2LTVJVlVGdnlPTVVQUWZKYU5UUWdIMWF1VjNzbGpPLWNVSV9qeXUzLWRxcHFlTFhiQWhaXzBlNTVKYWd3MkpHZg?oc=5",
-        "source": "Al Jazeera",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Russian missile barrage kills at least 13 people in Ukraine’s Kyiv Al Jazeera Russian ballistic missiles kill 12 in Ukraine's Kyiv, spark fires Reuters At least 13 killed in Kyiv a…",
-        "pubDate": "Thu, 20 Aug 2026 09:12:46 GMT"
-      },
-      {
         "title": "State-backed Israeli settler violence forces West Bank displacement: HRW",
         "link": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -107,11 +187,11 @@
         "pubDate": "Thu, 20 Aug 2026 09:08:58 +0000"
       },
       {
-        "title": "Sales of trainers dive as cost of living pressures hit JD Sports performance",
+        "title": "Sales of trainers dive at JD Sports as cost of living pressures bite",
         "link": "https://www.theguardian.com/business/2026/aug/20/trainers-sales-dive-cost-of-living-inflation-jd-sports",
         "source": "Kalyeena Makortoff",
         "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Inflation deterring shoppers from spending, especially in the US, says sportswear fashion chain Sports fashion retailer JD has slashed its profit forecasts as cost-of-living pressu…",
+        "summary": "Inflation deterring shoppers from spending, especially in the US, says high street chain The sports fashion retailer JD has cut its profit forecasts as cost of living pressures, fu…",
         "pubDate": "Thu, 20 Aug 2026 09:03:50 GMT"
       },
       {
@@ -121,89 +201,17 @@
         "sourceUrl": "https://www.theguardian.com/world",
         "summary": "Improvements in fire management however could mitigate increases by more than 70%, study shows Wildfires are projected to burn 39% more of Europe by the end of the century even in…",
         "pubDate": "Thu, 20 Aug 2026 09:01:47 GMT"
-      },
-      {
-        "title": "More than 1,000 birds found dead in three mass mortality events amid ‘significant’ H5 escalation in Australia",
-        "link": "https://www.theguardian.com/world/2026/aug/20/more-than-1000-birds-found-dead-in-three-mass-mortality-events-amid-significant-h5-escalation-in-australia",
-        "source": "Lisa Cox Environment and climate correspondent",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "South Australian premier Peter Malinauskas says there have still been no detections in poultry or livestock and no mass deaths involving mammals Get our breaking news email, free a…",
-        "pubDate": "Thu, 20 Aug 2026 08:51:39 GMT"
-      },
-      {
-        "title": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
-        "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.",
-        "pubDate": "Thu, 20 Aug 2026 08:43:17 +0000"
-      },
-      {
-        "title": "GCSE results: almost one in four boys in England get top grades in maths",
-        "link": "https://www.theguardian.com/education/2026/aug/20/gcse-results-almost-one-in-four-boys-in-england-get-top-grades-in-maths",
-        "source": "Richard Adams and Sally Weale",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Overall results slightly better than last year, with share receiving grades 7, 8 and 9 rising by 0.1 of a percentage point to 23.1% GCSE results – latest updates Almost one in four…",
-        "pubDate": "Thu, 20 Aug 2026 08:30:47 GMT"
-      },
-      {
-        "title": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Heatwaves are squeezing growth and productivity while the Iran war drives up Europe's energy costs.",
-        "pubDate": "Thu, 20 Aug 2026 08:24:04 +0000"
-      },
-      {
-        "title": "Video shows Russian missile strike on Ukrainian capital",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.",
-        "pubDate": "Thu, 20 Aug 2026 08:18:15 +0000"
-      },
-      {
-        "title": "Ben-Gvir celebrates demolition of Palestinian homes in Israel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Far-right Israeli minister Itamar Ben-Gvir has praised the destruction of 10,000 Palestinian homes in Israel.",
-        "pubDate": "Thu, 20 Aug 2026 08:16:47 +0000"
-      },
-      {
-        "title": "NSW police commissioner says ‘I unreservedly apologise’ for miscommunication over 18-year-old bushwalker Lily Hooper’s death – as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
-        "source": "Achol Arok and Krishani Dhanji",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "This blog is now closed Get our breaking news email, free app or daily news podcast ‘Outrageous’: Greens leader says sending Israeli ambassador home should be on the table Greens l…",
-        "pubDate": "Thu, 20 Aug 2026 08:16:06 GMT"
-      },
-      {
-        "title": "Four workers dead after being hit by train in Japan",
-        "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-        "pubDate": "Thu, 20 Aug 2026 08:14:20 GMT"
-      },
-      {
-        "title": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Israeli Prime Minister Benjamin Netanyahu says Israel will not tolerate a Turkish military presence in Syria.",
-        "pubDate": "Thu, 20 Aug 2026 07:50:07 +0000"
-      },
-      {
-        "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
-        "link": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows.",
-        "pubDate": "Thu, 20 Aug 2026 07:38:22 +0000"
       }
     ],
     "🇺🇸 United States": [
+      {
+        "title": "Trump’s tariff strategy has changed. But his goal hasn’t",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xbVRIcUpjdmI1bE40dDczNDFiWHhfVHJERWNHdVlZVHF1YWtKOUlfSE5FV2F0WWNXUTZVLXRNUmpnaHVHT1pGUV80SnI1N1gzQTh5X1JubUk5bE1jVmdVeVZ1TFNtb0xPYnVETFRuTQ?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Trump’s tariff strategy has changed. But his goal hasn’t CNN",
+        "pubDate": "Thu, 20 Aug 2026 09:00:29 GMT"
+      },
       {
         "title": "ICE detains captain of boat that capsized in NYC harbor, killing mother and infant",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUzNKekVlV1hRamU0cXZsbGZTWlhaVVZnNUZoSFBUaWRwYkVsRmdVaUZkbWJVekxiSE1nUno2VTRNOUJ2Uzc4S2hBQUJqLTJPdFgwZG1MNUNUQ19EemlVNHJoUjFGajVmSVdIckRsRlVaNGVpcTh4c2NJS2pYZnBDS002UUFmaU9RQzlwN01XcU9oeEl6VXdGODkxa0tlbTZ2UHdJZWc5MmxWeDV2S0FUSlZlWmtCZw?oc=5",
@@ -229,6 +237,14 @@
         "pubDate": "Thu, 20 Aug 2026 08:14:41 GMT"
       },
       {
+        "title": "Experts slam ‘flawed’ Trump administration Census report on alleged noncitizen voting",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVURWNXVuWUNFNzhkU3Eway1YQkk4WVdjcTBSUlEzbXliZEMxV1ZKd2VhYTlTSmh5RElPN3M2MzZMMWVnN004WjRUVGNvZnphbDl2eWdZUlRrbEppT3dJOUNmT3V3c0RqdXVUVUo4clQ3YUtCS1djc2tzQmZMVkFWUHM0WG5wMFlmVUpGM0hucw?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Experts slam ‘flawed’ Trump administration Census report on alleged noncitizen voting CNN",
+        "pubDate": "Thu, 20 Aug 2026 08:00:29 GMT"
+      },
+      {
         "title": "The legal battle between a California couple, their surrogate and the Texas AG, explained",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VNHkwREFCU0tVWE16a0VNNlhsOVpEOGN5TmxNb2ZzalhJR2RJWWlGc3p5bUJIZjVseUpoMFFWTEtPNW84Nks2WFZEaVI3Rk1uOG5pWkVIT1hrdmhhNVY0dGQ1dVllWDd4Vi1iRDlUWTN4ZFhLMm9oU3NwSQ?oc=5",
         "source": "CNN",
@@ -243,6 +259,14 @@
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
         "summary": "Russia again exploits Ukrainian air defense shortages as deadly strikes pound Kyiv CNN",
         "pubDate": "Thu, 20 Aug 2026 06:39:21 GMT"
+      },
+      {
+        "title": "Is Scott Jennings interviewing for press secretary?",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVGl4MmhybFdIZ0xFZUlTbnFGTTZ4MzlmT0tJem5ieTBrSWdGVksxYkMzQ0pSVENKZHdmYktiNWZzQVdobDBaR2xKRV83NUwzeTNSc0F1SlJ2THdhSDFsa0hDRThZUHZ4QTdjcjBlWnhmS2p0a3VsMUVScnhqZFRaSFBoZEh6Sjdmbjh0UnRtMmFzZTB5cnB5dmFBVTdaWnVPbUJKc1RqU3NJUQ?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Is Scott Jennings interviewing for press secretary? CNN",
+        "pubDate": "Thu, 20 Aug 2026 06:35:00 GMT"
       },
       {
         "title": "Harry and Meghan’s Break With Britain and Planned Return: a Timeline",
@@ -267,6 +291,14 @@
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
         "summary": "Hui Ka Yan/Evergrande: Tycoon at the heart of China’s property crisis jailed for life CNN",
         "pubDate": "Thu, 20 Aug 2026 05:33:31 GMT"
+      },
+      {
+        "title": "Erin Patterson: How a crowded hotel could lead to a retrial for Australia’s mushroom murderer",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTk04eGhWRjZMamNobTZWMGFTT1huNUFIWVNYX2xFU09rRG51REYxWUdQbmI1bkV4NGliYy0yYlhXQ1p1X0YwaGxEQm93TDdWVS1ic3FjRUwyNUlWdW5IaTdqLVRLaVpTS0hyREFNQl83VWhLaDN1VEpPOE95aWs2OFVXaGhyME9UYXVSVFFZcHdvU20yYmhR?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Erin Patterson: How a crowded hotel could lead to a retrial for Australia’s mushroom murderer CNN",
+        "pubDate": "Thu, 20 Aug 2026 05:16:08 GMT"
       },
       {
         "title": "Reports: DEA joins investigation into Hayden Panettiere’s death",
@@ -325,6 +357,14 @@
         "pubDate": "Thu, 20 Aug 2026 03:47:00 GMT"
       },
       {
+        "title": "Democratic Rep. Jared Moskowitz: ‘You can’t tell people how to feel. They know better’",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaUhTQ1VWOEsyZnQ2cEFuZmgtTUJhUVhUb2JWY3A1NWpucGozQUdjZjhQRTYxVXhnTkVMQkRSMmd3ejAzTWgyTzB4dG9ETnREbHVyTUx5ajNDY2hJNzMzdHY2QXQ4MlA4T2FpSUstT3U5Rklwa2pqcUpiM19jU2ozaS1aQmZONWpHWFV1ZUxFVzRmQ2ItTDU2cnJRX19oODE1VFNuYlRuME1ST1pJNFotNjVsaGNDM1NrT093MXNFdlJoc1Z3?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Democratic Rep. Jared Moskowitz: ‘You can’t tell people how to feel. They know better’ CNN",
+        "pubDate": "Thu, 20 Aug 2026 02:39:06 GMT"
+      },
+      {
         "title": "Washington, DC, prepares for its first ever IndyCar race",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV0dVOFdQMHJVbUFjTVpFcnppQ3YySUV3RWRvTzBaREtuNjJHTXRvaENIZnJ2WUhBdXBuQ2hIbjczUEFnMGZtcHg1ekVYZFlHUGxJeE5pSy1fV1lkQ1NfdVVTWVp5M1F3cUZNRGUza0NJZ3RoUnVYX055UGRCOVBjODdPM3RKcmpkcWZLcWdrVG1QdG10RmRyWmh0Zw?oc=5",
         "source": "CNN",
@@ -363,64 +403,56 @@
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
         "summary": "Woman sought in officer’s death co-founded mental health group for police and other first responders CNN",
         "pubDate": "Thu, 20 Aug 2026 01:06:00 GMT"
-      },
-      {
-        "title": "Trump Administration News: Senate Panel Chairman Raises ‘Strong Concerns’ Over F.D.A. Nominee",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mbmJsV2NhY0tiRzIzdmdrYVZRX1ZreEQ5VVRYNE5XbEg5cFI4UkVQNFF1UFVFWHVtbzFwRmg4S0t0YnFKWFp3Q0hpRzR5MnJxYUk4eEJTdHdvdWlxTkNUTEhpUQ?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Trump Administration News: Senate Panel Chairman Raises ‘Strong Concerns’ Over F.D.A. Nominee The New York Times",
-        "pubDate": "Thu, 20 Aug 2026 00:51:18 GMT"
-      },
-      {
-        "title": "The real cost of RFK Jr.'s 'Real Food'",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNEluTEhOZHd3Q3M4cFJGcnNoMng0emZMN2hrTWdkalN6LVZMWHNoRW0tX1Q1ZFJ5bmtwa0F6dGZ5TkZvekNlc0M0ZF9BWDJQSEYyZ0NZblVuWl9uX0FDR1ZVWURsZ0hnNmNMdmdXajJLTzI3YkNUVzlOejJLZnZqMkp3U1psellmd2xpbg?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "The real cost of RFK Jr.'s 'Real Food' CNN",
-        "pubDate": "Thu, 20 Aug 2026 00:02:00 GMT"
-      },
-      {
-        "title": "US airman detained again after calling for Trump’s impeachment, his attorney speaks out",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMG9PbW5FQ0NKMWI5X0VrQ3pGOEl4ZEV4cnBVQ3Q2YjJyUklYa3doRE5USmFwZ0w4SjNzQVk0dWZzR0tuUnZqUVBmc1o3X2ViQ0N6dEdaalk3ZEFVSkkxSW5HRjR0SjR6V1l4b0FlZ2tOQUtOZURRX3dNcXFkVmdFbWVFWkg?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "US airman detained again after calling for Trump’s impeachment, his attorney speaks out CNN",
-        "pubDate": "Wed, 19 Aug 2026 23:59:17 GMT"
-      },
-      {
-        "title": "Why is one corner of China’s internet insisting a golden era never existed?",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcWVQNmtsclU1dGEtcnRNelJudTVicnhkcDVpVUNQc2Znc1oyR2ZJTGVEWlI2OFZKV0JReVIxSmU3YUlVbTBtSjU1ZmI4eHdFUXlvdjVVMVNTY2NNQ2h3TXNTdnA4MjQtbVE5T2M1bnlmZ1lVbzRrWHVKWXhaZGVFcjFpUEVKWWZiSkRN?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Why is one corner of China’s internet insisting a golden era never existed? CNN",
-        "pubDate": "Wed, 19 Aug 2026 23:55:29 GMT"
-      },
-      {
-        "title": "Democratic socialists are having a moment. They’re not all in agreement on what it means to be one",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZjFhSVY1cjVJc0dfSVhYWVU4UlJrckUzNWRYV25XQllwVmU4elRtWDFtRXpkdGdsQnZqamRrNTE3clZSMXZtUW1oY2pjQnpOcmc0VVBqWjV5VFJpa183STRHUWQwZkdZanZBQWphcXY5cW1nZDFLUzNBaUgtTzBRREZUQUxVTzlpQjhB?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Democratic socialists are having a moment. They’re not all in agreement on what it means to be one CNN",
-        "pubDate": "Wed, 19 Aug 2026 23:29:05 GMT"
       }
     ],
     "🇪🇺 Europe": [
-      {
-        "title": "Max Verstappen: Red Bull driver signs new contract extension until 2030 Formula 1 season ahead of Dutch Grand Prix",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQR29qcERYbGhlS3l0RnpPWkdYbjNMN1RiTkVVc1p5bWxmdjJxNjFuYncxd2JsYjdmRHRBUUhRc3pGNVJTbFc4OU1qb3A1Ml9NVU1xZUNaUXpnWnhZQ2ROenRIdlF0ZHh1S3Fjb19PN3NmWjFUa0YyU01XSHVWWEZTemJhczJ1QmlzTHNmUUNwbEU5UFVnYWt0QjZSZjNCN3d5bk1jR2wzc1BxZlMzX3ItMlZsd3E5SHpUeHN4TzVlSDlUdlhaLUVTa2dfVTFIck9qUE1RNVlHektBS29JcVc4YUJ4Rkh6MEV3enFqRjFOZzE1ZV80?oc=5",
-        "source": "Sky Sports",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Max Verstappen: Red Bull driver signs new contract extension until 2030 Formula 1 season ahead of Dutch Grand Prix Sky Sports Formula 1: Max Verstappen extends deal with Red Bull t…",
-        "pubDate": "Thu, 20 Aug 2026 10:04:24 GMT"
-      },
       {
         "title": "Transfer news LIVE: Man Utd make Baleba breakthrough, Arsenal agree Konsa deal, Spurs eye double Man City raid",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzV5b0s5bWMzUEUzUTEzXzBLelZLZldSd1p5LXd6cmthR2w5RS1tcElSSm9xY0Z6TXl0ZGNudWYyNkxaelBFN01lOF9iSEdGbEhBem1RTkFocEJBeFZyWVc4a2VweGxaYWVNU1ZwMkNHRml1TTcxZjV2TU5uQUd4Q3ZNYTR0MFZJcmRGQWZwdjFiUjBSU2VrbGFNNnNScFJuY1FiRjV6bmhDNjBHWHFXOQ?oc=5",
         "source": "The Independent",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
         "summary": "Transfer news LIVE: Man Utd make Baleba breakthrough, Arsenal agree Konsa deal, Spurs eye double Man City raid The Independent Man Utd's pursuit of Brighton's Carlos Baleba as a 't…",
-        "pubDate": "Thu, 20 Aug 2026 10:01:34 GMT"
+        "pubDate": "Thu, 20 Aug 2026 10:42:42 GMT"
+      },
+      {
+        "title": "Russian missile barrage across Ukraine’s capital kills at least 12 and wounds 33",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEM2OWViY2VqbDVyZFBIWHk5T05RYzVwbDEzeUQxZmtlQk9BRzJqVzVwWXZmQ1pwVnZXUkt2eVJLb3RncnpLUTJzT2txYlBVakhMWXpSY3BzR0JwM3dJVmhDZ1JTX3AwQUtuc0VXdmljOHhFeWlzdjlXakYtUmc0ekhOalRSZWZ3VVVYMzg4MUI3bDJa?oc=5",
+        "source": "AP News",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Russian missile barrage across Ukraine’s capital kills at least 12 and wounds 33 AP News At least 13 killed in Kyiv as Ukraine grapples with air defence shortages BBC Russia launch…",
+        "pubDate": "Thu, 20 Aug 2026 10:38:00 GMT"
+      },
+      {
+        "title": "China Sentences Evergrande Founder to Life in Prison",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOFRvWjNQMUZXVzdCamhQZkZZSXJYUGFIcjF6eEdYX1RVakptb3E0Tkg1ZUN2akhTd2pobW9wMDRXNjF6OWI5em1TT3ZPX1A0Y3ljUXd0T2lPSE5uVURpdlpBLWE2X3MyOVdGcHY2SktSUklWT3ZYalI1Q0RZbUkzWERDVEFPUQ?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "China Sentences Evergrande Founder to Life in Prison The New York Times Chinese court sentences founder of troubled property developer Evergrande to life in prison Click2Houston Fo…",
+        "pubDate": "Thu, 20 Aug 2026 10:28:27 GMT"
+      },
+      {
+        "title": "Prince Harry and Meghan will move back to the United Kingdom, source says",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSmc4NGVYY1FSNnBqWVVtUTRFVlRRajVFcDhSaVBkWUlCN0R1aHRnX3E0UnVIOE5UTFgtT0FiX3ljQVNnR09EaE9PcWdPSjdhZUJsbG5wc1ZvUEV6YlNlYloydmVtcUpCWlRKVU1hT2g1ZTBCaHduTkVJbkRQSDNZMUZBUmhvSE15S3RNZ1BKaXV0NXhIRjFVWFNPc0hUXzlFUnkxZnB4NkZfNVYteWNyOUk4UGdWQUtz?oc=5",
+        "source": "NBC News",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Prince Harry and Meghan will move back to the United Kingdom, source says NBC News As Harry and Meghan Plan Their Return, Britain Wonders: What Changed? The New York Times Prince H…",
+        "pubDate": "Thu, 20 Aug 2026 10:24:00 GMT"
+      },
+      {
+        "title": "Max Verstappen: Red Bull driver signs new contract extension until 2030 Formula 1 season ahead of Dutch Grand Prix",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQR29qcERYbGhlS3l0RnpPWkdYbjNMN1RiTkVVc1p5bWxmdjJxNjFuYncxd2JsYjdmRHRBUUhRc3pGNVJTbFc4OU1qb3A1Ml9NVU1xZUNaUXpnWnhZQ2ROenRIdlF0ZHh1S3Fjb19PN3NmWjFUa0YyU01XSHVWWEZTemJhczJ1QmlzTHNmUUNwbEU5UFVnYWt0QjZSZjNCN3d5bk1jR2wzc1BxZlMzX3ItMlZsd3E5SHpUeHN4TzVlSDlUdlhaLUVTa2dfVTFIck9qUE1RNVlHektBS29JcVc4YUJ4Rkh6MEV3enFqRjFOZzE1ZV80?oc=5",
+        "source": "Sky Sports",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Max Verstappen: Red Bull driver signs new contract extension until 2030 Formula 1 season ahead of Dutch Grand Prix Sky Sports Verstappen extends Red Bull deal to 2030 BBC Max Verst…",
+        "pubDate": "Thu, 20 Aug 2026 10:04:24 GMT"
+      },
+      {
+        "title": "Working in Starmer’s Number 10 was ‘unbearable’, says Sue Gray",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVNkU0hWNEVTR1EtanBsV1ZXTk1YYjBTOFlpXzVVbXRXSXhFWmZ2R1AxQVZOZDFiRzhIYU5iV0paMkhUVnRySlBsZzN0RHN0cFU3TTZQSWxWWjQ0MEYtUkhQY05mUVJPRTNZSmIzaGZsOERwRVpmNTh2eTNadW1xb1JqZXU?oc=5",
+        "source": "Financial Times",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Working in Starmer’s Number 10 was ‘unbearable’, says Sue Gray Financial Times Working in Keir Starmer’s No 10 ‘unbearable’, says Sue Gray The Guardian Sue Gray: Working under Star…",
+        "pubDate": "Thu, 20 Aug 2026 10:01:18 GMT"
       },
       {
         "title": "Hayden Panettiere death latest: US drug agency joins investigation into Heroes star’s death",
@@ -431,36 +463,52 @@
         "pubDate": "Thu, 20 Aug 2026 10:00:00 GMT"
       },
       {
-        "title": "Working in Starmer’s Number 10 was ‘unbearable’, says Sue Gray",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVNkU0hWNEVTR1EtanBsV1ZXTk1YYjBTOFlpXzVVbXRXSXhFWmZ2R1AxQVZOZDFiRzhIYU5iV0paMkhUVnRySlBsZzN0RHN0cFU3TTZQSWxWWjQ0MEYtUkhQY05mUVJPRTNZSmIzaGZsOERwRVpmNTh2eTNadW1xb1JqZXU?oc=5",
-        "source": "Financial Times",
+        "title": "Supercars torched in wedding ‘firebomb attack’",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc1I3NmFxRkZRbi0wa1lsMFotNzUtazZwWGNGbXRiQW01UUh2d0Q5S0JkM3Y0U1J6d3lkMGh3ZWoySWF4VlNRUnVmMWRoVWI1UTctaVJYVXNXTnItZVRLMXZldVdsVkItQTlwdWl1dlBtZjZoeHNTUHlxVFE2LXpaQ00xR0k4Zw?oc=5",
+        "source": "The Telegraph",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Working in Starmer’s Number 10 was ‘unbearable’, says Sue Gray Financial Times Working in Keir Starmer’s No 10 ‘unbearable’, says Sue Gray The Guardian Sue Gray: Working under Star…",
-        "pubDate": "Thu, 20 Aug 2026 09:33:45 GMT"
+        "summary": "Supercars torched in wedding ‘firebomb attack’ The Telegraph Birmingham wedding guests and supercars targeted in horror petrol bomb attack Yahoo News UK Firebombs thrown at superca…",
+        "pubDate": "Thu, 20 Aug 2026 09:54:00 GMT"
       },
       {
-        "title": "Trump vows tougher economic measures on Iran and supporting countries",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NXpxUDd6UnRUMjB4X2k3SnljQ0VYNjJCb1VUaUpJTmV3SlFPdWszMDZVWWdzUkduVEpBWk9zSGNseW56M2JWOXEtRjV6WVlxMlVTc0N4bVRKdw?oc=5",
-        "source": "BBC",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Trump vows tougher economic measures on Iran and supporting countries BBC Iran war live: Tehran says Trump’s ‘economic warfare’ will fail Al Jazeera China Says Trump’s Economic War…",
-        "pubDate": "Thu, 20 Aug 2026 09:13:18 GMT"
+        "title": "Miliband clashes with Israel over controversial West Bank settlement",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZFNJczlXbmI4amZjQkhfUlFKMDQwOG5TYWszb2s1anNtdTNxOFF0TEhKbDVSTHA4Nl9mcjF5Z0RXQjViSkF1Q1J5c2ctM2dPTzd5cEVVaVNZRWJsaWpyWWxEb1BXZ25iUlNFbVpDVDdfXzNDVUZ1MllXWGVnMkxWZXpNU0YxbW5GTThTX3gzbnFQYS1HVDNocGNMSFltcXhVMzE5RmcyMA?oc=5",
+        "source": "Sky News",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Miliband clashes with Israel over controversial West Bank settlement Sky News Israel opens up bids for highly-sensitive West Bank settlement project BBC Israel accuses ‘patronising…",
+        "pubDate": "Thu, 20 Aug 2026 09:47:50 GMT"
       },
       {
-        "title": "Transfer latest: Konsa, Jones & Baleba updates plus reporter Q&A",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FZEdvczNPWWMtRnVETkpuemlxM092NVB6bkE1UkpMTE1OMWVIcjJhVjZpNjV2UVp6dUd0UGRzU0FCT1EyRlBJYlR6T2d4RkpEUEx6bElVcWJjQ0p3LThrZGpoU0V0Zw?oc=5",
+        "title": "GCSE results: Grade gap between boys and girls shrinks to lowest since 2000 - follow live",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMVV9PY0ZwWjU5a204Q0x5VEN5VG42R0ZnZ3FwQVk5VDNySk13NmtwMUk2cTV5ZG9UdXhBVU1WNHFHcWp0MHhVbDVZX0I4WEFCYVlrdFA5ODM?oc=5",
         "source": "BBC",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Transfer latest: Konsa, Jones & Baleba updates plus reporter Q&A BBC Curtis Jones transfer news: Inter Milan agree £30m deal to sign Liverpool midfielder Sky Sports Andoni Iraola's…",
-        "pubDate": "Thu, 20 Aug 2026 09:07:09 GMT"
+        "summary": "GCSE results: Grade gap between boys and girls shrinks to lowest since 2000 - follow live BBC GCSE results: hundreds of thousands of pupils across England, Wales and Northern Irela…",
+        "pubDate": "Thu, 20 Aug 2026 09:45:22 GMT"
       },
       {
-        "title": "Bond yields edge higher as traders digest Treasury debt buyback plan",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNEVUdmY5YUpuaFJKQ0g2MGdLTUZsX0lmc3FERjZlRTNVSGRyR2ZyQUpBZGN3RHNIWExlajJpS3VOMVZOQTl4VWxFelp4dnBwbzdEQkRrdVpZMEJjUkc1clZKMEVPX20tNUh1TUhYZERPcHdSa1RtZ1ZuelIta0hOWHMxUGFqZGlXdUR1c2Rock1UOHRXZFhOd29YclpnTEMzT3ZyNEtLWTnSAa4BQVVfeXFMUDJXVzY5dHRmMVcwS2RXRFNqbDVsUkFhMHpPRDdPd2pYYVZJZ293dUtXNU85M3BNR2pQaVNQa3I5MVY0eE5HS2JVZGFwM2J5eS1OVHBubTI5bEZZa2o5ZDBjUWdOeEF4b295NTc3XzNhUjNDUkZIaDN1Qy1FN2dhbDF6WWxweUhRUm00bVUxS3Ywd1F5M052cVViQ3NCX1MtNzJVVWkzVnAzZnZFbEJ3?oc=5",
-        "source": "CNBC",
+        "title": "Stock Market Today: Bond Market Steady After Treasury Intervention, Nasdaq Futures Tick Up — Live Updates",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFBldUlGa1pnUUM2bjFDS3MzeFhLeTNrSXRJN0RTbnVYeXJZbHJ1eXROVTZUbV95amFvOGgxLTdEdzZ5YnZfWHZKOVIwZEI5MG5UbW0tWVpKWG9MNzhmbXl6U29fTnBDbFlCcmxmQ3lVaW00VXpoYzZ3d2pTVENBMlk2VmJ3TWs?oc=5",
+        "source": "WSJ",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Bond yields edge higher as traders digest Treasury debt buyback plan CNBC An alarmed bond market gets the Trump administration to act again AP News Bessent Becomes Most Interventio…",
-        "pubDate": "Thu, 20 Aug 2026 08:57:47 GMT"
+        "summary": "Stock Market Today: Bond Market Steady After Treasury Intervention, Nasdaq Futures Tick Up — Live Updates WSJ An alarmed bond market gets the Trump administration to act again AP N…",
+        "pubDate": "Thu, 20 Aug 2026 09:31:00 GMT"
+      },
+      {
+        "title": "Spurs in talks to sign Man City's Savinho and Marmoush",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56N09TbF82ZzktZWEwUGZZYUh5ZWR6M1VKSmszQnhhQm9IWEFTTllfU09sX205MU84UnVUVWxUb01qMjIxYkVSOGV2c05JQkRoRkpBUkhqTWN2Q0RLaHVmdzRXbGNQM1FKblE?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Spurs in talks to sign Man City's Savinho and Marmoush BBC 'City will want to replace Savinho and Marmoush' Sky Sports Tottenham working on deal for Savinho and Omar Marmoush of Ma…",
+        "pubDate": "Thu, 20 Aug 2026 09:01:26 GMT"
+      },
+      {
+        "title": "We tested the Pixel 11's Tensor G6 chip, and the results are brutal",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iNDFsYTh2Z0IwWHFQY3dVLW1qYXA0UVA0dEZuMEVPdnNmZkFkSGZQYnZZYk9HdXFlRVZWSkpsTlZWSTRxQjZTWnJEaHY0eHdvVVpBcnNKQUpuc2l5ZVRjSDFBNGs1Vlk3VUJBaW12eWdXUFFSYzN3?oc=5",
+        "source": "Android Authority",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "We tested the Pixel 11's Tensor G6 chip, and the results are brutal Android Authority Google Pixel 11 series review: Is the magic fading? Ars Technica The Pixel 11 Pro is a great p…",
+        "pubDate": "Thu, 20 Aug 2026 09:00:00 GMT"
       },
       {
         "title": "#Resistance Democrats are flopping in primaries",
@@ -471,35 +519,35 @@
         "pubDate": "Thu, 20 Aug 2026 08:45:00 GMT"
       },
       {
-        "title": "Ukraine-Russia war latest: Putin bombards Kyiv with hypersonic missiles and drones in massive overnight attack",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzQyS1lMZTFFT0w2ei1kZG5TeFVYYmxfX1BDcnFPRHdaV2pyMHhSR3lWck5YSm1fN2RaUFFRbUFsWjhfdktnaGZpQkcxWU15NXZEV09ZdmhGS3hOU2NUdzB4M014cXpZTjVSZk5mZXJVY0k0UF9zbW5hTHdZRWF0cDNFN1JsUTd6NHh3U1M5UTVCbEIxakJwYVhkRmVkQ1dzbFItV2lRamtnTzBjZ2I1dFNvS3hHSk1ZbmtPX2FtYTk?oc=5",
-        "source": "The Independent",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Ukraine-Russia war latest: Putin bombards Kyiv with hypersonic missiles and drones in massive overnight attack The Independent Russian ballistic missiles kill 12 in Ukraine's Kyiv,…",
-        "pubDate": "Thu, 20 Aug 2026 08:37:06 GMT"
-      },
-      {
         "title": "US national debt hits $40 trillion, rising by $90K per second",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGVkRHJLZ0lzTnRWck14cUNZRWR3UEtoZDJLNF9zZnNuQU92Y1RDX2xGT0hCVjR0RDh5VE91ZFVkZGxJOVRUSnJDNlE0WmxzekNubkhiTl9xX2JyUDhhaG56SzVtejdPN0VkSDM3ZzdLNktaSGFKOUNxem1vMXFEdmJWMHgzQzVjeW1YTGUzemEzYmtoeUpjdDdKa01RM0tKWFJz?oc=5",
         "source": "WJLA",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "US national debt hits $40 trillion, rising by $90K per second WJLA US national debt passes $40tn after doubling in a decade BBC US national debt now stands at $40 trillion ABC7 New…",
+        "summary": "US national debt hits $40 trillion, rising by $90K per second WJLA National debt reaches grim $40 trillion milestone. Here’s why that matters CNN National debt hits $40 trillion an…",
         "pubDate": "Thu, 20 Aug 2026 08:33:12 GMT"
       },
       {
-        "title": "GCSE results: almost one in four boys in England get top grades in maths",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVJqa3paS1FIbVhDYU9RTS1ZQ1NEejFSNUswVW1FQUlDa292WTJSb1FYSWlrNE85bGxLbnN1c3k1Mmw4TW9RbmpXc0FrSWZzU1VLdHk1UFlUOHUxTWRaVkwxbmYzU2NaaUUtNDk3dklZZWZoemYzb2xsTXQzandLX09fLVZwbFhlTjZDOU1OdFh1MFc1aGN3ZmRPbEpVeUVzN3ptZXU2V0hGLVdXUC1qT25rR2RwZVlMX2h2YnpR?oc=5",
+        "title": "Burnham announces plans to clean up illegal waste dumps – UK politics live",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdmRqeXJpOW4tM3BoWk1GMkhtY3kycDNXaTVQYjBpY09ENm9ZVmdPT21MbktNSVFTcE9GM0Z3amduRnh1QXJZR0RlWGJBVGJnbEMyeWZHc3ppY1V4UWJJZWNzclRQUlY5R0ZJYmNuZTVfVkNlU3N5c0Z5N05oLTU5QUsySFo5ZHoyVFBGUWVFdEpoWUtDeTk5RWE4aElpeDJGS09fZEpyQXhpOE92dllMV01kWGwyUGYzdXBhOVBBM3BpS1NVZlBvOVhhdnNvRW8?oc=5",
         "source": "The Guardian",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "GCSE results: almost one in four boys in England get top grades in maths The GuardianSee more headlines and perspectives on Google News",
-        "pubDate": "Thu, 20 Aug 2026 08:32:00 GMT"
+        "summary": "Burnham announces plans to clean up illegal waste dumps – UK politics live The Guardian Burnham announces plans to clean up worst three illegal waste dumps BBC PM orders crackdown…",
+        "pubDate": "Thu, 20 Aug 2026 08:33:00 GMT"
+      },
+      {
+        "title": "Brooklyn Beckham brutally covers over tattoo tribute to mum Victoria",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQXzRFMzdkY2tFTmljQ2dDdUhxUVo5QzBUbnNVUWVZMHNnUURlYzh5dXZjS2tDNTA1R0t4TzhKa1NROTA2azBlN2h2Z0x5Y29UT0poRW8ydklpVTI2WnNNYVNyendJV0NwdWJMcjVkeXVwc2NmVV9OZlM3RWNkbEVjZndlVzQ0S3A4eWkxZWp5eDBHRFpydXEzZFdfVXdCZmg3dU5xMmo3MVU2cHdSZTBDRG9xajR1TWpWOFhzNjFyenBpTXVwSWc?oc=5",
+        "source": "LADbible",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Brooklyn Beckham brutally covers over tattoo tribute to mum Victoria LADbible Brooklyn Beckham adds fuel to fire of family feud in latest dig against parents Daily Star Brooklyn Be…",
+        "pubDate": "Thu, 20 Aug 2026 08:16:43 GMT"
       },
       {
         "title": "Prince Harry and Meghan moving back to Britain this month",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZjhaYURqX0xDdDN4V29wT1RIWGw2X005N2ZnalNQODgxazN0YktEVDhYczZiX2t5V3B0OEI4UnY4MVVuZnhBOU1oZmJrQnY5clRVX2wzekhNQmhWMEFRRmQzZGZLV2tvSUFUUjNYTkVFaXd6NUd2a3dBczVXYnlwSWYxa1l6NTBTS2NSSDdPbjJxY1JkaEhndEYwZHV3MlI0Ri1LMERqdVo?oc=5",
         "source": "The Guardian",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Prince Harry and Meghan moving back to Britain this month The Guardian Harry and Meghan are experts in surprise - but why are they returning to UK now? BBC ‘God help us all’: Reade…",
+        "summary": "Prince Harry and Meghan moving back to Britain this month The Guardian Prince Harry and Meghan moving back to UK later this month BBC As Harry and Meghan Plan Their Return, Britain…",
         "pubDate": "Thu, 20 Aug 2026 08:14:17 GMT"
       },
       {
@@ -511,126 +559,102 @@
         "pubDate": "Thu, 20 Aug 2026 08:00:00 GMT"
       },
       {
+        "title": "Syrian foreign minister to Axios: Israeli bombing of airbase was unjustified",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVJtOERhVzF4QU45M3VwNVBNWjB4N1pINTA1ZFBJSVdNU0ZILXV0VWhSYUpvSU9ZYTZvUTRQdkRzejF0dTAzVm9EY1V0T3RXUFJHZnh2cS1kRlVVN29BZGdDQU1uaTlISHVxX2x5QmF3X253MVBVRUxrVm5aRVo1QlEtRmY?oc=5",
+        "source": "Axios",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Syrian foreign minister to Axios: Israeli bombing of airbase was unjustified Axios Syrian official says ‘no plans’ to establish Turkish military presence Al Jazeera Turkey denies m…",
+        "pubDate": "Thu, 20 Aug 2026 07:57:33 GMT"
+      },
+      {
         "title": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0YxejNNS1poTHVOcXNPenhxM2c4RmxRb2dtVnVpMHpZMGw1OHBCbDRxWWpmOWxiLVh4QjJkc3JsUVd2UTZseXBGd3lzM1Q5bkpiLXhkMWhlZmJMZHNaV0lTZ0tra0dGclg3T1lTaERzaUJ3WUswQ0dKM3lvX2RGbkotQTZTb3V2VDBWTEY0aVpKQ1RldlE?oc=5",
         "source": "The Guardian",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure The Guardian Trump vows tougher economic measures on Iran and supporting countries BBC Don…",
+        "summary": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure The Guardian Trump vows tougher economic measures on Iran and supporting countries BBC Oil…",
         "pubDate": "Thu, 20 Aug 2026 07:50:00 GMT"
       },
       {
-        "title": "Burnham announces plans to clean up worst three illegal waste dumps",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tN0VxbU1nUFRIeW5oV1RvV3lpT3lpM2RUWTFYZnhqbnBkNjJJZGQ5WjZKaVBwQmdoX3ExZjJTVkNKOUMteHhTbHVaSWFQN0I1b2w2UWdPd1U5UWNj?oc=5",
+        "title": "Transfer latest: Konsa, Jones & Baleba updates plus reporter Q&A",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FZEdvczNPWWMtRnVETkpuemlxM092NVB6bkE1UkpMTE1OMWVIcjJhVjZpNjV2UVp6dUd0UGRzU0FCT1EyRlBJYlR6T2d4RkpEUEx6bElVcWJjQ0p3LThrZGpoU0V0Zw?oc=5",
         "source": "BBC",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Burnham announces plans to clean up worst three illegal waste dumps BBC Burnham announces plans to clean up illegal waste dumps – UK politics live The Guardian PM orders crackdown…",
-        "pubDate": "Thu, 20 Aug 2026 07:37:45 GMT"
+        "summary": "Transfer latest: Konsa, Jones & Baleba updates plus reporter Q&A BBC Aston Villa news: Fan views on Ezri Konsa's possible move to Arsenal BBC Arsenal agree £51m deal to sign Ezri K…",
+        "pubDate": "Thu, 20 Aug 2026 07:37:09 GMT"
       },
       {
-        "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pOVRUeURyVGJyRnJ1aFkzOWZTU3M2TkhuZExTLWNFaVhMTkN4UDhESWwwZWdFZ183SzRVWXRlMnMyM0l2dFdxTVg3Y05pX2xITjV0MHV4QkdXclV1?oc=5",
-        "source": "BBC",
+        "title": "Trump announces ‘most crushing economic operation ever’ against Iran",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVhCS05GTl9MZEVxcUFnNTlYSERZMlRFVXotU2FQMXBrRHhyVU1ULUN4X2N2TXpJbDFjbEo5X2djeW9hNjlkYU0wVTMxWV9QbHp5TGFHY1EzUFRCZGxNVlNiYVBJNkU5UGpSdG0yOEFxSm5Zc2xrNzloZHRkdXNJMnVobUkwMDJKR1JkS3hPZjRNZFJfWjZKRkhqR2hZUDZRVTNjcS1HWFJGbFHSAbABQVVfeXFMTzNXU2ZhU2FUMmswRXJ0eUdVaWF5SUc4eXRKNlp0eVFWYUpWaE1vUFlmSnhDdFVWLVNDeFlzOTB6aWdYYUZLRzlENzhfSUNkV0dLUS1sNFJ4OUd1dERiUlNGX1ByeFUxREhKckxmOGhGSzhxSHVSdXBDWmZDVWFtQkN3U0pIaHZ0Q3p6QUtpazM2VUtXTkx2b2J3eXpCV0ZyaE1vTTZyVU5vSGo5b3J0RlE?oc=5",
+        "source": "Al Jazeera",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Trump announces ‘most crushing economic operation ever’ against Iran Al Jazeera Trump has a new plan to crush Iran’s economy. But will he stay the course? CNN Oil Prices Jump After…",
+        "pubDate": "Thu, 20 Aug 2026 07:23:52 GMT"
+      },
+      {
+        "title": "NATO fighters jets scrambled from Europe as Russia launches onslaught on Kyiv",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFJTUk1nUjkybllOQ2VWMW5nenA1MVN0SS1XY25XdlVGbENsR0J5N1h6ckl5N2UzX3NrbUdWNWhTMEdoQUkwNGpSOVg3U2lSV0pLMVZtdnFQOW9KU2tmS3RhVl90ekJGTHFUZ3Q0NFdxSWM2WXdpc0lGdWhFZ2h1WHpmcFNpdWdM?oc=5",
+        "source": "AOL.co.uk",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told BBC Erin Patterson: Mushroom killer must stay in jail for 'truly dreadful' crime, prosecutor…",
-        "pubDate": "Thu, 20 Aug 2026 07:08:35 GMT"
+        "summary": "NATO fighters jets scrambled from Europe as Russia launches onslaught on Kyiv AOL.co.uk Poland Begins Developing Long-Range Strike Capabilities Beyond 1,000 km Мілітарний NATO figh…",
+        "pubDate": "Thu, 20 Aug 2026 07:10:21 GMT"
       },
       {
         "title": "Russia launches deadly missile and drone attacks on Kyiv",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLWpiMncxeUozd3Z5SS03eW10ZEVUODlFSlF6eGZ3UHp2bW93ekRaaGQtMl91UkdsaS1DT2FURW1JZVhMTnJxNWtlWDhWNUZKcHgzMHNxUU56MzJ1cklDeU5rRHZmT28zWnZBQmprWHVYOEdzV1d5dFhRY2oteDVMLU1OZHk?oc=5",
         "source": "Financial Times",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Russia launches deadly missile and drone attacks on Kyiv Financial Times At least 13 killed in Kyiv as Ukraine grapples with air defence shortages BBC Russian Missiles Kill at Leas…",
+        "summary": "Russia launches deadly missile and drone attacks on Kyiv Financial Times At least 13 killed in Kyiv as Ukraine grapples with air defence shortages BBC Russia launches ‘massive atta…",
         "pubDate": "Thu, 20 Aug 2026 06:57:27 GMT"
-      },
-      {
-        "title": "NATO fighters jets scrambled from Europe as Russia launches onslaught on Kyiv",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXZXTldSNm1sY1pKTV9xUmt4V3Vra0dQd2tMSnY1X05YcEpSa05xSHZQemNHcXVmX2ducTRNV1hjbEptSXpjLXVMaUxXV1JtN1lJSkkydUUxdXJJM2VlZkxZQ0VINVNrMWhVRDQ3ZDVTMFhIckFtck5nZUhtc0xteXJ6REN1Vmd4WVc3ZTlR0gGTAUFVX3lxTE9FQWVMV252UGZobjZCQUZMVWJFOHV3Wll4blpjRjd5VFdyWXgydE1FQThnNVRqN3dVYTRNTFVoX0V2MWxMLWhGcldmTFpzNEVwRnVEWkNGVWltaDRDZFFqUG5GWVRzUTNwaXdrQXVGbTR0Tmt4am1GczN1emlrdmZKVFZlT3RWOWRrU3NhbVFCYkoxUQ?oc=5",
-        "source": "The Mirror",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "NATO fighters jets scrambled from Europe as Russia launches onslaught on Kyiv The MirrorSee more headlines and perspectives on Google News",
-        "pubDate": "Thu, 20 Aug 2026 06:56:00 GMT"
-      },
-      {
-        "title": "United Utilities 'extremely sorry' after burst pipe led to flooding",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoYWdyR1FMcFA5V25Ndm1uclUwXy1vMFFYWm1aNnlvenNtTURqX1g1V1ZXUXBMa1M4SnpZcFVoVm5SeEhrSnh0UFVIUHNBOHR4aFRSNGZtNVVWRjNI?oc=5",
-        "source": "BBC",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "United Utilities 'extremely sorry' after burst pipe led to flooding BBC Woman heard 'almighty scream' after burst pipe sends floodwater into home Liverpool Echo United Utilities ap…",
-        "pubDate": "Thu, 20 Aug 2026 06:45:37 GMT"
-      },
-      {
-        "title": "Travelodge boss steps down amid fury at hotel chain after woman sexually assaulted when creep handed room key",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzFYQnh3ZE1zdDhaVk9tQXZRZHptOGhHbWJ4bGFjMHJISlVCR1Q2ZFAyNjlVb1phQU9RbEt3QkE0N0JRTXZpbUtUVVl0NU5hd1JiUHVtM3NFdVczaUdjbzMwODVCVWFjYmxEWDdidDEtNGdUTk9mY194THFYek1LLU11M1pGdFJOcG8wdFlCUHdkLVRSN0h3?oc=5",
-        "source": "The Sun",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Travelodge boss steps down amid fury at hotel chain after woman sexually assaulted when creep handed room key The Sun Travelodge boss resigns as chain tackles security after sex as…",
-        "pubDate": "Thu, 20 Aug 2026 06:42:00 GMT"
-      },
-      {
-        "title": "China Sentences Evergrande Founder to Life in Prison",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOFRvWjNQMUZXVzdCamhQZkZZSXJYUGFIcjF6eEdYX1RVakptb3E0Tkg1ZUN2akhTd2pobW9wMDRXNjF6OWI5em1TT3ZPX1A0Y3ljUXd0T2lPSE5uVURpdlpBLWE2X3MyOVdGcHY2SktSUklWT3ZYalI1Q0RZbUkzWERDVEFPUQ?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "China Sentences Evergrande Founder to Life in Prison The New York Times Founder of collapsed Chinese property giant Evergrande sentenced to life in prison BBC World in Brief: Ameri…",
-        "pubDate": "Thu, 20 Aug 2026 06:39:53 GMT"
-      },
-      {
-        "title": "Prince Harry and Meghan are returning to the U.K. with their children",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmMlk2RExnSkoza3R2S1VRYjN2cXFfaXZaV2prUHRwUXdjc0w0Qnh4eUVtcV9vcjVOMXNBbjM2QTZMTFYtT2hsejNfY0dWdDJKQngtR05SQUNYamJOS3J0czVBVGk1Y1ZHSkU0bVVydllOdnQ5NlE?oc=5",
-        "source": "NPR",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Prince Harry and Meghan are returning to the U.K. with their children NPR Prince Harry and Meghan are returning to the UK with their children AP News Prince Harry and Meghan to mov…",
-        "pubDate": "Thu, 20 Aug 2026 06:17:42 GMT"
-      },
-      {
-        "title": "Salmonella in eggs? I groaned. Not again",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1VHYXlhVFJtc2wyRjc3VEEydVBEMUdQdG9HUVFYcl9VVmgtME1Mb3kydTJzZTJ4NUl5bHFVcmNyVmtUOVlvSUlVbVZNMGFNTnZNQ0ZlSjlNRVRpdFU5ZUxMc0NONTNUckFIbWVLYnRZRHJPLTM5U3owcXp1RjZlN1dTcTcwa0FFdmxj?oc=5",
-        "source": "The Telegraph",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Salmonella in eggs? I groaned. Not again The Telegraph Salmonella outbreak: What we know so far BBC One dead and hundreds ill in UK salmonella outbreak BBC Why does Salmonella caus…",
-        "pubDate": "Thu, 20 Aug 2026 06:00:00 GMT"
-      },
-      {
-        "title": "TV tonight: David Mitchell’s crime-solving Ludwig returns",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMkFzWFNGOEVOOTFkN3EzVFRSS0hHMHhveFpfZzY4N1Q4MXFpVWpYemJWaC1sVld1WmV2YmpaeGhOdERPei1ORmM3UHA3UzQ4eGkyZk1zamZMTFlSUk9aUmx0aXpldFg3NzhxU09mSnFROTJWNHVEbkRVZkIzT00xOFA0Z1lXaGo1dm5zUWRDcTY2aXAtSFd6QWxrMGtYcmtMRWlyVjZ0ZWJJcjc3?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "TV tonight: David Mitchell’s crime-solving Ludwig returns The Guardian Rest easy, the new series of Ludwig is as brilliant as ever The Telegraph BritBox's 10/10 Detective Thriller…",
-        "pubDate": "Thu, 20 Aug 2026 05:20:36 GMT"
-      },
-      {
-        "title": "Man says childhood was 'taken from me' through fake illnesses",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xeXNpQkVGQk1kMnVfaV9sY2k4eE54S21XTEEwU1l5NkVtSXFJdkluWkJqcEpQVW04TGU5ZlZ1N0k1aDNMNW00STZfTVdka0tMaUtOQ3pUN0c2eUll?oc=5",
-        "source": "BBC",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Man says childhood was 'taken from me' through fake illnesses BBC Love You to Death review – is this all they asked the woman who faked her son’s illnesses? The Guardian 'Mum still…",
-        "pubDate": "Thu, 20 Aug 2026 05:10:53 GMT"
       }
     ],
     "🇷🇴 Romania": [
       {
-        "title": "Marian Godină anunță că a demisionat din Poliția Română. „Mi-a luat mult timp să decid”",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZF9YT1dzT1hFZ0NuSkl4Xy1HM1VCUk1FQWNNVWdkQVlvc0tOSHVwTndSMHJnLVotVmliZldwV25NekowejdyaHM4MGlnMVdESElMYlVsbnNTSGtEY1N6X0NIZ0N1dWFVS0YyWEh2WEFfV05VLXJQWG9qS3ZmZmRvRzEyQ0tYTHFFdUE?oc=5",
-        "source": "HotNews.ro",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Marian Godină anunță că a demisionat din Poliția Română. „Mi-a luat mult timp să decid” HotNews.ro Marian Godină anunță că a demisionat din Poliția Română: „Mi-a luat mult timp să…",
-        "pubDate": "Thu, 20 Aug 2026 09:37:08 GMT"
-      },
-      {
-        "title": "„Am auzit o bubuitură”. Noi imagini de la locul unde s-a prăbușit drona în Tulcea. MApN a identificat zona",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQazU0eWIwR091OEgxRUUtZG5UYk4zeHpFMzk4QTdvcEN2enZOTVpvQUJkWDVfY1RGZGFoR09veFFsU1RoT2lTSzRTY0F3ZmN2YjVMLWlKSDRJWmo4d2V1eW1RT2tjQ0J4RkZmQVBEV3Y0ZWdEUk9WM3gyWUlxaXRsQnJLVC16MHBXV3daRlhyMnhGeW50LWtWN0hJYVRXZHlZMnRWaUdVeHBhYVRhcnB5YmZRQmpkR0RHX3g0TkgySkg2T3o4RWJSb1ZjMDNHQkgySUZtQmpBWl93T0xBQXFsZWtyaW_SAe8BQVVfeXFMT3RpTi1tWE9WV3hwZ0ZjRkI2NUh3Z1BKOUlRaWJocUhadFpnR25lZlpYMVM1UGhBRUlqcXFVTWRMU1Q5Z05HTnRsbzRpS1NlNl9zWWZiZFVObVlZY3E1Z1BJNzJYWEFJckpYT3ZSSHNPdWIxX3VpZ19nTHFhYmpWM3gzQnc3aHQ5bXVQNkdiQVI1ZExPYlFjdzRvR2dNdFpTUGRmUGdmWWd2RDkySDN3bU12YUYyY0ticVItb1lNSnJjaVpXOGVnaEh0ZUxEdlhodnkyak53eFB3TmI4VnRnS1BFRmR3Unk1VW9BUTNJM00?oc=5",
+        "title": "Dronă marină încărcată cu explozibil, distrusă de un F-16 românesc în apropierea platformei Neptun Deep...",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRk5fVHlPRkxzTHE3OHJRRmV0aUhBeVRVaWJaNGVlcVBoTVlTSk9NYXhDSGtYNG5sZWtDbjRyWU81MU96Qkl4M2J0TG9GMW52X2JubzdJdEg2eS1hMjJISmxKdFdCMWlMNDZEZFVIZ090V28zcW1ldjlwSU1VSllxWlIxT1NtdHoySHNJU05EQjFsODJsM1ctZ3hOVzRsR3JGRENfREJBcDNueWIxMjF4dXJiUVFRM0VpQVpSdWo3S010VTFjc2U0RzdObWtodHdjNW5ETzNZcHFwdXdpMV92WEhDQXJlR2oxVGVMTEJxOHllNFdTTmRhdXUxY01jX1RMbVN5bnhJNNIBkgJBVV95cUxPcXpTeGx3V0ZqeFE3cDU5cTExWEk5bnBtX1lxdTJSR3BCZ1ktV0piN2ZIczZVODhvaUhRSFhNT0xfSzlnUWU2Q0VfMXpNS2lGSk1lek9xaVJoTEFoZjFpV2hyb1dNNzVnb3RXbTdSblcyYmVWOWplU2Z2VldCVVBuTjFWb0t0RExILXBwaWhTSGltSUZrVjNJVDViTkc0TWZqQTFWeGRrYm1TWkROTmxZSmROZG56VlRFb2dlaE9KaGlMbFVwNVNaVm5tWTlkS3NUellqYnFjVmlab3RaRXYzU1dKQTRKam9OT25RM3EwZVpMeE1XZXBxa01LaUVJU2prYU5qZVdCT1ZkdDEzY21vUkRB?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "„Am auzit o bubuitură”. Noi imagini de la locul unde s-a prăbușit drona în Tulcea. MApN a identificat zona Digi24 MApN: Fragmentele din drona căzută în apropierea localității tulce…",
-        "pubDate": "Thu, 20 Aug 2026 08:58:48 GMT"
+        "summary": "Dronă marină încărcată cu explozibil, distrusă de un F-16 românesc în apropierea platformei Neptun Deep... Digi24 Nicușor Dan: Felicit Armata Română pentru succesul misiunii de dis…",
+        "pubDate": "Thu, 20 Aug 2026 10:05:27 GMT"
+      },
+      {
+        "title": "Marian Godină anunță că a demisionat din Poliția Română: „Mi-a luat mult timp să decid”. Cum își...",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUVFhbGU0NWwyLUZ3b0ZJbHBKaXZ0RlNtSThIYTdhVGdvUFl3NzZBVXRYd3ZJazVzb2dDb0pOSEJuc3lvUkIxamt1TmZ2Nl84X1F3TEJ6N2pKeklIM1o1VFoxNVc0bTRpMl9TczJuX3dLcDFhSFQ2WmpZTjRlY1hIbTF5eEFaaDdXZktRYTJ0MXdSWmZrQktTUU5qWjJKMEQxeHVhLTgzdnl1cEJYRjQyUXBCM3Q0RTh3YkJHbnBrRTFsalR4Zm5VMTZuTTRsSmdmSy05Y1VJWWtVRWl5NlBFOF9XcTRZX0dYejc4eEc1cmkzcE0w0gH_AUFVX3lxTFBxbVRKTjdvRFEwNE0wWDFiR251a0ljRThSa3pYUE5EdFRIWFFUX1Q0NEdWWHJkd0llQWVtVWFuSHJDS29XQnJLcEFHczlOME5sNkdscFRZVW1PRGwwSFZJSndDTlR0UEZSRlltWTRZandSSTd2aTNDTGdnLUJHbllxcWFRWnA2VEFfVE9MVUVmaFY1RWlRT01pSzktTDdVMzVWcDRFUV8tRnhra1FvUXBuejBaekJIVTh5RVR6RDRfa3BST2NxdEFxWFVpamJMUXZ5SGdNazE1ZXd2eWN6VXZFYXNoN1RxQ3NEcVY0dThobnlnWUhmM1pOSHFpSk9ETQ?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Marian Godină anunță că a demisionat din Poliția Română: „Mi-a luat mult timp să decid”. Cum își... Digi24 Marian Godină a plecat din Poliția Română după 20 de ani. Ce mesaj a tran…",
+        "pubDate": "Thu, 20 Aug 2026 10:05:02 GMT"
+      },
+      {
+        "title": "Imagini din satelit sugerează că nava amiral a Rusiei din Marea Neagră a fost scoasă din uz",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaURJZnhuS2lYUXpHSGlhTGF3aEVLMFhWRzFNcllQc0phWXRWLTEzLWxRaDFpbVFOM2U3U1h0R2cxOGxIemtEU1FVSkdKTUVnUlJvclN6NDJYREN2UURxRmJQTUZyXzk0dWhDZF9PLWN5Q2E2ZzBUSVk0dWd3ZHhpNFJNRjNoMmxhcHJVZ0RKV1dFVXVCeXU5Nk45NlVfTGMwc2FLWlA4a3hyQUpaMVFYM1dmMHgyaWoxdVE?oc=5",
+        "source": "HotNews.ro",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Imagini din satelit sugerează că nava amiral a Rusiei din Marea Neagră a fost scoasă din uz HotNews.ro De ce vrea Ucraina neapărat să lovească în „miliardara preferată a lui Putin”…",
+        "pubDate": "Thu, 20 Aug 2026 09:38:21 GMT"
+      },
+      {
+        "title": "Imagini sfâșietoare din Kiev surprinse în urma unuia dintre cele mai mari atacuri ordonate de Putin",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYWl5WEk2S2M0NWpXYS1rOHp2TUR6V19FbDJvVkNjU29TaFZLSUtBVVdlVGNTSWJ3emY5M1h3MUdLcVY3akhwdHZLZjYxaEJXU2JXeVh3MDBBck8wcHdZNmtxdmRfNFhCUnpnOC1fNkwxYmdWSjhSaTlkUHJDTGE4VGVGZENrOG9iYjZiamFWeFc1RnA5bkFVQmcwZW9CRWFWN2tDbjZDN3FVd21OelczVmxCTmNUYjBhZFJmQkV1SWZmT3h0MWJOb1Z2NVUwaEhtZWtIZEkxR3hZdlVpdmZyMtIB6wFBVV95cUxORW5SOTVBR3laM00tb3RHc0JYbUJlQS13S2F6bFRhc2V2YXVNdWlFSHNfbC1TRWZfakZZVjhfODJsVXZBUFNDNko5YWFUT2RyaERHLXQxckFDQjZKOWJwWUxxUUVKYVNtMTduZjdLNnRqMDZ4VjBqeVpmZVJXYkdyOGhjcU91N3BuTVBsaFNDaEhkaklncTByNy00bkZTdTlFTkNqeTVXWVZqUFN3UG1XSE9KbHZKekJUcy13b1N1QS1yTU5PWnd5MTFUYmo2M1FwZlZjZnVQOG1zZVNsQVJKSGdQNVAxTURwR1U4?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Imagini sfâșietoare din Kiev surprinse în urma unuia dintre cele mai mari atacuri ordonate de Putin Digi24 UPDATE #Ucraina: Cel puţin 12 morţi la Kiev în urma bombardamentelor ruse…",
+        "pubDate": "Thu, 20 Aug 2026 09:09:59 GMT"
       },
       {
         "title": "„De o amploare fără precedent”. Trump începe un nou război cu Iranul, de această dată unul economic",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNmtEQ0hORmFPSkpUOTUzSHBYSk41bE80R2R0eG5IVU5XWFhNTnY0cmh5T0dEaXQyNXAyNlExcHktVDU4UVpOb3VoeW95TTVwS0NTU1JlX3E4Wm1qdDJiTUJSbEh0azI1UUxpQWoxTV9XaTZwYVJKeEduMGlxVzZYQUNRRE1PeG1GdW4zcndQSDdQUGtjLWhlNmVyZnBLY0RDbHpOODdTdWlsV3h0OS0yZEtuRmdwY3F5bnNvUWg1ck5pR2pFUHBhNHMwV2s0TkIwb0JqWFRSbV9rVFXSAeYBQVVfeXFMT2xVMkRfbHdDS09Ub2ZKNEk5ZEdIR21NbXpERzltNnh1MWd5LWNJaHRtQ3NWT1EyZ3ljTEIwNVlzekpQcXlQRVBLem1JU0Q5X29LVDh3Q0NwSVlZcFZGNEprd3Uyb2E1eUlHVUxfNDhGcmhQWTYyTDB6NERCOC1uUzNKWmRIZ2x2dFYyelR5VWp0eWVFU1VRWEFYMzFmcG1WeXQtaGdBVkRQS21LcktCaGNpQXJaSVdhVy1GWjdnbFU4UG52MTV6RV9GSXhRbUxGVTVVcWJOV196WndPUkIwNTc3ZTZ0MFE?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "„De o amploare fără precedent”. Trump începe un nou război cu Iranul, de această dată unul economic Digi24 Sancțiunile economice ale lui Trump sunt o continuare a 'politicilor sort…",
+        "summary": "„De o amploare fără precedent”. Trump începe un nou război cu Iranul, de această dată unul economic Digi24 Trump amenință cu repercusiuni economice 'teribile' 'orice țară' care ar…",
         "pubDate": "Thu, 20 Aug 2026 08:25:39 GMT"
+      },
+      {
+        "title": "Termocentrala Turceni a fost oprită în plină criză energetică, din cauza unor probleme tehnice",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMlhwaUFVQWwwaGlVTGZ4S1RYd21CYkVpTmZrUUFNZHBDM0JwWFhIWVNxcFpRTVU1d1BHcjQxU0k1R3pJRG03Qm5DN3YwRVRpQ3Jnd1dGYkJHdXp1MDh0NkdBdXNfUDN6OFd4cEpPa1d6N242MG1SR3NJQWlaa0ZrNmY5UUlobkJYcEhfS3lrcjdBYWNmMnpvMnVGY2Y4czd6NHktZ2YxLXdpMWlJQlpaYUtwZ2xucl9ONDFybdIBxwFBVV95cUxOMk5wSFVBTE1WNXl6d2c3UW5vNlR6a04wVDhTSU5mZmJGNS1ha3hPNU10TGpEVUtzUEFfSnBwYTB3RWFsSGk0MzhsUjZmRDVwbk9oVm1vR1BCZG1Va1ZoWGFLT2VxaXU0YWh3ZDJ0b3gxOUtrTk4wc2N0ZlNmbDNGcmR5cEktNjlpdEQ5WE1RejcxVU5XMEw2T2ZQQjRIWmFrclB2RU1TVDdjZzZzTFY1RGV1Mm9xZzBYYUJ0eGhQV0xuLVM5eElN?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Termocentrala Turceni a fost oprită în plină criză energetică, din cauza unor probleme tehnice Digi24 Încă o lovitură pentru sistemul energetic: centrala de la Turceni se oprește î…",
+        "pubDate": "Thu, 20 Aug 2026 08:08:01 GMT"
       },
       {
         "title": "Scărlătescu nu se mai ascunde. A apărut alături de Elena și a vorbit despre nuntă: „Nu voi rămâne burlac!”",
@@ -641,28 +665,20 @@
         "pubDate": "Thu, 20 Aug 2026 07:59:27 GMT"
       },
       {
-        "title": "Coreea de Sud estimează că Phenianul deține până la 120 de arme nucleare. Cifra, mult peste estimarea lui...",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSlFNSDBPbG5QRE82N283TXlGQ2xCRElNZjN4eWtyMXhQZG1yYlg4VnhiQUgtckYzX2V0R0VzbjYxRmRfZGxpU295QWZpdzZ1UGxocmZkakpxSVVsUm8tYTIzVjFkVTAwa0cwYjBxcG1CRGF3TFdWYng5RGtBVjBDbVRJVldnZEhOYmZ6TFhHcVItampuS2Vta2Q5M1JEOUJHYmxxNS1xSlNvRVJaYlFVWGh3bENuaURRd1QzWlVmOGdUNXg5ZjZ1QUU4NDBERGdqdnU0RXZTSE5mcjhyOTR5OE0yQmR6dVdSbWE3Q3A0UmFlSk1i0gH_AUFVX3lxTE9rX0ZNS3pSeVlwcHprOEdOWnVVWVB5aW4xaEVjWl9JN1p1NWxrRDNQUmxUNTFUa3RYbnVoQkFFLU5nRnpIdGdvRDVYSm91czdCYlBRcHU3SWlIQUJUeEFGTVRKdnhaV3doc2F1WlRMZjFFd3ZiRVFKSzFiV1hCUTdWMVVkVGtUMDhCYWdYUDBqdnZPalVrQVV5bDlfWV91cVJoUjc3SmRtRmUyQXp0R3pxTzJQTXR6enpPR2NsVEhJZkk4UEdEaDlXeGhhRURZN3ZzZU9MWmZVcXNfRW9VdzlqOURvNkN0VnFELWhfM2hERkFxa1J2UWZsb0lkX2hHNA?oc=5",
+        "title": "Iubitul lui Hayden Panettiere, condamnat pentru violenţă domestică, era în apartament în momentul morţii...",
+        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOcGV3eUJtNUpnYnRuc3F2RmZfY3Bsc1pOVUYtTzhFOS1RNHloNmpJQy16VWtxWlplemFrSW1sb3NSdUI3dW9fSmxWdm5DT05OdHJTUXdTbzMwV0FfNDYzNm5mR0NxVHd2Yy1lOUVGWFplUU9KVzc5eE5vZ1ZYYXVQdmJkRDduMlZkTWhndkpCeUZuYVRrM3RtVFMyRm45RDRwejFDZTJ0MGpzVkgxN3BBU1h5d1hqcG5vakRGV0YtanVjM3o5N1J4bEc1YXNYaFU3RVp4a2RqeVVQUVNWUXBtSmo3dE15NTY5N3U5YUhLRHZ2NV9IbmM5ZkpUaS1jX3FMSnR6QnBtZ0EzQVI1cHgxbGljcjRiQzg?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Coreea de Sud estimează că Phenianul deține până la 120 de arme nucleare. Cifra, mult peste estimarea lui... Digi24 Coreea de Sud anunță că Phenianul a lansat circa zece rachete ba…",
-        "pubDate": "Thu, 20 Aug 2026 06:34:53 GMT"
+        "summary": "Iubitul lui Hayden Panettiere, condamnat pentru violenţă domestică, era în apartament în momentul morţii... Digi24 Wladimir Klitschko a ”rupt” tăcerea! Hayden Panettiere a murit la…",
+        "pubDate": "Thu, 20 Aug 2026 05:42:46 GMT"
       },
       {
-        "title": "Copiii lui Robin Williams au reactivat contul actorului de Instagram. Motivul din spatele deciziei",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbW1QZGgyVmc1OTJMZUh0ZlczUllreDJPNWdWM3pOQmNNNHM2WlRmcHpIUWc2TzBId2I3Qm9oQUh4YlVqOGtfZEpqVFJfd2tDSmhxUVJGdUZIOWtQS01jVVFXSjNLRjhaam5NMnlmNHI5YjRka3d6cGQxS3MxLXpCLXBGV1lnaWtxblRYTjhpOFZLNDAyODFDakpmaFVzNEhWVTBabVpXR3doZ1phSW5VUjhoSzFRQlkwVDlvUjJnQzhEc0lFcy1zVGhuYVdodDRfbm01UEtQdUlIcXc3NGJicHRoOVU2dG82YXfSAfQBQVVfeXFMTWxHcG9hS3lHVDZla2RsOXBaaklUOG5JRTJISTdFWXNKcmNoMmJ3MlZvVGhOdzVOZjVZejNrdWYzVi04WVllOXhvZjA5b1k4R09uZVdBLVVkLTJJZ1M3OG15WFV2SHNVZGw0UVA4Tm9mODIwMzRlLWhBOEt5OUFVSHBOSVQtZnBjSmtqTGFaZmtrNm1ENjVsLXN3YmtjMTJLQVllNmpJcUZSYm5RQTFaalBDTVM2YW1aVTFKUXZQNEx1dTlndVhBT1RycmlVZDAyRjJwc0lSQTlCMVlXQ1o2XzdnQlctb19ISzBfMDdBUll2VTJ1MA?oc=5",
-        "source": "Digi24",
+        "title": "Migrena afectează mai ales femeile și poate împiedica activitățile zilnice. Tratamentul care previne episoadele severe",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcF9uSE1hTmp5REUyYVBCcjdUNFVZUzBOeTVSYmM1VzRtWUo4Ykd5dThrTnRUNmVIWmRiTHVuT0RyVktLWVV6aDNGc1RTbjMyZDhsbG5qOV90dkF3TkZQT29Mb0tEV0dMMHNMSzJnQjRvbHBmOXlHYlFVZ3VEdklkeWdPOWFfbHdPMzEyUEdGYTk3SlNEREVPN3ByeDlkbE91NXpOT0d5SnpJTUNhaWhTZzJuTXVXRWJKeUlTT05VbHQzMy1UeW9qTVJidjZqbGd0MHkzVnhkb01UaE04Z3piT1hPUk1IUnZ0THpDemhxdlluUEpkdzZaWE9Wcw?oc=5",
+        "source": "Stirile ProTV",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Copiii lui Robin Williams au reactivat contul actorului de Instagram. Motivul din spatele deciziei Digi24 Copiii lui Robin Williams denunță ce se întâmplă pe internet cu imaginea s…",
-        "pubDate": "Thu, 20 Aug 2026 05:49:09 GMT"
-      },
-      {
-        "title": "Un banal accident de mașină a dezvăluit relațiile președintei Sloveniei cu o rusoaică suspectată de legături cu serviciile secrete",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRXFGT2tUM0c5YThkU2RGOXdfNTF0VC0zcVc1NWY1OHpUV3A2S2UzSXlFT1NSSHMwdmotSTZqczJjUDBla0pDM1p0OFNwaDh3cFJ1MFM5ck5CVDdicnJaWlpyVk56LTMxQTdsU2d0X1RFTmhialpXOTZjTmxTU3NNRzZNOU54N1pQeHRzMjEtd1J1VzVvZ3h4NjhSY1RpMEctaG1iUW43MnJMdDkwWkVxREFIdVcyZFdDYkJFVlQ2SjBTSGNZYWtXVGpKdGdoVjA5Yy1yM3MxODlEZ18tS18tSjloQ3RLXzFpRHJBblBFaEppV3hhU1dxbGg4NTRlNHhSZFJVbg?oc=5",
-        "source": "Digi24",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Un banal accident de mașină a dezvăluit relațiile președintei Sloveniei cu o rusoaică suspectată de legături cu serviciile secrete Digi24 Preşedinta slovenă Natasa Pirc Musar dezmi…",
-        "pubDate": "Thu, 20 Aug 2026 05:41:16 GMT"
+        "summary": "Migrena afectează mai ales femeile și poate împiedica activitățile zilnice. Tratamentul care previne episoadele severe Stirile ProTV",
+        "pubDate": "Thu, 20 Aug 2026 04:52:49 GMT"
       },
       {
         "title": "Prințul Harry, soția sa și copiii se vor întoarce să locuiască în Marea Britanie",
@@ -673,12 +689,20 @@
         "pubDate": "Thu, 20 Aug 2026 04:34:01 GMT"
       },
       {
-        "title": "6 milioane de euro pentru un campus care nu a primit niciodată elevi. După aproape 20 de ani, construcția este o ruină",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMDRZeGtJRmo1MVpZUlNzV0dodnoyRHR1MlEtOXBja2JiYWtjU1oxSTdkMlBCQUxQWTVGcFRpMmRPZnFvV3NVcDhfLU5sakVKMWNPSTFDSndTUXFPWEtDaTZNU1FpaHYwZTBGY0tQVGlXUmdLd0cyYVdMN28tR29TdUozWjA4VFI5UUdBajc4THlHa2ctNHZfS3N1Qkx1dE1KcklvdElOay00RGdQUkhaTUFGbWVzYnE4UmR0SzAtREFmaGpqZkVscWh0U2M0b1NtVzhJX2haZjI3Q1QzWGFJempWcWFrTzlkMTBaVEtrN3NnVXRLelE?oc=5",
-        "source": "Stirile ProTV",
+        "title": "Calcă Rumen Radev pe urmele lui Viktor Orban? Ce sugerează primele luni de mandat ale premierului bulgar...",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSnFROE9ITGNUdFF6b29zajJKNm0wZ1AwRC1CcGxuLVFmYUphSWVnMlpPeXRWSDk3dV9IZ3hublhjVDJBdlFhcVVZaUdEcGtKOHNuNDJFQlZVSURuQ25UZVVrYk5TaGNWSVZha21hQk5TSUVoN0x5V2hXeW1qamhoeEw3aU95MTIwQU1zN29uVnZkNGwxSDdVUkNYcGp0cTkwQXRPeEtCWklQOUt6X3JubXE5azlOYnM3ZF9CMGcydGNScWhZR2x3OWg2V2tnVnU0M1oydTBzU1F3VmV1ajQxbVFLV1pocUhkdlBYZk8zVzBGaFFuYVhxWkJMeEFNLXg0R0g1SzV4enM?oc=5",
+        "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "6 milioane de euro pentru un campus care nu a primit niciodată elevi. După aproape 20 de ani, construcția este o ruină Stirile ProTV Arad: O clădire abandonată din Nădlac va fi tra…",
-        "pubDate": "Thu, 20 Aug 2026 04:27:46 GMT"
+        "summary": "Calcă Rumen Radev pe urmele lui Viktor Orban? Ce sugerează primele luni de mandat ale premierului bulgar... Digi24",
+        "pubDate": "Thu, 20 Aug 2026 04:00:39 GMT"
+      },
+      {
+        "title": "Mesaj RO-Alert: Încă o dronă a intrat în spațiul aerian al României. S-a prăbușit într-o zonă nelocuită...",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRWdUVG1RODNLZXgyWXZOQzFhbHNId0hjRlZTMVZQVXhGaVpKdWNsNWRXVnFfdzhXTkYzdkstNUl3N252M09MaFl1RXJqcnBGS3ZTV3RhRzNuSkxaQXdyWjRCay1hTkNUTktFSmtEMHhLdGdPRnF6MlN3UldJQzNpUVNBMTNramFJdUJhMlFWZ3dnUC1Odkw1ekFfZG9Rb1lrZk9xYWRHSVR2R1RUbnFmbVZHQUlPWHQzT1UwUlY1ZjZGRDBtLUJ2bmowSnBadmt1dzJVRzlsLVdPcE5CaFBoQ2NNWjRVcUtucEhpcllfM0F5X1Zrb08xSGU4ZG3SAYcCQVVfeXFMTUhtSndETHRFMnNqQzFFazIyRGpBeG1XYWxsNFoydjhjVmRtY3lidTUwRTRiSFVtSE5CTG5DeTJUU1BIT21MV3BNN2xaSWt2M1hkUnpqc0RYNmIwbGRQem9xbktGLXliQ0d4d3BPdDlPRTBpc0c3UlhKcU9HbzRVNFZmSmVJSW4yUC1hTzJ1SkhMRTYyVVhVdFZocmxwV3p2WW1UNURKQW9sZ2xyLWdPUElPbmFpSmM2RlpCQ0hUQW9VZjB0cF9wSjhFanBiWU83UjZxcmJqRHF2Z0EwRUxMQkNaU2E2OGUtXzBXMm54dTU3ajloSFZVZXVVUDg5UXR1Y1BTR0lkX2c?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Mesaj RO-Alert: Încă o dronă a intrat în spațiul aerian al României. S-a prăbușit într-o zonă nelocuită... Digi24 O dronă a căzut peste noapte în județul Tulcea. Primele informații…",
+        "pubDate": "Thu, 20 Aug 2026 04:00:02 GMT"
       },
       {
         "title": "Unul dintre cele mai apreciate seriale de comedie a convins încă o actriță premiată cu Oscar să joace în el",
@@ -705,12 +729,20 @@
         "pubDate": "Wed, 19 Aug 2026 19:53:58 GMT"
       },
       {
-        "title": "USR reconfirmă sprijinul pentru Dominic Fritz, după decizia CCR. Miting de susținere pentru primarul...",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdlVZbndUeTRaU0tLMDdFRjR3X3BmaF9KbGl2aHE3cEx3RzlqYjZ4N3VwZ0xRZm5vTllqbUFLd2JQZC1ZdXF4MEk5MU5GaW9nMHZJRFhnaTl5TjBEWk43cXBreERPUFFjRXNnSXpoRWUzMkdwTHNSMWlRUEVSWkFzWDZTQl9Sa2ZXdUFaUldLaEtwRmJsWHJsM0dVQVhvWjZoZTR2SklFakJfTVg3Q1BEdG9UM0RWRG85cGVnYmNZYUpoSjFkeFdWR3lZTDRfQWQwbTNPT2dPb013SGhUQTc4OVhUMFNuRUx4ZGc?oc=5",
-        "source": "Digi24",
+        "title": "Decizia luată de USR după hotărârea CCR care îl lasă pe Dominic Fritz fără mandatul de primar",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQanVTcG0yZUVpcGFGcXNoei1XOHotRC1TVHRDYmdxMFhrb0ZJQUw1QXFfZ2RBLTA4YkhRcjNmX09ULVRvMFRMbFJwcC1BR1lGRTJibkNoVkpBdzZwUm1DRjZlbTFHSWVOZmhFdTVCNmM0S0xFaU96WFdtTGJ1d01sVE9QMzBMMWRKc2NQU2x6WWJ2ZEJVU2Q4d0t0X1ItMTZMZU9TRkJjYkpOTzdwU0R1REZGaEtHV2RnbnUzTkVXbGhQcnoxZDRKek5JR0FQYU1RM2c?oc=5",
+        "source": "Stirile ProTV",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "USR reconfirmă sprijinul pentru Dominic Fritz, după decizia CCR. Miting de susținere pentru primarul... Digi24 COMUNICAT DE PRESĂ – I, 17 august 2026 Curtea Constituțională Trecutu…",
-        "pubDate": "Wed, 19 Aug 2026 16:45:39 GMT"
+        "summary": "Decizia luată de USR după hotărârea CCR care îl lasă pe Dominic Fritz fără mandatul de primar Stirile ProTV După decizia CCR, un singur partid spune că nu va mai face nimic pentru…",
+        "pubDate": "Wed, 19 Aug 2026 16:54:12 GMT"
+      },
+      {
+        "title": "Cât cântărește cu adevărat ceea ce mănânci? Cele mai bune cântare de bucătărie 2026: 7 modele pentru rețete, precizie, calorii și monitorizarea nutriției",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcW5TNnlRMjU0Y24zQktheDZFQURjTEpySWs1Q1U4b0hmMlJHZzVyYnlLWkR1TXFET0NzeS1uVWYtc2p6OEFjbU9qd0RVTGczMG8wZ0VTM1dfSk5hVC1IV0dKXzhEZWF5STVzRVJSaWhMZmtFU2xnb2tWM3VheUpWMG5YVFdYOHZsVWdlX25KSElvYkNZSU9PNnhjTk95aGJpU0huT0l5SFFQdUVNYWhRa19VaDVFUQ?oc=5",
+        "source": "Adevarul.ro",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Cât cântărește cu adevărat ceea ce mănânci? Cele mai bune cântare de bucătărie 2026: 7 modele pentru rețete, precizie, calorii și monitorizarea nutriției Adevarul.ro",
+        "pubDate": "Wed, 19 Aug 2026 16:36:30 GMT"
       },
       {
         "title": "Băuturile cu zahăr cresc riscul de cancer gastric. Avertismentul unui studiu derulat pe 30 de ani",
@@ -721,52 +753,20 @@
         "pubDate": "Wed, 19 Aug 2026 15:22:08 GMT"
       },
       {
-        "title": "Comisia Europeană respinge proiectul legii salarizării - SURSE. România pierde 770 de milioane de euro dacă nu îl schimbă",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOM3paeFpTNUdvS2tEZmN1TGxTM2tCaFdRMDZkd3ptc2JXQkhDUUN6VUw2UHhTWGhnS3dtTE1jUVJ3R0o4clZkRExUWFBiRjcwTDAzLUMzc2lsSWRpUzVyLWVFdVNRMVVnNkdPZW81QUlwRDhqd0NLald2TkJoOUMtOEtwYUtaZDZlN3ItY01MRm1SbXhkWWJES191ZmNubHlQVTZMbElKRWFHX0JKSHpucGJnT1JSYjFTdFlKVVgxTDM2ZHRzTzJIZFpDMnJUek9NNEhGZjdhNDdsQV9kNzFUeUZUekUyU1U0Q1kxLUJOR0h6UQ?oc=5",
-        "source": "Stirile ProTV",
+        "title": "Datoria României a trecut de 60% din PIB. Legea impune înghețarea cheltuielilor cu salariile și asistența socială",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT1pkVVEzakFVbkdabDZnOEVLOTJpVkhSNENzcEpEZEFUQlJaM2d2VUlaZGdnV25BM1dCeGc1UlZPc0FvNE14alpocE9WLWJQZ2lZNXhhTDJPa3NCTnpfZDk0U21GLTlycGxhY3pITW8yUnNIN1hoY3RDRzFNcGtVN09IWVh6R1FPeURzUTM1cGtCVlBYb3VFRF9NZ3ZyZw?oc=5",
+        "source": "Adevarul.ro",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Comisia Europeană respinge proiectul legii salarizării - SURSE. România pierde 770 de milioane de euro dacă nu îl schimbă Stirile ProTV Sorin Grindeanu, mesaj înaintea negocierilor…",
-        "pubDate": "Wed, 19 Aug 2026 14:57:33 GMT"
+        "summary": "Datoria României a trecut de 60% din PIB. Legea impune înghețarea cheltuielilor cu salariile și asistența socială Adevarul.ro România, între datoria publică în creștere și cele mai…",
+        "pubDate": "Wed, 19 Aug 2026 14:20:58 GMT"
       },
       {
-        "title": "Bulgaria a luat „toate măsurile posibile” pentru eventuale atacuri ale Iranului asupra unor ținte americane de pe teritoriul său",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUkZQVnRDemFRdEMxTnhMcDAxcWY5Q2Fmd19jZWRoM1R0Q2tlTnowcUlDVXk2cXhhaTJZaGZGdEtkZzdiNFNKNHM0LU44WVdXaFdvUG1ubXRBbllwOWVjVEtzNU5FdkZJcV9RVEJteUZaaGpKX3RteWJSdWtJdGZobnJ1N1dabVcySGlfb2UzTTlPejlxbDJhYnFPOE95dFNVTmJYaWFLRTB6V2p1QUlhT2hzUE9xTjhRMVU0SVpFaWo0TWg4RTk0RmxYN0o5dnRHVlJqbV9tYUJ6azN3dDlhb3hKODVPVWZK?oc=5",
-        "source": "HotNews.ro",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Bulgaria a luat „toate măsurile posibile” pentru eventuale atacuri ale Iranului asupra unor ținte americane de pe teritoriul său HotNews.ro Iran ia în calcul atacuri asupra unor ți…",
-        "pubDate": "Wed, 19 Aug 2026 14:46:42 GMT"
-      },
-      {
-        "title": "Universitatea Craiova - Ararat-Armenia la TV: Cine transmite meciul din play-off-ul Europa League",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWnNkNEllVWZyN0cyNXRkb3BNdko2YjQ4YTdFVHhELWlPRzYzUi1HeVUwTDVybHNhVXY2ZVdkLUx4YkRfVUhBZkkzZENIeU9qa2w5TGM2LVhyUkZnS1NmRFJjV3Y2Z1JmakJqbXVsRHk5Zkt4dXVLYU9CRHJxdlN1MzZSUV8wUXd4YUNtYVlSYXhLVlpwRGJrcUgzbmxnTUhBb1R2dDVLbVhTLTBDeGU1UHNUMjE5SzdYT1RKdWRtR2xrQ0Q5UWc?oc=5",
-        "source": "Spotmedia.ro",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Universitatea Craiova - Ararat-Armenia la TV: Cine transmite meciul din play-off-ul Europa League Spotmedia.ro Universitatea Craiova - Ararat-Armenia LIVE TEXT, ora 20:00, digispor…",
-        "pubDate": "Wed, 19 Aug 2026 12:06:04 GMT"
-      },
-      {
-        "title": "Noile reguli pentru admiterea la liceu, contestate în Parlament. PSD și PNL cer amânarea, USR propune...",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxONmxRa0JicHlzRjctbnZkdXpMYzBJUTN6T3hXazYyZ3IwTlhsWktCTnl2Zm4yZG90Rk5iYkF4b2I0VFI0bm5RTDBsUEdwUW1KNWI2RllMSDJrclFGa0xNcEpzSWh0QUNwOGJYX3I1c2xKakp6bnNHRDZ2ZFUyeGxucHhSV2dXZ01hdzlRSVRXblByaDJUSUFvNVJod2JyakhVTmtwdWhycXY4V0FuaXBGc3B2anNRMi00UFV4SlFkb1Qxd0JWYmg3bjVNNkdNQkVVQUhZcUYtOTZJSkU5UHNqQWRqcnFKZHg3YlhDOUlRZWhqd0p5cURxcHI2MlMtTEZOM2xpUTI2alk2QdIBlAJBVV95cUxNMFlwSW9lY2haZXEwTkU5eWc5WkNqQjlQbWtGbWdrM1ZlbVVSNXpWRXMydEoxdURyN1FDcWRjbzVycWhOcHFLdlJUYkNUVDVncXBndlZLNzFZV0gyeDZqQUFlQlpXem85WndDRVVnUjdLNzRhblZTaWZqby1lOGRxWE83SzZtNGEtdWhGbldQYUR1cm1XSlBlNlZZSi1WU0w0bDdVeEJjZUhzSmNfamR3RmlESl85Z1ItZXRTMDFDUWF2ZG1LMi1lY2tiZXZQQlZvRzcwYm1yS3BDZXdOR1drSDZOWEVwRkFXRTZ2QmRKUml4ZzJkUXRPdkVfa3hhVG1RRjVSd3FiU2FUczRveWZwcnFyWHc?oc=5",
+        "title": "Bulgaria își întărește apărarea de teama unui atac iranian. Teheranul ar putea viza obiective militare...",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeGZRYkxtWVNYNjlJRUREQUQ3SnpBUVFWSURrVmZQeUhqMjFrSU9nRWd3UnRHMWY5aUtORXVhcnEyWnRmc3FOSkVZQzA3VzFPbTRHWG5DQV96aXdnb2tYa2JONkhVZ0I1cUVoeFBjbjZ1SF9pcFVxckhOdk9zZlozTDFzSzhRbE1FdnRoZVZpdWZ0NEY3WjJSOWlMQjc5QlpuRzdaa3owZWNNYWRUWEp3X3JEcHdLek1iVEtaVjJrU0M2M1lIVWU4aGJJaGpseHpKUFd4S0JXSHZqazR6anV4dE1MalFQNWNCRGxN0gH2AUFVX3lxTFA4MEJ3dUV2ZkdOc2hHRml5WV9xYXRCVGhrOWlQRTNGNnJ6R3Mtb25BMXIwV0YxUVF4Yi1tS2FXc3Rjc2J2MXNnbXhwRDVHZ3VhLXoyNExyME9MYThwZThHZVUwUnR1NjB0OE5EbEhpMy1hbmozWW53Z2RiV1dNMHNHYlQxcnN5Zk1VMUhEX2JkVFMycExQSmttNG9tS25uc3hwTG1Pc0p2QWpMaDVSYnpabTJxNFBCWHdQTlBGdUFxNm9uZmlxTzJCYW4tWXluTEh2UTBnODM1TFFTMFgwWWtKZ1NlcEZOd2pvWldWLWtydm4tOHd0dw?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Noile reguli pentru admiterea la liceu, contestate în Parlament. PSD și PNL cer amânarea, USR propune... Digi24 Directoarea de la „I. L. Caragiale”, despre schimbarea admiterii la…",
-        "pubDate": "Wed, 19 Aug 2026 11:22:13 GMT"
-      },
-      {
-        "title": "Prosumatorii critică proiectul AFM pentru finanțarea bateriilor. „Poate produce discriminări și investiții...",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdmluRURXdWRqdm1XdnpwZ3dta1lzZU9ublNESFktaXdOUlpTMWlHVTF5NnZsQ2FraTBMVTkyanhxOFhJQnhNNkFhcmh0ZFA0WDNyTEkxMnBOMU1HcGZyWTEwNEZoRTM4YnFUMW5LYWZlSzByTHdXT2VCWV9UeFY3S29MOWw4Tk9uU3pXSlJjdUpsbkRkSl9mS2t3U0k0OGVDQUJSWmtyemJfbWFHRnlkZGJraWkwbU9RdHNkZjMyZ2xROUNIdGVVMUo0VkFoT21jU3dPODNGSnQ1bm1OWU1FMldmSmVsUDA1eWdVTmNGbDg3cE96MWZkbHBiSnRDY0dLcDQw0gGOAkFVX3lxTE95a09JY2x6clpQTldpZ2Zya0pBZWVGVFhxaXZoRGpEaVZmQzhuNzB4eVNieWNXRG5jdGRTM0F3TXVVR3E4Qnh3N0xjX0hGc09NdHN2dENKXzNvbGQ2ODhDM196aGFrUWd6ZHNCYmZ4aHNPOW9EX3R2UGxDZER6TDlYX0FBSlN4RGxfeExaR0FOX1FTSTVsRjRuQTlEMEY3MV82enB3cUhCaFZZcnlLQURZX2NXbkFyeHpJWGl4RkNRMW5hLUZlYzE4WTNIZVRNazI1UmJyX0FqWFp4em5VZzdqeHF1bFZkeXFtY1l6WVBNeWU0allNSHh0VFNpQjRDQk8wdHhmSEhNYXA5NHBzQQ?oc=5",
-        "source": "Digi24",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Prosumatorii critică proiectul AFM pentru finanțarea bateriilor. „Poate produce discriminări și investiții... Digi24 Diana Buzoianu: Punem în dezbatere publică programul pentru fin…",
-        "pubDate": "Wed, 19 Aug 2026 09:30:13 GMT"
-      },
-      {
-        "title": "Aproape toată țara, sub alerte de caniculă, de joi dimineața. Temperaturile ajung la 39 de grade. HARTA zonelor vizate",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQak5WN1VMd0FzLVJjQkZoYVFTYlA2VW1MTHF6Y3d5NmFiZ3M0NUxzRnFGSTVJdUFEOFJCYmZEOEVvWjR0OVIybU5saFpVckNrbTZ6UEl0VEFxRURNSWNiTUhTMUJ2V25HODBQTWdxdUk1aFBpdnktMU5VYUM2bFpCQk42LUdOM19yU0x6bVd2eEl5VXZNU0h1ZmRLdFJuT25Scm5BM2c0T2VUelBYOE4zSG9Sb3VDRU9LY3ZFaDRhVUNnenZudm5iMUd6d2E4blpRalJEQw?oc=5",
-        "source": "HotNews.ro",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Aproape toată țara, sub alerte de caniculă, de joi dimineața. Temperaturile ajung la 39 de grade. HARTA zonelor vizate HotNews.ro Aproape toată țara intră sub cod portocaliu și gal…",
-        "pubDate": "Wed, 19 Aug 2026 07:27:52 GMT"
+        "summary": "Bulgaria își întărește apărarea de teama unui atac iranian. Teheranul ar putea viza obiective militare... Digi24 Iran ia în calcul atacuri asupra unor ținte militare din Europa dac…",
+        "pubDate": "Wed, 19 Aug 2026 14:09:59 GMT"
       },
       {
         "title": "Chiar și o singură arsură solară intensă îți poate afecta sănătatea pentru totdeauna",
@@ -786,6 +786,30 @@
       }
     ],
     "🇲🇽 Mexico": [
+      {
+        "title": "La “gran estafa” de Peter Navarro",
+        "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/08/20/la-gran-estafa-de-peter-navarro/",
+        "source": "Enrique Quintana",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Antes de que en 2018 el primer gobierno de Trump impusiera los aranceles de la Sección 301, la brecha entre el arancel aplicado a China y el aplicado al resto del mundo era de meno…",
+        "pubDate": "Thu, 20 Aug 2026 11:05:49 +0000"
+      },
+      {
+        "title": "La geopolítica de las rutas",
+        "link": "https://www.elfinanciero.com.mx/opinion/raquel-lopez-portillo-maltos/2026/08/20/la-geopolitica-de-las-rutas/",
+        "source": "Raquel López-Portillo Maltos",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Ormuz, Taiwán y Panamá muestran cómo las rutas estratégicas se han convertido en espacios clave de disputa geopolítica.",
+        "pubDate": "Thu, 20 Aug 2026 11:00:00 +0000"
+      },
+      {
+        "title": "CBD amplía huella",
+        "link": "https://www.elfinanciero.com.mx/opinion/claudia-olguin/2026/08/20/cbd-amplia-huella/",
+        "source": "Claudia Olguín",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "CBD concentra nuevos proyectos de oficinas en CDMX, mientras Insurgentes gana terreno ante la demanda y disponibilidad.",
+        "pubDate": "Thu, 20 Aug 2026 10:30:00 +0000"
+      },
       {
         "title": "La cuesta de septiembre",
         "link": "https://www.elfinanciero.com.mx/opinion/mexicanos-primero/2026/08/20/la-cuesta-de-septiembre/",
@@ -961,30 +985,6 @@
         "sourceUrl": "https://www.elfinanciero.com.mx",
         "summary": "GTA VI sufrió una nueva filtración de gameplay y su mapa. Rockstar Games y Take-Two ya toman acciones contra el material difundido en redes.",
         "pubDate": "Thu, 20 Aug 2026 03:02:43 +0000"
-      },
-      {
-        "title": "México mantiene protección legal de sus costas",
-        "link": "https://www.elfinanciero.com.mx/nacional/2026/08/19/mexico-mantiene-proteccion-legal-de-sus-costas/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "La ley tuvo su origen en una iniciativa del entonces senador del Verde, Jorge Emilio González.",
-        "pubDate": "Thu, 20 Aug 2026 03:02:38 +0000"
-      },
-      {
-        "title": "Trump le baja a su ‘beef’ con Canadá: Analizar bajar arancel a autos de 25% a 15%",
-        "link": "https://www.elfinanciero.com.mx/mundo/2026/08/19/trump-baja-su-beef-con-canada-analizar-bajar-arancel-a-autos-de-25-a-15/",
-        "source": "Agencias",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Trump y Canadá avanzan hacia un acuerdo comercial que reduciría de 25 a 15 por ciento el arancel estadounidense a los automóviles importados desde el país vecino.",
-        "pubDate": "Thu, 20 Aug 2026 02:41:59 +0000"
-      },
-      {
-        "title": "Nomás no aprenden: Detecta UNAM 22 intentos de trampa en examen de control en CDMX",
-        "link": "https://www.elfinanciero.com.mx/nacional/2026/08/19/detecta-unam-22-intentos-de-trampa-en-examen-de-control-en-cdmx/",
-        "source": "Fernando Merino",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Los aspirantes de la UNAM que hicieron trampa intentaron usar el celular en el baño durante la aplicación del examen de control en CDMX.",
-        "pubDate": "Thu, 20 Aug 2026 02:17:44 +0000"
       }
     ]
   }
