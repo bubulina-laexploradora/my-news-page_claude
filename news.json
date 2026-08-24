@@ -1,30 +1,78 @@
 {
-  "lastUpdated": "2026-08-23T23:08:20.572Z",
+  "lastUpdated": "2026-08-24T00:29:17.041Z",
   "regions": {
     "🌍 Global": [
       {
-        "title": "Australia news live: shark attack victim thanks donors after ‘incredibly difficult’ recovery; second fur seal dies of suspected bird flu",
+        "title": "Tokayev allies head for landslide victory in Kazakhstan elections",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Exit polls give Kazakhstan’s pro-Tokayev Adilet party about 70 percent of the vote in the parliamentary elections.",
+        "pubDate": "Mon, 24 Aug 2026 00:12:21 +0000"
+      },
+      {
+        "title": "Australia news live: Joyce says One Nation MP got migration policy wrong; second fur seal dies of suspected bird flu",
         "link": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
         "source": "Nick Visser",
         "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Leah Stewart lost her arm in a great white shark attack at Sydney’s Coogee beach. Follow today’s news live Get our breaking news email, free app or daily news podcast Thousands of…",
-        "pubDate": "Sun, 23 Aug 2026 22:40:36 GMT"
+        "summary": "David Farley said on Sunday that party’s migration policy is ‘not too different’ to Labor’s. Follow today’s news live Get our breaking news email, free app or daily news podcast Al…",
+        "pubDate": "Mon, 24 Aug 2026 00:03:36 GMT"
+      },
+      {
+        "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for services provided by Iran.",
+        "pubDate": "Mon, 24 Aug 2026 00:00:00 +0000"
+      },
+      {
+        "title": "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaFU5eGhHTHlWTGEwdF9hVzNLSFJMR2hZWTRFOGQ0aFNvVmFzaTFsRmRGa3JPZVhFcFFfeUs3YmRCYjBtNDZmYi15WF9xLUpjeDJXYThlaUFTNU5ISkMtTDl6MUo3N25rSmRWbXVpN1dhdzJ0QmpxZGFKRDMwcmlWaS1IOTVEM1NwY05Xdjd2ejZJcG13c2NjRmVrVHJZNEEwYTVmYW5fb0I3Zk01eGgzMjE0dHpDUjlrVFFzUVpKdlN4QjFoZVZ6dDBR?oc=5",
+        "source": "Reuters",
+        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say Reuters Israeli strikes kill three, including child, in Gaza Strip France 24 One reported killed in…",
+        "pubDate": "Sun, 23 Aug 2026 23:09:09 GMT"
+      },
+      {
+        "title": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
+        "link": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
+        "source": "Kiran Stacey in London and Dan Sabbagh in Dnipro",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine’s capacity to make its own long-range missi…",
+        "pubDate": "Sun, 23 Aug 2026 23:01:45 GMT"
+      },
+      {
+        "title": "UK productivity growing faster than official figures suggest, thinktank finds",
+        "link": "https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation",
+        "source": "Heather Stewart Economics editor",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Resolution Foundation suggests economy may finally be emerging from shadow of 2008 financial crisis Productivity in the UK – a vital measure of economic health – is growing more st…",
+        "pubDate": "Sun, 23 Aug 2026 23:01:45 GMT"
+      },
+      {
+        "title": "Government vows to make business rate valuations for pubs and hotels fairer",
+        "link": "https://www.theguardian.com/business/2026/aug/24/government-vows-to-make-business-rate-valuations-for-pubs-and-hotels-fairer",
+        "source": "Lauren Almeida",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Review will look at improving system for English and Welsh hospitality venues before next revaluation date in 2029 The government has promised that business rate valuations will be…",
+        "pubDate": "Sun, 23 Aug 2026 23:01:45 GMT"
+      },
+      {
+        "title": "Londoners Find ‘Horrendous’ Cracks in Their Homes After Successive Heat Waves",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONjZ1eVBiMjRmbXdCMkhqR0hPTWRVb2FYXzh5b0NwOU5BT0pJTXlESUR0LWFVc0pPNktMb2QxZXJONVdlUWxvdVluRXpWcTF2T1hNZWhXOFNVaFpEamdsdFNSdFZneWJCMHFMaTF0WDZaNTR0R0xWTVVEbjVNSnoxWTFGWm52WlVHN0FqOVhpQnV2NnpWa195bDBoQU05N2gyekdFeDJiRWhwTWxqWFE?oc=5",
+        "source": "Bloomberg.com",
+        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Londoners Find ‘Horrendous’ Cracks in Their Homes After Successive Heat Waves Bloomberg.com Record-breaking summer: what climate change means for UK property webinar Today's Convey…",
+        "pubDate": "Sun, 23 Aug 2026 23:01:00 GMT"
       },
       {
         "title": "Landslide at waste mound in Guinea capital kills 30, government says",
-        "link": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-        "source": "Reuters",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30…",
-        "pubDate": "Sun, 23 Aug 2026 22:16:53 GMT"
-      },
-      {
-        "title": "A landslide at a landfill in the capital of Guinea kills 30 people, officials say",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0pXVm1oUkllY1YtOXY4MGZjMzBQWFg2V0wwU3V1YVFyalZ1V3BEbGRvckdhYlFSUVRIb3p5WFJHQTdmZ3l6dnBIWlg4OEtnOVRvaU05R3VVWlAwNm9jSnNIS0RydXlFTVBfWkZWaG1vdDFkcHRtaUNINmlLMjFSUjVRc1dGLVd0dkVDWlJsVDRSbEZGcGZZNFR1X0FoMkxDOEE?oc=5",
-        "source": "AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0tsV05yazNDM012ZzdqN3pNd2tHMG9WVlhwZElYUWRqXzRZZzA3SG9sRmNlRVpoRVVHLWxuWU9kaXg2OTlTQkRpNTY4TGtZU1FIYTVsMFJzbm5UZmhkTXBjekVrdldqdzRWTU1uaFFnbXQtczNUNThvbGh5UE5IdjhoMXNqRThqY0ZNWmhnaFJTWXBpLUd6U0R1TQ?oc=5",
+        "source": "The Guardian",
         "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "A landslide at a landfill in the capital of Guinea kills 30 people, officials say AP News Guinea rubbish landfill collapse kills 30 in Conakry BBC Guinea landslide kills 30 people…",
-        "pubDate": "Sun, 23 Aug 2026 21:36:00 GMT"
+        "summary": "Landslide at waste mound in Guinea capital kills 30, government says The Guardian Guinea rubbish landfill collapse kills 30 in Conakry BBC A landslide at a landfill in the capital…",
+        "pubDate": "Sun, 23 Aug 2026 22:19:31 GMT"
       },
       {
         "title": "Will Donald Trump’s new sanctions against Iran work?",
@@ -47,7 +95,7 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWlLaGVNcmhJc1FQWlhVN2ZSdkl5MEg4a3lVSDAyUmUzS3BuNTNRa3BqSTR0TEhIR0N2ZG9oWkVyamhsRUUzdDZkWDB0TkpyWjZPS1RtTmVwNk94ZllJZWROX2J2dFMyTEdFc1ZzOFA2eno4TFFSUXE4SE15Zm81MUV2YnMtaGZIZXNfSUp0Q256S0tfd3lnUkdtZXcyaXl1Slc3eU5CRGdLR29u0gGyAUFVX3lxTE5QRVRKT2VqVVl3d0NfRHV0SlRqM3Z6RGc3djVfaUw3UTZOcXNCR0ttVkxxeVUza0E2R2kzbDNBQjY1TVZIRVJIc05ORW11WmwxUlY4NHVIaWVjYmRoUk5BZVZRMmpGTE5EWmVsMEluTmRUUEw2T1dCMGdmcFAyQTM3U2llRkdlMWdjak1TN0FpRGYzS3hycUt1STdubUtqdFdWQjNBODJyS1hQZU9hMHA5T3c?oc=5",
         "source": "Al Jazeera",
         "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied Al Jazeera US ambassador to Turkey breaks with Washington on Israel's occupation of Syria's Golan Heights Middl…",
+        "summary": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied Al Jazeera After defying administration policy, US envoy downplays his remark that Israel occupies Golan The Ti…",
         "pubDate": "Sun, 23 Aug 2026 21:27:04 GMT"
       },
       {
@@ -63,7 +111,7 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAySmlNZWUwSzJld0VHQ0lzMS1Uc3R2STFmWTVhaENuMHNMRGN6MFNDd055RjJELWtaNzI1aXBSMXhvNjNCTWJFdDVfVUw2OGZzbm9sLUR3bFctQQ?oc=5",
         "source": "BBC",
         "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Reform says it will prioritise British-born young workers for social housing BBC Reform says it would put foreign-born UK citizens lower on social housing list The Guardian Reform:…",
+        "summary": "Reform says it will prioritise British-born young workers for social housing BBC Reform says it would put foreign-born UK citizens lower on social housing list The Guardian Reform…",
         "pubDate": "Sun, 23 Aug 2026 21:07:47 GMT"
       },
       {
@@ -135,16 +183,8 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmk4RXNwQ3ZEcE83VDdoSXlkY1loZHpVS180SnNOQXBLb0E3dldtcm0tVWQ5ZXZmYUF6dEM3Ml9mdHotUE9PVlU5dUUxTVFuU3V6NFJwbkprMEpxUkJyNlk3S2pLZl9STjV6aFlLbFRYSG9BNzFzRVoyS0l0aUxzRU4wYlBZYkZ1SHZWak9kYjJOV3lkQ19QbzN2aGsxZ0NQNXhPd3o4bDU?oc=5",
         "source": "AP News",
         "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Indonesian police arrest 72 people suspected of starting forest fires AP News Indonesia prioritises Kalimantan region as wildfire hotspots rise Reuters Indonesia bolsters troop num…",
+        "summary": "Indonesian police arrest 72 people suspected of starting forest fires AP NewsSee more headlines & perspectives on Google News",
         "pubDate": "Sun, 23 Aug 2026 19:27:00 GMT"
-      },
-      {
-        "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEVVUWlzZUFXVmhmamNqb3VmWk9vVUMtRTZvZmlXMXQ2Q3FGT2l6TzZIZ1l4UU8tQzFzNGV3Nms3ZmQ0NnJPZU1jNWFILWVxaU5xczdaSk1aUnBHdVJ1UmFFY0RtaFRwNndlNlZ3NGhiLUpsQTVabGFaZVlwZ2psWU1YY2JGYmVNd2VlTXFoR1lJWDRHQjVV?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy The Guardian Zelensky should be asked what he knew about government corruption, ex-minister Mykhailo Fedor…",
-        "pubDate": "Sun, 23 Aug 2026 19:24:00 GMT"
       },
       {
         "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -161,49 +201,17 @@
         "sourceUrl": "https://www.aljazeera.com",
         "summary": "Senior Colonel Zhou Bo and Sreenivasan Jain discuss China's vision of a fairer, multipolar world and work towards that.",
         "pubDate": "Sun, 23 Aug 2026 19:00:56 +0000"
-      },
-      {
-        "title": "The ‘ordinary’ woman accused of assassinating a Russian commander in Crimea",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTXcwYmF3aFNXQm5ub2lfY2RVRXI5T3h1dHhkYVpCR28yYmJ3VGl3RDRJOFh4OVNvRmdUVS1Fd3l2LXJzVDBscWM5M1FTUFpCcGZtWk56RzVKX0o3UlhQVy1WYlB0bjhJNGZ6SmNQTUhhNXVCeTlXUS1jd0FIbk9DbjZkYTFrSkctUDNTWmVpenU4S0xjTTA1enNwTXZXbHFDQ3B0Y3FhQlBTQURBOFZvZFA4Y2xSNUVMdG5yd2tNWGE?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "The ‘ordinary’ woman accused of assassinating a Russian commander in Crimea The GuardianSee more headlines & perspectives on Google News",
-        "pubDate": "Sun, 23 Aug 2026 19:00:00 GMT"
-      },
-      {
-        "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was killed by Israeli gunfire during a raid.",
-        "pubDate": "Sun, 23 Aug 2026 18:47:11 +0000"
-      },
-      {
-        "title": "A powerful country on the other side of the world is quietly shaping Trump's latest trade fight",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXpWZllXejZ6T3FtZF9BM3BrSWtzLVBTdlRhVjFnZnllaGVLdGNQV3B1WTZpTXI3bzNFc1F5Zk1nX19yU19JcGJKaXhKbExnNzVwR09ZQjZ3OVVoVDdMZFhEYjgzSi05bW8yczVLWVk4azZ0LTZzejFSYTFfV1NRNlpacmotRTVKSDhqVU9jdEtmTFdnSHl6OXMtTFN5MVdsREJKNE05ZkVsa0pna3BjNnhB0gG3AUFVX3lxTE92bkFRbEV2cmV3SVk5VWY0S29FaERrb0ZyMHh3ZktUYlZ4TWNGOE9heGhwV2d4UlpYMXlTdVNFeGVOdTBzN3U0TktHcmNJZERvdjZnV1hyRUlBNU9CbjRTY2ZkRVNiOGRNZGJTdzM3V3dZenE1NTBNRXEtMnhVTGhSZjhodFM2SGw2ZElfemtmRjVsVFFvbWxTTWpOeFNadVVQSHRkZW14YVpTb08yMUNDWDVBRWtEUQ?oc=5",
-        "source": "Fox Business",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "A powerful country on the other side of the world is quietly shaping Trump's latest trade fight Fox Business Canada launches a ‘Chinese-styled counterattack’ – a heavy blow: Global…",
-        "pubDate": "Sun, 23 Aug 2026 18:41:00 GMT"
-      },
-      {
-        "title": "They turned 80 and decided to travel the world: 'It really has been fun'",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQm94c1JDbVdBT3cxdVQtdVpDMWdLckd2bjZpMmtTVVBuWmdsRG5tZE1HNWlLcV9jMWJXUEJGeDVyd3pSUUVSLVNFZklJRUlUTnlERktQSGVDNUxmZlhwSXJOaUtaejdPSnYxY19pTWgxSFhUMnoxYnQ2amZ3anlmdl9FT3RBVjFBYVNvOUIwbl9HakpoRTktN2ZB?oc=5",
-        "source": "USA Today",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "They turned 80 and decided to travel the world: 'It really has been fun' USA Today",
-        "pubDate": "Sun, 23 Aug 2026 18:28:00 GMT"
-      },
-      {
-        "title": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.",
-        "pubDate": "Sun, 23 Aug 2026 18:27:46 +0000"
       }
     ],
     "🇺🇸 United States": [
+      {
+        "title": "Universal’s New Coaster Is a Scream. That’s the Problem.",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRE5ZdFB1aklpM1hudFo3d0VOQTlLYUpZR1VTUmRIUjdiOG5tUDNwOUZYLUJaVWhsejJqaWxYMWVYSHFPMlJZOEYzc1Axd19XUWRnQnk5YTFWQkRHWFdGdHM3MF9KMUx6TnRJdmV6T2p1YTBMYXYzdGZyc3Y0YlVwekphVzJ6cEpmNzhFTTc5Umc?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Universal’s New Coaster Is a Scream. That’s the Problem. The New York Times",
+        "pubDate": "Sun, 23 Aug 2026 23:58:42 GMT"
+      },
       {
         "title": "Harry and Meghan See Their California Dreams, and Riches, Fade Away",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5neU90eFFVdHNGV1pXdHJORGR1aEIwQlpQc0FKUEJxWi0xSWtQYWR1bU9TV3dBSFNuSDQwcW1jYzdJSWYzaFg4RkR0VTluZ19sQTNvS081VjNNUmJ6R2JNaUhiUUtsX09jc2E2b0RmajJadjdtYW5KSFEzcGt2UQ?oc=5",
@@ -213,12 +221,20 @@
         "pubDate": "Sun, 23 Aug 2026 22:21:11 GMT"
       },
       {
-        "title": "Bunny Levine, actress known for roles in \"Gilmore Girls\" and \"La La Land,\" dies at 97",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45SnBaRDZENlBuZjJNaUtjajdmZWVLQzJsZnJpcTdsSEtjM3F1MU1jMnVuZGlBQmdqYkdJVkRrSjlZSWw1ZlcyQ0JzVU11Q1lCbzdoVloyejVIUURScUhra0s2RFI4REFPMk5MVGNPVFFOTTluajNua2VpekU?oc=5",
-        "source": "CBS News",
+        "title": "3 Cyclists Die in One Week in Hit-and-Runs in New York City",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40aV9uUlloTG5UNkFrb29Gcy1DU2YxYnBtMWhJVTB2RTZLZWxUeXdJem5XZ09VR0d1Y0w2XzlqNDhxTXBJbXpFMWxxLWFMS2hOeXRlTjBTUXlpelB3Y0tSdnVEaGlZdUlTSFZHS1ZPOXpZc3hoUm5RQ3FFY2w?oc=5",
+        "source": "The New York Times",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Bunny Levine, actress known for roles in \"Gilmore Girls\" and \"La La Land,\" dies at 97 CBS News",
-        "pubDate": "Sun, 23 Aug 2026 21:42:26 GMT"
+        "summary": "3 Cyclists Die in One Week in Hit-and-Runs in New York City The New York Times",
+        "pubDate": "Sun, 23 Aug 2026 22:19:12 GMT"
+      },
+      {
+        "title": "Raiders running back Ashton Jeanty leaves practice with apparent injury",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbGlPUGJtenRmaENlMmlxdHhXS2NuU2w4N2RieUJWdXh6UVh0a0dKcDhTQ3RYN1BuUmtPOU95Q3ViNEhfZjYtUXF6Z3ZNcHB5Y3JxdjRuUEhEN2V6RWxoSnhvNHhETFRjMDlocTlqekIwams1TFM1UGFRcm9Zb1dtcUtiZ3FMSEFuNXBtQUlyc1JWS1M2Yk0wSjNn?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Raiders running back Ashton Jeanty leaves practice with apparent injury The New York Times",
+        "pubDate": "Sun, 23 Aug 2026 21:55:22 GMT"
       },
       {
         "title": "Trump’s Economic Approach Draws Concern From Some Republicans",
@@ -227,22 +243,6 @@
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
         "summary": "Trump’s Economic Approach Draws Concern From Some Republicans The New York Times",
         "pubDate": "Sun, 23 Aug 2026 21:17:40 GMT"
-      },
-      {
-        "title": "Tropical Storm Moke expected to bring up to 15 inches of rain in Hawaii: Maps and projected path",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UNXc0RjhPNGEycEJfcHJjWURXY0huM1l0TEhVOTRVb1BTOGt6dXFQTnJaby1vZ0YyZFJ2RjFkMUhJcFNhNUZTLXVnS1NSWlAxMVNuUUZwVVlubWduWV9leUFJQmMxNS04OWRKS1liazk5SlRGbklWaEp3VkY?oc=5",
-        "source": "CBS News",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Tropical Storm Moke expected to bring up to 15 inches of rain in Hawaii: Maps and projected path CBS News",
-        "pubDate": "Sun, 23 Aug 2026 21:05:56 GMT"
-      },
-      {
-        "title": "The day Olympic medalist Jenny Simpson’s heart stopped",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWNDTW5Ba1RualAxNTdrTS1lRV9BNVdGNmc2S2dHWHRXWDY1MkhydG5iMDZVWlBJbG9xQmdrbi03REJOT19hd1U3MzBpS3dwdURzZERzcWxNUHU0cndHMjdkNGFYNXoxc1BSbEdNRXlyT1c3WVJVNEd0RUVqSF95d1ZYQjFPcGFWRGVGQ1RkNV9UZFFaUVJTdDJLbUFJT3l3?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "The day Olympic medalist Jenny Simpson’s heart stopped The New York Times",
-        "pubDate": "Sun, 23 Aug 2026 20:39:00 GMT"
       },
       {
         "title": "Shohei Ohtani’s return to the mound is imminent. How will the Dodgers manage him?",
@@ -259,6 +259,22 @@
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
         "summary": "The Price of Bread The New York Times",
         "pubDate": "Sun, 23 Aug 2026 20:26:29 GMT"
+      },
+      {
+        "title": "Bunny Levine, actress known for roles in \"Gilmore Girls\" and \"La La Land,\" dies at 97",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45SnBaRDZENlBuZjJNaUtjajdmZWVLQzJsZnJpcTdsSEtjM3F1MU1jMnVuZGlBQmdqYkdJVkRrSjlZSWw1ZlcyQ0JzVU11Q1lCbzdoVloyejVIUURScUhra0s2RFI4REFPMk5MVGNPVFFOTTluajNua2VpekU?oc=5",
+        "source": "CBS News",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Bunny Levine, actress known for roles in \"Gilmore Girls\" and \"La La Land,\" dies at 97 CBS News",
+        "pubDate": "Sun, 23 Aug 2026 20:23:36 GMT"
+      },
+      {
+        "title": "Expert says Illinois politics are to blame for failure to secure stadium for Chicago Bears in state",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmM4UTF4c202SUhOUklwdmFtMTJTZG1kWnJmQ2dRMURoLTAyRTh1NEQtUHBRVlRlWmVIdHVzem1YcU5vVTFQdXRkQ0hPNEN0OFhHSGIxSWludV9oN1B5UTBGb0lRUWJRRWNibDFkQlRGVkx2RktwbnQ3TTZ1Y0ZTYjRDdUZjQVZRZzQtbF82Yl81MklvM3k4NFkwZExHT2lHa1J5RmxRZVQ?oc=5",
+        "source": "CBS News",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Expert says Illinois politics are to blame for failure to secure stadium for Chicago Bears in state CBS News",
+        "pubDate": "Sun, 23 Aug 2026 19:54:33 GMT"
       },
       {
         "title": "Breaking down Aston Villa’s shocking Brighton collapse: Woeful defending and a Joao Gomes nightmare",
@@ -317,20 +333,20 @@
         "pubDate": "Sun, 23 Aug 2026 17:08:07 GMT"
       },
       {
-        "title": "Transcript: Dr. Scott Gottlieb on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV25FUkFMSjVHYVpwVk1tQWFsdEpoOVJqa0dhQVJfUUFqNFhfOTBsLTZxc0kzOUtPN2FLazdKNkoxbUJYWlhjbEs4LXNjVmNWcS1LTGNRLUNQVXVSMW5LZ3h6U0o3enl0T2xKUHgtQjFuT2tZdUlwQzZ3cGYxZGpPeWg1cHZDcURfOXc?oc=5",
-        "source": "CBS News",
+        "title": "Diego Maradona’s ‘Hand of God’ ball sells for $3.35 million at auction",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVWRLaUVkRE5lUU40TndQa1A3a3YtbXU2UWJGTG1Kak1RRVVjeFJjckJwMGJ6ODdvdVY4MnpKNDZWZ0dtMVkyT2xhWWgyanEzMUExM0FPMHhyZzBLeFA3U3VTLVFLZGVUeW05c3RxaXI2cFl0RlN0ZHV3UnFuS1BLRUk1MmU4c1pKeDFheA?oc=5",
+        "source": "The New York Times",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Transcript: Dr. Scott Gottlieb on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026 CBS News",
-        "pubDate": "Sun, 23 Aug 2026 17:07:00 GMT"
+        "summary": "Diego Maradona’s ‘Hand of God’ ball sells for $3.35 million at auction The New York Times",
+        "pubDate": "Sun, 23 Aug 2026 17:00:45 GMT"
       },
       {
-        "title": "Transcript: Neel Kashkari, Minneapolis Fed president and CEO, on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVEliV2c0VlZybVNvaEljYVZ5VTF2QlhxRURIRExUVWNaaVJ0SmlpS1huM3FFZ1VkNTBsek5pZlNjYWJpYVFWcl9kTHk0UGJfT1h3TXZnQ0JaOUk3TUVwa3pFWnFjVDZJeGU2dDR4dVdGdTJ1MVp5Vy02WnpQSURmMlBodXlFUE1PMDBOMGtfazF0cnFWZXJjeUJ1U2Jrdw?oc=5",
-        "source": "CBS News",
+        "title": "Max Verstappen crashes out of Dutch GP in ‘disappointing weekend’",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN0tPdklUTWcxQVlaV3c4b0RzaGpldXFTQ1hkNUxHZ2lNOS13OE44elRjam1WTTFwUTBibzlQY1RSLW9KeWxhcmtYdVZDanRTbk5fcndjakRCOFQ1R0JISWE4dWtNaTEtYzB6amhYNVNscGFCampyV2FTamxmeDJibTNyYmN2VWNxQjZDY1NySkJQcjRQb3c?oc=5",
+        "source": "The New York Times",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Transcript: Neel Kashkari, Minneapolis Fed president and CEO, on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026 CBS News",
-        "pubDate": "Sun, 23 Aug 2026 17:03:00 GMT"
+        "summary": "Max Verstappen crashes out of Dutch GP in ‘disappointing weekend’ The New York Times",
+        "pubDate": "Sun, 23 Aug 2026 17:00:00 GMT"
       },
       {
         "title": "Education Secretary McMahon: ‘We’re certainly going to always monitor what are universities are doing.’",
@@ -373,22 +389,6 @@
         "pubDate": "Sun, 23 Aug 2026 16:20:00 GMT"
       },
       {
-        "title": "'I didn't think I could do it': A 13-year-old N.S. girl fought a 711-pound tuna and won",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYalc0OGk4NGczbkVpWFRJS05HMGhjX3U1SXUydmxwdWd4cnROa0tnWVF6VmRxbF9VVVZ2S2JZTk9GZC03SjZ6WU03T3ZkeEpwNVY1eEY3UnlrZWQ5a0kxQ0RlSi1VVEs2bHBUOW40UVhteWpRRjdPUTl3?oc=5",
-        "source": "CBC",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "'I didn't think I could do it': A 13-year-old N.S. girl fought a 711-pound tuna and won CBC",
-        "pubDate": "Sun, 23 Aug 2026 16:18:36 GMT"
-      },
-      {
-        "title": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWJiTC0zaE8wNVhVNERJVzhCWGlTWmY3RjZvRjFZMUxSRDVZc0VVOHlZSndWQjJCc0xheW1BbWhFS081R3VmMWViZ3FLN0szbGxuOTdMOWpmcnZrVUF3Z1VxZkdLdnJsWTB4VUh6ejBFenhRLTc1MXRGT1RFdXR4NnBiQS1qWmpFVnlncm1TckRNVDhxd2Jv?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items. The New York Times",
-        "pubDate": "Sun, 23 Aug 2026 16:14:35 GMT"
-      },
-      {
         "title": "Good Good Golf faces backlash over ad depicting co-founder shoving female employee",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONlpKVkRwUHRTbF9nSmFLMXcxc2dkaGo4eXFYQzFQRkFSVG1ON0tWa0VIVHV4bWVaZkgwcElROWtFS3Iyam4ya0pNT09mc1RSVnhzNXJadVJVNDNZTHVPcDhzNFlrVmF0d3dYNTN5dEQydThxN2w0emluWVR5NkpPWDI1dGlDTlNwenFjNElyUVl3WWlfeU9uVmNZbEZMdHJDTkc2MUpIUW5VVktxME1yMA?oc=5",
         "source": "The New York Times",
@@ -407,6 +407,86 @@
     ],
     "🇪🇺 Europe": [
       {
+        "title": "Iran war live: Tehran warns of ‘earthquake-like’ retaliation over Trump’s threats",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVctOXRuV3ZiQUFXZGNxbnRIMTdnMHB6RktMNHEwTjBXVkc0ZkJsNTd0aHZxb1g3X2xBWGFNU041NHRJM1dxSjhZclBfdzJwZmNpOV9RN3R4SU1hWXh1UGJyZkZDZWdDazNwWFQtTTY5ZXUwM2V6dVVvdmlFUEJqVllWZmp1Zi1hZTBzT3pQQm9rRl90MW84aC1fSTRXMEMzMFZTTFNaeTFQRVcxd2JxWTJYR2p0b0FXRG5hUGZWd1I?oc=5",
+        "source": "The Independent",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Iran war live: Tehran warns of ‘earthquake-like’ retaliation over Trump’s threats The Independent Scott Bessent: an economic D-Day is coming for Iran Financial Times Iran’s foreign…",
+        "pubDate": "Mon, 24 Aug 2026 00:16:26 GMT"
+      },
+      {
+        "title": "Fast-moving wildfire in Reno, Nevada, forces tens of thousands to evacuate homes",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUF4MXFjc082Z3dWa2hKT2Q4UkFUYS1vS1kxNzNwU3RxRkhqdDllV1Y2cWZRN3JMUmZua0FSajcyN00xN1hjenB0MHJ2Q3VHVHItZWZ0R2lrcmtvOU5abW1YQVFna0M1Ni1FUlRjUk9vRzkzQS1qcFNUcWNnQUZNQUFlVTA?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Fast-moving wildfire in Reno, Nevada, forces tens of thousands to evacuate homes The Guardian Nevada’s Hawk Fire blamed on human activity, official says, as 90,000 urged to flee CN…",
+        "pubDate": "Sun, 23 Aug 2026 23:59:00 GMT"
+      },
+      {
+        "title": "Could Deshaun Watson get a two-game audition for the starting job?",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb1E2RHU2RDQ2bS1uTThLSExCb3FnMlhiZzlQWXNjT1BhaWpOTmNDZlBRSDhTR1JBdXVBYmdNeWptWTJTZXZZS3Juckc4b1YwMFdPY3VkN2Y2U2RJSkZ1dDBvZWF2QTc0LVN5M2lPVEVuQ1I3RTNWMkJTaE9iTWlXYWRIbXpYaUdUbXMwTmphX3h3THFMWDVUSFdYbXlqM2VTSUVWWVpSaEgwYnFDRWk1SWhYZWgyRnhVZHhfbTdBRWEzX1dMVnc?oc=5",
+        "source": "NBC Sports",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Could Deshaun Watson get a two-game audition for the starting job? NBC Sports Browns' Monken: Watson's comments not a factor in QB decision ESPN Shedeur Sanders Gets Bad News on Ev…",
+        "pubDate": "Sun, 23 Aug 2026 23:34:53 GMT"
+      },
+      {
+        "title": "IndyCar drivers roar through D.C. streets in Trump’s Freedom 250 Grand Prix",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1AwczlOdXJCVlNISzFENzk0UUhzSnQ4b1E3a2ZoVFMyVW9LWFVRV3hnUllIWGduYS1qbW9hS21hU2hxV1F2Tk9FMVhvU0ZPYzRERndJc0FMRk1IeU5QcmZfZGZFWWtITncycXpEeFhvUlVwRlZMWW5aYmFtZmlEYkhkSW9QRXRYRUtrOWNPS0hlbng5OEozaGJSaEM0dnZtcGw3b0o0aUxJVWlnZURpVnVOQUxkeG0tSVE?oc=5",
+        "source": "The Washington Post",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "IndyCar drivers roar through D.C. streets in Trump’s Freedom 250 Grand Prix The Washington Post Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C. The New York…",
+        "pubDate": "Sun, 23 Aug 2026 23:33:19 GMT"
+      },
+      {
+        "title": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc3LVpFMTBNX0ZKWEVPNHpmSVgwOXRKc1hDa2VEaGx3bWlWM3huZFJTN25pSzB6ejFySFdNQ0RYWmlsWGhKY2FLMGoybzBxdnVaM2FJd3hxbWJ5TGczYVdmeHBsUHBUdVFYWFhjQWlOLWdWV1pVU3lFR3V6UldxRGJ3aVdBTno0bi1fOExCRnZQX1gwbGE4WlpUTkl5Tm8?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana The Guardian Ruston girl, 8, dies from brain-eating amoeba infection Louisiana Illuminator Ruston family…",
+        "pubDate": "Sun, 23 Aug 2026 23:16:00 GMT"
+      },
+      {
+        "title": "Doctors said I was too young to have endometriosis at 13 - I had to take morphine to cope",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00NWJYd1YxUU1kWmwtakZEWlZ4LTVIOFp1eTl2ZXB0UDk1NnVwVWQ4Ynd0bnAzM3g3R0NVVE9sUzlONENqalF1bUphcVNXanl1ZE10eWpxNmZoeU9G?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Doctors said I was too young to have endometriosis at 13 - I had to take morphine to cope BBC",
+        "pubDate": "Sun, 23 Aug 2026 23:14:04 GMT"
+      },
+      {
+        "title": "Sean Grayson, ex-deputy convicted of fatally shooting Sonya Massey, dies, attorney says",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUU1pT1kwVG0xZTdIcGVIS3VKVTFRTGd4LVFVWGZ4cXU5eWl1ZE51SzZxaURfWkNBSm9SQXljN05EY2RsWEtyYmMtRjN0ZW1KSWp6TEI4YllCbWpZcGFDUlNPa0lCX1lBeFR5MzA1cUxNVzVUZTd6a1plQzJSZTNQckdGaEM1a2xkWmZKSldSQVdjWGpUQ2IybkRDaXMtX1JHVzBKeVNfd3hFQXQ1aGJNY1V4ZEQ2Rm5RcGc?oc=5",
+        "source": "NBC News",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Sean Grayson, ex-deputy convicted of fatally shooting Sonya Massey, dies, attorney says NBC News Former sheriff's deputy convicted of killing Sonya Massey dies in prison The State…",
+        "pubDate": "Sun, 23 Aug 2026 23:13:47 GMT"
+      },
+      {
+        "title": "How easy is it to find an NHS dentist? It depends on where you live",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SdW16MS1zUWJzSUJCOTJNemtkUU5ZLWUtb204Rm9CalNmSnV3YmNYNjZIZmhMX0VJVUFRNHY3WGxkc08yd21VMUtsMERiQnY5ZXV2dEU4eVVMeV94?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "How easy is it to find an NHS dentist? It depends on where you live BBCSee more headlines and perspectives on Google News",
+        "pubDate": "Sun, 23 Aug 2026 23:10:18 GMT"
+      },
+      {
+        "title": "Belfast pain rehabilitation programme at Knockbracken 'gives patients back control'",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUNmp3RWNsb01IanNrZVRkUzhxZ1JFRTFIR01jUUVpX2l1UU1TYV9FdzZrb1pSVVo1SkU4R0k4SFhvQ0VpaTVSeUl5VkJSR3VxU0R3YmwwbGlja3dl?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Belfast pain rehabilitation programme at Knockbracken 'gives patients back control' BBC",
+        "pubDate": "Sun, 23 Aug 2026 23:02:11 GMT"
+      },
+      {
+        "title": "Government vows to make business rate valuations for pubs and hotels fairer",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONVBUdXJKaE5jTmQ5NGF0S01BX3FDbU1HU0VxU3JfcC1rMlNuZy1taldMcjdKdFpheEJNUUt4Z3hOckdwTGZfUmdFa09XX1Z4ZmZrbklfTWFqd3JlbkZxajMzdmFyVC1TWDhwMzctMExUZGRKNlNCdlczd1RBYThKd3JwVUMzZF9VcTV6bGNQa2hlUi0wbXpDckNRVGdXTlJnVFpwc0pad09zTkhfbzVkX0JXLW9HcGFicTVPeW9CVENtZw?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Government vows to make business rate valuations for pubs and hotels fairer The Guardian Review launched into how pub and hotel business rates calculated BBC Treasury brings in exp…",
+        "pubDate": "Sun, 23 Aug 2026 23:01:00 GMT"
+      },
+      {
         "title": "London bus strikes to resume next week after drivers reject deal offer",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjg2R2h4WGRib0IxRmdZZnRGYUVaXzNSQVNOcExWUnlpSU1Gd1VUZ3JWd3lBSUtIaERmMk5VbHg3VnhBS1N0ZGxmMmR2cE1ya0JzSTA1SlA0eWRxRFhqakRjQ2F1YlloQTNCNjlRTzlUMXEybTZpY0M3dE53anI4Z3hfVDJQUDBoenU0LXA1RHVhNWRlVGRzY0ZlWmVpY09NOUxHd3hNbw?oc=5",
         "source": "London Evening Standard",
@@ -415,43 +495,11 @@
         "pubDate": "Sun, 23 Aug 2026 22:51:29 GMT"
       },
       {
-        "title": "Iran war live: Tehran warns of ‘earthquake-like’ retaliation over Trump’s threats",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVctOXRuV3ZiQUFXZGNxbnRIMTdnMHB6RktMNHEwTjBXVkc0ZkJsNTd0aHZxb1g3X2xBWGFNU041NHRJM1dxSjhZclBfdzJwZmNpOV9RN3R4SU1hWXh1UGJyZkZDZWdDazNwWFQtTTY5ZXUwM2V6dVVvdmlFUEJqVllWZmp1Zi1hZTBzT3pQQm9rRl90MW84aC1fSTRXMEMzMFZTTFNaeTFQRVcxd2JxWTJYR2p0b0FXRG5hUGZWd1I?oc=5",
-        "source": "The Independent",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Iran war live: Tehran warns of ‘earthquake-like’ retaliation over Trump’s threats The Independent Scott Bessent: an economic D-Day is coming for Iran Financial Times Treasury Secre…",
-        "pubDate": "Sun, 23 Aug 2026 22:46:26 GMT"
-      },
-      {
-        "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d1c4OWlSWlZrWXItWHh3bnFLMWc5NlhhRTUtNjg3c2lBOWp5U09nbk9KN1dSXzF6WmotNDVMMTY5MTBxZENxSXQ5dTZ3ZUZmTnJ2a19XMFZ5YnN5ckp4dlU5VjRid2k2LWt0c1hMeGZ0ZUFWNlp1Rg?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals The New York Times Nevada’s Hawk Fire blamed on human activity, official says, as 90,000 urged to flee CNN Wildfire…",
-        "pubDate": "Sun, 23 Aug 2026 22:42:14 GMT"
-      },
-      {
-        "title": "Bessent Has No Easy Fix for What’s Really Driving Bond Yields Up",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ2JzSzV2M19uOU5aN2ZJSVlQTjBuM0VIR1pMYVJocnpabzhnekRpb3hRRnJZRFpoa29RY2t6WnhYX2JtdzlObjY1WGhINkViMGZ3cFZicE9LaEdPeVRlRlotTzZzVk1oUDFEek1wLUE1Rl9zWUViRHdiU3pRS0xWT1ZmZmJCMjktdTJ6Rk0yQ1RnV1NZNlU5QWREOVpEZXFDYVBCNVJzbkdYWWtxdDRaVTIzYm1xZw?oc=5",
-        "source": "Bloomberg.com",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Bessent Has No Easy Fix for What’s Really Driving Bond Yields Up Bloomberg.com Treasury Is Buying Its Own Bonds. Where Is The Money Coming From? Forbes An alarmed bond market gets…",
-        "pubDate": "Sun, 23 Aug 2026 22:40:00 GMT"
-      },
-      {
-        "title": "IndyCar drivers roar through D.C. streets in auto race along National Mall",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1AwczlOdXJCVlNISzFENzk0UUhzSnQ4b1E3a2ZoVFMyVW9LWFVRV3hnUllIWGduYS1qbW9hS21hU2hxV1F2Tk9FMVhvU0ZPYzRERndJc0FMRk1IeU5QcmZfZGZFWWtITncycXpEeFhvUlVwRlZMWW5aYmFtZmlEYkhkSW9QRXRYRUtrOWNPS0hlbng5OEozaGJSaEM0dnZtcGw3b0o0aUxJVWlnZURpVnVOQUxkeG0tSVE?oc=5",
-        "source": "The Washington Post",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "IndyCar drivers roar through D.C. streets in auto race along National Mall The Washington Post LIVE: IndyCar makes history at DC Freedom 250 Grand Prix FOX 5 DC American Kyle Kirkw…",
-        "pubDate": "Sun, 23 Aug 2026 22:39:50 GMT"
-      },
-      {
-        "title": "Lindsay Clancy’s murder trial has captured the nation’s attention. Here’s why.",
+        "title": "Lindsay Clancy killed her children. The jury will soon answer a more complicated question.",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXZMSkhNQjdVWm1jRWc1RThhWTQ2dmpmREg1SE9NLTc4dGtwU0xEcUw3emRmaXNyMjFZRnB1X29CWEtCczlhUGQ1amhDcEZ2REtkYXlVYXg4YjBubUNZLWFiU1Y1THlnWDE5ZW1iamtBeTNybWJIbkRNUFpRN09Sd3BCeHZfSU44R01NZmRWNms4UQ?oc=5",
         "source": "NBC News",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Lindsay Clancy’s murder trial has captured the nation’s attention. Here’s why. NBC News The defense rests in the murder trial of Lindsay Clancy WBUR Lindsay Clancy killed her child…",
+        "summary": "Lindsay Clancy killed her children. The jury will soon answer a more complicated question. NBC News The defense rests in the murder trial of Lindsay Clancy WBUR Psychiatrist calls…",
         "pubDate": "Sun, 23 Aug 2026 22:23:59 GMT"
       },
       {
@@ -463,20 +511,20 @@
         "pubDate": "Sun, 23 Aug 2026 22:20:00 GMT"
       },
       {
-        "title": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc3LVpFMTBNX0ZKWEVPNHpmSVgwOXRKc1hDa2VEaGx3bWlWM3huZFJTN25pSzB6ejFySFdNQ0RYWmlsWGhKY2FLMGoybzBxdnVaM2FJd3hxbWJ5TGczYVdmeHBsUHBUdVFYWFhjQWlOLWdWV1pVU3lFR3V6UldxRGJ3aVdBTno0bi1fOExCRnZQX1gwbGE4WlpUTkl5Tm8?oc=5",
+        "title": "CrossCountry cancels almost all rail services after power cut hits control centre",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeG5ieVRhU1ROa0UxWUdFdWlleWY1ZUlQRzN4YzJ3X3JKQlYyMG1JTjUtalhKSEVoR2p4bUtmYlZRd2NBTHVpbWVqZUplbExaTzlhNUE0Vm1DNkE1ZDZfVEZiejB3RXRQZ0FBVU5jT3JYRlFwa0ExcFYzYjAwZnlyZHpuREpOUUVGOFJvRHptbWJKbW5lclVXSUJtVGpxdzVDLXJWLWFlWnBQYVdSSGRxSG1rZ2ZsY2pVcE5FYWpTbGsxQ3pOdWwyQzdB?oc=5",
         "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana The Guardian Ruston girl, 8, dies from brain-eating amoeba infection Louisiana Illuminator Ruston family…",
-        "pubDate": "Sun, 23 Aug 2026 22:17:00 GMT"
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "CrossCountry cancels almost all rail services after power cut hits control centre The Guardian CrossCountry cancels 'almost all' UK services after power cut BBC CrossCountry to res…",
+        "pubDate": "Sun, 23 Aug 2026 22:20:00 GMT"
       },
       {
-        "title": "Maresca's Man City experiment gets lucky",
-        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxORjJzcWVuUG9oSGxHNDNXdG5ySGloWFF6QkZCTFdkLXVaR2NwcDhpYnYzT3hlTzd4a2hXYjlrZ3NYZzZsMGNWajlNaGJVQW5vWG93TkVVQUZBdEVRbmFRSzRKdWpJSndWT3BiVElyWDJFbEVDa1MtT29qdEw5d0F5Q3JCT2NBX3ZqRTVMVnJwYVozZTNiODNHODFVS2xfYXFHdjZSWnFFLUItUHVEM3hWM3lTT1VJY3VQYzdEbTdUUkE0SFRJUFBCNi1pQjJHcmlkR3gxRXk5TEg1YmpmaWRNV2dYWjhfVGV0VlUzbUh3Wko5a0hlLUZiRy1fSkRrSHd1QTV5NHFXdWhHZzl6Z1Q1WkhPT3lHendwdEcyRXVFbFZMV3VHNFE?oc=5",
-        "source": "Sky Sports",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Maresca's Man City experiment gets lucky Sky Sports Maresca: Man City are a work in progress Sky Sports 'Up front next week?' Maresca's Guehi gamble pays off BBC Maresca: Man City…",
-        "pubDate": "Sun, 23 Aug 2026 22:10:54 GMT"
+        "title": "Landslide at waste mound in Guinea capital kills 30, government says",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0tsV05yazNDM012ZzdqN3pNd2tHMG9WVlhwZElYUWRqXzRZZzA3SG9sRmNlRVpoRVVHLWxuWU9kaXg2OTlTQkRpNTY4TGtZU1FIYTVsMFJzbm5UZmhkTXBjekVrdldqdzRWTU1uaFFnbXQtczNUNThvbGh5UE5IdjhoMXNqRThqY0ZNWmhnaFJTWXBpLUd6U0R1TQ?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Landslide at waste mound in Guinea capital kills 30, government says The Guardian Guinea rubbish landfill collapse kills 30 in Conakry BBC A landslide at a landfill in the capital…",
+        "pubDate": "Sun, 23 Aug 2026 22:19:31 GMT"
       },
       {
         "title": "Families pay tribute to two police officers killed in crash near Middlesbrough | ITV News",
@@ -487,84 +535,68 @@
         "pubDate": "Sun, 23 Aug 2026 22:08:28 GMT"
       },
       {
-        "title": "A landslide at a landfill in the capital of Guinea kills 30 people, officials say",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0pXVm1oUkllY1YtOXY4MGZjMzBQWFg2V0wwU3V1YVFyalZ1V3BEbGRvckdhYlFSUVRIb3p5WFJHQTdmZ3l6dnBIWlg4OEtnOVRvaU05R3VVWlAwNm9jSnNIS0RydXlFTVBfWkZWaG1vdDFkcHRtaUNINmlLMjFSUjVRc1dGLVd0dkVDWlJsVDRSbEZGcGZZNFR1X0FoMkxDOEE?oc=5",
-        "source": "AP News",
+        "title": "PS5's Best-Selling Games List Is Broken on the PS Store",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXNJZHJBeVRhcDQzV0ttZ2VTNkJBUVNLV3JJTk16OTk3aUJkXzdweXNyeHlqWjNxYUJKbXJxUC1ySFEwYzBxT3FnVHI1U3lQTWwwSTNDNV9NUkoxSGRfRGl3bXJXR3FWbFRiY3djUFRGQ214NlBlX2tXTE5FWDJtX3F5eEJWWEhUaXd5MTNyNXZwM2dNOEpDV0x3?oc=5",
+        "source": "Push Square",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "PS5's Best-Selling Games List Is Broken on the PS Store Push Square",
+        "pubDate": "Sun, 23 Aug 2026 21:54:47 GMT"
+      },
+      {
+        "title": "Pence says U.S.-Canada trade fight adds to affordability concerns for economy",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVdSMXM4NllRVVJNbVJELTRibm4za1FoR3pxZTh3WGd5T1R6emNvejNwMVB5YW1tblRnWUxUeEFwRXRhVkkxSjhzbExpdlhkdDgxODBnRFdJVktjcTRZUFk3bFBHaDRRelVmYVRRUTh5RTBxbDg0OGw5NUp2SFVFMG94ODhGQzVkRUJJVkhGck9uaDh5M1hNQkpBSTk3MUYxV2dZZ2hDSkU1QzFqc09Ibnp1eFJqSjdnZ0I4OQ?oc=5",
+        "source": "The Washington Post",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "A landslide at a landfill in the capital of Guinea kills 30 people, officials say AP News Guinea rubbish landfill collapse kills 30 in Conakry BBC Guinea landslide kills 30 people…",
-        "pubDate": "Sun, 23 Aug 2026 21:36:00 GMT"
+        "summary": "Pence says U.S.-Canada trade fight adds to affordability concerns for economy The Washington Post What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items. The…",
+        "pubDate": "Sun, 23 Aug 2026 21:49:24 GMT"
       },
       {
-        "title": "Reform says it will prioritise British-born young workers for social housing",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wU2k5eUkyQl9oZHBqUjhSdzdtbkcwUUVJeFFzMzM4ZmlpM1RBbEZyNC1ocTJuOUROTWJUeURRM3RaT1VDdzEzeFBZYVFaRndvZmdhTXVkVnV5SzBK?oc=5",
-        "source": "BBC",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Reform says it will prioritise British-born young workers for social housing BBC Reform says it would put foreign-born UK citizens lower on social housing list The Guardian Reform:…",
-        "pubDate": "Sun, 23 Aug 2026 21:07:47 GMT"
-      },
-      {
-        "title": "CrossCountry cancels almost all rail services after power cut hits control centre",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeG5ieVRhU1ROa0UxWUdFdWlleWY1ZUlQRzN4YzJ3X3JKQlYyMG1JTjUtalhKSEVoR2p4bUtmYlZRd2NBTHVpbWVqZUplbExaTzlhNUE0Vm1DNkE1ZDZfVEZiejB3RXRQZ0FBVU5jT3JYRlFwa0ExcFYzYjAwZnlyZHpuREpOUUVGOFJvRHptbWJKbW5lclVXSUJtVGpxdzVDLXJWLWFlWnBQYVdSSGRxSG1rZ2ZsY2pVcE5FYWpTbGsxQ3pOdWwyQzdB?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "CrossCountry cancels almost all rail services after power cut hits control centre The Guardian CrossCountry to provide full service after major disruption BBC CrossCountry to resum…",
-        "pubDate": "Sun, 23 Aug 2026 21:05:00 GMT"
-      },
-      {
-        "title": "Trump set to attend America 250 Grand Prix on Washington DC’s National Mall: Live",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzlFT1lsX3VVMnZTTmpzQWlQd2FyM3J6cTlIdlRpZFluQWtUZWNPMVFxa1loUG1kQXRkbnhINjYxY0NoNHZNYXF1eFA1blFkdHRuSHJ6bE9ObFE3TUxNQWYtcnpvdGd1UXZuTDAtRlpOY25zR2VCV01UQ3lKVjVFQkY2LVFwbEJKcXA0NUJBcXItUTNoLVFKYl9ja2dZcE05TWM1WkVoc3NzamxYWDlSX3c0OTJWQ0F2cTVnMmFrQnQ5NzJq?oc=5",
-        "source": "The Independent",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Trump set to attend America 250 Grand Prix on Washington DC’s National Mall: Live The Independent Where on earth is Melania Trump? | Arwa Mahdawi The Guardian Melania’s Secret Powe…",
-        "pubDate": "Sun, 23 Aug 2026 21:00:00 GMT"
-      },
-      {
-        "title": "Hayden Panettiere's 'Guiding Light' co-star Beth Chamberlin says she believed actress would overcome troubles",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT0VoSmZnLTlTcTNxclFlSkRTbDJKelhSd3hQaXhMWmtobzllcVQ4TElYblVtV1FMMFBpN1Z6Tlc0VkpUZXgxUmhMMlFqRFFDejA5U2thTWpPT0VYSHduZmZKbXJONmd3RlE0VHNuMmhoWXY3SXMxTXNMaTJHZGhQRlMtNzRUakYtbnZfb0w0eUhiLWI3amNKZjU5c08yVUVPcnJRaVpWWXJuNy03Q2puQkFBWVZ3STVyTElIRzZNVDVWWUtvSnfSAcsBQVVfeXFMTzZ5dDhOVnlmc2tjR2F0OVZJMHJuLU16MDJQRU5BaUw4dVVqbW1tS0tlZTZON25CVmhKdXFVSmQ5RVFxTElyTTNiTng5ODU1UmhvYUF4dTJJUHQyclF1SEctalFrU2twa3E1TEVCVk1RTHpSQV8xRlEwc19ZQ1FHRVRMOTgyZk02WThRS19qZ0o4bGtaNm44M0o1eW1qVHlfNmc0aEh0V3NMNFlpRnpZNm9ySXNwLU03SkhpME1jYVRDdVRHOG9Za3BkWlU?oc=5",
-        "source": "Fox News",
+        "title": "Shelley Fabares, ‘Coach’ and ‘The Donna Reed Show’ Star, Dies at 82",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQME9mbmJfR0t5bk9mdGJ1emFxWXpfVkRIS2wtdV9xbklERVVGUnlacE1wNXJjOWI3RDJEaFFBRkp3Y1N2bld1YWVSUzA5MXVoRHI3R1QtXzJ6dDZrU2lhS1pIYU9CTnFjM0RKSVpYTEs1YzZ3Y2dIS0JjUmVnMGxvNWxVaWlIaWxUVTFGeEZINS1nQndyRWc?oc=5",
+        "source": "Variety",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Hayden Panettiere's 'Guiding Light' co-star Beth Chamberlin says she believed actress would overcome troubles Fox News Inside Hayden Panettiere’s troubling final months after a lif…",
-        "pubDate": "Sun, 23 Aug 2026 20:52:15 GMT"
+        "summary": "Shelley Fabares, ‘Coach’ and ‘The Donna Reed Show’ Star, Dies at 82 Variety Shelley Fabares, Star of ‘The Donna Reed Show’ and ‘Coach,’ Dies at 82 The Hollywood Reporter Shelley Fa…",
+        "pubDate": "Sun, 23 Aug 2026 21:40:00 GMT"
+      },
+      {
+        "title": "Hayden Panettiere’s Mom Blasts Gayle King After CBS Host Criticizes Her Reaction to Daughter’s Death",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUdZcFhDOTNLaXBYTXhESUt3a0lVWHlpN2RmNUpvbVYwRnFyQVhyYkpEaWk5a1oyeTBFSXFzUGVSNVRWWVhTSW9JbngzSkt1RmJzcjBRTkg4NmFZMU5XYkdvcEdiczh6ZWpUMVlhamN3WmdRSjMxcXNKQkRkbUh0RzdFZEhqOEJqd1RCS0VsZUR0Wk9jbG80SXozZFFhNmhZeGZCbmFTeEdpSzE1eWt3Y2VBampidGpaVzlEX0Jzbw?oc=5",
+        "source": "The Hollywood Reporter",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Hayden Panettiere’s Mom Blasts Gayle King After CBS Host Criticizes Her Reaction to Daughter’s Death The Hollywood Reporter Inside Hayden Panettiere’s troubling final months after…",
+        "pubDate": "Sun, 23 Aug 2026 21:32:24 GMT"
       },
       {
         "title": "People Are Sharing Beautiful, Day-Brightening Facts That Sound Totally Made Up, But Are Actually 100% True",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jUlVMQ2kzZm5uZ2ZZRkRCSjR3RGU0MTJVdlJXQkIzSXJJREg1dzRyOGFUNm5Id093OWZxLWY3MnpZMkRzQmpvdDhrRmlGdjFNcVFpZXlMbXRadXVUeGpxSlVHM3U5RUR2c25LRVZiWmlvMzJZU2ZFaVBzeU1QUQ?oc=5",
         "source": "BuzzFeed",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
         "summary": "People Are Sharing Beautiful, Day-Brightening Facts That Sound Totally Made Up, But Are Actually 100% True BuzzFeed",
         "pubDate": "Sun, 23 Aug 2026 20:31:02 GMT"
       },
       {
-        "title": "Shelley Fabares, Star of ‘The Donna Reed Show’ and ‘Coach,’ Dies at 82",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaURUcG8ydHcxb0hkUnV0X0ZaMHlvUnlaUkc0a1R5cjlNT1NNOTNLMjM2SWxtdDc3aGN6QmlFTjM1c3FLODc3NE5LMVRTMUxmYkxjdVA1SFpvekpJLWxsSVRJWF96dURFZElHNEtSTW1abU1DS1p3YjNlekczd0NlTnhZQmx3cTlMMUpUcE1qbl81bmdZMjhNMUVmZmtaU3RG?oc=5",
-        "source": "The Hollywood Reporter",
+        "title": "Sen. Scott calls Darline Graham 'real deal' after debate-stage gaffe",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHRwTUVIZkxfZkYyMXpxZG43YTRFOEY3Q3Q1TWsxcVlZNlh6U2duNk9hTE5pdnctM0o2UXE3M01aZlhQbjZidlVlaG1kSVVZVzFINDlMUDk3WXVaZk0wOXpmeklLZEEtUEw5QldrOUFUdThkX0VBclNiaWdlVncyRVNERGUyUkFqeTdFR3lmajlVNXJieUdIOXFsNnd6M0lzV21SLTZuWnlra2RVZ1BZ?oc=5",
+        "source": "USA Today",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Shelley Fabares, Star of ‘The Donna Reed Show’ and ‘Coach,’ Dies at 82 The Hollywood Reporter Shelley Fabares, 'Johnny Angel' singer and actor in ‘The Donna Reed Show’ and ‘Coach,’…",
-        "pubDate": "Sun, 23 Aug 2026 20:30:02 GMT"
+        "summary": "Sen. Scott calls Darline Graham 'real deal' after debate-stage gaffe USA Today Tim Scott defends Darline Graham’s ‘national security is not my thing’ comment The Guardian Darline G…",
+        "pubDate": "Sun, 23 Aug 2026 20:27:00 GMT"
       },
       {
         "title": "Barrasso: Monday will be ‘D-Day for the economy in Iran’",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91dVdkSHVFYzZJYjlad1NEODZDSlNCQ2t2WG55ZU1vUVRTcDd4aWM2U1VRZTV6NUNkNkJoSVhmM21YbHdzaWVpRFNnS1JJZmc0ZjRPWXZLRkZCMG4yTndxT3p6RUtqR2RSenNMbG9UMW96M0MzSk9TclFsVDZYUdIBgwFBVV95cUxPcVl3VHlKNkZreGx0d2RVUVlMVDlWa2t1UGhiNGhPNEFMM3Z5Wldld2M0Wk56UkJCUmJLOVAzanRDWERPdnFFZWxjMEVQOFBYc2VKNUdVM3hqYXBlQjIxaWpSY3RLNEtubXBiY1FTbmhSeUFVOUllMjJ0c25FdmJuZW5MYw?oc=5",
         "source": "The Hill",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Barrasso: Monday will be ‘D-Day for the economy in Iran’ The Hill Iran says new sanctions threatened by 'desperate' US will fail Reuters Treasury Secretary to announce Iran sanctio…",
+        "summary": "Barrasso: Monday will be ‘D-Day for the economy in Iran’ The Hill Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat CNBC Iran Warns Gulf Sta…",
         "pubDate": "Sun, 23 Aug 2026 20:23:00 GMT"
       },
       {
-        "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1IxaXJWZ3VYZkhCQ0FHVm0zUnMtLTNUUnk1UzRQN3FwazFFVmtXVVMyX0ZCM2NwUExzVlc4RVQyd3JDTVVjRjQyQTdxaml3bDZxMVJyOHNERVZ2OEFWUGo4SllSSVozWXZBTDFOeUVrNEF4dGJ6MXVNSWxFSEx1VFE2dzFXYV94bXF4anVaakIxeHY0Z1RDQ3gtYXJoS0NoeUhRczJYTVM?oc=5",
-        "source": "AP News",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him. AP NewsSee more headlines & perspectives on Google News",
-        "pubDate": "Sun, 23 Aug 2026 20:03:00 GMT"
-      },
-      {
-        "title": "Carney warned about economic coercion. Now Trump is testing the Canadian prime minister",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3dhSlN1T1ZfMHl3Y1BSSjJwMEdLQVN2OFFMRUhwb2p6MWtwX0ZpZmd4VlZKV1NlTDFEdnZRMFQ3cDg2a2hpOHB0SFNrN1Y4RldoVHhaNkFsdUFSSm5KOFB3LWE1TGJVbW1YS0NqblVOZ2dEcnZQTlgya3JNZVFVUDRHRkJlX2hfMWFlSG85cXdTRjJGa2tBNTFIdGdILU9iT09ybXNFM2J0MXVPQmhfQw?oc=5",
-        "source": "AP News",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Carney warned about economic coercion. Now Trump is testing the Canadian prime minister AP NewsSee more headlines & perspectives on Google News",
-        "pubDate": "Sun, 23 Aug 2026 19:59:00 GMT"
+        "title": "Five arrested after rave broken up in Norfolk village",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVXdZM1k3VjN6U05oQXF1bFNYN1FvbU9uOWpsV1hXandJbUF4SFJIWmtvdFFwVnI2YjhfY2VTY3YySy14UjMwU0pRa2V0NkRLeG9lUFVzN1BObklzZzBpUnM3X3l5SkQxbnhCQm9wSUtZUjgzTmNnUkxhdW5iZmY3SjlFZTRNMXU3Vl81WklRcw?oc=5",
+        "source": "EDP24",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Five arrested after rave broken up in Norfolk village EDP24See more headlines and perspectives on Google News",
+        "pubDate": "Sun, 23 Aug 2026 19:51:34 GMT"
       },
       {
         "title": "Labour mayors to force through plans for 4,000 new homes",
@@ -573,38 +605,6 @@
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
         "summary": "Labour mayors to force through plans for 4,000 new homes The Telegraph Mayors to get powers to overrule local councils on planning decisions BBC Mayors to get new powers over plann…",
         "pubDate": "Sun, 23 Aug 2026 19:36:00 GMT"
-      },
-      {
-        "title": "US Long Bonds Risk Deeper Selloff Without Clear Warsh Guidance",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRUtGNHpUYlVjQ05OY1VZRE9wTHBaS05VODBscDE2ZkRTbXBhajk0aV9QbHlPMk13a1VxMFc1MDFXOEhtM1RTN00yeHRzdVBRT2JNbFA3TXhRTzBvQWo0V1JDY1JMcW9zbGV0U0R1SjZYdkhlaW1uel91MXM5YlVnSDBsMmoxSDJFUFgzYkFrejZiTVlRTEJrUUtSS1dsSlNWalRsRVA5eFBhNVN6MlVqNTZ0cw?oc=5",
-        "source": "Bloomberg.com",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "US Long Bonds Risk Deeper Selloff Without Clear Warsh Guidance Bloomberg.com The bond market is signaling trouble ahead. This is why you should pay attention NPR Opinion | America…",
-        "pubDate": "Sun, 23 Aug 2026 19:30:00 GMT"
-      },
-      {
-        "title": "Atletico Madrid make Julian Alvarez decision after Arsenal get new transfer update",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPazZBSk9uTXFvWnhVdU9MVVRNdncxRS1Ga1JfRFZNYTl2M3ZTbW9CNEVtQmE1cnRFYldjUG5sLWxIQ19JQjl1bE9pWGVNbTZDSTZCa1BuN2wxQWVXb3loSzZFM3RZTWpXclowUUdGazBEc0g2VzNYcGFpVkVzM2IyZ2ZIUV9SRHh0WmRVMV9McnB5QQ?oc=5",
-        "source": "London Evening Standard",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Atletico Madrid make Julian Alvarez decision after Arsenal get new transfer update London Evening Standard Atletico Madrid 2-2 Villarreal - Julian Alvarez booed by own fans during…",
-        "pubDate": "Sun, 23 Aug 2026 19:27:02 GMT"
-      },
-      {
-        "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEVVUWlzZUFXVmhmamNqb3VmWk9vVUMtRTZvZmlXMXQ2Q3FGT2l6TzZIZ1l4UU8tQzFzNGV3Nms3ZmQ0NnJPZU1jNWFILWVxaU5xczdaSk1aUnBHdVJ1UmFFY0RtaFRwNndlNlZ3NGhiLUpsQTVabGFaZVlwZ2psWU1YY2JGYmVNd2VlTXFoR1lJWDRHQjVV?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy The Guardian Zelensky should be asked what he knew about government corruption, sacked minister tells BBC…",
-        "pubDate": "Sun, 23 Aug 2026 19:24:00 GMT"
-      },
-      {
-        "title": "That Weird 'Other' Section in Apple Stores Is Reportedly Being Revamped for a New Line of Home Products",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVEJ4WkpmUldqbGpDMnJkMW16WGhWX3hPVTh1UWFvXzA0VGxidHdxRGVwM1lKSGdmTUpxMm9QSWRySktWaC1KYVpZUVd5ZlBydW1PWVpMX1BIdzQ2ZnlHcGk1RF9JQkRQLVBVSWRLckNnM05qakN4U0x1UE1GdzFYY2NvSjBIbHZ4MkxzZTVpeFJzeEI4UDUtUjlhbFZqUUhHbDV2MS1GOGZDM3FJRzB6YzVGcmVpaG9SZmRGZmRDNTcyLVdjb0tKTWZ0VV8?oc=5",
-        "source": "Gizmodo",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "That Weird 'Other' Section in Apple Stores Is Reportedly Being Revamped for a New Line of Home Products Gizmodo Apple Retail Stores Preparing for New Home Product Launches MacRumor…",
-        "pubDate": "Sun, 23 Aug 2026 19:20:29 GMT"
       }
     ],
     "🇷🇴 Romania": [
@@ -673,20 +673,20 @@
         "pubDate": "Sun, 23 Aug 2026 14:18:32 GMT"
       },
       {
+        "title": "Premierul Moldovei a traversat în înot strâmtoarea Bosfor: „Fiul meu a fost mai rapid decât mine”",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTjZjN2EyeXZrZmtUZXE4bjZBRHN1YlhZbmhNNjdDS1dQN3VfZThMTUtvTHdDWEtvSFkwS0hPdkhBcWE4a1I1U2l0ekFfQkdQMHhKNTVGLWVFTDNGRzdHcnBWaW5DY0JHUnhBdnNlZy14TnB3eXFhbEh6cG83dmNnMEl4VVBTdW5BbHplWTlkWDRiQUswbDVFUDFvUTZDaEdYNFlRN3FRd3RiVVJ1R0VPeDZEZjNiWmFkT1lmRHRR?oc=5",
+        "source": "HotNews.ro",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Premierul Moldovei a traversat în înot strâmtoarea Bosfor: „Fiul meu a fost mai rapid decât mine” HotNews.ro",
+        "pubDate": "Sun, 23 Aug 2026 14:16:15 GMT"
+      },
+      {
         "title": "Ucraina a încheiat un acord cu Germania pentru livrarea a 600 de rachete interceptoare tip PAC-2 destinate...",
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUzV6NDlFSklRaDluX011SXRCd3BVbF9GWW5MOHcyNUlzVDI2ZjFRakVFWVZIVTBFRnBlSGpwazgwWkhiNjZUd3NxaUxrcGdlNnZ0RDBDbXFEcVNjSE0xTkhPdWt3VHJlTlZqa0V1U0tySTUyaDYxaEVKUTZ5ZWZOa3RXdkpTUEZPN0RnTXU4WFlibzR4NGx1Y29XODBNdFBJa2VIdjBWRENFS3U5SXluam9NWGJub1d3SDBnQ2VuVHBGLWpDeDVHVHRpOEx0YWJSTGlRZEtpM3UzMFZUVVNURlRvTm5XNTBRcWJKOE5Rc2FicmRLZ1R0N0EzOWo5Z9IBiAJBVV95cUxON0ZoTlo0NWV3cGdWUEh5d1I3Qk9ZWWVSV3JYMjN6Um1reFFvUV9WQTdld3FDdnI1QXpvdFFNbEZ6YUpWeGYyZzBESGo2NGJxOUYydU9YNkRLWWdRVVd3Tlk5SXAzaHllb2Q3M2lQSVZJb3o1cV84MkR0MUgwZjFrczRfRWdSeVVvUVk0NGhZN3VRaTVWaE1WNWZIc2YwNUJsUV9ZenZSbzFRY3lzbmpRck1qWkxGd1BCR0tTVkJOdjlvejJ0dG9sQ2VzYXp2bU44c0lzZFBKcGFpQnExMzVLYWZhZDJhTVI1Qy1Na3N5aGw2RW56ZFhZTVlNMGw2VWx1bEFOcU5qSk4?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
         "summary": "Ucraina a încheiat un acord cu Germania pentru livrarea a 600 de rachete interceptoare tip PAC-2 destinate... Digi24 Wadephul la Kiev: ”Ucraina va câștiga” DW.com Zelenski a cerut…",
         "pubDate": "Sun, 23 Aug 2026 12:58:12 GMT"
-      },
-      {
-        "title": "„Sunt cardiolog. Practic medicina de 25 de ani și nu am mai văzut niciodată, în medicină, o săptămână ca cea prin care tocmai am trecut”",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYzFYX1I2TWxwTUdXNTBtbDhLbDJFWFV4Ym1rUFBpTHU4Y0pseG5YSV96b0hMQnRfZ2pJV2xFdVNYSGZIX0Q0V3RZR0RGZXJjbDRiQmZmQW9GTGlEUnljT2g2OWhyVS1pdXdQb0lFT2JRdnQ2djA5QlRObDVqaVZZRUxDS2FncTl5TUhBd3BwOEZWejlaM0JpaW5QcHQ5OTMtdW9uUVdabF9uZno4elpFa2pDQVV0WG1iWGtvUmgyLWUzbkJJS0h1eEh3ZU9NSTI1QlFlWWFiZG85cm4wVWFuYkhpYjZQRnh4T05vU180Yw?oc=5",
-        "source": "HotNews.ro",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "„Sunt cardiolog. Practic medicina de 25 de ani și nu am mai văzut niciodată, în medicină, o săptămână ca cea prin care tocmai am trecut” HotNews.ro",
-        "pubDate": "Sun, 23 Aug 2026 12:27:00 GMT"
       },
       {
         "title": "Polițiștii locali din București au distribuit oamenilor sticle cu apă, pe stradă. Îndemnul autorităților...",
@@ -705,20 +705,12 @@
         "pubDate": "Sun, 23 Aug 2026 12:13:26 GMT"
       },
       {
-        "title": "Cum arăta Casa Mița Biciclista înainte să devină un loc exclusivist. A fost naționalizată de comuniști și a ajuns să găzduiască familii fără adăpost",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVTNuN3ZjV0NHT3owalVGbGZTZmhwOUR0Z0d3aWxGYk42dDEzUGNSSnRFbTRRbEJ4OVpRenZ6dGJkd1RXVkFqWXdFNVEwWFRoaHR0REZNd3FaTHlLR1BjUWM1MWh6WGE4T212WkdHTUFfR0hoSkJMNTFlYkd2dWU2S2V6UTA5bWFmWktQc3RiRklCLW0zZ0E0UHo0ZEVZaV8wOTVTbzE3dw?oc=5",
-        "source": "Adevarul.ro",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Cum arăta Casa Mița Biciclista înainte să devină un loc exclusivist. A fost naționalizată de comuniști și a ajuns să găzduiască familii fără adăpost Adevarul.ro Unt vs. margarină.…",
-        "pubDate": "Sun, 23 Aug 2026 09:38:53 GMT"
-      },
-      {
-        "title": "Scenariul unui colaps istoric: China pierde 800 de milioane de oameni până în 2100. Ce indică prăbușirea",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWlVBZmF4Z1pSVC1GNVI5OV9ObzJ3ZHlpdUI2YlV6MnZPNGJRb1BLdjFJVXh1djJ0VjFCdlNYVGN3cEJTQnB3RmdUckRBcXJscWM2a2EwajlwQzhOQUp5cTNrTk9lT1EtYzh0THRwWWV6MU55N2NadzlJOG04ZERnWWZNWHdpUTJvaWFBcFRNMWc1NzZaaE1EOElmVDZFOHZLRWt3VXY5SHNaY1Fxbk5QYXcxd19oVHNYQW11NG9TcXBudzNLbjFrLQ?oc=5",
+        "title": "Andra își sărbătorește ziua de naștere. Mesajul „criptat” de pe tortul cântăreței",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTzNOeUJkeHpSbU1sUTlKZEktVjVCZF9iRkFITWJHTWE0OGUya2hqYzN0MmN5eGcxLXlrWUZDcW01N1dVTnB0NXYzMXJfdnd1YWJ6dUtJMUpKRklTWUJLWHBSTzBGTzd3ckktcHdHcFY4cEhWVkpQdGQySXpla2FjcGhDbVQyeW5JOVhDaTlIX0FkNndPMHlJckdlLW1yOWpmeHdMUzVVSk8?oc=5",
         "source": "HotNews.ro",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Scenariul unui colaps istoric: China pierde 800 de milioane de oameni până în 2100. Ce indică prăbușirea HotNews.ro",
-        "pubDate": "Sun, 23 Aug 2026 07:28:55 GMT"
+        "summary": "Andra își sărbătorește ziua de naștere. Mesajul „criptat” de pe tortul cântăreței HotNews.ro DOCUMENTAR: Artista Andra împlinește 40 de ani (23 august) Agerpres Andra Măruță a împl…",
+        "pubDate": "Sun, 23 Aug 2026 09:08:18 GMT"
       },
       {
         "title": "Aurul, prins între război, petrol și dobânzi. Cum va evolua prețul metalului prețios",
@@ -755,20 +747,36 @@
     ],
     "🇲🇽 Mexico": [
       {
+        "title": "Diablos fuerza el quinto juego ante Pericos: Calendario, resultados y dónde ver de la Serie de Zona de la LMB",
+        "link": "https://www.elfinanciero.com.mx/deportes/2026/08/19/diablos-rojos-del-mexico-vs-pericos-de-puebla-calendario-y-resultados-en-serie-de-zona-de-playoffs-lmb-2026/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Diablos Rojos y Pericos de Puebla se enfrentan en las Series de Zona LMB 2026. Conoce el calendario, resultados, horarios y antecedentes de la serie.",
+        "pubDate": "Mon, 24 Aug 2026 00:24:42 +0000"
+      },
+      {
+        "title": "El contraataque de Carney a Trump: ¿Cuándo están en vigor los aranceles de Canadá a EU?",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/08/23/aranceles-de-canada-a-estados-unidos-cuando-entran-en-vigor-las-tarifas-de-represalia-de-mark-carney-a-donald-trump/",
+        "source": "Bloomberg / Thomas Seal y Derek Decloet",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Si no hay acuerdo, Canadá impondrá aranceles a Estados Unidos en productos clave para la economía.",
+        "pubDate": "Sun, 23 Aug 2026 23:45:36 +0000"
+      },
+      {
+        "title": "Agosto sigue, pero tu carro se queda: ¿Cómo aplica el Hoy No Circula este lunes en la CDMX y el Edomex?",
+        "link": "https://www.elfinanciero.com.mx/cdmx/2026/08/23/hoy-no-circula-lunes-24-de-agosto-de-2026-placas-5-y-6-descansan-source-ia/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "El programa Hoy No Circula restringe la circulación de vehículos con engomado amarillo y hologramas 1 y 2.",
+        "pubDate": "Sun, 23 Aug 2026 23:41:43 +0000"
+      },
+      {
         "title": "¿Quién es quién? Personajes reales de ‘La Captura’, película de Netflix sobre ‘El Chapo’ Guzmán",
         "link": "https://www.elfinanciero.com.mx/entretenimiento/2026/08/23/personajes-reales-de-la-captura-pelicula-de-netflix-sobre-el-chapo-guzman/",
         "source": "Redacción",
         "sourceUrl": "https://www.elfinanciero.com.mx",
         "summary": "'La Captura' se basa en una historia real donde uno de los protagonistas principales es 'El Chapo' Guzmán.",
         "pubDate": "Sun, 23 Aug 2026 22:57:17 +0000"
-      },
-      {
-        "title": "¿Pericos barre a los Diablos? Calendario, resultados y todo sobre la Serie de Zona en playoffs de la LMB 2026",
-        "link": "https://www.elfinanciero.com.mx/deportes/2026/08/19/diablos-rojos-del-mexico-vs-pericos-de-puebla-calendario-y-resultados-en-serie-de-zona-de-playoffs-lmb-2026/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Diablos Rojos y Pericos de Puebla se enfrentan en las Series de Zona LMB 2026. Conoce el calendario, resultados, horarios y antecedentes de la serie.",
-        "pubDate": "Sun, 23 Aug 2026 22:43:20 +0000"
       },
       {
         "title": "Rubén Rocha se separa del gobierno de Sinaloa: Congreso aprueba licencia y llama a periodo de sesiones",
@@ -936,22 +944,6 @@
         "source": "La Jornada",
         "sourceUrl": "https://www.jornada.com.mx/2026/08/23/",
         "summary": "Las mexicanas Adriana Torres y Suri Cueva aumentaron la cosecha de medallas en el Campeonato Mundial Juvenil de Clavados 2026, en Rijeka, Croacia, tras conquistar ayer la presea de…",
-        "pubDate": "Sun, 23 Aug 2026 07:52:04 GMT"
-      },
-      {
-        "title": "Hallan otra ruta de robo de combustible; va de Yucatán a Campeche",
-        "link": "https://www.jornada.com.mx/2026/08/23/politica/005n2pol?partner=rss",
-        "source": "La Jornada",
-        "sourceUrl": "https://www.jornada.com.mx/2026/08/23/",
-        "summary": "También hay huachicol en el sureste, y las actividades de contrabando de combustible incluye además de gasolinas, gasavión, de Yucatán hacia Campeche.",
-        "pubDate": "Sun, 23 Aug 2026 07:52:04 GMT"
-      },
-      {
-        "title": "Importará Washington caña de azúcar de firma dominicana acusada de explotación laboral",
-        "link": "https://www.jornada.com.mx/2026/08/23/mundo/018n2mun?partner=rss",
-        "source": "La Jornada",
-        "sourceUrl": "https://www.jornada.com.mx/2026/08/23/",
-        "summary": "Estados Unidos reanudará la importación de productos de caña de azúcar por parte de Central Romana, empresa dominicana que somete a sus trabajadores a explotación extrema. Debido a…",
         "pubDate": "Sun, 23 Aug 2026 07:52:04 GMT"
       }
     ]
