@@ -1,209 +1,321 @@
 {
-  "lastUpdated": "2026-09-07T05:20:17.853Z",
+  "lastUpdated": "2026-09-07T10:49:46.024Z",
   "regions": {
     "🌍 Global": [
       {
-        "title": "Six dead and more feared trapped in collapsed building in Delhi",
+        "title": "BBC News presenter Maryam Moshiri reveals she has incurable blood cancer",
+        "link": "https://www.theguardian.com/society/2026/sep/07/maryam-moshiri-blood-cancer-bbc-news-presenter",
+        "source": "Kevin Rawlinson and agencies",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Newscaster says rare but treatable condition polycythaemia vera left her feeling like she ‘had her batteries taken out’ The BBC News presenter Maryam Moshiri has been diagnosed wit…",
+        "pubDate": "Mon, 07 Sep 2026 10:32:23 GMT"
+      },
+      {
+        "title": "Being ‘true to Labour’s values’ means controlling spending, says Healey – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
+        "source": "Andrew Sparrow",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Chancellor says there’s ‘nothing progressive’ about government spending £1 in every ten on debt interest Chancellor to argue UK economy can ‘turn corner’ despite bond market turmoi…",
+        "pubDate": "Mon, 07 Sep 2026 10:32:11 GMT"
+      },
+      {
+        "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
         "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "Eyewitnesses say two-to-four dozen are thought to have been inside the five-storey hostel when it came down.",
-        "pubDate": "Mon, 07 Sep 2026 05:10:18 GMT"
+        "summary": "It's not clear how many people were inside the building - or if there are still people under the debris.",
+        "pubDate": "Mon, 07 Sep 2026 10:31:01 GMT"
       },
       {
-        "title": "Bereaved parents to give evidence at independent review of Sussex maternity services",
-        "link": "https://www.theguardian.com/society/2026/sep/07/bereaved-parents-evidence-independent-review-sussex-maternity-donna-ockenden",
-        "source": "Donna Ferguson",
+        "title": "Grindr pays £26m to settle UK lawsuit over allegedly sharing users’ HIV status",
+        "link": "https://www.theguardian.com/business/2026/sep/07/grindr-settle-uk-lawsuit-dating-app-ad",
+        "source": "Julia Kollewe",
         "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Review led by Donna Ockenden launches after campaign by families and media investigation into deaths Susan Cacciacarro was almost 37 weeks pregnant with her daughter Chiara when sh…",
-        "pubDate": "Mon, 07 Sep 2026 05:00:25 GMT"
+        "summary": "US-owned dating app allegedly allowed ad firms access to private information in breach of UK law Business live – latest updates Grindr will pay £26m to settle a lawsuit brought by…",
+        "pubDate": "Mon, 07 Sep 2026 10:30:56 GMT"
       },
       {
-        "title": "Australia politics live: Coalition targets Labor over ‘plummeting’ Sydney house prices; PM speaks of ‘horror’ of Nepal floods",
-        "link": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
-        "source": "Tory Shepherd",
+        "title": "Far-right AfD celebrate ‘dream result’ in key German state as Merz reportedly holds crisis talks – Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
+        "source": "Jakub Krupa",
         "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Follow the day’s news live Sign up for Guardian Australia’s Politics, really newsletter here One Nation has come up with a plan to give people their superannuation earlier, reducin…",
-        "pubDate": "Mon, 07 Sep 2026 04:58:03 GMT"
+        "summary": "Group fail to secure majority in Saxony-Anhalt state parliament leaving uncertainty over next steps Far-right AfD wins key German state election but falls just short of majority Af…",
+        "pubDate": "Mon, 07 Sep 2026 10:29:16 GMT"
       },
       {
-        "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
-        "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "Alternative for Germany hails a \"historic\" success as preliminary results show a big margin of victory with almost 44% of the vote.",
-        "pubDate": "Mon, 07 Sep 2026 04:48:02 GMT"
-      },
-      {
-        "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
-        "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
-        "pubDate": "Mon, 07 Sep 2026 04:07:23 GMT"
-      },
-      {
-        "title": "Ukraine seeks to seize water company owned by billionaire family of British theatre mogul",
-        "link": "https://www.theguardian.com/world/2026/sep/07/ukraine-seeks-to-seize-water-company-owned-by-billionaire-family-of-british-theatre-mogul",
-        "source": "Daniel Boffey Chief reporter",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Row centres on stake held by Patarkatsishvili family in bottled water firm it jointly owns with Russian oligarch A British theatre impresario and her billionaire family are embroil…",
-        "pubDate": "Mon, 07 Sep 2026 04:00:25 GMT"
-      },
-      {
-        "title": "UN expert Francesca Albanese calls for ‘true paradigm shift’ as Miliband resets policy on Israel",
-        "link": "https://www.theguardian.com/world/2026/sep/07/un-francesca-albanese-miliband-israel-palestine-settlements-trade",
-        "source": "Patrick Wintour Diplomatic Editor",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Exclusive: UN special rapporteur on occupied territories says ban on goods from settlements ‘important’ but must go further if it is to amount to more than a ‘press release’ The UK…",
-        "pubDate": "Mon, 07 Sep 2026 04:00:25 GMT"
-      },
-      {
-        "title": "Designers should not fear being replaced by AI, industry leaders say",
-        "link": "https://www.theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say",
-        "source": "Phillip Inman",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Firms are more likely to use technology as ‘the intern in the office’ than as a replacement for skilled staff Professional designers should not feel “threatened” by the rapid growt…",
-        "pubDate": "Mon, 07 Sep 2026 04:00:25 GMT"
-      },
-      {
-        "title": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
-        "link": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts?traffic_source=rss",
+        "title": "World reacts to AfD victory in east Germany state election",
+        "link": "https://www.aljazeera.com/news/2026/9/7/world-reacts-to-afd-victory-in-east-germany-state-election?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Manila defence chief says Washington gave 'definite assurances' that its commitments to the Philippines remain.",
-        "pubDate": "Mon, 07 Sep 2026 03:59:39 +0000"
+        "summary": "French minister calls AfD's victory a grave moment, warning of growing nationalism and its impact on European unity.",
+        "pubDate": "Mon, 07 Sep 2026 10:20:15 +0000"
       },
       {
-        "title": "Australians will be able to switch off social media algorithms under planned legislation",
-        "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
+        "title": "Jaguar Land Rover confirms plan to cut 4,000 jobs over two years",
+        "link": "https://www.theguardian.com/business/2026/sep/07/jaguar-land-rover-job-trump-tariffs",
+        "source": "Rob Davies and Alex Daniel",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Carmaker, which is battling Trump tariffs and fallout from cyber-attack, wants to reduce 34,000-strong UK workforce Business live – latest updates Jaguar Land Rover has announced t…",
+        "pubDate": "Mon, 07 Sep 2026 10:17:37 GMT"
+      },
+      {
+        "title": "Israeli strikes in southern Lebanese village kill nine",
+        "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
-        "pubDate": "Mon, 07 Sep 2026 03:40:09 GMT"
+        "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+        "pubDate": "Mon, 07 Sep 2026 10:16:56 GMT"
       },
       {
-        "title": "Jean Nassif’s daughter tells court father ‘pressured’ her to falsify documents for $150m construction loan",
-        "link": "https://www.theguardian.com/australia-news/2026/sep/07/jean-nassifs-daughter-court-father-pressured-her-falsify-documents-150m-construction-loan-ntwnfb",
-        "source": "Kat Wong",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Ashlyn Nassif, daughter of Toplace boss who fled Australia in 2022, has pleaded guilty to providing false or misleading information to obtain loan from Westpac Follow our Australia…",
-        "pubDate": "Mon, 07 Sep 2026 03:28:43 GMT"
+        "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+        "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/world",
+        "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+        "pubDate": "Mon, 07 Sep 2026 10:14:51 GMT"
       },
       {
-        "title": "More than 200 people stood down at embattled housing developer Bathla amid $3.4bn debt",
-        "link": "https://www.theguardian.com/australia-news/2026/sep/07/more-than-200-people-stood-down-at-embattled-housing-developer-bathla",
-        "source": "Jonathan Barrett and Catie McLeod",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Sydney-headquartered group suspends work on some of its 45 construction sites affecting 60% of workforce Follow our Australia news live blog for latest updates Get our breaking new…",
-        "pubDate": "Mon, 07 Sep 2026 03:07:23 GMT"
-      },
-      {
-        "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
-        "source": "The Guardian",
+        "title": "Ukraine's Prosecutor General denies involvement in scam call center protection racket",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTlVMUzVYWV9QUURVQmgtQzgxUlpaNXVHVmVWRzhxamhjSXp5NU1fcHF4RjNFYmc5ZHJJM2gzMjdvX0NjY0J3Ukh6dGZWa3dYRTMyQU9YUzdGdEhKaDN4bEttTmxqSWRaQ1BHdXdhdHVEZVVDVEdhYUs3Nzlhbm9qdmRHakRUcXpnSVpHbzRLWkpKbWRBdnlQcW1hN1pueHFibDlIM1Y5Mjh2bXBmdXBLYm5IMA?oc=5",
+        "source": "The Kyiv Independent",
         "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ The Guardian Germany’s far-right AfD win historic victory, but fall short of majority…",
-        "pubDate": "Mon, 07 Sep 2026 02:59:00 GMT"
+        "summary": "Ukraine's Prosecutor General denies involvement in scam call center protection racket The Kyiv Independent Ukrainian prosecutor general's whereabouts unknown since anti-corruption…",
+        "pubDate": "Mon, 07 Sep 2026 10:11:49 GMT"
       },
       {
-        "title": "Far-right AfD wins key German state election but falls just short of majority",
-        "link": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
-        "source": "Kate Connolly in Berlin",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Alternative für Deutschland surges to victory in Saxony-Anhalt as Friedrich Merz’s CDU slumps to disastrous result AfD thanks Elon Musk as France warns state election win a ‘seriou…",
-        "pubDate": "Mon, 07 Sep 2026 02:42:09 GMT"
-      },
-      {
-        "title": "Iran to announce restricted zone outside Strait of Hormuz",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Iran's security chief Mohsen Rezaei says Tehran will announce a restricted zone around the Strait of Hormuz.",
-        "pubDate": "Mon, 07 Sep 2026 02:41:56 +0000"
-      },
-      {
-        "title": "Australia’s proposed ‘opt out’ law targets Big Tech algorithms",
-        "link": "https://www.aljazeera.com/news/2026/9/7/australias-proposed-opt-out-law-targets-big-tech-algorithms?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Social media platforms face scrutiny over addictive algorithms; new law aims to give Australians greater feed control.",
-        "pubDate": "Mon, 07 Sep 2026 02:35:14 +0000"
-      },
-      {
-        "title": "China to pump $54bn into state banks and insurers to boost economy",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
-        "pubDate": "Mon, 07 Sep 2026 02:26:12 GMT"
-      },
-      {
-        "title": "Eight-year-old Gaza girl killed by Israel on first day of school",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "An eight-year-old girl and her father were killed when an Israeli strike hit their vehicle on her first day of school.",
-        "pubDate": "Mon, 07 Sep 2026 02:17:17 +0000"
-      },
-      {
-        "title": "Adidas faces boycott over amputee campaign featuring Israeli soldier",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/adidas-faces-boycott-over-amputee-campaign-featuring-israeli-soldier?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Adidas is facing calls for a boycott after featuring a former Israeli soldier in a campaign for amputees.",
-        "pubDate": "Mon, 07 Sep 2026 02:12:35 +0000"
-      },
-      {
-        "title": "US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVktrNjVBTENONHRoZVB6OGRsQUxBSUdhZkFydmlOM3ZvVWRCRXVUUW85dGxNZ2VrMXkxZUpnVnpVMlNLZkpMWkRVTFJ2VVhSYXZCT1RmcEtYRTRjQmU5dTdCSzA4TDk4WkhJOWRiVUNxSFRKdHJmcTgxYWNEQy01eUVpY2Z5bHZpYl9sakVNcDBLal9BMkpCWWlKSEpMdw?oc=5",
-        "source": "AP News",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz AP News Iran claims strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it NBC News Ir…",
-        "pubDate": "Mon, 07 Sep 2026 01:42:00 GMT"
-      },
-      {
-        "title": "Jamaica to file slavery reparations petition during UK visit",
-        "link": "https://www.aljazeera.com/news/2026/9/7/jamaica-to-file-slavery-reparations-petition-during-uk-visit?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Petition to King Charles questions the legality of slavery under English law and UK’s responsibility for reparations.",
-        "pubDate": "Mon, 07 Sep 2026 01:34:57 +0000"
-      },
-      {
-        "title": "Hundreds of far-right protesters descend on Portsmouth after small boat arrival",
-        "link": "https://www.theguardian.com/uk-news/2026/sep/06/far-right-protesters-descend-on-portsmouth-after-small-boat-arrival",
-        "source": "Diane Taylor and Charlie Moloney",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Influencer livestreams event calling for men to travel to port to block coaches carrying asylum seekers from leaving Hundreds of far-right activists have descended on Portsmouth, w…",
-        "pubDate": "Mon, 07 Sep 2026 01:33:01 GMT"
-      },
-      {
-        "title": "Eight Indonesian airports remain shut due to volcanic ash from Anak Krakatau",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3lQYWRaNm1SWnd1TzhrOUJkMHBWVUt2aXJqZ1pmRzF0dERJeHhSYUxJX0w0amVjOGt5NWFhSGhrNTZuSE9vR05NY1JjM3NXZDNVbl9ZYWJON0dHdkIxTS1wWWt5dExNbjlkZkh1THJBbXl3N1huQlJpSFo1cF9XWDhHMElBXzg3UmYzVTlzdmZzZURzTkIxOXBVUnVHSHd2N0pkbHdzZjZtTGZ2MktKcF9kNkMtQnlaT3RVUFNURXVGQS1rMDRV?oc=5",
-        "source": "Reuters",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Eight Indonesian airports remain shut due to volcanic ash from Anak Krakatau Reuters Volcano eruption disrupts hundreds of flights at Southeast Asia's second-busiest airport CNBC A…",
-        "pubDate": "Mon, 07 Sep 2026 01:11:00 GMT"
-      },
-      {
-        "title": "Why is Kenya cracking down on foreign traders and small retailers?",
-        "link": "https://www.aljazeera.com/news/2026/9/7/why-is-kenya-cracking-down-on-foreign-traders-and-small-retailers?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "President Ruto says small businesses should be reserved for Kenyans as his government moves against foreign traders.",
-        "pubDate": "Mon, 07 Sep 2026 01:08:55 +0000"
-      },
-      {
-        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "title": "Probe begins into why Amazon cargo plane overran Miami runway",
         "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
-        "pubDate": "Mon, 07 Sep 2026 00:57:38 GMT"
+        "summary": "Five people are dead and five others injured after an aircraft overran the runway, hit vehicles and caught fire.",
+        "pubDate": "Mon, 07 Sep 2026 09:54:40 GMT"
+      },
+      {
+        "title": "Russia and North Korea open first road bridge across their shared border",
+        "link": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river",
+        "source": "Pjotr Sauer",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Connection across Tumen River is further sign of closer ties between the two countries since start of war in Ukraine Russia and North Korea have opened the first road bridge across…",
+        "pubDate": "Mon, 07 Sep 2026 09:53:53 GMT"
+      },
+      {
+        "title": "Europe facing ‘grave moment’ as far-right AfD wins German poll and pledges to work with Elon Musk",
+        "link": "https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win",
+        "source": "Jon Henley Europe correspondent",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Mainstream politicians express alarm while lead candidate in Saxony-Anhalt welcomes ‘strong’ cooperation with Musk AfD wins key German state election but falls just short of majori…",
+        "pubDate": "Mon, 07 Sep 2026 09:53:21 GMT"
+      },
+      {
+        "title": "Radiohead announce 2027 tour with shows in Australia and Japan",
+        "link": "https://www.theguardian.com/music/2026/sep/07/radiohead-announce-2027-tour-with-shows-in-australia-and-japan",
+        "source": "Adeshola Ore",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "UK band will play 16 shows across Perth, Melbourne and Sydney, as well as five shows in Saitama Radiohead will return to Australia to play 16 shows across three cities next year, m…",
+        "pubDate": "Mon, 07 Sep 2026 09:44:51 GMT"
+      },
+      {
+        "title": "Video: Israeli air strikes kill at least 10 in southern Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Israeli air strikes on southern Lebanon began at dawn on Sunday, killing at least 10 people.",
+        "pubDate": "Mon, 07 Sep 2026 09:44:27 +0000"
+      },
+      {
+        "title": "Iran war: How US consumers spent an additional $100bn on fuel",
+        "link": "https://www.aljazeera.com/news/2026/9/7/iran-war-how-us-consumers-spent-an-additional-100bn-on-fuel?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "The average US household has spent $763 extra on fuel in six months, as the US-Israel war on Iran pushes up fuel costs.",
+        "pubDate": "Mon, 07 Sep 2026 09:30:44 +0000"
+      },
+      {
+        "title": "Fire breaks out at Chile ski resort",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/fire-breaks-out-at-chile-ski-resort?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "A fire broke out at a ski resort in Chile’s mountainous Nuble region.",
+        "pubDate": "Mon, 07 Sep 2026 09:27:22 +0000"
+      },
+      {
+        "title": "Nepal holds day of mourning for more than 1,300 killed in floods",
+        "link": "https://www.aljazeera.com/news/2026/9/7/nepal-holds-day-of-mourning-for-more-than-1300-killed-in-floods?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Nepal flags fly at half-mast to mark a day of mourning after catastrophic Himalayan floods kill more than 1,300.",
+        "pubDate": "Mon, 07 Sep 2026 09:14:09 +0000"
+      },
+      {
+        "title": "Australia’s top bureaucrats want to block sharing of clips from parliament on social media to save them from ‘ridicule’",
+        "link": "https://www.theguardian.com/australia-news/2026/sep/07/australias-top-bureaucrats-want-to-block-sharing-of-clips-from-parliament-on-social-media-to-save-them-from-ridicule",
+        "source": "Sarah Basford Canales and Tom McIlroy",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Secretaries board concerned material posted without proper context as Greens warn ban could result in lack of transparency Get our breaking news email, free app or daily news podca…",
+        "pubDate": "Mon, 07 Sep 2026 09:05:33 GMT"
+      },
+      {
+        "title": "Peru Shows the Limits of Washington’s Anti-China Push",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX205LUFpc3ZEdS1wa1pOSE0zWEV4LV80bjdEbHNIanhadUI4R0dQSmRQR0xWdmV6RFpKSHpLUHMxMzcweGpXNm5JRThVcS1YNDE5aHJtOGs4S0xOYjJJNGhyOWVUN1NhTkFoWFlBSkVlbVF6RWs2bjJmUW01bnFZOUxrUS1OQQ?oc=5",
+        "source": "nytimes.com",
+        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Peru Shows the Limits of Washington’s Anti-China Push nytimes.com As I see it | The US’ dangerous reversion to imperialism in Latin America South China Morning Post Latin America’s…",
+        "pubDate": "Mon, 07 Sep 2026 09:00:13 GMT"
+      },
+      {
+        "title": "Liberal operatives discussed whether to buy Porsche or Ferrari with developer’s payments, Icac hears",
+        "link": "https://www.theguardian.com/australia-news/2026/sep/07/liberals-discuss-buying-porsches-ferraris-with-fugitive-developers-donations-icac-hears-ntwnfb",
+        "source": "Anne Davies",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Rightwing NSW powerbrokers are alleged to have received illegal political donations from fugitive developer Follow our Australia news live blog for latest updates Get our breaking…",
+        "pubDate": "Mon, 07 Sep 2026 08:40:39 GMT"
+      },
+      {
+        "title": "Labour’s new powers for water customers are a ‘stitch-up’, say campaigners",
+        "link": "https://www.theguardian.com/business/2026/sep/07/labour-new-powers-water-companies-consumer-stitch-up",
+        "source": "Helena Horton",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Exclusive: Documents reveal water firms have been allowed to advise on how they wish to be held to account Labour’s new powers for customers to hold water companies to account are…",
+        "pubDate": "Mon, 07 Sep 2026 08:36:04 GMT"
+      },
+      {
+        "title": "Israeli forces kill Palestinian suspect after settler stabbed in West Bank",
+        "link": "https://www.aljazeera.com/news/2026/9/7/israeli-wounded-in-stabbing-in-occupied-west-bank?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "The stabbing follows a wave of pogroms against Palestinians in the occupied West Bank by Israeli settlers.",
+        "pubDate": "Mon, 07 Sep 2026 08:31:26 +0000"
+      },
+      {
+        "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
+        "link": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
+        "source": "Alice Nightingale-Smith for MetDesk",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential…",
+        "pubDate": "Mon, 07 Sep 2026 08:27:08 GMT"
+      },
+      {
+        "title": "Satya Niketan: Rescuers dig through debris as seven dead in building collapse in Delhi",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yeU9NTGotRVZ4RjZYSG5XOERwdXBGaHpJSmlRWC1GMGNNOVVQS2NmaTN0Z043RW5SdGdUaldPRDdlTWx5S2lwYllob1g5RWcydzJRb1RLRU15QQ?oc=5",
+        "source": "bbc.com",
+        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Satya Niketan: Rescuers dig through debris as seven dead in building collapse in Delhi bbc.com Six rescued after multi-storey building collapses in India's Delhi, ANI reports Reute…",
+        "pubDate": "Mon, 07 Sep 2026 08:26:09 GMT"
       }
     ],
     "🇺🇸 United States": [
+      {
+        "title": "Another Lonely Hero Conquers France’s Box Office. But This One Isn’t Odysseus.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOFZCTXdKVFczWE1sVS1ZeTZNZnNKQUJwdkVHQVI4TTlxdk5SZnVNSHA4LVFOQ2FvXy1sdEc0bEN4ZFduZzFwNFBIUFdNN2JfN0N1WFlCNUJMSXRIZXZhWHQ5b0VBTXpXSmdSRnlWY21kbXNIX1NKV2JIYmRTclYyTUthUTFPQ0JMMHZj?oc=5",
+        "source": "nytimes.com",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Another Lonely Hero Conquers France’s Box Office. But This One Isn’t Odysseus. nytimes.com",
+        "pubDate": "Mon, 07 Sep 2026 10:31:07 GMT"
+      },
+      {
+        "title": "Opinion | Somewhere, Roy Cohn Is Smiling",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VbzQ1aXFqU01YWVBsQlM0Tmh6b01qa1lVeGY0WlNKTmM4R2RLYjFxRDMyYkxCbVVfU2IyZUN0c0pINEdINTJ5THhvVjZ6ZVFyaTVIRUhKRUtRU0hBTVdxZUJRUVE1OU5WSlZreHRzd2lwU1YxTC1teGxFRQ?oc=5",
+        "source": "nytimes.com",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Opinion | Somewhere, Roy Cohn Is Smiling nytimes.com",
+        "pubDate": "Mon, 07 Sep 2026 09:03:56 GMT"
+      },
+      {
+        "title": "A Tidier Rivian (in Size and Price) Is Ready for the Suburbs",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90U3ZVakJfZnlwU3R6QklZeGpaRE5uY1BydU02U2Z3eEtJWGFoeG03T1FCdWpqQ0RLQktvZDJSR0h5Y1FReTlaNFhHM3lYaTVadTg3NWRQMDVRTVdld1YxRGN1bmpEY2VuRHBiU0pIelpWenc?oc=5",
+        "source": "nytimes.com",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "A Tidier Rivian (in Size and Price) Is Ready for the Suburbs nytimes.com",
+        "pubDate": "Mon, 07 Sep 2026 09:03:29 GMT"
+      },
+      {
+        "title": "Bears in Los Angeles Are Getting Their Close-Ups, Ready or Not",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPWUdMTklsS1lQU1BVb29oZnZJVTQ5dE1NVE9jU01GaUpWN01kYjhjN3hSUEpEdjN0ZF9JOENuNmo5R29UOGJsd0hGYlpBdnlPU0VyWFZOd1E2U053cXBDbGMzODNDOENfdFB6cXFmeldyMDA?oc=5",
+        "source": "nytimes.com",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Bears in Los Angeles Are Getting Their Close-Ups, Ready or Not nytimes.com",
+        "pubDate": "Mon, 07 Sep 2026 09:02:13 GMT"
+      },
+      {
+        "title": "Gavin Newsom stumps for South Carolina Democrats — and a possible 2028 bid",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1naGt4YWJ6ODByWG5MWXp5LUhnbzlKaktPYlZwMFdXU0NWUHBZOVlBLXp1dEFpdkdqbUM4ckNFUWw1cHZFM2N1VmZ0NnVCOGpXbkYyN3pERUNiemRxMHFCWG1VVTh1cFZUdVFOYUJySEpUX0VGZHBqemRYMkN5dw?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Gavin Newsom stumps for South Carolina Democrats — and a possible 2028 bid CNN",
+        "pubDate": "Mon, 07 Sep 2026 09:00:29 GMT"
+      },
+      {
+        "title": "Americans are still struggling with high gas prices. The pain will likely continue this fall",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWMVFLZ1ZtcW5hUDBRQ1RmVlhzRk1kdExxOUE1WG5FYlB5SVhGRUtnaVpTQ2NwakZPbjI0aUkwTmdLVTBxekR3clkwM3p3ODNQdFZISXA0SWlNT0lmNUZYVkhCYw?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Americans are still struggling with high gas prices. The pain will likely continue this fall CNN",
+        "pubDate": "Mon, 07 Sep 2026 09:00:29 GMT"
+      },
+      {
+        "title": "At least 11 killed after avalanche hits climbers in Russia’s North Caucasus",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0REc0o3Ylh3TTBYRkNpaURlSkhBRnR4LVdjUHJkRVhxazJhRGJ3N1ZTM0FRM0UtMFdaNy1tSEZWZWtrYW8tN1h5OUN4dVFaR01vYTFYWjBvUm9iM0dycGdwaC1ldFFiUG1kT25PaWVLc2FTeWNRTTBJSGNaZkwxNUtISkpGbTg?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "At least 11 killed after avalanche hits climbers in Russia’s North Caucasus CNN",
+        "pubDate": "Mon, 07 Sep 2026 08:29:41 GMT"
+      },
+      {
+        "title": "‘Cocoon — One Summer of Girlhood’ Review: Patriotic Sacrifices",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNHljRXBiUGpsRGs5UmllaE40Q2VOMXVPODlmdDBSalcxWEVYczNFVzJGdGRiV2gyRHhLSW5wNUlPNlNIZEVwMXA0c29XMHBucE1Fd2lrWmEzQ0RwQVpYZmU1NjZIQlgtbXdfZ3d2djFyQXE4b2pEczBGSHdhTEZUSmsxc3NyWlNLMlZZ?oc=5",
+        "source": "nytimes.com",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "‘Cocoon — One Summer of Girlhood’ Review: Patriotic Sacrifices nytimes.com",
+        "pubDate": "Mon, 07 Sep 2026 08:20:03 GMT"
+      },
+      {
+        "title": "The Athletic - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxORy1nTG9hSmJZaEJGajhNQ0kxUVROR1pHeFJBbXRNVC03enNVenoyM1cyNTJNVDM3MGktek9zemtpS3JBZGVFVG5vUTFsTWhmUmxoOHJCd2VzMEFId3JUd1ZNbjNZZXJXZi1VemMxRWtEWVh4b2k3TnZ5aGljd3hhMGRURUwyQlVzS3JkLS1UTU8tWVN6b0lWck95RGZnWG1qSGRlbi12V3JuVEktMHB0eVFXckFJSmdXbEFfZVEyTDVHbWVBcjk1Smgtak1oZlcxTzVGd21KLXpkTktIdkRsMXVJVGhPNnl4akM4V2M4MV82WV9Va2dpdi1ZelRZTTFIMWk2cXpXZVllM3Bmb1ZrSXlLbTg5bE9icHptc1ZFZGlzMGo4bWQxOQ?oc=5",
+        "source": "nytimes.com",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "The Athletic - The New York Times nytimes.com",
+        "pubDate": "Mon, 07 Sep 2026 08:17:57 GMT"
+      },
+      {
+        "title": "Far-left Democrats had a huge summer. Now they have big demands for party leaders",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb0tXdnhIXzBab3JMbGlOR2JIWFJ0MjR2NXNiMjVwZk5Rcl9qYWU1REdPNXd6aE1Ld2hzZjloVTVFUlFWWm1GaWtFMWNad19IVFU5RVJtalZpa0lXVlJySXQ2bWZUSVByTFNLMnQ5WVEyRzAzVmlPTHh6QUhWVm5UYTVyYw?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Far-left Democrats had a huge summer. Now they have big demands for party leaders CNN",
+        "pubDate": "Mon, 07 Sep 2026 08:00:29 GMT"
+      },
+      {
+        "title": "Dutch elm disease ravaged Canadian cities. Can we help trees protect themselves?",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14Q3dmN0w4VjNIZ3JSVlMwY3drUzVBMVJIS2I0cmZ1TWhDTDZId1ZlNkl1NElOMlJvU2wyX2g4bmRkWTktU3Y4OC04cjZBbmZPUGFYWEdzSzdLRjRSR0g4bHM1RnNfcy1aZjgw?oc=5",
+        "source": "CBC",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Dutch elm disease ravaged Canadian cities. Can we help trees protect themselves? CBC",
+        "pubDate": "Mon, 07 Sep 2026 08:00:00 GMT"
+      },
+      {
+        "title": "What to Know About Amazon Air Cargo Carrier Involved in Miami Crash",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oV0tEcTdMTW0zelBMaUxOTmdEbC04U2s4dmtZQnRTUjh6U3AyYWYzdVJsaDhoMUJpWjQ5VmxJNkJfaXJkTWRDZkpjeUxlZDhoYVA5cGhKWnIzcG9zanhBWkMzS1RWNlo0elFWZWVHZS01Q1l5Y01FOFlR?oc=5",
+        "source": "nytimes.com",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "What to Know About Amazon Air Cargo Carrier Involved in Miami Crash nytimes.com",
+        "pubDate": "Mon, 07 Sep 2026 07:33:37 GMT"
+      },
+      {
+        "title": "Fireworks explosion kills at least 10 at Mexico festival",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2o1X2ducFkxd2E1bG4xZjFCMngxQlZMb2NUMVR3dktpOTd3dVBiQU5jc01iNnRKaFN2WnM1Q2VlblZiazdzbjRFeV9EYVBoVnN5NXp1QkN2NWxnYVk3Tm1RVGFXRld3cDAySnpOQmc1emtYMkxqbVB2QTg1Qzh6UERsWk1wam9YWUh3YmZoZ3pDM0E?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Fireworks explosion kills at least 10 at Mexico festival CNN",
+        "pubDate": "Mon, 07 Sep 2026 05:52:40 GMT"
+      },
+      {
+        "title": "Opinion | Why Labor’s Share of Wealth Is Shrinking",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQam93SFpqRlVKRmpsYk5PV1FscjE3QWY0OWdJRTRSR3JBRHF4dHNXOFRIR2E0S2FVVURyenVZbTVpQzhuX3B3MkE5T1JjcEdjS2NBSnZrbGh1SjNGUzEzYWxsTy1uTWc0dG0teXM5QWU0MUNmMHctdXRyOWNVUmtqV3pR?oc=5",
+        "source": "nytimes.com",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Opinion | Why Labor’s Share of Wealth Is Shrinking nytimes.com",
+        "pubDate": "Mon, 07 Sep 2026 05:00:06 GMT"
+      },
       {
         "title": "Nuclear-capable warship that capsized when launched finally joins North Korea’s fleet",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWJ0S0RaZkM5dFlEVjNtelNHM0lHXzhQWHBKbVUyRTN1ZDNYQ01CSVU4dmtlRjdHbjFRMGtJRXA0aVZLUjEtV3dpS2hKTHBXYWRoUWdlQnpwYXptNGhXRTN3cnlqUVoyR1NfWmQxRGd0Z3ppWUk2SF81WGtNaElxd0JydE8zNmZoNlE?oc=5",
@@ -213,20 +325,12 @@
         "pubDate": "Mon, 07 Sep 2026 04:42:30 GMT"
       },
       {
-        "title": "Armed man arrested after allegedly charging toward Democratic Ohio governor candidate Amy Acton at fair",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PVWtEaDBUbHVOV0wxaHVoaFJ5dU56SXppaDVWNTZPUTh5blBZaFNlcTlHVHVTNkVSU01uT3lkU0NoQktWdWY3MncxRUxvTUd0cEItekxVekY1VVNFNG5Lb1VFNmpjU3JvTXhNWmtn?oc=5",
-        "source": "CBS News",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Armed man arrested after allegedly charging toward Democratic Ohio governor candidate Amy Acton at fair CBS News",
-        "pubDate": "Mon, 07 Sep 2026 04:23:08 GMT"
-      },
-      {
-        "title": "5 dead after Amazon cargo aircraft overruns runway",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZS1GcW4wMGN0UXU4RHhnSDIwbmp4TjNMZlZyMHM2b3NRc2RraWp0OG1lbFNxYVRDMjNXUDd4bkZ4VWRMUW1QUjlCQjc1OWxRNU9nVTcxSWNPTEtXMG15bmVUYVNyRzAySXY2VEJFTTJhdXlVSzY1bmxRN05DYjFBd1JPSWpYVWhILVV5TGxYR3VKaTF5NkJ3czI5SXl2aHFRb0U5Wg?oc=5",
+        "title": "Anak ‌Krakatau eruption: Volcanic ash leaves 170,000 travelers stranded at eight Indonesian airports",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWW1VQkZLTXhKc3F3bXpNbHNKVkt2b3NQSVZwTFRabjdKcFY1ZUxDcnJOZlB5bHNoS2tfdy1Zb1hiVW5sbXdSdXJ0UXdQUE9CM19tVFFBQlNxU2g3S0NnNFlXRGs5VW5YUjA5Uzd2YTZZcWxNdzdsdTZsbW8xZGt2N1dnRjVnRjIya1RJQl9fX21EZw?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "5 dead after Amazon cargo aircraft overruns runway CNN",
-        "pubDate": "Mon, 07 Sep 2026 04:09:16 GMT"
+        "summary": "Anak ‌Krakatau eruption: Volcanic ash leaves 170,000 travelers stranded at eight Indonesian airports CNN",
+        "pubDate": "Mon, 07 Sep 2026 03:30:00 GMT"
       },
       {
         "title": "Trump shares map that renames New Mexico as ‘New America’",
@@ -237,12 +341,20 @@
         "pubDate": "Mon, 07 Sep 2026 02:36:00 GMT"
       },
       {
-        "title": "Armed Man Arrested After Charging Toward Democratic Candidate for Ohio Governor",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORi1iSUJZSzY2RnlaMGlXMHdzbGdhZ21tQWoyWmZxWVRFSGxzbTNzRFVSdVNqSlZNNnFmUWk0RnZHWEp1aGxRTnFEcXNQRUdHZVptWDlESEZVM3R2bEpRWU9wRUk1dXRuQmNVejFBdUhWY1lOdUpNN1R5TmxSWHlxd3BvdTZpa0diUWo1NHJQeDV4cUpENWZPZWNacG5CX0oxOVp3?oc=5",
-        "source": "The New York Times",
+        "title": "‘It Offends Me’: Giuliani Says Mamdani Should Skip 9/11 Memorial",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa1BwWDdkYm1qTEtpaFRJdVhPRW1JNHZjLVYwbkt0M19ZcDNzZkRuQ0hhemZqYmJ6ZVItZlhHZmlmM3ZLcnpwcnlVQ0dVSFdtSVFEcVdILXV2Slcxc1dZVmdRcHZxcEpMRWJVbUhSeVItUGROeTdNRXVPV0hQcnQ4TEVpMmFrS0FkWXRv?oc=5",
+        "source": "nytimes.com",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Armed Man Arrested After Charging Toward Democratic Candidate for Ohio Governor The New York Times",
-        "pubDate": "Mon, 07 Sep 2026 02:03:31 GMT"
+        "summary": "‘It Offends Me’: Giuliani Says Mamdani Should Skip 9/11 Memorial nytimes.com",
+        "pubDate": "Mon, 07 Sep 2026 02:26:47 GMT"
+      },
+      {
+        "title": "Amazon cargo plane crash at Miami International Airport felt miles away, resident says",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWV9IZmswZ05hRU0wVkpoZUJCa3hjUEFDa0lHVzRmYW1Zc09ZZjZCUVpQb0h4QWFEbFpoV0Y0Y2QzemxwdnU5U3ptUC1pZEtWUkkta3ZwUUdvY0pyUk83RTlKdGZCS0tpNENJOWQ4NExibmtBbHFjOTZrUFpqcVhqbi1JSEowOERJei1JS1BXUEtFQXU4U2I3RDFzR1R3ekE?oc=5",
+        "source": "CBS News",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Amazon cargo plane crash at Miami International Airport felt miles away, resident says CBS News",
+        "pubDate": "Mon, 07 Sep 2026 00:26:38 GMT"
       },
       {
         "title": "Colorado cafe owner defies county officials and court, stays open after failed health inspections",
@@ -253,36 +365,12 @@
         "pubDate": "Sun, 06 Sep 2026 23:55:00 GMT"
       },
       {
-        "title": "For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa3VCTzlaM1dEUnFlcFAtTnd3X1U2a2hsVW9VQjFyUnJDOEN5T2ppaVVveTNDSzJQRWVBUXBTRURRZTBBMmtqUy1VbTZ3QXBDeW85RnRVeGtEd2RHZ3VMN2E5NkpRcU1STm1JUDFHOWZaOGk4Nkl2QUZkRlo3WUhFQ290cFdrdV8wSlAzN0lyZE5zZw?oc=5",
-        "source": "The New York Times",
+        "title": "Armed Man Arrested After Charging Toward Democratic Candidate for Ohio Governor",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORi1iSUJZSzY2RnlaMGlXMHdzbGdhZ21tQWoyWmZxWVRFSGxzbTNzRFVSdVNqSlZNNnFmUWk0RnZHWEp1aGxRTnFEcXNQRUdHZVptWDlESEZVM3R2bEpRWU9wRUk1dXRuQmNVejFBdUhWY1lOdUpNN1R5TmxSWHlxd3BvdTZpa0diUWo1NHJQeDV4cUpENWZPZWNacG5CX0oxOVp3?oc=5",
+        "source": "nytimes.com",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation The New York Times",
-        "pubDate": "Sun, 06 Sep 2026 23:14:43 GMT"
-      },
-      {
-        "title": "Community mourns trailblazing Indigenous actor and director Georgina Lightning",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJclg0ZlFjT1R6OGJNMXlod01uTGRsNFpyS05tM2JYWFhCdEdpZElVeVdNdWJqTkxPRUtHSFo5UVdXLV9nSlRRNlRrTWxMbmo1eU0tYWZfUy1fOTZaOVkyYW1LU21ZQ0Z0OVpSSGtNMDF4dUtYRy1xZ2lPdlhMZHc?oc=5",
-        "source": "CBC",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Community mourns trailblazing Indigenous actor and director Georgina Lightning CBC",
-        "pubDate": "Sun, 06 Sep 2026 23:04:52 GMT"
-      },
-      {
-        "title": "‘It Offends Me’: Giuliani Says Mamdani Should Skip 9/11 Memorial",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa1BwWDdkYm1qTEtpaFRJdVhPRW1JNHZjLVYwbkt0M19ZcDNzZkRuQ0hhemZqYmJ6ZVItZlhHZmlmM3ZLcnpwcnlVQ0dVSFdtSVFEcVdILXV2Slcxc1dZVmdRcHZxcEpMRWJVbUhSeVItUGROeTdNRXVPV0hQcnQ4TEVpMmFrS0FkWXRv?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "‘It Offends Me’: Giuliani Says Mamdani Should Skip 9/11 Memorial The New York Times",
-        "pubDate": "Sun, 06 Sep 2026 23:03:11 GMT"
-      },
-      {
-        "title": "The Battle to Save General Donahue From Hegseth’s Army Purge",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM053MGlOeEVNY1M0cllieHpiQk1kb0h6dzRnaW5mWW9HX1JUQUUyZU9lQmNTY1IxZlBweVJlVFQyT2YxQ3JZM3lRbTBua1E5RjhNRXE5VFFkYjB6UW1Xd3c3cGxkU2NINjVyUzFyOWJ1eHJFRHItOGI4NEtTLVQyMTRVOG1vcjA?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "The Battle to Save General Donahue From Hegseth’s Army Purge The New York Times",
-        "pubDate": "Sun, 06 Sep 2026 23:02:08 GMT"
+        "summary": "Armed Man Arrested After Charging Toward Democratic Candidate for Ohio Governor nytimes.com",
+        "pubDate": "Sun, 06 Sep 2026 23:12:46 GMT"
       },
       {
         "title": "U.N. backs new world map showing Africa's true size",
@@ -295,18 +383,10 @@
       {
         "title": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tdXhlb3hCRjN0TWt4Vkl1THhuUklqUGJTbzgybGZ4WFB2Q2oxUVd1Mk5Zd09MS3FuZ0pMd29lMk9WSmMzMktxZkpVaTQxczI3UEJnSkxlMkl4dEE1ODcyX2xPZmQweDJSeVpuamRyS1dBdGJZVDVzT2trSWY?oc=5",
-        "source": "The New York Times",
+        "source": "nytimes.com",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes The New York Times",
+        "summary": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes nytimes.com",
         "pubDate": "Sun, 06 Sep 2026 22:47:19 GMT"
-      },
-      {
-        "title": "What to Know About Amazon Air Cargo Carrier Involved in Miami Crash",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oV0tEcTdMTW0zelBMaUxOTmdEbC04U2s4dmtZQnRTUjh6U3AyYWYzdVJsaDhoMUJpWjQ5VmxJNkJfaXJkTWRDZkpjeUxlZDhoYVA5cGhKWnIzcG9zanhBWkMzS1RWNlo0elFWZWVHZS01Q1l5Y01FOFlR?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "What to Know About Amazon Air Cargo Carrier Involved in Miami Crash The New York Times",
-        "pubDate": "Sun, 06 Sep 2026 22:45:07 GMT"
       },
       {
         "title": "The Alternative for Germany has won its best-ever election result",
@@ -319,608 +399,568 @@
       {
         "title": "Fatal Cargo Crash in Miami Echoed One That Killed 5 in 1997",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaHJmOU9JU21vZEZleHItVW5DNjdvbWQ3UjY4MXRvcWtSSjNaRXZQSjQ2UmFiZGtGc3lpRFhIMjJsUndwdjhXNldYbk1qZUFCMXBQUXhPcXdDWmhCRmVEUlNkN1FkWFN0TkZ4UktRWTBvNEJIbGtTSHRIajF2MFAxTTBjQXNpdzQ?oc=5",
-        "source": "The New York Times",
+        "source": "nytimes.com",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Fatal Cargo Crash in Miami Echoed One That Killed 5 in 1997 The New York Times",
+        "summary": "Fatal Cargo Crash in Miami Echoed One That Killed 5 in 1997 nytimes.com",
         "pubDate": "Sun, 06 Sep 2026 22:35:21 GMT"
-      },
-      {
-        "title": "Why did Michigan-WMU refs use a game clock no one else could see for their pivotal review? - The Athletic",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWkVTXzBNLUlHUHVqR0ZPbUx3UkxieXgtak5PblJUSVpjSFpsTm1rQ2J0cWNOMi1IazdwQ0d0ZXJKNV9GcFZzN0w5U1lIMnRRaGNHM08zTUJwQ212Y1BCbmtGRk1URlNCa2ppRmVjZkNBVE5xaFpBSEtJRHJYMFpnR2Z5M3BQTXJUbFhxNA?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Why did Michigan-WMU refs use a game clock no one else could see for their pivotal review? - The Athletic The New York Times",
-        "pubDate": "Sun, 06 Sep 2026 22:31:07 GMT"
-      },
-      {
-        "title": "Iran says it will announce new Strait of Hormuz 'exclusion zone'",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jTDJXdGx0emdEaklreUZobnBGTk9TX2c3SzlGVkZoRXV3a204RlZxQU03OWxlRGc1cjU3THFiOXhuM2xyc3haS3J1TWs3YUk5aDk1QThzamFDV1dpZ1lIdzNZT1VnZmRmUmF2d3VoTXZTc1lZ?oc=5",
-        "source": "CBC",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Iran says it will announce new Strait of Hormuz 'exclusion zone' CBC",
-        "pubDate": "Sun, 06 Sep 2026 22:08:13 GMT"
-      },
-      {
-        "title": "Armed individual lunges at Ohio Democratic gubernatorial nominee during fair, campaign says",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTnV1UkJXUUFVZzl4NmlXUjJpWFpFSEpRdFZkUDdzdkxfdUNZcTdvZHJDQ2lyYU5iN29rMy1CWnRtV2duTFREb2dDTUp2QXlpS0JlU2plLTlZc2tTTzZNZlByTGVrZmw5OW1pSWRQMjR4d0hOaGc3LTd5cXMxN29KWEQzVTdSaTNMVmdBUm1NLTFOSHFCdklKTmVRbTVOclk3SWFVMERycmk3T2M?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Armed individual lunges at Ohio Democratic gubernatorial nominee during fair, campaign says CNN",
-        "pubDate": "Sun, 06 Sep 2026 21:29:53 GMT"
-      },
-      {
-        "title": "Niels Refsgaard, Who Transformed the American Table, Dies at 91",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPV2Q0V0F0N3hJNGI3YmlLR1BEY1JaZjNkNWtyWnVSRnFVQzZkRmplWHVOMDlOM2hjYXcyTTBVQld1LW5VLTZwTFpkOG5zeUFWM3laVl83Q0M5ZVoxSTVsRDNUcDg5V1JjQUNCYjNpdGt4QnBBdkpHbloydw?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Niels Refsgaard, Who Transformed the American Table, Dies at 91 The New York Times",
-        "pubDate": "Sun, 06 Sep 2026 20:57:18 GMT"
-      },
-      {
-        "title": "Amazon Cargo Plane Crashes At Miami International Airport—‘Multiple Vehicles’ Struck",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeGI2bmVQbV9QWHhWX29Xamh1eUpnaUdYNDhocVFKTDNzeVM5bWxQRXFWRmZOd0ItaGQwVWR6RThvRm5QX0NlZ25YN3c3T3ZUbEdOX1ZVUndFZGN1a2ZMNlhvZ2tKTG9nQzZrakZhSmpNTldfcXk4dmFCNS1TMUkzdGZDNjdVakZ1VlBVWFoyT25Cc2dvMWxHTUNCOVFkaTdUWGxJVjZTVWZoeThfOS1JUEYzUS1ZOENzbVBMTk5iNldZZ3dnWEVDSnJYNDZOMlVs?oc=5",
-        "source": "Forbes",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Amazon Cargo Plane Crashes At Miami International Airport—‘Multiple Vehicles’ Struck Forbes",
-        "pubDate": "Sun, 06 Sep 2026 20:43:00 GMT"
-      },
-      {
-        "title": "At least 5 dead after Amazon cargo plane barrels off Miami runway and smashes into cars: police",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORmZQTk1lNTlvM3V0TXRhTXYxbVY3WlJ5TXRNYzZxaElxSEk3UFJfZFVsQ0xQWFRNNGpiQVE3Sk4zdTVyZjZ1ay00MnVyb2RsV05mOHJITG9wQ2xYeXRFcUFkRFlyVzhVQ2ZLbEhWOU1KRWNHZFBKdzdlczliOW5QaU9SSkU5S3lM?oc=5",
-        "source": "CBC",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "At least 5 dead after Amazon cargo plane barrels off Miami runway and smashes into cars: police CBC",
-        "pubDate": "Sun, 06 Sep 2026 19:46:00 GMT"
-      },
-      {
-        "title": "5 dead and 5 injured after Amazon cargo aircraft overruns runway in Miami, striking multiple vehicles",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XREhOQUhVSl9lZmZ5LVdZSmx5cm1aTk5vSUJJZnZUcGxjRFJqMnN5ZDZKM3VyenFxVk5DWm1RVEoxWmY4YlpMZk1NNzNsUU5xN3pCUkxzdlNuVjVMbTcwUTgtRFgxZjNodnZ2QzRJZ29md3o4ZXdJ?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "5 dead and 5 injured after Amazon cargo aircraft overruns runway in Miami, striking multiple vehicles CNN",
-        "pubDate": "Sun, 06 Sep 2026 19:13:17 GMT"
-      },
-      {
-        "title": "5 dead after Amazon cargo aircraft overruns runway in Miami, striking multiple vehicles",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85d29WVXFrQXF6R1NMaXI1RzdGYmJGRVpiQ1RsNXdoSnJhZTh5dVhkU2N6RzFxSmk0VWJqOXQ4Sk9SUDBnVHBhT21JdEpFX0R0TFZjNWtMVnRwMkVieXJGUzFVRHAtYXhNNVN0N2NPcUpqWVBsajhYQ0FHSXg?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "5 dead after Amazon cargo aircraft overruns runway in Miami, striking multiple vehicles CNN",
-        "pubDate": "Sun, 06 Sep 2026 19:13:17 GMT"
-      },
-      {
-        "title": "Cargo Plane Crashes at Miami Airport, Striking Vehicles",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0VhUWJfVkNreHdiVHpGOWMyU25JemV6Q0s0em9KUmZlU09OVnJLVW1DZC11MlBuYTYycm5jQ0R4ZHhYWFFfSDg4OWIzUXFTSjNOQVdLaVM4WXBuai1aLUNDUVJpSTh2VF9QSXY5RjZKUTlkUFhxZng3eUVIUzhTTw?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Cargo Plane Crashes at Miami Airport, Striking Vehicles The New York Times",
-        "pubDate": "Sun, 06 Sep 2026 19:07:58 GMT"
-      },
-      {
-        "title": "House GOP conference chair says Rep. Max Miller is \"our nominee right now\" despite abuse allegations",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSXVidDdsLTJJcFFaeDYwMnpGemExQ3ZpLXhIZ3dqX09RTmM4OUlXNjl6NEJRMVVxb1Q2Y20zY2RBdU9CZWdIanVsZTUwclJRaElOSEZqSGJ2VndES0ZNM0FkbmZUUWk4WUJTbFhjdzloVE9KeldoVVU5TWxUamZiWHExcWg1NE5FVThuNmJaeDNEeGhzV3hiMWJ0YlFXYXpwREZKMjB0YnFqNjJGWjNsRmFTNnA?oc=5",
-        "source": "CBS News",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "House GOP conference chair says Rep. Max Miller is \"our nominee right now\" despite abuse allegations CBS News",
-        "pubDate": "Sun, 06 Sep 2026 19:02:12 GMT"
       }
     ],
     "🇪🇺 Europe": [
+      {
+        "title": "John Healey giving first major speech as chancellor",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91T0N4YkxCN0RjdEE0X3U5QWpMZ0xnQlRMWWlPTFpIU3JkOExxNDdWRHNYeXNQYWhSTnlTVDVqQmkyVlNDcmdVWkhYX2EzbV9VTnBMU0FNeG4?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "John Healey giving first major speech as chancellor BBCSee more headlines and perspectives on Google News",
+        "pubDate": "Mon, 07 Sep 2026 10:43:29 GMT"
+      },
       {
         "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUldJTm42d2dhZU9keVBFZW43aVJxZTlEZ3hEcE54aWVFQXd1NTNCSzBOYUxIWU02cjdFRlItYi1FZ2tSd1ZnWk1jR01aVnRfekFKZklUaXFpaHpxMWdhTGxwaXVDdjZNY29Gdl9OZnhEaWlMTUMtUXdjMUNnQ1J0YkltMlhXSW9NV3JuZVB1MEFVMmNMeUp0NldiQ0VDZEFBdXhsTW5IUkVKWlJ6Mi0xcVVtVGltZUNFaHNIOHlwaHVhSE4yWG9DSkx2U1dfVmJ1?oc=5",
         "source": "Top stories - Google News",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak Pittsburgh Post-Gazette Pennsylvania infant’s death confirmed to have been caused by measles The Hill C.D.C. Dir…",
-        "pubDate": "Mon, 07 Sep 2026 04:23:14 GMT"
+        "summary": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak Pittsburgh Post-Gazette Infant died of measles in Pennsylvania, coroner confirms The Washington Post C.D.C. Dire…",
+        "pubDate": "Mon, 07 Sep 2026 10:26:48 GMT"
       },
       {
-        "title": "Amazon cargo plane crashes at Miami airport, killing five people",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZE5kc2NrR09LQXBMX3hmdERjM0FIR3k2TmRzLXA4TEJIOHp3aDdyTjl1cWhBT2JONktaY2hDYnpjTlc5czFkS2I5eTl3ZXJnSTltbzZiM0JRRF80YjNuWnFaWUU1SUdscnBPRGNFY1B2eU9MYlY2T2JOTzgzVC04NlVzdldQN3FUNE5hVDJGSTEzWV9LaEtkcElmNHU0THVVaVJkWlpWQlNyUzd1SklUeUwyaXBrQQ?oc=5",
-        "source": "The Washington Post",
+        "title": "German far-right AfD wins Saxony-Anhalt election, falls short of majority",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFhETTlJTDVkQjRXc09IbDlSTTNVWWU2ajRmbi1mUVM2ZzFEYzFGTG0ydjdQU3NteDhNSTlocXVSR25MTlNoWTZxeXlJcklQMlB2SXIxVms3Mm83UVN6UEsta1ZHN1VhbWpfci1Gbkhqa05GcjZ6RTJ6Y2pfZUNLXzc1WlpYYWltc01MTlNZb0tUcFcyRkhtaFpTcjBJNURPRGlGRzI0MnVyQdIBrwFBVV95cUxPOEE2TW11RktOd2F2cmpuZkRDek9PN2VFbGFxNlZKMVRWQ1gzeTg5QVFuTkY4YkFyalZxWHZYdS1SbGdiYkc0VTIyYVNNQnhPWnhBOEZManhHYk1qbzNmZ19XOGFzOUJycHFrV09xNUpmVml0Y3lEZFlhVEhBZFNPbWlzUzdXbDRROHM4ZnFhV3RYWWwtbFJHb0JkX0w3SHhZOHQ2UE45Z1BxYmxmWGtr?oc=5",
+        "source": "Al Jazeera",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Amazon cargo plane crashes at Miami airport, killing five people The Washington Post Investigators hunt for what went wrong after cargo plane crash in Miami kills at least 5 AP New…",
-        "pubDate": "Mon, 07 Sep 2026 04:11:07 GMT"
+        "summary": "German far-right AfD wins Saxony-Anhalt election, falls short of majority Al Jazeera Germany's AfD calls for parties to work with it after Saxony-Anhalt win bbc.com Far-right AfD c…",
+        "pubDate": "Mon, 07 Sep 2026 10:18:45 GMT"
       },
       {
-        "title": "Europe wrestles with impact of historic regional gains for Germany’s AfD",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qb1NMOWdHaEFsQkdoMlA2bFZHVENmeXpzVE53NUhoT09WRndSN3AxSlBWX3FJOUtPWEV4WXRuOVBmb1c5a2Vmd09YdmJNbVVxb3dBcWluZFRFcHA3?oc=5",
+        "title": "Germany's AfD calls for parties to work with it after Saxony-Anhalt win",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01d2VpMTJnMy1UbHJEN0ZDVlhTNk9jNzZVeTdQM1pKcmRXSXk0d2g3RGgtbHRDR0t5dTNYQnMtWkMwWG1LMUFHY3dkOXROZUZXRjRqMVFMXzh0YTE2?oc=5",
         "source": "BBC",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Europe wrestles with impact of historic regional gains for Germany’s AfD BBC The ‘most dangerous man in Germany’ behind AfD victory The Telegraph Germany’s far-right AfD thanks Elo…",
-        "pubDate": "Mon, 07 Sep 2026 04:07:23 GMT"
+        "summary": "Germany's AfD calls for parties to work with it after Saxony-Anhalt win BBC Alternative for Germany: Who are the far-right party swept to victory in Saxony-Anhalt? Sky News Germany…",
+        "pubDate": "Mon, 07 Sep 2026 10:03:08 GMT"
       },
       {
-        "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ The Guardian Germany’s far-right AfD win historic victory, but fall short of majority…",
-        "pubDate": "Mon, 07 Sep 2026 02:59:00 GMT"
+        "title": "Kevin Pietersen joins England white-ball set-up as specialist mentor",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14Rm1VLUJsaHJjQW9ldmhVZUswbkV0N2tBdDFKU0t6Y3I3TjE4ek1ubzhtRW1VVmFjLXV1Qmd1N2F5UDQ1Um5oNjlTQkdVaFNNZHN0VFVYWk1rZkJxeDRJVkVvNmZndw?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Kevin Pietersen joins England white-ball set-up as specialist mentor BBC Kevin Pietersen gets surprise call-up as mentor for England cricket team The Guardian Kevin Pietersen: Engl…",
+        "pubDate": "Mon, 07 Sep 2026 10:03:02 GMT"
       },
       {
-        "title": "Emmy Awards Night 2: The Full Winners List",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MMzZNdmlmU1Z0RGE0MS0wMGM4bVNkMmdreVgySU5pdzZRTVduUXBUSUhJTXhiNGJiSFBmWnh5cUxFNWpVSUhfYjVmd3I0WUxFbGswWW5SYVJYYU40TTFR?oc=5",
-        "source": "Deadline",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Emmy Awards Night 2: The Full Winners List Deadline Here Are All the Winners in the 7 Music Categories at the 2026 Primetime Emmys: Full List Billboard ‘Widow’s Bay,’ Mariska Hargi…",
-        "pubDate": "Mon, 07 Sep 2026 02:52:00 GMT"
-      },
-      {
-        "title": "Armed man charged toward Democratic candidate for Ohio governor at fair, law enforcement says",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemMtZ3c5OXVyd01wQmE5b2hUekMwMGpqZnZHYWZCSFhaX3Z3Q2ItVWNUVkNsMzBiNlo0V25BVnlIaVJTMFdNSllNcTYzZmRXRGFHLW9UOUM5WHhTRUZBU0FrRm5DcHNuTy11RU1TZUg2RE93QUlNNlFCWEZJOGlSYXVHSGJVY3J2aTU3Mlh5bERNZDRoeGc?oc=5",
-        "source": "AP News",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Armed man charged toward Democratic candidate for Ohio governor at fair, law enforcement says AP News One arrested in connection with incident involving Ohio Gov. candidate Amy Act…",
-        "pubDate": "Mon, 07 Sep 2026 02:10:00 GMT"
-      },
-      {
-        "title": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
-        "source": "Axios",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Witkoff and Kushner, in a first, visit Ukraine for peace talks Axios Witkoff confident of ‘good resolution’ after Kyiv meeting, as US pushes for trilateral talks with Russia CNN Wi…",
-        "pubDate": "Mon, 07 Sep 2026 02:08:58 GMT"
-      },
-      {
-        "title": "Everton 2-2 Man Utd: Ainsley Maitland-Niles scores outrageous stoppage-time equaliser to earn dramatic draw",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSWo1dFJtVWotamVyNW5iQ0xlSGJaQkkwd095X2RXVjZwbDBWOG1JTE9HWGVLUVhOQjJkQnBLUUxhamZ4bnd1TllUaG9fMFBBNV91ejNVUnB2YVVjZG5ra1pUc283ZXo0Rmx5ZTdUTE9WYU1XRl9HZEtwWG43SWlkOGd6eTBLd3RLVFIyQjA1eFhBWHV2MWlhU3B4cktrTHBDR3ZrMUg2dUdocWFYOEdmMGxyTWtpX1hMZVVjaDE4alh3Ym5ndENtWHJzdHVEVmktNlR1WXhrM21lNThoRzlzVmVRS2ZmZkRMZ0hxdEVSZTVoMDQ?oc=5",
+        "title": "Lewis Hamilton claims there are 'no rules' at Ferrari after clash with team-mate Charles Leclerc during Italian GP",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVjdLY3IwMDI5OU5iNzN4Q1V5VmJtQ3ZGR29IWFJ6MVpYQzJwV2NraHd5a1NXMWdia2xFaURRdThzcExhWThwSm4wNkNRRDlSMmJGd2VSV1hQVmZpVURvTG9pQTRQZjRwM3RpRmplclhINlZOYVJVTnFQV0FsWTZBTzRkMHpxYTNwYjBaX0hvRFpRLUI5RHZQbEdOcUJxZmRrU2xfYk82M1l1dGdVWlRxMGNtd2h1N2xmSG9DdkZ5T0lWZ1ZPX0tnaFR6RUQ4NEVobjBhZ2dlN3BPYlZuTklYeVlPWXAtbTFUM0lmcXN2WWVia00?oc=5",
         "source": "Sky Sports",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Everton 2-2 Man Utd: Ainsley Maitland-Niles scores outrageous stoppage-time equaliser to earn dramatic draw Sky Sports Everton v Man Utd player ratings: Jack Grealish returns but w…",
-        "pubDate": "Mon, 07 Sep 2026 01:58:04 GMT"
+        "summary": "Lewis Hamilton claims there are 'no rules' at Ferrari after clash with team-mate Charles Leclerc during Italian GP Sky Sports Italian Grand Prix: Lewis Hamilton says it is 'far too…",
+        "pubDate": "Mon, 07 Sep 2026 10:02:23 GMT"
       },
       {
-        "title": "US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVktrNjVBTENONHRoZVB6OGRsQUxBSUdhZkFydmlOM3ZvVWRCRXVUUW85dGxNZ2VrMXkxZUpnVnpVMlNLZkpMWkRVTFJ2VVhSYXZCT1RmcEtYRTRjQmU5dTdCSzA4TDk4WkhJOWRiVUNxSFRKdHJmcTgxYWNEQy01eUVpY2Z5bHZpYl9sakVNcDBLal9BMkpCWWlKSEpMdw?oc=5",
-        "source": "AP News",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz AP News Iran claims strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it NBC News Ir…",
-        "pubDate": "Mon, 07 Sep 2026 01:42:00 GMT"
-      },
-      {
-        "title": "No bailouts for Jaguar Land Rover amid reports of thousands of job cuts, says minister",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLW82Y0lxNnh1RlVZcTlmRE5UOW95dnNnR0owMUV5c2VFVTZEVmVPWll6MF9uY2RfckM0YmR0OW1iX2xtWC15S0d5dGEwck51NkU4cFV3bC1SSmtUZ2UxdW1kME1qeWFEWWQ5RjhfblloSUVpSzVsWjhJblZtZzNPaHR4WEhKcG9UZTRvMFNJY3pvNDJsRXo0TTkycVdwYnRILUZSUkhTTVBNa1p3Uko5NER3?oc=5",
-        "source": "theguardian.com",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "No bailouts for Jaguar Land Rover amid reports of thousands of job cuts, says minister theguardian.com Minister to meet Jaguar Land Rover boss as thousands of job cuts expected BBC…",
-        "pubDate": "Mon, 07 Sep 2026 01:30:00 GMT"
-      },
-      {
-        "title": "Wild opening salvo against Chelsea hints at exciting times for Arsenal fans | Barney Ronay",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONE1EUUE0cUlvaFlpdGNOeUtGSERoZUphdndqVHp5M29qMEhfOTZuQjdCUU16NG0zMGExc2NFRWtNZjd0Zi1FUUY5UUx3Z1c1QU9PX2NGcW4wTlpfc18xRlZzUml0ZGQtMGFrSzFZaUJnRXZzanJfM1F1WDJ3bXh2YXlXYzR3VE12NGZsMA?oc=5",
-        "source": "theguardian.com",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Wild opening salvo against Chelsea hints at exciting times for Arsenal fans | Barney Ronay theguardian.com Arsenal 2-1 Chelsea: Kai Havertz and Martin Odegaard shine for Gunners BB…",
-        "pubDate": "Mon, 07 Sep 2026 01:30:00 GMT"
-      },
-      {
-        "title": "Zhenhao Zou could face more assault charges as Met hands file to CPS",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pX0hhck9welVfcGxDa051c2stMGJKMk4zNVBZQ0VRZGNBdGk0SnlkT1VUS2JVMTZycXpiQU11Mzk5YXotZTNjVktRUGkxUVNxTmt5amUtMDlzOU9Q?oc=5",
-        "source": "BBC",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Zhenhao Zou could face more assault charges as Met hands file to CPS BBC Serial rapist could face new charges over seven more women The Telegraph One of Britain's worst sex predato…",
-        "pubDate": "Mon, 07 Sep 2026 01:23:04 GMT"
-      },
-      {
-        "title": "Ciara announces pregnancy with baby No. 5, her 4th with Russell Wilson - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVRTOExIeHVyMjFXUDdLdld2UFQ1VlFCRm80QlNTV0hvTThRVUhBb1N5UFd6UTRhWWh0NkptX1ZoR29OOGFYNVJCLXBxLVhweUVpZUlRaUMtUjZDUFdmU1BmNUdTcGpYS3J5Wm9yQlBFMnpLdkpjbUR0d25NUUxIVjN1VjhXQTNKTWp1NWFWUmNYTzQxTFZ1VzZmV0Q2TUFDck1TWdIBqgFBVV95cUxPLXhJWURHYS1IY3lxdE00MVJ5OHdGTjA5RGdPQlNhbmRVUGVxSjRPUGoweWZxQjZRcHotV3AtSC1JS2djYW9aazNBZmNwQmQ4N1BlTGpaQTNfdFg2ZlU4UkpvbEZGRXlSYnFfR0pwbVdkdnpCQVFuX2ZpNzVPaTBRVjZvV3Y0ZFdwalcyTDhDY1RMOW9UUkVlZzFxak5Db2RZajRyRUpPMFJkUQ?oc=5",
-        "source": "Breaking News, Latest News and Videos",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Ciara announces pregnancy with baby No. 5, her 4th with Russell Wilson ABC News - Breaking News, Latest News and Videos Ciara Is Pregnant! Singer Expecting Baby No. 5 with Husband…",
-        "pubDate": "Mon, 07 Sep 2026 01:22:01 GMT"
-      },
-      {
-        "title": "Eight Indonesian airports remain shut due to volcanic ash from Anak Krakatau",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3lQYWRaNm1SWnd1TzhrOUJkMHBWVUt2aXJqZ1pmRzF0dERJeHhSYUxJX0w0amVjOGt5NWFhSGhrNTZuSE9vR05NY1JjM3NXZDNVbl9ZYWJON0dHdkIxTS1wWWt5dExNbjlkZkh1THJBbXl3N1huQlJpSFo1cF9XWDhHMElBXzg3UmYzVTlzdmZzZURzTkIxOXBVUnVHSHd2N0pkbHdzZjZtTGZ2MktKcF9kNkMtQnlaT3RVUFNURXVGQS1rMDRV?oc=5",
+        "title": "Huawei launches new foldable smartphone as competition with Xiaomi, Apple heats up",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVS1jR3lPTW1TQVB1Y3owVjhXcWx1aTBvdzZIOTY1SnFLTVhSLVRwbEkyMUhIZXRaSWd4UjllLXV4alo1MjhRemwyUjZ4elQ5MGhNOEhTUHhZVnBPNXZGaHpfTkZPdkc3cEFtNXJ1ejBUbms0U1doa0tXVjJLQnViNE5xczgybk5yTi1zYk5sdmdBazQ3WnVvWDJJMHY1WmcwSmJmYmdmX1IxYjFCanhyY09hTXNSalB5SV9obHJydUYzcXM?oc=5",
         "source": "Reuters",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Eight Indonesian airports remain shut due to volcanic ash from Anak Krakatau ReutersSee more headlines & perspectives on Google News",
-        "pubDate": "Mon, 07 Sep 2026 01:11:00 GMT"
+        "summary": "Huawei launches new foldable smartphone as competition with Xiaomi, Apple heats up Reuters Huawei, Xiaomi to Debut New Top Phones on Eve of Foldable iPhone Bloomberg.com Huawei cop…",
+        "pubDate": "Mon, 07 Sep 2026 09:53:15 GMT"
       },
       {
-        "title": "Nathan Fielder Drops Weird Trailer for Secret Elizabeth Holmes Doc ‘You Can See Everything’",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd2tEc200RWxMMEh4Nzg2Q2hJUGI4WDFvS3FWTmhNOUs1UGVncERkQ3h0VWhUcUNEcTlBd3lLa0NWTFE5bzhXLTh3YW9ZSU9zVV9YZ2xYZ2I2Wkc3RVVfUzBYYVpDOWxraVd5QVA3Snp0XzVRbEdWUGYxTmNIaU8zZ1NHemlxMlRQZUxQT0xWYzRZdjdieEJEaTdpREJvb1M2OVltaTQwcGp2OC1VMmxYcHpYWEhmRkY4TmRDUGxNVk1CTGtU?oc=5",
-        "source": "Variety",
+        "title": "New Inbetweeners film confirmed by Netflix as lead stars return",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vRjNpRngwSzVyV1hndmdWSFBwaENrQVhvbmZpNl9jMlJhbzJISmotdWJRZEUxcUtlYWF3LVhKMWdibm9nN0drZXVCbldvbXdJY3FIU191U0FXZU5M?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "New Inbetweeners film confirmed by Netflix as lead stars return BBCSee more headlines and perspectives on Google News",
+        "pubDate": "Mon, 07 Sep 2026 09:36:14 GMT"
+      },
+      {
+        "title": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWdiMm5MeHdZb3BJMkpHWW5FRnA1UERETWpCOFN1M2V1bzBfS1hON2x2bTRYZFhsam9Ed1VhSl9MS2QzVnJSN0oybXlsQjRzbUUzTklqUUNtLVBrQmxubVgwamdiSHN2eXRBbklUVm1wWGtqQVg3VGh5Q3JJTlRuRVhIRzZzNGVJWUNLR3lUbXVWVnhnbTJkdDF1eHFmc1NMaVUzbDJfZnJUNEJKZkZZUGp0YnZEZ2_SAbwBQVVfeXFMTzMtMnBGVFQ3eUd0c0FMaWNkbWtwNkFvUjVhcHIyQ3NndWlndl9yTmJjQjBkdWZEUE41ejlUWnE2NUw1aUZ0VEk2UURiSjgyOUZueDdEcXlyTWFYa3ZQVEtGZEkzN0ltZ0htSk5xMlpKZjl3eWNLa3JURXVEdDVoVHlEcFVHY0JPMWdBMVdWSE90Z2s4YzVMa043eHhtcG9pbm5vUElSYlVlMUFFNFVwd1liaDdzQ0FhNjlhdF8?oc=5",
+        "source": "Crude Oil Prices Today | OilPrice.com",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Nathan Fielder Drops Weird Trailer for Secret Elizabeth Holmes Doc ‘You Can See Everything’ Variety “YOU CAN SEE EVERYTHING” Next Best Picture Shock Elizabeth Holmes documentary, m…",
-        "pubDate": "Mon, 07 Sep 2026 01:11:00 GMT"
+        "summary": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise Crude Oil Prices Today | OilPrice.com Oil prices hold near 6-week highs on US-Iran attacks Reuters Goldman Flags Risk…",
+        "pubDate": "Mon, 07 Sep 2026 09:30:00 GMT"
       },
       {
-        "title": "Britain's 'overprescribing epidemic' sends 1,000 elderly people a day to A&E",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcXFTbHdRWFNmbHhIbWI3RkEwVHlCWWdOckNjTS0yMmhsM1RRTjNJR3BhNlVJQWE5U0p2ZFBFd0ltZGF0dU54Y05hWm4zbWpsTXgwU3VjUUkzMXhlYkEwbXFzdU9TeEJFQUkzSGlaUHV3RU9ELTZEUU9sVHA1NnUtRi05eUlfaHVTbDQySEwwT0stR2t4WlFSeE1JMGhHQVFXOGc?oc=5",
+        "title": "Jaguar Land Rover to cut 4,000 jobs",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00RjRHc3p1LU9WZlljS09oYm12YlA3RVdUQmFoV0t5ZTBKTXh0Vzlyem5LU0pDci1hZGxiOWlmdE8weHhnYVNGY0ZsUldkUFJob1VLVmpvMTd5SEVr?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Jaguar Land Rover to cut 4,000 jobs BBC Jaguar Land Rover boss to meet minister as thousands of job cuts expected BBC Jaguar Land Rover to layoff thousands of jobs in $2.3 billion…",
+        "pubDate": "Mon, 07 Sep 2026 09:21:57 GMT"
+      },
+      {
+        "title": "How to future proof your wrists",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQXJQVVN4QTB5TndvMHJFQXYyMVkwdVdfdGtsOC1WMHIzeUNmbFJZc1hpUnd1NU9SMGpaRzVRc0p2SC1JZm1GWUpZcjFPMDRNWHVtYVFnUTNadG5VV2V1TTJfS3FGcU9HZW1lZEFIUFRIZ2U0eXlVSmNBS2hERHFlag?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "How to future proof your wrists BBC",
+        "pubDate": "Mon, 07 Sep 2026 09:01:28 GMT"
+      },
+      {
+        "title": "With a Gerrymander Vanquished, Wisconsin Democrats Aim for Control",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSlVwV1E1UVpoQWQzclZqbERMWjRXVC1WVTEzYVdZaHUxZy12bTBfMkNISHJwX21VOUh4RXpfWFZkTndlQjNyMms0cXJQQnNPRl9kNGFucWs1Z2JwcG9leFo4cHRTZV9iZGZWRGZwcjJ2Ny1EMjBteXBUTHZzYzRnM2N5RkdPWlcxOXJz?oc=5",
+        "source": "nytimes.com",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "With a Gerrymander Vanquished, Wisconsin Democrats Aim for Control nytimes.com Wisconsin businesses say they 'dodged a bullet,' rejecting high taxes as democratic socialist lost pr…",
+        "pubDate": "Mon, 07 Sep 2026 09:00:31 GMT"
+      },
+      {
+        "title": "‘It’s the Bayeux tapestry of TV!’ After six decades, the seminal series bows out with 70 Up",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZERlV0haNmtYMHRQVV9FYkFEdnhJTWhCMVlud1hoU0tmYVRuQVZwaU9WTkh5S0dzTEZCZm9EMmg3OHpuNVhVeW5lNnBYWU9pMGw5My00TlpFd2o3ZkxTbWdWYzdocGlYUFRKS0pJNUV1ODQ3c1ByemN5NDc5dEhzRG83akpXQ0x1VTZ1b3Ixa1lQeE1C?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "‘It’s the Bayeux tapestry of TV!’ After six decades, the seminal series bows out with 70 Up The Guardian The Seven Up! kids are 70. What have they learnt about life? The Times Seve…",
+        "pubDate": "Mon, 07 Sep 2026 08:29:00 GMT"
+      },
+      {
+        "title": "Iran-US war latest: Tehran vows to extend ‘exclusion zone’ near Strait of Hormuz after US strikes on tankers",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcG1BYUJ4RVpoVElpdzBtc1VBZHg0QkFtMnk5S21lbmZFNmt3MHZNM25ZQi1vVDh2Y2RwSnJ0aEdZX0I0N2hIVmVQUExfMmxVUkZuVTNaUjgwXzZSV0tNVFhjdVFMODh4OXRLc3AtZ0pVQU5uTWZKVzhaNDRtRGZHTjd1MjQybzliTHBsYURHZFd2MmxLdXI1S19ZR1hMeFZSUkVDSzdPNFA3dDRSaFI2c1VlQmQ4NmM?oc=5",
+        "source": "The Independent",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Iran-US war latest: Tehran vows to extend ‘exclusion zone’ near Strait of Hormuz after US strikes on tankers The Independent Iran war live: Tehran to announce Hormuz route; Israel…",
+        "pubDate": "Mon, 07 Sep 2026 08:28:51 GMT"
+      },
+      {
+        "title": "Home Office whistleblower exposes 'massive fraud' as he claims just ONE PER CENT of asylum seekers are genuine",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTjZxbjQwcnBOS3BnTkxfendRVTBJTHJUZlM4T244UmVhRmtFS0JVRDF6LVlXbnNHNEY0U3FCVVI5M0NPaXB3MmtndjAtX0F4OGRsMVhGNERRbEItVEtNYnFGQkRWN19Qc3dKOGZmcHZhaVpzWWdaRlJBSEp4VXNsOVRJY1Q5cW5PM2xZaEJyb1U2cjMzbkxXa3RJUmVKUVhVX3VWdHg3Smx1UzVpckJZ?oc=5",
         "source": "GB News",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Britain's 'overprescribing epidemic' sends 1,000 elderly people a day to A&E GB NewsSee more headlines and perspectives on Google News",
-        "pubDate": "Mon, 07 Sep 2026 01:03:04 GMT"
+        "summary": "Home Office whistleblower exposes 'massive fraud' as he claims just ONE PER CENT of asylum seekers are genuine GB News Just 1% of asylum pleas are genuine, says insider The Times ‘…",
+        "pubDate": "Mon, 07 Sep 2026 08:01:18 GMT"
       },
       {
-        "title": "Susan Sarandon says she is losing movie roles because of her support for Palestine",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFJhRi0zMTUxVUdlVzl5aWNldXllUEJ2N0c3bGJmVDR4LWx4djljdmdaZDA0UkRVV2VPQjNacXd1bHNiQWhqcHZHenRmTmlGNjMxcE1iSTRZUHVhYmo2bHo2dVA3UTdkckI1ZWhMMHJIZzB6cmo2Q2Z1QlRwUGx6Mlp1dnR3RUpiWmdwTnNKMnNXN0ZhOHhZQm1zQjl1dk5nYl9VOXFWQTlNYUtjRTRyRS1JYkRhNGE3WlViN04zdXR3c01qM1E?oc=5",
-        "source": "theguardian.com",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Susan Sarandon says she is losing movie roles because of her support for Palestine theguardian.com Susan Sarandon says support for Palestine has cost her film roles The Independent…",
-        "pubDate": "Mon, 07 Sep 2026 00:17:00 GMT"
-      },
-      {
-        "title": "Oil extends gains after US and Iran strike ships",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2l5blJOWGZlTWtiTzJFdl80Vm9jb3QxSHp5YUpRR0l6THd2RmZ6cDd2OUtFakRhYkRXbWdSdUxUU0tYSVl1YTRTS1RzYTVQem1OOVFDR01ZRXNEeDBuWEwweHd0RDZnS1B0dE1PbFhXb3JMWjNGY1JLMHpvUkpGRDE0ZUtXZk10akVNOUhSVklQYjdHZ1JCS25ReUc?oc=5",
-        "source": "Reuters",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Oil extends gains after US and Iran strike ships Reuters Oil Rises as Escalating U.S.-Iran Conflict Stokes Supply Disruption Fears WSJ Watch Hari: Oil Prices to Keep Grinding Highe…",
-        "pubDate": "Mon, 07 Sep 2026 00:15:00 GMT"
-      },
-      {
-        "title": "Hurricane Lowell menaces Hawaiian Islands with life-threatening surf",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVFOM3VHYmFqUkdXQjU1RGt6OFZuTEYxY0hIZ0dqUlUzOHQ0Z25relZGS2VUbzVmZG4yc3NDWGZjV0p4eHdOY20tOHRXclBEdFFLR1lMcGlRQzdJR0ZnUldnVTlXb3R1OG50VWVyX3FXUmJyRFRTOXJuS050cDJSc0ZvRmRzNUxvckpTYVRTVmJKV0lpTjRuc293dzdnRFV3R3czZGR5MzgwMG8?oc=5",
-        "source": "NBC News",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Hurricane Lowell menaces Hawaiian Islands with life-threatening surf NBC News Hurricane Lowell makes final turn toward Hawaii as islands brace for impacts CNN Hawaii residents told…",
-        "pubDate": "Mon, 07 Sep 2026 00:06:00 GMT"
-      },
-      {
-        "title": "NBC says broadcast not 'official arbiter' of game clock after Michigan Hail Mary",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdy1iLW0tNXM5N3JJRkpPcEtWYmJHeDg5YTQ5UXNZY2MwOFo2QkVLcWI1WWRMVDNmU2RXSEp3a2IwUERQSWpyNWFybEFtRjJ3SlozMzdvM3dDQTdLd2xNU3RKeDUyTjVVVDhCQWphaFNrY2pQMTRVbXhyU1lFRC1QNk5KNXFvcjYyMjExRzR1WkJldUplcHJpYlA0QVJVWVpkYWkwVmtYSUM3Rng5WFdGSkREM2F5UUZpQkE?oc=5",
-        "source": "USA Today",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "NBC says broadcast not 'official arbiter' of game clock after Michigan Hail Mary USA Today Western Michigan president: Big Ten's replay process not 'as good as it could be' espn.co…",
-        "pubDate": "Mon, 07 Sep 2026 00:00:00 GMT"
-      },
-      {
-        "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPQ0NUSlRmeEVZVTNZT2dmXzBPNWlxWkxQSHdpTlB6N2FZVGp5SEJFb0c5eUdvRG1ZdW1WbzdRYnJwY3NiSmdQV2N1S0N6RnYzQnVNSS13bGFOT2Zn?oc=5",
-        "source": "BBC",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Chancellor to say UK economy 'turning a corner' despite debt concerns BBC Politics latest: Chancellor to unveil £150m fund for fast-growing northern companies in bid to boost growt…",
-        "pubDate": "Sun, 06 Sep 2026 23:34:18 GMT"
-      },
-      {
-        "title": "Deadly Iran wedding strike likely due to U.S. bomb missing a nearby target",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXNKcllFR3pBVUpvRm9hUkcwV0d6YlJabVRjcy00QW5pcE0yRDkzclpSTE9MSjI0SjNFSnBrTXlwXzRUdWRuSzlvdXo3dDZrb1pDZEg4eER2b1hyWnlZRHozTmlick5vMk50enVZdU5YMi05dlhSY0d1amx0OUNfTF9QMk9WMElFVmpYeUlXMHdNZzJXRFdPQXdhSmNLV3pGOE1oeUhuaVFCQjVVZEVPYzBROUV4SVM1U3c?oc=5",
-        "source": "The Washington Post",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Deadly Iran wedding strike likely due to U.S. bomb missing a nearby target The Washington Post Iran vows 'more painful response' for US, Trump sinking 3 oil tankers in Hormuz Strai…",
-        "pubDate": "Sun, 06 Sep 2026 23:25:18 GMT"
-      },
-      {
-        "title": "Five killed as Amazon cargo plane overshoots runway in Miami",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMlVkX2F4RHhYamJpV0hpODBtS1NlZlpoLWI5dm9ESzZwdGhRdjUzaE1tYk5WUUVfQ2hXcGtDRnNhOVJRak1BOWZ2ZDRyLWxWMHVBNUlHYlQ5RzE1SktUVXctamJGYldHOUVmb2I3czItQV9NNFFaVHRZSFdFa3VIVEtyRUw?oc=5",
-        "source": "Financial Times",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Five killed as Amazon cargo plane overshoots runway in Miami Financial Times At least five dead in Amazon plane crash Sky News Investigators hunt for what went wrong after cargo pl…",
-        "pubDate": "Sun, 06 Sep 2026 23:05:00 GMT"
-      },
-      {
-        "title": "Founder of group that put flags on lampposts charged with 14 offences",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQkJ6THAtZjdtei1wRkxOUWR1M0ZxSldtOVV2ZjRhZmJaRkFjY0dSYkJCWEVJQlM5OWZYZ0dRbUNXMTdrRm5VdmszekJaNTd6NnA0YTJCVE9JZGNtSXNBZjhleWVoMW8tSjZyNmtuQkdMQkJUYW5lb19tWW9sQm4xM3lWOGlwQzF5X3VkTG1iN2ZCWm9TalFQXzNOdUtxUlBTN0NiQjFSaG8?oc=5",
+        "title": "Hundreds of protesters gather in Portsmouth after small boat arrival - as 'thuggish' behaviour condemned",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNREQ2SEVRaUs1MmZLZ1cyT1U4a0JUb2tCWHI1ZXRtaGdrV3M2Z2RzdDBCa1M2YXRDbVRaWk5VRVd4N0VTV3RzLTcxQUtCekJwY1Q2Y1Fldk9jUjdQQzBSbTltaU9PeW1hMkNRWHQ4aW1YRUZzVzVzR003T0Rzdmk5LWQ5eWowS3I4djI4YkN3eWZpVTdHN1Rsa3REVzY3czFSSUJ3cThfWlhQNmt5UTBPb0FESHJBX2p6QlE?oc=5",
         "source": "Sky News",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Founder of group that put flags on lampposts charged with 14 offences Sky News Raise the Colours founder charged with 14 offences BBC Activist behind flag raising campaign charged…",
-        "pubDate": "Sun, 06 Sep 2026 22:45:03 GMT"
+        "summary": "Hundreds of protesters gather in Portsmouth after small boat arrival - as 'thuggish' behaviour condemned Sky NewsSee more headlines and perspectives on Google News",
+        "pubDate": "Mon, 07 Sep 2026 07:47:13 GMT"
       },
       {
-        "title": "Hundreds of far-right protesters descend on Portsmouth after small boat arrival",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSms4V1VHOEZVSk9pNElyUHA4OGxmRTNRTjV6OVNlb0pTSlBydmdhS3ZGRGJBdnlqVVpfYkw0LVJNdVVVMEhveUhKb0d1dzVfN0QyX0lfSzJvV3FhajR5UGJSY1dkOTFVVENoSlBZakVLWUIzMGVPeEVBZ0NkWF9kQVhkamRDUlZDeGxvZGgzN2xycUxhUUtrUjJlRHdpWDV0YWc1a3c3T1pvSzRpZWN4dElEdVBDUQ?oc=5",
-        "source": "theguardian.com",
+        "title": "One more person to love, US singer Ciara announces fifth pregnancy",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT0cyN2NzVkx0cFVmWEVIRlBOS0E4Tzh1Rkg3SDIybTFCdzFLbGcyaXFxRVpUUXN6Vllmb1FCTEhVTk0tTTlfN2pxS2VHM0RjeXhoSVVfY3l1VHBvX1FodWNqaXVRcUZTMzBSaW1JYXdtS3psSTJ6Z0JuRmlNLUNiRkJ0Qk9jYXpWVWlQQ2ZGRQ?oc=5",
+        "source": "Punch Newspapers",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Hundreds of far-right protesters descend on Portsmouth after small boat arrival theguardian.com Protesters block roads in Portsmouth after 140 migrants rescued BBC Police dispersal…",
-        "pubDate": "Sun, 06 Sep 2026 21:38:00 GMT"
+        "summary": "One more person to love, US singer Ciara announces fifth pregnancy Punch Newspapers Ciara Is Pregnant! Singer Expecting Baby No. 5 with Husband Russell Wilson: ‘One More Person to…",
+        "pubDate": "Mon, 07 Sep 2026 07:02:01 GMT"
+      },
+      {
+        "title": "‘Uncharted territory’: The $40 trillion U.S. national debt just got uglier as interest payments rise to $1.25 trillion a year",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDJCdmh5ZmFmVy12R0ZDdUZja0p4d3lQNnptLXJhbUJJR3g4d3gxdmZsWEZNbVRsZlFHNmRWUzgyLTVjQkFTcmZIWkN6RWUzazZBS1lBVks0MVBRNUlHN095OGVIUm00S2dFdE05MmxlS0s3R080TjF5RHgxV1ZwWUJtMnM2VXdZUUpaa0RzWVlKSUVybC04UXBxUGxld2ZX?oc=5",
+        "source": "Fortune",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "‘Uncharted territory’: The $40 trillion U.S. national debt just got uglier as interest payments rise to $1.25 trillion a year Fortune Don’t panic about the national debt — the US h…",
+        "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Building safety Gateway 2 applications soar as levy looms",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2RkTjZKQUZiVG5Vc0hVY2xyckFZa1piaGZvQzVQYmdHUzNKMFY0bFNfNWtuSDhlaWdORHdqR1Z2b3ktQUFqVzZuLW14T2JaWFBoX3R6eG9PUFI5ZWo0WUoyRWoxWm1XRWlqdFA0NzZoQm1raFl1S000T1JCdll1SzF5YkNoWjBhREV3bTZ2UFE0SlJ4RDdJV0M3bmN6U181eUhtWQ?oc=5",
+        "source": "Construction Enquirer",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Building safety Gateway 2 applications soar as levy looms Construction Enquirer News - Large spike in Gateway 2 applications ahead of Building Safety Levy, BSR reports Inside Housi…",
+        "pubDate": "Mon, 07 Sep 2026 06:59:17 GMT"
+      },
+      {
+        "title": "UK house prices fall for first time in nearly three years, says Lloyds",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaG40RU5rS0tPTzFKdllEbXB2NjFfd1Z2bmVicVpxeG9zU2FmVlh0a3ZsVC1EWXVZWnJ6NmRJRW1yN3dSbHRTOVF0clJoWlR3TF9WemxDV0hPd2syNkQxaGNPQ2pqbnFIYWE0UDZ2QzBoakdvRnpGdWYxWjk2NFVpUGhxN3VaeEt2TThYeGlTWlFzSlVnbnIxbmJJNA?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "UK house prices fall for first time in nearly three years, says Lloyds The Guardian UK cost of living squeeze tightens as mortgage rates rise ; JLR announces 4,000 job cuts – busin…",
+        "pubDate": "Mon, 07 Sep 2026 06:55:00 GMT"
+      },
+      {
+        "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONGRkT2VHM2tCTWpYZzhsc05CbGRvRDFaMjlYWDFzcHVxa3NMcDdTYXJIb2dDS0hPWDgzX1UxNElKTm9qdlhGd0hueXgwaW4yWWNkUE9rRjdVbkxRMkc5VkE2ZXVyeHVCYV9sTHI2WHdiMWROcXZCZXVSaFlNUXgwVmRxa3FEWExWQ3NZMkF4QURDQVRudDhCMTlYRTlHdHNwLVlmYw?oc=5",
+        "source": "CNBC",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "China says it will pump $54 billion into banks and insurers — but their stocks still fell CNBC Beijing to Inject More Than $50 Billion Into Banks, Insurers to Boost Growth WSJ Chin…",
+        "pubDate": "Mon, 07 Sep 2026 06:27:53 GMT"
+      },
+      {
+        "title": "Nepal marks national mourning day after deadly flood",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlJveGVZS095QW9DNThLWGh4dlU1MzJMeWtwRHBRTzlOMXRKeklkVl8wNEh6aVlfdzNRajJlQ2JmekkteGRxbjBCV3hyOWU2VEpXc2k4RklPZFJSdFZtZTZQR2xBM3ZfLUN3cERMcGk0bVdYNDNKb3Y4bXZneGNNTGdaSXdYWTB3Vmt6LWZsa1U1M1JjU0dCcWV0UElyUnFuU2FvWkNuUW56TEtQLXc?oc=5",
+        "source": "Reuters",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Nepal marks national mourning day after deadly flood Reuters Photos: UN urges global aid after China, Nepal floods kill over 1,300 Al Jazeera Families Turn to Symbolic Cremation Af…",
+        "pubDate": "Mon, 07 Sep 2026 06:16:00 GMT"
+      },
+      {
+        "title": "Witkoff and Kushner hold Ukraine talks after meeting Putin",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3JHeGxZZzc2VWpSa2ZhN2dmYS1STm5IVFRjZGlCLVlZMkN1ZG5rQV84YVNvaVpPU1pLci0zYlZTaWJ5X0d0N3BROEkwTzlNUVNLWVF3U2VZN2pveGNnRjVMdnRCQWZZYW5SUC1faGJMZElza19HMEM0QWZFaVp5emI0SUVwcHFncDFsM1JsMEY3eHFMOWxkSV9ZNkdQbGFzS0Vr0gGjAUFVX3lxTE5KMThEMExUMkp1dTA0TlFQbDZHY2dlRkd5NnloNlAzdmtrNGFueC1icjVyczJlQjRWQmVZamE4UDMzaURFcXdyZHl2UjM0TmtRa0dEN3lfQVk4Tmd3aDdyVmctMGdFb0NTTDk1LWMtS0hUSktiQ3A2bElRcVBLS3k2czJ0MG1sWUZ3VzJrZzd5YzAtWnVkWkxZejM1OHpXQTBFb0E?oc=5",
+        "source": "DW.com",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Witkoff and Kushner hold Ukraine talks after meeting Putin DW.com Witkoff confident of ‘good resolution’ after Kyiv meeting, as US pushes for trilateral talks with Russia CNN Ukrai…",
+        "pubDate": "Mon, 07 Sep 2026 06:07:41 GMT"
+      },
+      {
+        "title": "Tiny cash buffers leave small UK TV firms at risk of going bust, analysis finds",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWFtR3VNaExjbVptSlpueTByUkdNUHRlMFlmektvN05JYkg4cmZJMm0tdTBEZVdXSldtVnRQYmVPemdQTGYwaTBPcXVHZ0N4bUJVRDg3R3UzbHRlLXYwZlRUTVI3VkFmWW4wOEVmRjNuc0xDaWotMEg2NXhnRmZsM0dCak1Ra1J5aXljOUJ0TFhXTFlYQW5QZk1QUG5aM0dRdi13TXhnVkpidXdzOVZZSjlMakhleVpXN25lNGVxcG1DQQ?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Tiny cash buffers leave small UK TV firms at risk of going bust, analysis finds The Guardian Indielab warns 40% of UK indies could fail within two years as cash reserves drop C21me…",
+        "pubDate": "Mon, 07 Sep 2026 06:00:00 GMT"
+      },
+      {
+        "title": "Fireworks explosion kills at least 10 at Mexico festival",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2o1X2ducFkxd2E1bG4xZjFCMngxQlZMb2NUMVR3dktpOTd3dVBiQU5jc01iNnRKaFN2WnM1Q2VlblZiazdzbjRFeV9EYVBoVnN5NXp1QkN2NWxnYVk3Tm1RVGFXRld3cDAySnpOQmc1emtYMkxqbVB2QTg1Qzh6UERsWk1wam9YWUh3YmZoZ3pDM0E?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Fireworks explosion kills at least 10 at Mexico festival CNN At least 10 killed in central Mexico fireworks blast during festival Al Jazeera ‘Pyrotechnics Explosion’ Leaves At Leas…",
+        "pubDate": "Mon, 07 Sep 2026 05:52:40 GMT"
       }
     ],
     "🇷🇴 Romania": [
       {
-        "title": "Mesaj Ro-Alert în județul Tulcea: două avioane și un elicopter, pregătite de decolare, după detectarea...",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQb0pYT2cxRWd4c2YyaDNWS0VpUTMxSE4yb1BQZWVSTHpoZm11SXUzeEJNNW9aUHhvc0x5SmktWWtJandBUGE2OXlfejNWekhGMXFfeWdNdzl3dDltVkppVGllSnJoRGZiZWtHZ0V0Y2NiNmFmWnYwYkdmOGVIMVplcW1yQ0pDQkVZN3JzOWd5NzFkOVpKUzJvSjJ4T3hUR3BubDJnRWF4UDBJNllLMmJkWWNaVUF2Mmd0RzQ4blpIVUxSU0RnZ1l2eHJ0THhTVld4WU1vUEJqQ3BGYU94UTJrVjdqNWtpdXBQTnZTdWlRYi1oc1FQclE4QlFzTHBnUVZGeVVvblVGU0PSAZMCQVVfeXFMUFBaM1VjZ3JQem81ZnhXRFhkaE9tR1VNLVhTNmNyWERvTFNVNXFDSHVFMW44dkV5aHlZeHZyaGpmRS1RVjlxMUFORkQ3N2dxeHRvZHBXbEEyaUl5MDBuVS1wTGVfUVZydWlrendTb2tlSEtiNzlKdDBTSFpQalR0UTNSVWVoRU9lcG5QTG1jME9mbzBDdVVLMDA0bDhlOEF2OUFVYjJsVTFIaXhTQU9rMFd5b2VZVEdpMkZkT3paS2pvdEhjbmpycWEtQkZ5NENmRDBEcGN0UUJYaERZUGJXOVpJbUhlRWstNGFLRXUyRjIzNnRkbW4zRDNhV3h3YlphMVUzRm81NW8tOG1zVlhfT01vVG8?oc=5",
+        "title": "Cresc prețurile la curent la Hidroelectrica. Cine va fi afectat",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNS1vaU1yUFdvVkUxdjkyZzNIVFdhcVNPb0FPOUZJN1NrRnFRSHZ3YU9hcWRqSE1OYjk4VFlNZmtTNWpwZ2VhLTUxUTR3MGpYTHVHYUtFdjdtemNLQmt2UmwwVXN2QmgtaWFVTXdsYmJZZVRETGlhZVdaLWIzaTY1b0RaMnpFeWc3SFcyY2wwcGYzOE9oWG9wZlk5V21FZUhWb0VOX2NVeWhRQ1g3QVNOSEZxbDlldw?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Mesaj Ro-Alert în județul Tulcea: două avioane și un elicopter, pregătite de decolare, după detectarea... Digi24 MApN: Ținte aeriene, detectate în apropierea frontierei cu Ucraina;…",
-        "pubDate": "Mon, 07 Sep 2026 04:22:19 GMT"
+        "summary": "Cresc prețurile la curent la Hidroelectrica. Cine va fi afectat Digi24 CALCULE Cât înseamnă în facturi scumpirea anunțată de Hidroelectrica. Ce trebuie verificat înainte de a accep…",
+        "pubDate": "Mon, 07 Sep 2026 10:12:34 GMT"
+      },
+      {
+        "title": "Nicușor Dan, declarații după vizita la o școală din Curcani",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ1BscFpqSFlNMmNvWFNodXZVby1Ta29GRzFlMkhoSE95WHl1YnVKWVRVRHhybkhIVmNfMlJod2FnVXhyTGRJOWhldGdpUmkxeDVOY1JqcHd4Yy1zS2JVLUNkVHIwRGpvSjRzVUFXajBuVHByZlNhWFhmSmRpQ1JsNlVISkt2b2J6SnR2Z3U4dEh2eUFGV2VJRWZQUUp6MlNxM05mNE4tbGVMdnEzM0RNd0tyN3lWZ9IBwAFBVV95cUxOX1ZnSEQ1VTBZTEkycmRUSFNscFBvOVpSZDRqeFFNY2MyRzNpTTZ4WW5OcnhKVUNBQWFPdmE3RHdWSlUyWWVHa1BBUFpxR093RWZDR0dFQk9uQTQzbHRJdHRSQWZPeVNjVDBFdzRaeWc0aDJLTTBkbmxWNmFSY3Rma29oVGNGYjEzWWI3LWs1Yk5ZNnYyWUNvWDBWYldxM3BQOFZDc0dtUjA2WmhYR0hKWWJhYWNkc1hRZVZyTVQwNUE?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Nicușor Dan, declarații după vizita la o școală din Curcani Digi24 Nicușor Dan a refuzat orice întrebare în afara educației. Dar despre una dintre teme a spus că „Abia aștept” să v…",
+        "pubDate": "Mon, 07 Sep 2026 09:10:24 GMT"
+      },
+      {
+        "title": "Cât timp mai pot românii să iasă din țară cu buletinul vechi. Data până când mai poate fi folosit documentul",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeDBVVVpSeVdTOWctcW1scGVyXzFkbHJMTnhFbUpET2s1VGpuajVoNldWakc2OWxBbTVZTVpya2FTdWlpLVZ1NmZCbFIwVkM3RXdYMnd6cnRXUFdqVDRPazVkeVJCYng2SnQ3ck5hQUp5dGRHOWZWRGtWQTRwOTZ5LXJuYzMwMW5hSVhJWTdUREpEaVlhSUxtV2h6WE9qaHY0dmE5Vnh4MnJqV09zdUxud0gzeUptTzdVckdCMU1VQmMwUWkyekVpNXIwQVRrNjd1YWFrOGNDbS1wQzd3eDlFXzVZeGtWUmc0dmc?oc=5",
+        "source": "Stirile ProTV",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Cât timp mai pot românii să iasă din țară cu buletinul vechi. Data până când mai poate fi folosit documentul Stirile ProTV",
+        "pubDate": "Mon, 07 Sep 2026 08:36:29 GMT"
+      },
+      {
+        "title": "„Inteligența artificială generală a sosit”: Șeful Nvidia face o afirmație uimitoare. Reacție imediată",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMEhoZzdDWWZYVG1wR3gyZjgtVzdkRDlrU2kxcXpUaUN4NFNvbUlZOHF2U01jYlB1Vjd2TGJyOXdJQ0tVZE00WWhxWkliZDctbm9LRnVpM01nX3RiZXlGS0g0bUdUMElIbTdOQlhEQnhuU0ExcWlac2ZpTXFKekNvbXA0aEtqVldIUlFCaERmQk5HMC02TEhlbEtNMDJqUl9GN0U0SkUyajJlZXp3V0x6SzRDNERld2wyTmVDazc3WHdYUQ?oc=5",
+        "source": "HotNews.ro",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "„Inteligența artificială generală a sosit”: Șeful Nvidia face o afirmație uimitoare. Reacție imediată HotNews.ro",
+        "pubDate": "Mon, 07 Sep 2026 08:06:56 GMT"
+      },
+      {
+        "title": "INS a confirmat scăderea PIB-ului cu 0,7% în primul semestru din 2026. Ce sectoare au tras economia în jos",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVmFaTlhWU0U2bTNwMnhqYTVMMF9fX2pFQ2wtVm1Bd1NsVWNFSTMtS3BNT1dKZFVhanFxdnh2ZDI5c3pvOEg3eEtPQWsxRnJfeGV3dGdUdFR6X2Jvdjk4WnE3MDhyNjFuWjJ0MGcwb2RlaHd6Q0t2YnBUWlQyRk04d3JmaWJBX2Vtek1SYWFTbzAzMThkLW9VS19nTlZBSHhXODVkeV9uSkV1eDU1VVowZ2VxbnRqRWNXdTBQREhVdW5ueVMxbXlUcnBxNWQ2RmFKMWdzZ0RSaEwwVk9PMzhJLWx30gHsAUFVX3lxTE9WMjZmOUMweVFmeHZTYmpGaG5oQUI1aTgyb2Y2Q0dsbnh6cm9BRnFzNFZtNnRuc2N6QlJweVZYa0Y3NV9jSTZjeDl4UkpXX0FBMGNIMnJRN3ZMR1lWS3FoUmtKWm5tRnhsekQ1UGtpZmpVZGVweFdZSUtsV2hsaWNWMlM2dFM2eS1xNTU5MFFycVNlTWZBeDNZeHZHV3VFT1BiQ0hVMkdlVHVGcUJTRjh4VW9OcXhEVVFjZ1NtU2p3U19xeWtaRmhldG1vR2ltbkZuclRLcFNsZXJhX3luRHB5cnJMWTQxMGd0NE12?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "INS a confirmat scăderea PIB-ului cu 0,7% în primul semestru din 2026. Ce sectoare au tras economia în jos Digi24 Singurul lucru care a ținut economia pe linia de plutire au fost b…",
+        "pubDate": "Mon, 07 Sep 2026 07:42:52 GMT"
+      },
+      {
+        "title": "Actrița Susan Sarandon susține că sprijinul său pentru Palestina îi afectează cariera: Chiar şi recent mi...",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVzNEcnQ0R1BtWUxkOVFJTEVpRGZfTkt3VlpoQ2xaM1hJb0pFeXIwbTk5VEROZEpwV3UxRlFqRGVWUUFYTkpfZFJVUXdSTm9MUHBHTlBlWVNibjJ5RzI5S1h3VUJTOWlvLWsyU1JrQmpXQW1qNjFqaGs2YlVxdTdxZkhNcWtodkJWUTJ0VFBmNjNQQU1xTXp4UnFIZV85cW5rOG1qYV9KQUhhNllpWEh0WmJxMHFJYjV2X0syVmVra3NzWkRQNWhTME9QaE8xRllSWFJoWHdtRW9fQTJzVTNrQU81WENYMGtYdER0bkZoSVZ2dlNJMUx1WGNaRzZGbjd1dHJaR1RRVFFDMTg0VFHSAZgCQVVfeXFMTTZfOG45cTA1VUE2dFI1NDZrY2N3NlRfb0p4Y2tuaHNRdzJld2pCUXczdERzYUV6Y3Jib3Q3NWQyVDNaTUgtdUhsMmFlS20zTlRMb25HRmhzdFdQc0VtWUI3ck45dVpUVXo0SzBHVnhCcnFQajJFS2JZSk54Vkd2eXhDNzdtLXhqVGVCeGJBZU9pZm9SLV9acHY3M2NRZzRqM2x0T0E1RXEwN0pTQlVtVmZveHJEZ3U1U0lwNlAtU1RlZGM5SXZxbGx6RHpwQ2diMk56dzJ0Q0NhZVRhMTB1OEttbUZWRE9RemZHeDNObFo5aUNoYU5ZeUdqeVpWVEdOV2N0dTNMVV9NVjAzbGR1cGpLYzdKRmxEcw?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Actrița Susan Sarandon susține că sprijinul său pentru Palestina îi afectează cariera: Chiar şi recent mi... Digi24 Susan Sarandon spune că încă pierde roluri la Hollywood din cauz…",
+        "pubDate": "Mon, 07 Sep 2026 06:32:08 GMT"
+      },
+      {
+        "title": "Cine este, de fapt, femeia cu poșetă Hello Kitty care s-a fotografiat cu Nicușor Dan. A fost confundată cu un consilier de la Cotroceni",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNekJNdDAtdFNFd3pjdGNNeGp2RkRRblJKTEItbnE1OFNJMmhKWkdnYTV4dEFRQ2NaR3IxZGRyakNudElIMHJJS084Q0Z1d3hkNmxJWDZWVVM0TGk4QS1OaHVLY0ZTdGlBQkJBdExwaEU2YmJiU0JrZTNOTXFSU3dvWl94Wm5YdmFGOTV2SGJpQzRJVVdNM19Od09xTHM?oc=5",
+        "source": "Adevarul.ro",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Cine este, de fapt, femeia cu poșetă Hello Kitty care s-a fotografiat cu Nicușor Dan. A fost confundată cu un consilier de la Cotroceni Adevarul.ro Cine este procuroarea cu poșetă…",
+        "pubDate": "Mon, 07 Sep 2026 06:18:23 GMT"
+      },
+      {
+        "title": "Convorbire telefonică între Donald Trump și Vladimir Putin, așteptată luni, după vizita lui Kushner și...",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTjg5RElKLWhjZ0JvMDd4b0lyNWZBQi1vT0JKb1lrek4zOTFxN2RTMHZiVUJBbjYtYVhVci11bDJHanI4Z1lEUDFJT0wwSmtvcWdFQms3b2JEZzJVbEl4TlZmMElqNFVMVGdqU2xHblN4TWdhVVlrSzlpU21WMmhudndvWUZKTE93bnVxZ1hFaHFRdk1VQUI1eVpqdDFqV0V3SDlnT0tydTdVRlp3VDg5ckxiaWwxTEMwSkJpcTFpeTFMZG1ZNS1ERmNBX2hydEN5a2xmbmZnbU9nQ2plQy1kUlgyTW9NTlNVdlJXTUJnVE1oVUhfZEdSenNwRWFNaFh40gGLAkFVX3lxTE54OXFGaElPZU5NOUNpUW9iS3NGTkFNSWtCQWt0Z0tibXNlR05Yb1ZZM2h1eU54b0ZoX29OaUNZYURmNlhjU25MX01idkFOdjhSY3UzSURDb1JTQnBfUmsxVTFWOHRfWkdxRUpKWFpfaU04aXk0YnpWR1pSTHlWV3JBMjRWWXVyMFFmX0hUYzlKVFp6S25jVS02UlBBX0RTbnVwLUxUQ2VDZGp2c1ZpNG5nU3ZzOTU3STRheDF4NkdYaWJVVElIaERrWWZ5cFR6bmRwbEFBRXNybUF1NUhCdmh3MzJ6bjdQendkRThUTm43d3FLR0xYUUJ4YTU5bGJLU1p5RFZCT3FvVHdKVQ?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Convorbire telefonică între Donald Trump și Vladimir Putin, așteptată luni, după vizita lui Kushner și... Digi24 Pacea în Ucraina, sub semnul întrebării. Trei foști ambasadori SUA…",
+        "pubDate": "Mon, 07 Sep 2026 06:07:42 GMT"
+      },
+      {
+        "title": "Un test de urină poate depista 9 din 10 cazuri de cancer de vezică urinară",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc25UZ0VNR2l1SmZfSjBhTXJfemxBNXZ1X05BRVFzbGtNaE1rWFNfYURaNDVvbVJIQkdRZURpbVdZYlkxdFUtUmd4SUlSQlRZdTRYY0tkYW13M3gxSVE5WThoMHpEQTdZb0RQcVVCdm1vd0F3SzI0WHI3cDdWWlVwai1NODYyb3YxZjZncE8xeXNISV9Ya0dFMGpPN2FwaFhFc2IzRkVmbU40c0xOVnZ3azVQaVV6OEgzVnk4UXVsb2VKOVpvdVRRajM3Z9IB1gFBVV95cUxQeUdlRHBIcnB3bUxKTGNubTFiTzBxbEJmYjNSbW5FRzN0SGZZVEZEWk1sS3pfa19uSS1pUFRDTHVVMXMzRUdFY09tSHpGUUVvY0p1ZHYtbHlaUmdPOEtzM2V3WjViZXIwblEtX2l4Y2k1bWlsNndMS3lYVjhuRXV1anlFX3J2bkxtd0FHR01DclJDUzYyUUstQjEzSHRYaWJsSGJVVzktR1VBS2dGRlV1UWNrZHVmVjNHQzcwSjNCVVQ0d1RlQjl1Q0FkVnNpeUFzSGN3ajln?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Un test de urină poate depista 9 din 10 cazuri de cancer de vezică urinară Digi24 Un test din urină a identificat peste 9 din 10 cazuri de cancer de vezică urinară într-un studiu r…",
+        "pubDate": "Mon, 07 Sep 2026 05:51:08 GMT"
+      },
+      {
+        "title": "Trump ar vrea să schimbe și numele unui stat american: „Uau, îmi place la nebunie”",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUx1dXBWNXlMN29INk4ycTcyeC04UTlOTTlwczVldThuQzE4b0pqU2dvdkhueDc1YXdjWFRpYV9maWVCd19sekVhYklkeUdWU3JIcFY3cGlCaXdMZ1otUEsweFE3bGZiLTl3MEpTWTJSelJEX3BGZXIwUE9RVmNKNHRIZnl6eXo4d1E3YUtSX0wwN25uUXlHQXRiaThWUTR0YW5ya3psZ2g?oc=5",
+        "source": "HotNews.ro",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Trump ar vrea să schimbe și numele unui stat american: „Uau, îmi place la nebunie” HotNews.ro Donald Trump sugerează schimbarea numelui unui stat american. Ideea ar proveni dintr-o…",
+        "pubDate": "Mon, 07 Sep 2026 05:47:25 GMT"
+      },
+      {
+        "title": "Ședință CSAT astăzi la Palatul Cotroceni. Ora la care începe și ce se discută",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzR4aHpueVJDZTJ6TDRYMERTazA1WXFtMDhpa0FSc1RNb1FRQmlUNTZKMnBTS215dHdiTUlVQzBjQWVYQUwwcWhRWmVMUUJHTElJeERJdXkxV1JBNm5yNV91by1XWHNWa21vSjZ0NUwtSnI4QVFFdU5EUVdKWjdocnI4RW85UjJVS3NiNnFjQmNFNWhmLUZRenBna0xzOGZ6MUU5U0tn?oc=5",
+        "source": "HotNews.ro",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Ședință CSAT astăzi la Palatul Cotroceni. Ora la care începe și ce se discută HotNews.ro COMUNICAT - Propuneri FSNPPC privind ședința CSAT de astăzi, ora 15,00 SNPPC Președintele N…",
+        "pubDate": "Mon, 07 Sep 2026 05:42:25 GMT"
+      },
+      {
+        "title": "Triumf pentru AfD la alegerile din Saxonia-Anhalt, ultimele rezultate oficiale / Cea mai mare prezență la vot de la reunificarea Germaniei",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdlZ6WGNVa05ISWtYQXFYd05nbFVDRWg1dEtBSFh4NUx5UzFBcmlPZlFTdm5fU2ZZb04zNlc1M29GNWxnRWFQdDh0cG8tVkJScWd6STFtbFdPUktqMW9PS0JGamdGWF8xSHB1djJvMDJwcHBzTm4yU1JfSExQX2FqN3ZveHdxWGFJT1MyNHp4TFZhVHk5aEFfVHhtcDhDbGlMTHEyQXRCNzhYZFI2cjE2Tlh6NmZfa1NLOXBCX2FkdXpYLVROZ2M1MV9LVExEcTJlNVFKYmR1STM2VmJVcl9TOS1lcW12QnJXLUVRNmhfNXp4QTQ?oc=5",
+        "source": "HotNews.ro",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Triumf pentru AfD la alegerile din Saxonia-Anhalt, ultimele rezultate oficiale / Cea mai mare prezență la vot de la reunificarea Germaniei HotNews.ro Nicu Ștefănuță compară situați…",
+        "pubDate": "Mon, 07 Sep 2026 04:12:08 GMT"
       },
       {
         "title": "Urmează cea mai intensă campanie de bombardamente a Rusiei de la începutul războiului. De ce Ucraina s-ar...",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMUROVzZoRmFCcTVzQWI5NTBRQkZNZWZFMkJnb2ViZTQ4akNVRUwtTWRFQWxJSkxkemxxV1hFMVY1Q3MybWxmYVctbUhHYU0wUnhOYVZ5TGFxZFhVVjhMclJaNW1zUHl0aXN6Yi1VYldiMU40R0hFU0FVQm5fTUlkeUIxYlRFWDdNNXFJSmJzd2VUanY1ZlJ2aTVxbEFSM0Fkclp5ZXlNVUloRnVkTjlSVzZveW5pN05MWmYwRlM0SG81VTFuNERVRVIyUHZOdk1nb1ZWS2p3Q09ZM3BiS3E3ajVEcWEzRGQ1akRueUFYUjFYS3laNGMzTWMzdGYwM1RKbk40RNIBjwJBVV95cUxPdTNxVjdLa19vMjFjOWJPUV9CU3l6ZERWNFdRcXd4Sl9pa0hBYTNhei1TenpuVmJCY1RwN1FfYjNTNmZfenZ3VFREQkYtX2NtZm10aUh5TlhkUEZ1S0ZZeVBQMEZyMEltRHF3a1BCZzZ3YW0tSW9TNENXUVZncEJMVkFBUXEyYVhkQnV5NDVpWXhvTnZxQlhrUjRoeUNITklCd1p0SUJxOGg2OVQ3eFJ3dGxLU3VjT2tlMm9XbDFKT3hQbWMyV2k0ME1rTE9TMVlEeG1heGJrNGx2Nk9YYmw3M3dzeVpHc0NnY094Q2xRYU1HeEUxNmwwRE5RR01hdFFBZjY3QjM1M0g1ekUxRUhn?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMUROVzZoRmFCcTVzQWI5NTBRQkZNZWZFMkJnb2ViZTQ4akNVRUwtTWRFQWxJSkxkemxxV1hFMVY1Q3MybWxmYVctbUhHYU0wUnhOYVZ5TGFxZFhVVjhMclJaNW1zUHl0aXN6Yi1VYldiMU40R0hFU0FVQm5fTUlkeUIxYlRFWDdNNXFJSmJzd2VUanY1ZlJ2aTVxbEFSM0Fkclp5ZXlNVUloRnVkTjlSVzZveW5pN05MWmYwRlM0SG81VTFuNERVRVIyUHZOdk1nb1ZWS2p3Q09ZM3BiS3E3ajVEcWEzRGQ1akRueUFYUjFYS3laNGMzTWMzdGYwM1RKbk40RA?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Urmează cea mai intensă campanie de bombardamente a Rusiei de la începutul războiului. De ce Ucraina s-ar... Digi24 Crimeea, de trei ori în întuneric peste vară. Ucraina perturbă a…",
+        "summary": "Urmează cea mai intensă campanie de bombardamente a Rusiei de la începutul războiului. De ce Ucraina s-ar... Digi24 Kievul a început pregătirile pentru o nouă iarnă de război: Reze…",
         "pubDate": "Mon, 07 Sep 2026 04:00:01 GMT"
       },
       {
-        "title": "Partidul de extremă dreapta AfD a câştigat alegerile din Saxonia-Anhalt, însă fără majoritate absolută în parlamentul regional, arată rezultatele oficiale preliminare / Tusk: „Doar idioţii şi trădătorii” ar putea sărbători succesul AfD în Polonia",
-        "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPeXVBWlJiM0Jna0ZpNVhvaXNjMFJCb0RWeXlzemowNlpQYTR4eHJkZVBzNG5ZR0twdTQzUXdVWVhybWhWTnhnYXFERlRRRGJ6REx0amlDX2dLVjF2RUhvbmJrV04xWnl4bVdsbXpEc2RuREhJLVZXR1duOXk1SEZYM294QTNTSzdEWDRHdzM5eXZIVWhxbjlkUWpXSW9aSG0yVk01dWN6QWxyYWxGQUY5Q3M2VF9JNjZrYTNkdHItLWs0WUdSdW9QZWVuVU1uRlY3MXdlX2c4dVlyZVVkNzNma0d4MjNWWjl2QTF5NGFuejY5dU1NREI5S1lCeW5ISml2Zjd1Nmo2aVhSQWlvTm1VT1BjcUxfUy0ydEVNaVprUW5IeVh3WklOT210cDlEd2l3LXlHNlVnMGp0RHN0anc5cVZhOEk1aDJjY3M5QTB4NGsteG5HM2t5dzVNZUdmTGg1djRpdEJn?oc=5",
-        "source": "News.ro",
+        "title": "Criza energetică afectează datoriile publice mai rău ca în 2022. De ce România are mai puțin spațiu...",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWJCZmp0OF81ZnpSS1RpYVF5NGRPbDEzZHJhWHJnYm1nRHl5OFI4TGhJUFZpWEhLbVN0MGRVQldyS1FWWHY1akpoOXRFU3YzYzlVSDVoTXJyaFJhb2FWRF9fc3BHZll0YnFLR1U1aEc3NGExMmFGNURZbUFBLTlrZEZqMFlOLVFyejdLZDVueVpKeGFJS0R3bkFWclBDZ0pOTlNueFp1czd0dGpuQjIyQ25fdGVQMTjSAb8BQVVfeXFMTjNJLXJoVWlrTHg5UG5KM1d6bzhwTllvVFdHOFZBVGtkWXRQQXh6V2xETWlaR0VoUmFNS1QtQ3BRU0ZKWF9rcmpuREZrMTFJSl9Ka3psdFJoUnBFX09fMjBsdzZiMTB5aVFHaWkwRjZEMVMzbUJFcGh6SUF3V3VDakdBbE5SV0QxRHo4eWFTd2UxWWlSSEtFd2lDSHFHUDFaVlRPekJJdEs3QU9JckpkS0Exa045NFotRVBTVjRlOXc?oc=5",
+        "source": "Ziare.com",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Partidul de extremă dreapta AfD a câştigat alegerile din Saxonia-Anhalt, însă fără majoritate absolută în parlamentul regional, arată rezultatele oficiale preliminare / Tusk: „Doar…",
-        "pubDate": "Mon, 07 Sep 2026 01:50:25 GMT"
+        "summary": "Criza energetică afectează datoriile publice mai rău ca în 2022. De ce România are mai puțin spațiu... Ziare.com Costul datoriei explodează în toată Europa: Cele mai mari economii…",
+        "pubDate": "Mon, 07 Sep 2026 02:59:18 GMT"
       },
       {
-        "title": "Un avion cargo Amazon a ieșit de pe pista aeroportului din Miami și a lovit mai multe vehicule. Traficul...",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPdWlIMnJBZUpYakI0RGsteFZ3ODdSRGhnSlhMWmtoTmx2MWM5SUtUNjkxdFhLNk5yUXJrX0hlMkhhMjMyZ0VrX1hxYkRZMTdEeHpqZUx3a3QtdDBJeUE2VEQ1VmlJRHRSQWY3bzl6V3RtdVdYeTY3QUtlOUVhZVlYdG9WZ2Q2by1acXVaZ3BQUm5JYm9VLUdIaDJCMG82MTJ1eTZOSWx1ZlBqdmQ0ZkktSlYtT3JnNGJpUEVBQ0tEUHdSUmlkbnQtREhRa2Z6VmQ2T3RLems1azlOYVE2cmJfc0ZrX014dFpCdEFRemdtb0l4TXI1ODZaQjV1RENod25zUFRrT3BGXzhwM25ic2RkYnZHSmrSAZ8CQVVfeXFMTmtWN21rQnpDLVQ5LWxGTHF1YjVhbldBVHFOMFRzbzlTbEViSEZpLTdHZGppZVdRb1FFWGRWS2RYX0k1TXFhdW95S3I0NGFKQ2x5OUN6RVIzTUhOYjZhTkEwckMxampOaDVYNklTcFdoRmc5emZteGhyam1ZVC1xSWREbXRGNlJuTFdkbkgtUTdSOVpDSWFfMC1Vc0lkRTl0UTZhak1pZ3dhMUxvajhVc3ZrOEJ1V3NOcjhqTk5nZXRqYkktbWUxdy1HNEI0TmxMOWlSOTlNNDNfUEFQbVBWcl93RzE4VzJuSHZITGFBd3NhNFdjVHFCeWxCNnc5YXN4eXh3VDZPeWpnT0pUeDZ1SjVsSm5ZSDg3UnZIb3BaZkU?oc=5",
-        "source": "Digi24",
+        "title": "Theo Rose, criticată pe motiv că „nu are atitudinea potrivită” pentru Vocea României. Răspunsul cântăreței",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmZoRXljcjNNN1hRcEZMblZpaXhBbUZXRmtnZ05fQ3pkLWkzbWRWN1RLYmN5aDllM3dDUXRKdkVCYjhGRjJhbi1fOHh0clRfVFhVSlh2WnU5NnFITWdNaTNvYkZ1LTdpRmhnNkNIc3paNHFCZUxfTjJBcFhZZmtaQ2FJeHZOT2lSd282WVA1TEk0aHh5aTF4QnVZNkZicXo0dEQ5eFFELUI3bzhQNHpjTFp3M3I1YjBfR0Jvbg?oc=5",
+        "source": "HotNews.ro",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Un avion cargo Amazon a ieșit de pe pista aeroportului din Miami și a lovit mai multe vehicule. Traficul... Digi24 VIDEO SUA: Un avion Boeing 767 Amazon Prime Air a ieșit de pe pis…",
-        "pubDate": "Sun, 06 Sep 2026 23:59:12 GMT"
-      },
-      {
-        "title": "În ce intersecții din București vor sta polițiștii în prima zi de şcoală. Plan de fluidizare a traficului...",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTXFXYUs1Q2tWeWhMOWdvUGVvNjZoTWdEUWF0emp1VEdlUjhybFJuejFmTzRvQ3RZZlU4ZGxULXYyNXVmOEN0WVJnejMtTFN2clozOVQwdkNjbWFjYmFpVTRJRW5MTjhUTU5uNnRVTFBHWWRGNERkZ1RGaXBnTkdmaEpqN0ZTZExBX2EyTDFxN1lMX0tTME1kakFWcVZxRjN1QVRaNS1WRlNoTHVOSEM4VXBwbDlWTDRzQWVubkRxczY0LVcxLUo3MjJtTmRIZC1mYUFlcWc1V2tyVFBnWUVUcTBWcWhqOWNYcmRqMHl5aVd0QjdlYjczNTBR0gGEAkFVX3lxTE1aTmxSak1PRkYtMUpRakZ2aTFGTlBBZmZ6MllvNmNFZnZBVlJDOG1Tb2h3dnVnaC1iRmd3YnMxb1NsM2txZlRzeVUtLUNaVUxSM2tpMFlJZ3N5ZmdjY2NRRjdmakIwZVhGM1FGX2YzTllZT0RQNE9lVm1lWkxZMXBCSExZcXZOMHlhSGtUdmdOU3kyMDBQYXdWcXZOdy1INW41aUlqTGxmRmtKekZ3d3VQeTZrZE9PTG8tLVFKcFNMajdySTdRZ2c0cHdra252bzU5SnFMTHEydTZ6dFBJdG1mOTZ1RnpHMURLSkZkaFU5Q2QxbjBvVlpiNExzMEVnZ3pqRmR3?oc=5",
-        "source": "Digi24",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "În ce intersecții din București vor sta polițiștii în prima zi de şcoală. Plan de fluidizare a traficului... Digi24 „Vă rugăm să plecați din timp spre școală sau grădiniță”. Primăr…",
-        "pubDate": "Sun, 06 Sep 2026 20:02:58 GMT"
-      },
-      {
-        "title": "MAE, atenționare pentru românii care merg în Indonezia. 170.000 de pasageri, blocați după erupția Anak...",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWW9LMm1Qa1RMNHgxVVFJZmFvM21UTVJxcnRjQlhUSlJUa3Ixc0ZvbVBGdFhNdU9pclp2Y1ZPVWdWQnRIcmRCZ0VYdGl6NlhUNmFFT1VWTEVfWjN1ck4zRkI5QXJCa2xCamRxN2RDTUFRa1dGNzB3dmhnbXd3RWFjTDhGSFhOM1BfUnZQODJLaDVMemdlejhwQ1UxR3JhV0JWMUlRRXQ3SGlycTQ3OUxENi10NDFMc1gwVjVqVFB4Y2xBVnVfbGR3c1AwTWFJRWM1WkprMy1XeGliV2dJdHZ1SFlzU1htcmFQXzItM9IB9wFBVV95cUxQRzN3aWRoelNzdV9QM2NWUzg4WGlJZ0RRTmJJOGlleVpWdFc2bWU3aUpxNWlLZFppRDhRTVB6LUQ0ZUlId1BvQlBTODRwXzFRNi16eTl6Mnhmd2lXMGtja1pIeUkxWW5oQl9RbXhJOWZXRXUtcU1pMlZvb010bk9nYnpFVXNneHZkb09xVTk2VmtYMHl6Z1g2UDRRdEFmeUpKVGl0ZVNhMGFfRjM4cWVLd3VHaXNfY3JVUmszeTdIcXNsc0hwOGRjdV9YT0hGLTBXTy15c3JpYk5adXNGZzNoX0tmemNFc19tZGFYOHk1TFNGTkpEWHQw?oc=5",
-        "source": "Digi24",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "MAE, atenționare pentru românii care merg în Indonezia. 170.000 de pasageri, blocați după erupția Anak... Digi24 Vulcanul care a provocat explozia de 13.000 de ori mai puternică de…",
-        "pubDate": "Sun, 06 Sep 2026 18:40:31 GMT"
-      },
-      {
-        "title": "Cine este noul James Bond. Când aflăm oficial cu cine este înlocuit Daniel Craig în rolul agentului 007",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGNXTGVWa3lwVnUybjRBY0cxTmVjMlRUODVQeVN1UWFTTnF4ZXRPWHZ0Y0FQOVRtWktJT1VvNHI1OVBOWUI4NmlqRTNXaE9DMk9DdlVWYXl2Z3hXWU9aaG9lc05IUkZ1dC1Zc1Fja3c2cmtPbHhfUlUyVjM0TFhPWmhJdmI3ZG9BOE5TajdIaWEtVTFGTjBlWUNQTQ?oc=5",
-        "source": "Adevarul.ro",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Cine este noul James Bond. Când aflăm oficial cu cine este înlocuit Daniel Craig în rolul agentului 007 Adevarul.ro „E greu să-i calci pe urme lui Daniel Craig”. Producătoarea Amy…",
-        "pubDate": "Sun, 06 Sep 2026 17:47:23 GMT"
-      },
-      {
-        "title": "Înainte de ședința CSAT de luni, președintele Nicușor Dan participă la deschiderea anului școlar în comuna Curcani, din Călărași",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOHNkYjB1LXMxa2RTTWVnYXZyeHdmUkVuM1N2Q0pBLXp3R2otNjR2eFl2dWxVY3RLV2tpcHBNemdWTVlXUEtDRTRUb2N4TEpIZDNHcW0zV21LMlpTN3UwaEM0QUJ5OWx0UDljZFI5bGdyakFsSG5Xc0daZktlQVdMTndqdzBZNGx0WW8xV09HZ2hFSzFZYmM3WTFWRVNxZDdLamdCUkFnR0xhSEpoWjNlVTh2WVVURkFHNXFiYl9iZ1lOSUwyWXlZb0dNcWNmZ2lkUnVlVlhjblU2c0JoUGF4ZHpvYzIxNHV2SVE?oc=5",
-        "source": "G4Media",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Înainte de ședința CSAT de luni, președintele Nicușor Dan participă la deschiderea anului școlar în comuna Curcani, din Călărași G4Media Nicușor Dan convoacă CSAT. Pe agendă: înzes…",
-        "pubDate": "Sun, 06 Sep 2026 12:40:43 GMT"
+        "summary": "Theo Rose, criticată pe motiv că „nu are atitudinea potrivită” pentru Vocea României. Răspunsul cântăreței HotNews.ro (video) Thoe Rose a izbucnit după ce o fană i-a transmis că e…",
+        "pubDate": "Sun, 06 Sep 2026 14:57:33 GMT"
       },
       {
         "title": "Dacia schimbă planul. Renunță la un vehicul mare, la scurt timp după avertismentul despre viitorul...",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQmhiNWRZTFpDYUhqcmstYkZ1VWVrSTA1SnVFa2NjbUJZN1ROS3U1NDRJUXZRS1ZaSU1HSFh5NGJVVktQSWhrOFRsNU1QS0pxTDhEUGxWTkswV0VrZHJ6RENJQXY5MmdPM3ZUbkkwdkFZTUZHNkRkOWsxNGZUbVF0M1NB0gGKAUFVX3lxTFBGOFgwSEhxNnBvdFZudkNqd0hrVEFDTnpOLUlWWUpyVjZLOC0tM1Q1WmJKNjhFRWVyakY1alhvZl9zUXpJRWlRSkctdngtSnp3dS1ic3lKMnpXMHVJQ3NmUnhldExHR2VlaE9MMnp1VGFrenlEUDJadWExVzZzOUVCc0Zia19aM0k0QQ?oc=5",
-        "source": "ziare.com",
+        "source": "Ziare.com",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Dacia schimbă planul. Renunță la un vehicul mare, la scurt timp după avertismentul despre viitorul... ziare.com ULTIMA ORĂ Dacia renunță la un al treilea model din segmentul C Prof…",
+        "summary": "Dacia schimbă planul. Renunță la un vehicul mare, la scurt timp după avertismentul despre viitorul... Ziare.com Explicațiile oficiale ale Dacia înaintea lansării Striker, ce spune…",
         "pubDate": "Sun, 06 Sep 2026 12:25:56 GMT"
       },
       {
         "title": "Nike iese din elita bursei americane după 18 ani. Acțiunile s-au prăbușit cu 80% în ultimii cinci ani....",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkQnFlcjJCTU94Tzd2V3NnQ2EyVWJ5SjJxTFpibUozMFktczF4OW1KSXctMGRaZmhCQlUzdDFKSXR5eHVlVlJHQ1h6Wi1hRHJZX24zNTE2blRvLWFrWDkxSXI0UUJsRGdvR05oZi1rZ0l5cTTSAXtBVV95cUxOeUxUXzlJR3B5ejJoTjVrU0JsTVRHeUdLUGloRTJmamVCYjNZdXpaWGs4dXcxY2VleGFzMV9adlR4dVdkR0RlOUlYb3JCMTBoRWRIb0FadXJpX1IyRU81eHdSSDlsOEoyN3NMd0RGYTFWczJqcURwUU5fNTQ?oc=5",
-        "source": "ziare.com",
+        "source": "Ziare.com",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Nike iese din elita bursei americane după 18 ani. Acțiunile s-au prăbușit cu 80% în ultimii cinci ani.... ziare.com",
+        "summary": "Nike iese din elita bursei americane după 18 ani. Acțiunile s-au prăbușit cu 80% în ultimii cinci ani.... Ziare.com",
         "pubDate": "Sun, 06 Sep 2026 09:21:27 GMT"
       },
       {
-        "title": "Din 7 septembrie începe noul an școlar 2026-2027. Calendarul complet al cursurilor și vacanțelor",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT1pXUFJzMmFyQ2RWUDhSdC1DU200UzgwVHZRRmt3LUpjeG9CS3BDRDhWZDdZOEV1X1p4RVdtdk1DdmtCdmhZbDhfdF8wTWt2blhhc2dnTldsM21YbV9pQThWZlNaVkZhNWI5ZnlXc3lBWWNPX29faDZpNVJSYXR3NHNzUG5VeE9DcFkzOUl1eE05VVJfekkzYUJqQldDR2tXb0xsVWNwV0kwanhQblZxYnNzaDVNRkdmOW1zb0QtWGgzTEhvcV9nY2tlVDJxMG9S0gHWAUFVX3lxTFB0LTNCT3Y3TTdKYnBWbENVbGZlaGNudmpWME1hb3pONVZ2ZzBmRkh3RkxmakxoV29KTVMzeUNtU0NkSlN3Z0xOT1pmZGgzZXlBbG1YaEU5XzI3ZzdobV91ejJjWDVobXJGMDFVQmxsU2ttNTJEQk04NEloUUZPUF9hOGlmR0g1V1hLLVhNc3p4Z0UzQnhNZUdrdExCaVMtSXIwdG5CbUZmLV9kZk1lUnV6R1RFZ3BIeTdROXY4TVg2WWRzRHhLbGs0SXRsZWhYWUh6b1ROVGc?oc=5",
-        "source": "Mediafax",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Din 7 septembrie începe noul an școlar 2026-2027. Calendarul complet al cursurilor și vacanțelor Mediafax Cum arată sistemul de învăţământ la începutul unui nou an şcolar: Numărul…",
-        "pubDate": "Sun, 06 Sep 2026 04:29:31 GMT"
-      },
-      {
-        "title": "Prima reacție a lui Putin după ce i-a primit pe emisarii lui Trump la Kremlin. Un ordin rapid a fost dat de liderul Rusiei",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdm1EX3IyQk53Y3NFbEo4SHUweG9OVFJjcUl0S3ZzYUtDOVhCak5TVXhKU2RaUWFFQ0hqYlZUZjc2OGxvMmtXbWFOZDhBUlZrcTNzeFNRbVhZN2VfZ1M2OHIwQmp4SG1MS3VjNFFBNjRpOG9KV3MybEMyT3lmN25LMGNtT2pVbkNPVU1DcWNlZXdQMXAyZXJPZkpHaUF2ZUNoVW45RFpaVjY3bjNMSmpaMDR0VHZRMTdQYkRac2FSLWxBVzZkWmhpRjNtalhHbWJNQTNDalZ5WXRxdTFab1hnSFUxUzkya2xCZHJXZ296U2c1eWFnRl9QWUVUUlpCRWs?oc=5",
+        "title": "Rezultate Loto 6/49, Joker și Loto 5/40, duminică, 6 septembrie 2026. Care sunt numerele câștigătoare",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLUZoWVZxNlEzXzJwMmFWck8ydmZKQ2pIWUdadnBFZlJFUDBsck9OMDdTc094VEtJRzJPdlBaNVJoc3JaRWtuYVJhRkNaVTZ1RzlIYmdVX1NfVDJyR3RjU1RjOUF2SzlZWGhnUzZoeGhEcEIybzYzRTMwQkxydlA5UUl5ZzdySHZ2T3FRRHBrbmFJODRlN1JmRkdWMG43V1pSQ0lhdTlybEJzenotRF9WQWJKT1A0LUNtZTJ3MzJsZ3JMYmlVSmNodl8zcmhGTXdTRDJKUTBTd0lHRm1HbTBEcmxsTF9Zd0hqY0w2R2MtZw?oc=5",
         "source": "Stirile ProTV",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Prima reacție a lui Putin după ce i-a primit pe emisarii lui Trump la Kremlin. Un ordin rapid a fost dat de liderul Rusiei Stirile ProTV Zelenski, după discuțiile cu emisarii lui T…",
-        "pubDate": "Sun, 06 Sep 2026 04:16:47 GMT"
+        "summary": "Rezultate Loto 6/49, Joker și Loto 5/40, duminică, 6 septembrie 2026. Care sunt numerele câștigătoare Stirile ProTV Rezultate LOTO - Duminică, 6 septembrie 2026: Peste 853.000 de e…",
+        "pubDate": "Sun, 06 Sep 2026 07:46:04 GMT"
       },
       {
-        "title": "Fondul Suveran al Norvegiei vrea să vândă masiv obligațiuni de stat americane. Ce semnal trimite piețelor",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdzlEUUY2NXg0T2hnakJiTXF6SXlXX2pvOGhFNDNtNEVTYVM2WDBiU0V2N255dU4wZGtIcnV4aEwzNlFHVXZmbWUyUE5qT1NtMnRtTXYxaGRvcmVHUHpfNk11b3F5QXgxeVFyampNek0yRFA0ZDczOUJRX3F0VHI4NTVITHdncWU0b0hSWUpoZGs2T0JGaFN0Y1NMY0ZfUjBHdjJDUHd5YVVfUVROY25hMU5GQjlmQWw1QVZySjhBU2pTeUY2RUhSVzRSeE8zQU12MlB2NWRla0traGVxYnNFQWNQTlVIdw?oc=5",
-        "source": "Stirile ProTV",
+        "title": "Cum putem ajunge la 90 de ani sănătoși. Ce spune un medic Regina Maria despre deficitul de vitamina D și Omega 3 în România și cei 5 piloni ai longevității",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQMVMyTGlMSm4xZlBuazM3Tk1KTEpXNWlhcWZ0eTNzSXVGRjl6eTYyUGxucXdsbXZIclRrSGpnQ3ZnajVCcWpOZjdvVGZIeWN0ZjE5YXpULTBBUUVvZU93Mlc1aHdwTFg3UkxTbk14cHRtZ0ZEVllCUEtQVjc4UDdlZC15bmlhQkpXSW44R3NaYkZWMk9KVkwzWG5iR3dXODhCQ0xUTTRCbklQNU5HeEd2SWVwcG5sMGppcUx2SlpJM3lDemFZOFJwYjk4TkZkTjh1LXh3TEpZZlZ3LWYxalZGYkJhU2prQ01qWHhKejNpLVJJZ0ZGbVVtNEF0eXZrclVsV3BNWGRxRWMtd3hLOFE?oc=5",
+        "source": "HotNews.ro",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Fondul Suveran al Norvegiei vrea să vândă masiv obligațiuni de stat americane. Ce semnal trimite piețelor Stirile ProTV Mişcare de şah a Norvegiei. Celebrul fond suveran de investi…",
-        "pubDate": "Sat, 05 Sep 2026 04:36:09 GMT"
-      },
-      {
-        "title": "Misiunea BepiColombo își începe inserția pe orbita planetei Mercur",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcHNVMWN4SnRoNW54cHBHLXlJZ01CcEtxR2ZjRkphTlVaQ0FId1VpcTdWaDVGM2x4SzJ4em5jekUtS0VlZEFjZk5DTUs3MUx6RFlZRHhvTlJIWmFrWVRSdEs5YmR0bExmVUo3dzdkdFpPWVM3eXRQcHdOUU9YUjBzcG1CYXc4Z1JXdlZFajFic0tmdEowcFFUa1ZXa2lLVU9OZVdVdmdrNU5PMXVSOEZQNmVhclo?oc=5",
-        "source": "Agerpres",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Misiunea BepiColombo își începe inserția pe orbita planetei Mercur Agerpres După opt ani în spațiu, sonda BepiColombo se apropie de Mercur. Urmează cea mai delicată etapă a misiuni…",
-        "pubDate": "Thu, 03 Sep 2026 09:07:54 GMT"
+        "summary": "Cum putem ajunge la 90 de ani sănătoși. Ce spune un medic Regina Maria despre deficitul de vitamina D și Omega 3 în România și cei 5 piloni ai longevității HotNews.ro Secretele Vit…",
+        "pubDate": "Tue, 01 Sep 2026 07:47:01 GMT"
       }
     ],
     "🇲🇽 Mexico": [
       {
-        "title": "Estreno de ‘La Granja VIP’ 2026 HOY: ¿A qué hora y dónde ver EN VIVO el reality show?",
-        "link": "https://www.elfinanciero.com.mx/entretenimiento/2026/09/06/la-granja-vip-mexico-2026-que-paso-en-el-estreno-del-reality-show/",
-        "source": "Redacción",
+        "title": "Espionaje en la Condesa",
+        "link": "https://www.elfinanciero.com.mx/opinion/raymundo-riva-palacio/2026/09/07/espionaje-en-la-condesa/",
+        "source": "Raymundo Riva Palacio",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "La Granja VIP 2026 se estrena hoy 6 de septiembre. Conoce a qué hora inicia, dónde verlo en vivo, participantes confirmados y cómo seguir el 24/7.",
-        "pubDate": "Mon, 07 Sep 2026 04:36:10 +0000"
+        "summary": "La cena que tuvieron Andrés y Gonzalo López Beltrán, con tres amigos y socios en un restaurante de la Ciudad de México el 24 de agosto, si alcanzan a descifrar lo que sucedió, debe…",
+        "pubDate": "Mon, 07 Sep 2026 10:40:33 +0000"
       },
       {
-        "title": "Eliminado y nuevo habitante de ‘La Casa de los Famosos México’ EN VIVO: ¿Quien entra y sale del reality HOY?",
-        "link": "https://www.elfinanciero.com.mx/entretenimiento/2026/09/06/quien-es-el-eliminado-7-de-la-casa-de-los-famosos-mexico-2026/",
-        "source": "Redacción",
+        "title": "Ánimo de inversión histórico en Yucatán, pero Coparmex Mérida tiene otros datos",
+        "link": "https://www.elfinanciero.com.mx/opinion/victor-jose-lopez-martinez/2026/09/07/animo-de-inversion-historico-en-yucatan-pero-coparmex-merida-tiene-otros-datos/",
+        "source": "Víctor José López Martínez",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "La Casa de los Famosos México 2026 tiene gala de eliminación hoy. Conoce a qué hora, dónde verla en vivo, nominados y cuándo entra el nuevo habitante.",
-        "pubDate": "Mon, 07 Sep 2026 04:16:18 +0000"
+        "summary": "Yucatán registra inversiones millonarias en energía, industria, logística e infraestructura que contrastan con el pesimismo de Coparmex Mérida.",
+        "pubDate": "Mon, 07 Sep 2026 10:30:00 +0000"
       },
       {
-        "title": "Toluca es campeón de Leagues Cup: ¿Cuánto dinero se lleva tras ganarle a Rayados de Monterrey?",
-        "link": "https://www.elfinanciero.com.mx/deportes/2026/09/06/cuanto-dinero-se-lleva-de-premio-el-campeon-de-la-leagues-cup-2026-toluca-vs-monterrey/",
-        "source": "Redacción",
+        "title": "Hevia Baillères entra a la NFL",
+        "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/09/07/hevia-bailleres-entra-a-la-nfl/",
+        "source": "De jefes .",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "El campeón de la Leagues Cup 2026 recibirá 2 millones de dólares, además de un boleto directo a Octavos de la Copa de Campeones Concacaf.",
-        "pubDate": "Mon, 07 Sep 2026 04:07:15 +0000"
+        "summary": "La operación suma a HBeyond a un consorcio de control liderado por la familia Khosla e integrado por inversionistas internacionales dentro del equipo campeón del Super Bowl LX.",
+        "pubDate": "Mon, 07 Sep 2026 10:24:57 +0000"
       },
       {
-        "title": "¡Diablo y campeón! Toluca vence a Monterrey en la final de Leagues Cup 2026",
-        "link": "https://www.elfinanciero.com.mx/deportes/2026/09/06/toluca-vs-monterrey-en-vivo-quien-es-campeon-de-la-leagues-cup-2026/",
-        "source": "Redacción",
+        "title": "Transformación del sistema de pagos: ganadores y perdedores",
+        "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/09/07/transformacion-del-sistema-de-pagos-ganadores-y-perdedores/",
+        "source": "Jeanette Leyva Reus",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Toluca venció a Monterrey en la gran final de la Leagues Cuo 2026; los Diablos son campeones del torneo de Liga MX vs. MLS.",
-        "pubDate": "Mon, 07 Sep 2026 03:56:43 +0000"
+        "summary": "La transformación del sistema de pagos en México está entrando en una etapa mucho más relevante: ya no se trata únicamente de desarrollar nuevas herramientas digitales, sino de con…",
+        "pubDate": "Mon, 07 Sep 2026 10:08:37 +0000"
       },
       {
-        "title": "¿Quién es el segundo eliminado de ‘Exatlón México’ 2026?",
-        "link": "https://www.elfinanciero.com.mx/entretenimiento/2026/09/06/quien-es-el-eliminado-2-de-exatlon-mexico-2026/",
-        "source": "Redacción",
+        "title": "La distinción que se disuelve",
+        "link": "https://www.elfinanciero.com.mx/opinion/marlene-mizrahi/2026/09/07/la-distincion-que-se-disuelve/",
+        "source": "Marlene  Mizrahi",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Exatlón México 2026 dio a conocer su segundo eliminado de su décima temporada. Conoce todos los detalles del programa.",
-        "pubDate": "Mon, 07 Sep 2026 03:16:27 +0000"
+        "summary": "La corrupción, inseguridad y crimen organizado están cada vez más vinculados en la percepción de los mexicanos, escribe Marlene Mizrahi.",
+        "pubDate": "Mon, 07 Sep 2026 10:00:00 +0000"
       },
       {
-        "title": "‘Nuevo León no aguanta más’: Alcaldes mandan carta a Sheinbaum para que actúe contra Samuel García",
-        "link": "https://www.elfinanciero.com.mx/estados/2026/09/06/nuevo-leon-no-aguanta-mas-alcaldes-mandan-carta-a-sheinbaum-para-que-actue-contra-samuel-garcia/",
-        "source": "Redacción",
+        "title": "Paquete Económico 2027 enfrentaría ingresos públicos estancados",
+        "link": "https://www.elfinanciero.com.mx/economia/2026/09/07/paquete-economico-2027-enfrentaria-ingresos-publicos-estancados/",
+        "source": "Felipe Gazcón",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Alcaldes de NL, empresarios y hasta el Congreso firmaron una carta para que Claudia Sheinbaum y el Gobierno investiguen la administración de Samuel García.",
-        "pubDate": "Mon, 07 Sep 2026 03:11:00 +0000"
+        "summary": "Las previsiones de finanzas públicas y económicas, clave para nota soberana.",
+        "pubDate": "Mon, 07 Sep 2026 09:42:09 +0000"
       },
       {
-        "title": "El misterio de la desaparición de la ecuatoriana, Jenny en CDMX: desorientada y extraviada por 10 días",
-        "link": "https://www.elfinanciero.com.mx/cdmx/2026/09/06/hallan-con-vida-a-jenny-kalindy-estudiante-de-ecuador-en-cdmx/",
-        "source": "EFE",
+        "title": "¿Podrá la inversión pública despertar a la privada?",
+        "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/09/07/podra-la-inversion-publica-despertar-a-la-privada/",
+        "source": "Enrique Quintana",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "La estudiante ecuatoriana se encontraba desplazándose por su cuenta, desorientada y con necesidad de atención médica.",
-        "pubDate": "Mon, 07 Sep 2026 02:17:50 +0000"
+        "summary": "La inversión privada, que representa alrededor de 87 por ciento del total, cayó 0.7 por ciento. La pública, con un peso cercano a 13 por ciento, aumentó 10.9 por ciento.",
+        "pubDate": "Mon, 07 Sep 2026 09:28:00 +0000"
       },
       {
-        "title": "‘¡Ponte a temblar!’ Habrá más alertas ‘presidenciales’ que avisaran de estos desastres",
-        "link": "https://www.elfinanciero.com.mx/nacional/2026/09/06/anuncian-alerta-a-celulares-por-desastres-naturales-como-huracanes-incendios-e-inunudaciones-en-mexico/",
-        "source": "Redacción",
+        "title": "EU aprueba fusión de Viva Aerobus con Volaris; analizan transporte por tierra",
+        "link": "https://www.elfinanciero.com.mx/empresas/2026/09/07/eu-aprueba-fusion-de-viva-aerobus-con-volaris-analizan-transporte-por-tierra/",
+        "source": "Aldo Munguía",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Autoridades informaron que al cierre de año habrá más alertas celulares por desastres naturales.",
-        "pubDate": "Mon, 07 Sep 2026 02:05:14 +0000"
+        "summary": "IAMSA opera la aerolínea de Zuazua, ETN, Turistar y Tren Suburbano.",
+        "pubDate": "Mon, 07 Sep 2026 09:19:51 +0000"
       },
       {
-        "title": "Abelina López niega desfalco millonario en Acapulco: ‘Que se revise todo’",
-        "link": "https://www.elfinanciero.com.mx/estados/2026/09/06/abelina-lopez-niega-desfalco-millonario-en-acapulco-que-se-revise-todo/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Abelina López negó que la observación de la Auditoría Superior de la Federación esté relacionada con un caso de desfalco.",
-        "pubDate": "Mon, 07 Sep 2026 01:16:05 +0000"
+        "title": "Editorial: Estampas de una guerra perdida",
+        "link": "https://www.jornada.com.mx/2026/09/07/opinion/002a1edi?partner=rss",
+        "source": "La Jornada",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "Nuevos reportes periodísticos dieron cuenta este fin de semana de las deplorables y desesperantes condiciones que los 5 mil marinos a bordo del portaviones Abraham Lincoln han veni…",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "Alfonso Durazo rompe récord educativo en Sonora con más de 736 mil becas entregadas",
-        "link": "https://www.elfinanciero.com.mx/estados/2026/09/06/alfonso-durazo-rompe-record-educativo-en-sonora-con-mas-de-736-mil-becas-entregadas/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "En Sonora, este sexenio se han entregado más de 736 mil becas para estudiantes.",
-        "pubDate": "Mon, 07 Sep 2026 00:49:40 +0000"
+        "title": "Acortan etapa 15 de la Vuelta a España por calor extremo",
+        "link": "https://www.jornada.com.mx/2026/09/07/deportes/a12n3dep?partner=rss",
+        "source": "La Jornada",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "La Vuelta a España tuvo un nuevo contratiempo y la etapa 15 de ayer fue modificada por el calor extremo en Córdoba. Los organizadores acortaron la ruta de 189 kilómetros a 110 por…",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "El León ‘despluma’ a las ‘Águilas’: América cae en el partido por el tercer lugar de Leagues Cup 2026",
-        "link": "https://www.elfinanciero.com.mx/deportes/2026/09/06/leon-vs-america-en-vivo-resultado-del-partido-por-el-tercer-lugar-en-leagues-cup-2026/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "León se quedó con el tercer lugar de la Leagues Cup 2026 tars vencer al Club América.",
-        "pubDate": "Mon, 07 Sep 2026 00:36:56 +0000"
+        "title": "Fanáticos celebran en Suiza el 80 cumpleaños de Freddie Mercury",
+        "link": "https://www.jornada.com.mx/2026/09/07/espectaculos/a07n2esp?partner=rss",
+        "source": "La Jornada",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "Montreux. Miles de seguidores de la banda Queen cantaron y celebraron el sábado frente a la estatua de Freddie Mercury en Montreux, Suiza, en el día que habría cumplido 80 años el…",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "Muere Andy ‘The Butcher’ Williams, músico y estrella de la lucha libre, tras desmayarse en pelea",
-        "link": "https://www.elfinanciero.com.mx/deportes/2026/09/06/muere-el-luchador-andy-the-butcher-williams-tras-desmayarse-en-pelea/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "La muerte de Andy ‘The Butcher’ Williams fue confirmada por All Elite Wrestling después de que el luchador se desvaneció al terminar un combate en Millvale.",
-        "pubDate": "Mon, 07 Sep 2026 00:30:50 +0000"
+        "title": "AZ Alkmaar de Mateo Chávez es líder en la Eredivisie",
+        "link": "https://www.jornada.com.mx/2026/09/07/deportes/a09n2dep?partner=rss",
+        "source": "La Jornada",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "El mexicano Mateo Chávez fue titular con su equipo, el AZ Alkmaar, en la victoria por 3-2 sobre el Heerenveen, en la Liga de Países Bajos.",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "¿Se cancela el paseo dominical? Cierran tramo de Indios Verdes a Potrero de la Línea 3 del Metro CDMX",
-        "link": "https://www.elfinanciero.com.mx/cdmx/2026/09/06/metro-cdmx-cierran-estaciones-indios-verdes-deportivo-18-de-marzo-y-potrero-de-la-linea-3-hoy/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "La Línea 3 del Metro no ofrece servicio de Indios Verdes a Potrero la tarde de este 6 de septiembre.",
-        "pubDate": "Mon, 07 Sep 2026 00:12:55 +0000"
+        "title": "David Márquez Ayala: Reporte económico",
+        "link": "https://www.jornada.com.mx/2026/09/07/opinion/019o1eco?partner=rss",
+        "source": "David Márquez Ayala",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "Con sensibles correcciones a las cifras de 2025 y 2024, el Banco de México ha publicado los resultados preliminares de la Balanza de Pagos en el primer semestre del año: un déficit…",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "Lunes de dejar el carro: Hoy No Circula del lunes 7 de septiembre de 2026",
-        "link": "https://www.elfinanciero.com.mx/cdmx/2026/09/06/hoy-no-circula-lunes-7-de-septiembre-de-2026-placas-5-y-6-descansan-source-ia/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "El programa Hoy No Circula restringe la circulación de vehículos con engomado amarillo y terminación de placa 5 o 6. La medida aplica para unidades con holograma 1 y 2.",
-        "pubDate": "Mon, 07 Sep 2026 00:12:44 +0000"
+        "title": "Impiden en Michoacán consulta sobre ley de derechos indígenas",
+        "link": "https://www.jornada.com.mx/2026/09/07/politica/005n2pol?partner=rss",
+        "source": "La Jornada",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "Morelia, Mich., Por considerar que la consulta sobre la iniciativa de ley general de derechos de pueblos indígenas es “discriminatoria, simulada y fallida”, además de que no contem…",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "Anticorrupción abre expediente por brote de salmonela en Hospital General; indaga a empresa subcontratada",
-        "link": "https://www.elfinanciero.com.mx/cdmx/2026/09/06/anticorrupcion-abre-expediente-por-brote-de-salmonela-en-hospital-general-indaga-a-empresa-subcontratada/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "La Secretaría Anticorrupción abrió una investigación por el brote de salmonela en el Hospital General y posibles responsabilidades administrativas.",
-        "pubDate": "Sun, 06 Sep 2026 23:38:58 +0000"
+        "title": "Festival de Música de Morelia invita a viajar hacia el continente asiático",
+        "link": "https://www.jornada.com.mx/2026/09/07/espectaculos/a08n2esp?partner=rss",
+        "source": "La Jornada",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "La edición 38 del Festival de Música de Morelia Miguel Bernal Jiménez (FMM) se llevará a cabo del 13 al 22 de noviembre en la capital de Michoacán, así como en poblados como La Pie…",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "¿Quién es Ulrich Siegmund, la cara de la ultraderecha en Alemania que muchos consideran un peligro?",
-        "link": "https://www.elfinanciero.com.mx/mundo/2026/09/06/quien-es-ulrich-siegmund-la-cara-de-la-ultraderecha-en-alemania-que-muchos-consideran-un-peligro/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "El ascenso de Ulrich Siegmund coloca a la ultraderecha en el centro de la política alemana. Conoce quién es el político que enciende las alertas en Alemania.",
-        "pubDate": "Sun, 06 Sep 2026 22:44:50 +0000"
+        "title": "Sin dictaminar, 15 iniciativas para mejorar trabajo de médicos residentes",
+        "link": "https://www.jornada.com.mx/2026/09/07/politica/008n1pol?partner=rss",
+        "source": "La Jornada",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "Tanto en la Cámara de Diputados como en el Senado hay al menos 15 iniciativas de reforma que buscan mejorar las condiciones de trabajo de los médicos residentes, sin que se hayan a…",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "Pirotecnia explota durante fiesta patronal en Temascalcingo, Edomex; hay al menos 10 personas muertas",
-        "link": "https://www.elfinanciero.com.mx/edomex/2026/09/05/pirotecnia-explota-durante-fiesta-patronal-en-temascalcingo-edomex-reportan-varios-lesionados-video/",
-        "source": "Eulalio Victoria",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Una explosión de pirotecnia en Temascalcingo, Estado de México, dejó varios lesionados durante una fiesta patronal; autoridades atienden la emergencia.",
-        "pubDate": "Sun, 06 Sep 2026 22:14:12 +0000"
+        "title": "Felipe Ávila*: Los orígenes de la Cristiada: el maderismo",
+        "link": "https://www.jornada.com.mx/2026/09/07/politica/015a2pol?partner=rss",
+        "source": "Felipe Ávila*",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "Este año se cumplen 100 años de la Cristiada, el levantamiento armado de un sector de la Iglesia católica y católicos laicos, sobre todo del centro-occidente del país, en contra de…",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "Emboscan a exalcalde de Coahuayutla, Guerrero: PRD condena asesinato de Gilberto Dorantes",
-        "link": "https://www.elfinanciero.com.mx/estados/2026/09/06/emboscan-a-exalcalde-de-coahuayutla-guerrero-prd-condena-asesinato-de-gilberto-dorantes/",
-        "source": "Darío Lagunas",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Gilberto Dorantes Basurto, exalcalde de Coahuayutla, fue asesinado junto con un policía durante un ataque armado en la carretera Zihuatanejo-Lázaro Cárdenas.",
-        "pubDate": "Sun, 06 Sep 2026 22:09:37 +0000"
+        "title": "Temascalcingo: son 10 fallecidos y 81 heridos por estallido de pirotecnia",
+        "link": "https://www.jornada.com.mx/2026/09/07/estados/025n1est?partner=rss",
+        "source": "La Jornada",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "Temascalcingo, Méx., El jolgorio que se escuchaba en los días previos en la comunidad Santa María Canchesdá, del municipio de Temascalcingo, por la fiesta patronal de Nuestra Señor…",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "Escala a la FGR investigación a Pemex por “contrato interminable”",
-        "link": "https://www.elfinanciero.com.mx/opinion/atzayaelh-torres/2026/08/21/escala-a-la-fgr-investigacion-a-pemex-por-contrato-interminable/",
-        "source": "Atzayaelh Torres",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "A pesar de que ese contrato para llevar a cabo “Trabajos de operaciones convencionales con equipo de tubería flexible en pozos petroleros de PEP” ya está terminado, la empresa OPP…",
-        "pubDate": "Sun, 06 Sep 2026 22:08:15 +0000"
+        "title": "Marchan por el “honor y gloria” de las víctimas de la dictadura chilena",
+        "link": "https://www.jornada.com.mx/2026/09/07/mundo/022n1mun?partner=rss",
+        "source": "La Jornada",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "Santiago. Como ha sido inamoviblemente por más de tres décadas en estas fechas, organizaciones de detenidos y de ejecutados políticos durante la dictadura en Chile, sumadas a ellas…",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "Dos Bocas… los otros datos",
-        "link": "https://www.elfinanciero.com.mx/opinion/atzayaelh-torres/2026/09/02/dos-bocas-los-otros-datos/",
-        "source": "Atzayaelh Torres",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Cierto es que los reportes de Pemex muestran que Dos Bocas se convirtió durante julio en la refinería con la mayor producción de combustibles de las siete que operan en el país.",
-        "pubDate": "Sun, 06 Sep 2026 22:07:36 +0000"
+        "title": "Ortiz Tejeda: Nosotros ya no somos los mismos",
+        "link": "https://www.jornada.com.mx/2026/09/07/opinion/012o1pol?partner=rss",
+        "source": "Ortiz Tejeda",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "Un día cualquiera de cualquier mes de los años 50, estábamos un grupo de estudiantes. Bueno, para no iniciar con imprecisiones, digamos mejor, un grupo de alumnos de diversas facul…",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "Avión de Amazon que se salió de la pista y se incendió en Miami deja cinco muertos; FFA investiga",
-        "link": "https://www.elfinanciero.com.mx/mundo/2026/09/06/avion-de-amazon-se-sale-de-pista-y-se-incendia-en-miami-ffa-investiga-incidente/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Un avión de carga de Amazon se incendió tras salirse de la pista al aterrizar en el Aeropuerto Internacional de Miami; hubo cierre de pistas.",
-        "pubDate": "Sun, 06 Sep 2026 22:00:43 +0000"
+        "title": "Precio de gasolina hace titubear al secretario de Energía de Estados Unidos",
+        "link": "https://www.jornada.com.mx/2026/09/07/economia/019n2eco?partner=rss",
+        "source": "La Jornada",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "El secretario de Energía de Estados Unidos, Chris Wright, dudó en decir si los precios de la gasolina subirían o bajarían, a sólo dos meses de las elecciones de mitad de mandato.",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "Raw y SmackDown en México: Fechas, carteleras y peleas de campeonato de WWE y AAA en Arena CDMX",
-        "link": "https://www.elfinanciero.com.mx/deportes/2026/09/06/wwe-raw-smackdown-mexico-2026-fechas-cartelera-y-mas/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Raw y SmackDown en México regresan después de 15 años con figuras como CM Punk, Roman Reigns, Penta y Rey Fénix, además de seis combates titulares.",
-        "pubDate": "Sun, 06 Sep 2026 21:42:53 +0000"
+        "title": "Ecuador halla a ocho pescadores desaparecidos tras ataque de EU",
+        "link": "https://www.jornada.com.mx/2026/09/07/mundo/022n2mun?partner=rss",
+        "source": "La Jornada",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "Quito. La Armada del Ecuador informó sobre la localización de ocho tripulantes desaparecidos el pasado 2 de septiembre, tras un ataque de los militares estadunidenses al barco Conq…",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "Sheinbaum: Plan para rescatar al Oriente del Edomex registra 40% de avance y 121 obras en marcha",
-        "link": "https://www.elfinanciero.com.mx/edomex/2026/09/06/sheinbaum-plan-para-rescatar-al-oriente-del-edomex-registra-40-de-avance-y-121-obras-en-marcha/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Claudia Sheinbaum informó que el Plan Integral para la Zona Oriente del Edomex alcanza 40% de avance y beneficiará a más de 10 millones de habitantes.",
-        "pubDate": "Sun, 06 Sep 2026 20:39:32 +0000"
+        "title": "Fiscal Ernestina Godoy galardona a miembros de la policía ministerial",
+        "link": "https://www.jornada.com.mx/2026/09/07/politica/012n1pol?partner=rss",
+        "source": "La Jornada",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "La Fiscal General de la República, Ernestina Godoy Ramos, señaló que desde el inicio de su administración se fortalece un nuevo modelo de investigación científico e inteligencia, s…",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "‘No hay pueblo más trabajador que el de México’: Claudia Sheinbaum lanza mensaje sobre soberanía en NL",
-        "link": "https://www.elfinanciero.com.mx/estados/2026/09/06/claudia-sheinbaum-lanza-mensaje-sobre-soberania-en-nl/",
-        "source": "Jesús Vargas / Corresponsal",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "La presidenta Claudia Sheinbaum presentó su Segundo Informe de Gobierno en Nuevo León.",
-        "pubDate": "Sun, 06 Sep 2026 20:00:18 +0000"
+        "title": "“Deuda impagable” del Fobaproa aún asciende a más de un billón de pesos",
+        "link": "https://www.jornada.com.mx/2026/09/07/economia/016n1eco?partner=rss",
+        "source": "La Jornada",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "Los intereses y gastos administrativos de la deuda “impagable” del rescate bancario de la década de los 90 alcanzaron 2 billones 181 mil 485.6 millones de pesos en julio de 2026, d…",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       },
       {
-        "title": "Identifican a los 4 muertos y a 9 lesionados en choque de Nayarit; regresaban de evento de Sheinbaum",
-        "link": "https://www.elfinanciero.com.mx/estados/2026/09/06/identifican-a-los-4-muertos-y-a-9-lesionados-en-choque-de-nayarit-regresaban-de-evento-de-sheinbaum/",
-        "source": "Karina Cancino",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "El autobús en el que viajaban las víctimas mortales chocó contra un tráiler.",
-        "pubDate": "Sun, 06 Sep 2026 19:26:48 +0000"
+        "title": "Enrique Galván Ochoa: Dinero",
+        "link": "https://www.jornada.com.mx/2026/09/07/opinion/006o1eco?partner=rss",
+        "source": "Enrique Galván Ochoa",
+        "sourceUrl": "https://www.jornada.com.mx/2026/09/07/",
+        "summary": "Mañana llegará a la Cámara de Diputados el presupuesto para las elecciones del próximo año. El costo global aumentará a 50 mil millones de pesos. ¿Se trata de una inversión para lo…",
+        "pubDate": "Mon, 07 Sep 2026 08:58:34 GMT"
       }
     ]
   }
