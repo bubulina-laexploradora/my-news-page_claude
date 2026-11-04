@@ -1,22 +1,94 @@
 {
-  "lastUpdated": "2026-11-04T10:00:14.002Z",
+  "lastUpdated": "2026-11-04T18:15:53.214Z",
   "regions": {
     "🌍 Global": [
       {
-        "title": "How America voted in maps and charts",
-        "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+        "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+        "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "See the maps and charts that show how America voted in the US midterm elections.",
-        "pubDate": "Wed, 04 Nov 2026 09:53:18 GMT"
+        "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+        "pubDate": "Wed, 04 Nov 2026 18:01:31 GMT"
       },
       {
-        "title": "Miliband criticises Blair’s slavery statement and defends Burnham’s plan for proper apology – UK politics live",
+        "title": "US midterm elections 2026 live updates: Vance blames Iran war for Republicans’ brutal midterms losses as Democrats retake Congress",
+        "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+        "source": "Shrai Popat and Chris Hippensteel (now); Lucy Campbell (earlier)",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Vice-president says ‘it’s obvious to almost everyone’ that Iran war is ‘reason we lost’; Mike Johnson won’t seek House leadership role Track live results from all 50 states Full re…",
+        "pubDate": "Wed, 04 Nov 2026 17:58:38 GMT"
+      },
+      {
+        "title": "Danish students join European protest wave against education funding cuts",
+        "link": "https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Danish government proposes scrapping allowance scheme for students from wealthier families.",
+        "pubDate": "Wed, 04 Nov 2026 17:54:48 +0000"
+      },
+      {
+        "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+        "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/world",
+        "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+        "pubDate": "Wed, 04 Nov 2026 17:45:58 GMT"
+      },
+      {
+        "title": "Netanyahu bet on Trump – but both lost",
+        "link": "https://www.aljazeera.com/news/2026/11/4/netanyahu-bet-on-trump-but-both-lost?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Israel's political establishment grapples with US voter rejection of White House ally and own contribution towards it.",
+        "pubDate": "Wed, 04 Nov 2026 17:41:48 +0000"
+      },
+      {
+        "title": "Trump's midterm drubbing demonstrates the power of data-centre opponents",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ0RKVlY1MlliV3dhVWp3b2FVOGNsTGEyYnZLb1ZENVpINVdLdDVFTnNsazZ5b3FsbmVocktWZUhacFZmRU83cEFLOTNnOVBKZXJ6RUFoTjFncjJsNHB4Z25QMHlVLTNPRnE5TE5KNU9NN2JQQ09rQmo2N1N4dHFGNUEySXhLUVFhZVlJU0ZUd0V6aXhKVy1OT3JIa3lwdUpDT184VXpQYkthTXg1VWc?oc=5",
+        "source": "Reuters",
+        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Trump's midterm drubbing demonstrates the power of data-centre opponents Reuters Trump hand-picked Senate candidates. Republicans paid the price Reuters Post midterm elections, Asi…",
+        "pubDate": "Wed, 04 Nov 2026 17:31:14 GMT"
+      },
+      {
+        "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
+        "link": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Vance cited trusted pollster saying Iran war, Israel ties were top of mind for Trump voters swinging to Democrats.",
+        "pubDate": "Wed, 04 Nov 2026 17:18:50 +0000"
+      },
+      {
+        "title": "Dozens dead and missing after Russian strike on Ukrainian aid centre, officials say",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnJMX1lSSDlPU0otVy01QlBuQzZyUm5LWlpyMDM3QVlGcU5BczEyYUh6LWlJakluTEtTSVdLZFhfUERZQ3JPbEdGc1cyR2dlWlp4dC1wbDdvdXdMbWJjRUdmSDl2Y2VNNkxPS1U1TDB6WjJMZTlRdV9hSy05OWVPTVlfTWRQVC1RbExnWUV1eWl1bmpvVWR6QXgtcHhSbHRoUWNXUjhIb1FpM1RuRm00OFVKLVgtZ1hIS2g2dmdlbl8zdw?oc=5",
+        "source": "Reuters",
+        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Dozens dead and missing after Russian strike on Ukrainian aid centre, officials say Reuters Russian bombing of Ukrainian aid center is one of the war’s ‘deadliest attacks,’ Zelensk…",
+        "pubDate": "Wed, 04 Nov 2026 17:15:45 GMT"
+      },
+      {
+        "title": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections",
+        "link": "https://www.theguardian.com/us-news/2026/nov/04/jd-vance-iran-war-midterms-election",
+        "source": "Chris Hippensteel",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Stance signals vice-president seeks to distance himself from the unpopular conflict ahead of possible 2028 run US midterms 2026 live – latest updates Track live results from all 50…",
+        "pubDate": "Wed, 04 Nov 2026 17:15:33 GMT"
+      },
+      {
+        "title": "Palestinian citizens of Israel face intimidation after election success",
+        "link": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "After winning a record number of parliament seats, Palestinian-led parties face campaign against them.",
+        "pubDate": "Wed, 04 Nov 2026 17:14:21 +0000"
+      },
+      {
+        "title": "UK politics: Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – as it happened",
         "link": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
         "source": "Andrew Sparrow",
         "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "The foreign secretary added that the UK will not shift its position on reparations Energy bosses in the UK will have their bonuses curtailed when suppliers and brokers break the ru…",
-        "pubDate": "Wed, 04 Nov 2026 09:42:35 GMT"
+        "summary": "‘I think people want to see the world coming together and focusing on the things that matter to people,’ PM says Louise Haigh starts by saying she is standing in for Andy Burnham.…",
+        "pubDate": "Wed, 04 Nov 2026 17:01:31 GMT"
       },
       {
         "title": "Iran's chief negotiator says Americans voted 'no to war'",
@@ -24,693 +96,645 @@
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/world",
         "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-        "pubDate": "Wed, 04 Nov 2026 09:40:35 GMT"
+        "pubDate": "Wed, 04 Nov 2026 16:59:15 GMT"
       },
       {
-        "title": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
-        "source": "Jakub Krupa",
+        "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
+        "link": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
+        "source": "Philip Oltermann European culture editor",
         "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "European Commission will hold talks with the US, France, Germany, Britain, Nato, and the World Bank Meanwhile, Poland’s foreign minister Radosław Sikorski ridiculed the Polish righ…",
-        "pubDate": "Wed, 04 Nov 2026 09:40:31 GMT"
+        "summary": "The cult Italian film-maker began as an assistant to Roberto Rossellini but moved into sex films, believing ‘eroticism to be a fundamental key to human expression’ Italian film dir…",
+        "pubDate": "Wed, 04 Nov 2026 16:47:15 GMT"
       },
       {
-        "title": "Who determines Iran’s fighting and negotiating position amid US threats?",
-        "link": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Iran is on the brink of a new escalation with the US, but negotiations are continuing.",
-        "pubDate": "Wed, 04 Nov 2026 09:16:57 +0000"
-      },
-      {
-        "title": "‘Not been this excited in a long time’: US expats ride the blue wave at Australian midterms watch parties",
-        "link": "https://www.theguardian.com/australia-news/2026/nov/04/not-been-this-excited-in-a-long-time-us-expats-ride-the-blue-wave-at-australian-midterms-watch-parties",
-        "source": "Achol Arok and Nick Visser",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "US voters, their Australian partners and British spectators crowd around pub TVs to watch the historic election results roll in US midterm elections – live updates Democrats’ blue…",
-        "pubDate": "Wed, 04 Nov 2026 09:09:31 GMT"
-      },
-      {
-        "title": "Key moments from a night of midterm election firsts",
-        "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
-        "pubDate": "Wed, 04 Nov 2026 09:01:40 GMT"
-      },
-      {
-        "title": "Democrat Troy Jackson unseats Republican Senator Susan Collins in Maine",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-troy-jackson-unseats-republican-senator-susan-collins-in-maine?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Democrat Troy Jackson unseats Republican Senator Susan Collins in Maine",
-        "pubDate": "Wed, 04 Nov 2026 08:30:38 +0000"
-      },
-      {
-        "title": "Australian government defends social media ban for under 16s in court",
-        "link": "https://www.aljazeera.com/news/2026/11/4/australian-government-defends-social-media-ban-for-under-16s-in-court?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Government lawyers argued that social media use posed risks to children, and action is needed to protect them.",
-        "pubDate": "Wed, 04 Nov 2026 08:26:50 +0000"
-      },
-      {
-        "title": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
-        "link": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Returning Hebron residents face significant economic and structural devastation after Israeli military operation.",
-        "pubDate": "Wed, 04 Nov 2026 08:22:15 +0000"
-      },
-      {
-        "title": "M&S takes more than a year to recover from cyber-attack as profits bounce back to £355m",
-        "link": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
-        "source": "Sarah Butler",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Sales and profit from clothing and homeware remain below two years ago but ‘brand is in good health’ Marks & Spencer has said a devastating cyber-attack that shut down its website…",
-        "pubDate": "Wed, 04 Nov 2026 08:17:14 GMT"
-      },
-      {
-        "title": "Democrats deliver a historic routing to Republicans in US midterms",
-        "link": "https://www.aljazeera.com/news/2026/11/4/democrats-deliver-a-historic-routing-to-republicans-in-us-midterms?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "For the first time in nearly 30 years, a Democrat will now represent South Carolina in the US Senate.",
-        "pubDate": "Wed, 04 Nov 2026 07:46:12 +0000"
-      },
-      {
-        "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-        "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-        "pubDate": "Wed, 04 Nov 2026 07:39:38 GMT"
-      },
-      {
-        "title": "South Carolina elects Democratic senator for first time in almost three decades",
-        "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-        "pubDate": "Wed, 04 Nov 2026 07:32:02 GMT"
-      },
-      {
-        "title": "Bomb Threats Disrupt Several Flights Across Europe",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV1NrMER4Z3FTa1hfdDd3b0RNV0pGUEtQS3BHZ2RBbklBbUhMMjhKdlVSVm5Gcy12TGFlZzBKOU9QM3dmdVNBNkdNV2hrRVVqTFlndllJcGg5ckpXSVhKb1pScEVzXzFKaXQyY0tRdF9LaG1lVkhMM2x2d2JINk9KaDR5TUVMZjgwSTZjZExfd0M?oc=5",
+        "title": "An 80-Cent Plastic Pouch Is Saving Thousands of Women From Dying in Childbirth",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0x5ZTJPbUJPdlJDSUlXd0VobFhCTUtjbTBFa3p5cWVPSHFKTnBzMkpOTWtwNU5qNjFzV1RnS2txSjBIdjFscWlQME90bkJuZmF3MEszcDNxdDFPTGwyX0JOX2ZGaGxaX0xUWXFwYlBzSE1pQy1ZcmtvTTZ3TEhDUzNHcU5ueGVq?oc=5",
         "source": "The New York Times",
         "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Bomb Threats Disrupt Several Flights Across Europe The New York Times Bomb threats on flights in Europe cause disruption, no devices found CNN Seven planes across Europe searched o…",
-        "pubDate": "Wed, 04 Nov 2026 07:29:00 GMT"
+        "summary": "An 80-Cent Plastic Pouch Is Saving Thousands of Women From Dying in Childbirth The New York Times",
+        "pubDate": "Wed, 04 Nov 2026 16:46:00 GMT"
       },
       {
-        "title": "Spanish transport minister resigns after train crash killed 69 people",
-        "link": "https://www.aljazeera.com/news/2026/11/4/spanish-transport-minister-resigns-after-train-crash-killed-69-people?traffic_source=rss",
+        "title": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
+        "link": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Oscar Puente says he could not 'continue in office' after two major train accidents in less than a year.",
-        "pubDate": "Wed, 04 Nov 2026 07:18:08 +0000"
+        "summary": "Tehran rallies see slogans, flag burnings and claims of US-Israeli defeats amid historic embassy takeover anniversary.",
+        "pubDate": "Wed, 04 Nov 2026 16:37:49 +0000"
       },
       {
-        "title": "US House Speaker Johnson rants about Marxism after Democrat gains",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/us-house-speaker-johnson-rants-about-marxism-after-democrat-gains?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "US House Speaker Johnson rants about Marxism after Democrat gains",
-        "pubDate": "Wed, 04 Nov 2026 07:11:47 +0000"
-      },
-      {
-        "title": "Aukus is ‘worst, riskiest and most costly’ Australian defence decision ever, public inquiry into submarine deal says",
-        "link": "https://www.theguardian.com/australia-news/2026/nov/04/aukus-worst-australian-defence-decision-ever-public-inquiry",
-        "source": "Tom McIlroy Political editor",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Report led by Peter Garrett and former defence chief Adm Chris Barrie says agreement should be suspended and calls for royal commission Get our daily political email, free app or d…",
-        "pubDate": "Wed, 04 Nov 2026 07:02:44 GMT"
-      },
-      {
-        "title": "First 10 Australian songs inducted into the National Songbook after ‘very robust’ judging",
-        "link": "https://www.theguardian.com/music/2026/nov/04/first-10-australian-songs-inducted-into-national-songbook",
-        "source": "Emma Joyce",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Yothu Yindi’s Treaty, Midnight Oil’s Beds Are Burning and Helen Reddy’s I Am Woman are among the first songs to be honoured on new list that will grow every year Warning: Aborigina…",
-        "pubDate": "Wed, 04 Nov 2026 07:00:28 GMT"
-      },
-      {
-        "title": "South Africans vote in local elections seen as test for embattled ANC",
-        "link": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Municipal failures have contributed to declining public trust, President Cyril Ramaphosa has admitted.",
-        "pubDate": "Wed, 04 Nov 2026 06:57:06 +0000"
-      },
-      {
-        "title": "Firsts for women and minorities in US midterm elections",
-        "link": "https://www.aljazeera.com/news/2026/11/4/firsts-for-women-and-minorities-in-us-midterm-elections?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "The elections, which saw Democrats make big gains, also marked firsts for women and minorities in major offices.",
-        "pubDate": "Wed, 04 Nov 2026 06:54:23 +0000"
-      },
-      {
-        "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
-        "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+        "title": "The young politicians with African roots making history in the US midterms",
+        "link": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
-        "pubDate": "Wed, 04 Nov 2026 06:53:56 GMT"
+        "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
+        "pubDate": "Wed, 04 Nov 2026 16:34:32 GMT"
       },
       {
-        "title": "Democratic Party gains US House majority in 2026 midterm elections",
-        "link": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "All 435 seats in the lower chamber of Congress were on the ballot in Tuesday's midterm race.",
-        "pubDate": "Wed, 04 Nov 2026 06:34:46 +0000"
-      },
-      {
-        "title": "House Democratic leader Hakeem Jeffries hails midterm victory",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Top US Democratic politician Hakeem Jeffries has called the midterm results the start of a ‘great American comeback’.",
-        "pubDate": "Wed, 04 Nov 2026 06:26:19 +0000"
-      },
-      {
-        "title": "Kate McClymont questioned over ‘nail in the coffin’ and poo emoji texts at Alan Jones trial",
-        "link": "https://www.theguardian.com/australia-news/2026/nov/04/alan-jones-trial-kate-mcclymont-nail-in-coffin-ntwnfb",
-        "source": "Amanda Meade Media correspondent",
+        "title": "British healthcare worker with Ebola to be evacuated from DRC to UK, document shows",
+        "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+        "source": "Reuters",
         "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Award-winning investigative journalist says she ‘probably’ texted an alleged victim’s mother saying ‘I hope the shit does hit the fan for him’, court hears Get our breaking news em…",
-        "pubDate": "Wed, 04 Nov 2026 06:23:40 GMT"
+        "summary": "Patient, who is ⁠in ​stable condition, is expected to arrive in Britain on Wednesday or Thursday A British healthcare worker infected with Ebola ⁠is being medically evacuated from…",
+        "pubDate": "Wed, 04 Nov 2026 16:32:31 GMT"
+      },
+      {
+        "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+        "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/world",
+        "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+        "pubDate": "Wed, 04 Nov 2026 16:26:15 GMT"
+      },
+      {
+        "title": "Ukrainian strikes kill three in Russia’s Belgorod region",
+        "link": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Russian strikes also cut power to Ukrainian cities as Moscow claims 700 Ukrainian drones downed across multiple regions.",
+        "pubDate": "Wed, 04 Nov 2026 16:20:23 +0000"
+      },
+      {
+        "title": "Israel's president begins consultations with parties after election deadlock",
+        "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/world",
+        "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+        "pubDate": "Wed, 04 Nov 2026 16:18:21 GMT"
+      },
+      {
+        "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
+        "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
+        "source": "Jakub Krupa (now) and Tom Ambrose (earlier)",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "School in Komyshuvakha in the Zaporizhzhia region was struck on Monday Meanwhile, the Kremlin said that ⁠it ​hopes that the ⁠results of the US ⁠midterm ​elections ‌will not impact…",
+        "pubDate": "Wed, 04 Nov 2026 16:09:19 GMT"
+      },
+      {
+        "title": "Cambridge asks Post Office inquiry barrister to lead review into death of Jason Arday",
+        "link": "https://www.theguardian.com/uk-news/2026/nov/04/cambridge-university-asks-barrister-to-lead-jason-arday-review",
+        "source": "Richard Adams Education editor",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Jason Beer KC will examine university’s handling of claims against Arday and protection offered to academics in spotlight The lead barrister for the Post Office Horizon inquiry has…",
+        "pubDate": "Wed, 04 Nov 2026 15:54:19 GMT"
+      },
+      {
+        "title": "BBC attempts to reassure Jewish staff after ex-producer says she faced antisemitism",
+        "link": "https://www.theguardian.com/media/2026/nov/04/bbc-attempts-reassure-jewish-staff-antisemitism-rhodri-talfan-davies",
+        "source": "Michael Savage and Tara Conlan",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Deputy director general Rhodri Talfan Davies meets staff group after case of Lucie Kon prompted calls for inquiry The BBC has attempted to reassure Jewish staff that discrimination…",
+        "pubDate": "Wed, 04 Nov 2026 15:52:03 GMT"
+      },
+      {
+        "title": "Palestine Action activists used similar tactics to the suffragettes, court told",
+        "link": "https://www.theguardian.com/uk-news/2026/nov/04/palestine-action-tactics-suffragettes-uk-supreme-court",
+        "source": "Haroon Siddique Legal affairs correspondent",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Lawyers tell supreme court decision to proscribe organisation as terrorist group is attack on freedom of speech and protest Palestine Action was banned as a terrorist group after u…",
+        "pubDate": "Wed, 04 Nov 2026 15:49:33 GMT"
+      },
+      {
+        "title": "Israel's president to begin consultations with parties after election deadlock",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16VlJEM1d3V3hZVURESU85dmlFTTlValUxVG8xLUlaNi1hVy1sYmlPMG4zdWg2cW5EMUdLWEZHczFMWG9Qcy1DcnlNNmd4SlVXUGhYS2NZX1FBcjQ?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Israel's president to begin consultations with parties after election deadlock BBC Israel’s President Could Play Key Role in Breaking Post-Election Deadlock The New York Times Isra…",
+        "pubDate": "Wed, 04 Nov 2026 15:45:45 GMT"
       }
     ],
     "🇺🇸 United States": [
-      {
-        "title": "Iowa results underscore Trump backlash",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmdCLUROMkUtN1pXOGpid3dISzdtVGVfbjFHQ29QYS1qMmllUjlWaWxWTFoxTmczX3J2TUJTbHZYdjl2X1U4a3lvUndkc3RjX0ExeFZ0V19vNkZmNXd5djBvNl9PRmxqM2l4cUxXN2VQcThLVHBxNXpjQl9KVmNqQWpOR2p6NzVqc2RVeUZ2NW9VUQ?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Iowa results underscore Trump backlash CNN",
-        "pubDate": "Wed, 04 Nov 2026 09:00:25 GMT"
-      },
-      {
-        "title": "Democrats turn Texas blue",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQODhnbWNDTnFoVWNEcFJQQWVrbV9kUm5PQ1ZxQnc1dTVPN2l3bWRvazk2S2FVNWM5S09KTXBNdnJPQ1A5dEJ3aEQtRW1mZFVtdGh6NmFxQ2pvZnVGdzBWc0FleWM1X1RkbXdVdjRfQ0RWS2FoVWhZd0VMaF8wYWxudFZnb0l3S2RkMlVIWGZ2OHFlSzI2azIwQmI2RU93RnVaRUNIcV9XcldVOTFUTU5UTVhR?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Democrats turn Texas blue CNN",
-        "pubDate": "Wed, 04 Nov 2026 08:48:00 GMT"
-      },
       {
         "title": "In pictures: The 2026 midterm elections",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qRjROdGJaUFRfT3VtdkZaOW9IZHpiSHV1RjNRZHJiSzdTZWtjVW5EcXNZcVl3U252eWpwZU1wbGR1cHJTa3FLMmhvNEZWSnJhSm90UmlDRkw2ZTVKYm91amliejJKMHRlQzczdjNfQ0lqcTdhV3B2eDg0NA?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
         "summary": "In pictures: The 2026 midterm elections CNN",
-        "pubDate": "Wed, 04 Nov 2026 08:13:00 GMT"
+        "pubDate": "Wed, 04 Nov 2026 17:21:00 GMT"
       },
       {
-        "title": "Takeaways from the 2026 midterm election",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZVhFRzU4Y0VBRnk2Y1NWWEJBYV9yU1VtMW5Yb1dXZ1doUV9zd1J2UzlrQy1pRDFGV3FfSkk5S0VOUGlFREZlQlNHUnRteHoySDV2TXBDZkE5cXJVSDZUcXJfM1V5TnlXQklTYi1CV0ZkREs4aVJpWGNoN25WRm9PMkJUcw?oc=5",
+        "title": "What We Can Learn from Democrat's 'Blue-Nami'",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQWNCQTRuaHRtNUkxNmJEY3VGUjZSM1U0WnpuWGhya2djUGp0cjRNQ2M2R1RoeGJMaGZRLTRKcndsaTBQTkZlT090cFg0UGUwU1hSTkwyU0t3NzdhZGpIZVRtRmQ2MEVkdVJyR1RSQlpGTnRlUHlrQzJaSlljVUZleEZFbEVBVUtLRTduQ1FWR0oyR3M?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Takeaways from the 2026 midterm election CNN",
-        "pubDate": "Wed, 04 Nov 2026 08:08:00 GMT"
+        "summary": "What We Can Learn from Democrat's 'Blue-Nami' CNN",
+        "pubDate": "Wed, 04 Nov 2026 17:03:55 GMT"
       },
       {
-        "title": "What’s next after Trump’s massive miscalculation triggers historic defeat",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MZEM0UF8wUXdzRWt1ZVNFYmxieTU4NmZRWnhyYnFtUlNXWFEzeG4tM21pWnFWSm9kM2ZRQXhDcWRBYjZIbFdqcHYzSGdRbjBuRlk3dVQ2ZTc2TDBXUkpLQUh4NHV5Q0pERHo5THdaTWlBMVFIRXRBMVQ1VQ?oc=5",
+        "title": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmRtNUxIYTJJb2ZOaEtKMGMzbjRmX0hwSk5YNXpsbHdqSzluVW5udGFObGpuVnh1VGllcWVBdXlhZExtNlE0Mi1aY1V0MktvYkpCU3EwM0ZfS2d4Q0lNMGxrRG1kZzRYZEZoZkswS2Q0RGx6ZTczT3pkUXpCeV82VVZB?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "What’s next after Trump’s massive miscalculation triggers historic defeat CNN",
-        "pubDate": "Wed, 04 Nov 2026 08:01:44 GMT"
+        "summary": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine CNN",
+        "pubDate": "Wed, 04 Nov 2026 16:37:19 GMT"
       },
       {
-        "title": "At $835 million, tonight’s Powerball is among the top 10 jackpots in the game’s history",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0cW5ubGFwQTZaUXhYZHRGRVdjNDcxeHFQZE80NjVkZjRsSWNiN1FWdTY5QTIwMzVwNkFHX2JnVFVjVUFENDRERGVlQXFxM1g3MmFrU3Z2anpHay1NZDJkYndPQzQ2ZEp3NWhn?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "At $835 million, tonight’s Powerball is among the top 10 jackpots in the game’s history CNN",
-        "pubDate": "Wed, 04 Nov 2026 08:00:15 GMT"
-      },
-      {
-        "title": "Democrats Fume After Defeated Senate Candidate Backs G.O.P. Rival in Michigan",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGRm44VVB1VzNCdkIxcE82eHJiSEVxWW11M3ZfekNEMF8wTDJKeGlwNGF6SkZvVHpxeVJTZ0RKeWhQUXVGVlU0TVQ4SWVaOFM3Y2Q2MEJEVlR4Nl9EckE4REY4LXR0dnpvZXZXOWVQMlFpeUE0WWc?oc=5",
+        "title": "On TV, the Midterms Offered Drama and a Casting Change",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXVvak5kcTZjc0ZLam12LWVXcXh3YWE0Q08tNEkydlFMODA0STE1S3NyN2NkeUVBM09YSV9rbjItcF94NzIyN1VCRmRiZlRidnFFUG9WQTBGUjdOSS1uWXZhSnNDeU5NZlE1MXRla1lOazN1YWw5WVEwNW5uQjE1b2h2QW5tc20xSlRGSU5MY2NzYjZwMVlDbA?oc=5",
         "source": "The New York Times",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Democrats Fume After Defeated Senate Candidate Backs G.O.P. Rival in Michigan The New York Times",
-        "pubDate": "Wed, 04 Nov 2026 07:57:56 GMT"
+        "summary": "On TV, the Midterms Offered Drama and a Casting Change The New York Times",
+        "pubDate": "Wed, 04 Nov 2026 16:29:56 GMT"
       },
       {
-        "title": "After Months of Heavy Rain, the Southwest Faces More Weekend Storms",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWUJ4Q1JrQWtGU0Vpd3BTc0x2cnNuWkpzcDh6eWFoY2tZaVlzazJrQ0VjM3NFcTFueC16cHhnTkdZbVBranVFbGFVYll4TmJoTmRnRGxlam9wNTB1U1FhS2dSVDFDell4ZmdYTXpOYmdJWVhCUW5Fcm8tRWVjVmZlQ0wzX1hBal9VRkdoQjVhSGctTkNBaHI0SnB0OThFQQ?oc=5",
+        "title": "I found 10 Amazon deals offering entirely new low prices ahead of Black Friday",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFhKX1Q1WndCX2pwX1ZGZ1VrSjExOGFSOGFIbDFDSVUxeFByTEhnemhiQzNJQlNrUFhtaDNNRXNKSWQyT05FNU43Z1V2cXoxTGtfcjRwT2RTU2NzLWxWOW9UMktidTIzZEhuZTdGY1JTZHd4WGk1aHBlUGw1MmRsYUNJRUxhR3c4OHZNRw?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "I found 10 Amazon deals offering entirely new low prices ahead of Black Friday CNN",
+        "pubDate": "Wed, 04 Nov 2026 16:29:00 GMT"
+      },
+      {
+        "title": "James Talarico says Ken Paxton has not called him yet",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOUtlWEJEelEwRENxUTItYURpaWVaVXNwSmxEeVFTZ3JhN05zNHNiVC1PekEyeHNoZGVfMDc1Y2U4YnJNTTJ5UHhBaTYtUlY3bWN0bmZCWkplejVqdmVWazNRRFV3Q1hKZld4MlNZNnpUTVY1YzlrdkJrR1VRUmRfTnN3?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "James Talarico says Ken Paxton has not called him yet CNN",
+        "pubDate": "Wed, 04 Nov 2026 16:21:10 GMT"
+      },
+      {
+        "title": "Jeffries says ending Iran war will be top of House Democrats’ agenda",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdWRzR2VWWEFkMThmZWE4bG9EQzZkbHVIX1pBV05ZQk5IOTdrN085UDZWZjdoRWFPZHRfOWljT3U0WHk2Vm92djgzNF9RZHBQekwyS0RnYW4xd19WNkhRekVDMjNhZlFhZ1lJVDYtdjVEUHdjaHpXSnppTkhpbDd1bWlyYk1CMWR5T1pxVDdtdkJPaGIybHdiTXd0emRzUnlvRngyNWRrR1hBMGg4djAyTjhzbw?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Jeffries says ending Iran war will be top of House Democrats’ agenda CNN",
+        "pubDate": "Wed, 04 Nov 2026 16:07:00 GMT"
+      },
+      {
+        "title": "Talarico advocates for bipartisanship in first CNN interview after victory",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU20wZ2dmc3h4T1dHeEZhbVBuRlh5VVZsNmpONFRNTDJGWkdCYW1fUkNQQkhWNmJTUGFvR0tuMVc3YjhVVU5qUTFBcG5ENVcwQkVKYktDV1RhZFlDNHBObkxBeHkxRGRzQUp5UDJvV3NINXdLeFc3RGs1OGZMdWRaT0Vac2dZMlhaZ2tUY3IydVBMcmVZUjR6OEFibW9xeW5DZUE?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Talarico advocates for bipartisanship in first CNN interview after victory CNN",
+        "pubDate": "Wed, 04 Nov 2026 15:58:26 GMT"
+      },
+      {
+        "title": "Reliable Sources newsletter header - CNN",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jM1lFcTVlSnB2YnFJNV9tZVRvNnlwZXRpWHJ1MDhGaVRnQ2JzbEpaNHVod2ROVHdSRWtwTE5SMm9CZWZWZjhrSGZhYTlmUFJzbjhyZ3A2VXVpZ0NBY3FTMDVOOG94am5GQjhFZDhXZVdiZw?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Reliable Sources newsletter header - CNN CNN",
+        "pubDate": "Wed, 04 Nov 2026 15:44:00 GMT"
+      },
+      {
+        "title": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMUZwdFNXZnFrRm9UVkVleTJTOFJyOHZNT1hMZjBDUE5NdHF3OGpZdm1KSGI4VHdXbUFiYUQ1enZjNDRna1FrM0dzdW5iaEZqZmlxeXZjY0xuSWdPQTNsOWdGWnhXRmZFRkZTZTRLUEhoZklEU1E2U2JFWHB4Q3lHcEg1aVNkdmdacmFJ?oc=5",
         "source": "The New York Times",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "After Months of Heavy Rain, the Southwest Faces More Weekend Storms The New York Times",
-        "pubDate": "Wed, 04 Nov 2026 07:31:11 GMT"
+        "summary": "Candy and Smiles on MS NOW, and Some Regrets on Fox News The New York Times",
+        "pubDate": "Wed, 04 Nov 2026 14:55:35 GMT"
       },
       {
-        "title": "‘Ohio is not for sale’: Sherrod Brown will return to the Senate",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORVFRU08tSU5aTUFxOWVFMmkzYWZ4ZzNIY2dnS2pFS3NpVkktSHFidTFIbWxtSHJDWkJTS0xzNXI3Z082bHR0U2lPNDdsSWxjM1EyMEptQzB5MGo1bndVT3RfSXVLd0d3MjdVRmFqYnltZ1JxdEFDaUJmSkl0bi1JdmxQUEIzRXpGQnNZY3dob0tFdmRWa0FUREFKUjMtR3BXOEdHZldBZkV1QQ?oc=5",
+        "title": "Former federal prosecutor to lead Cornell sex assault investigation",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMjJvQ0dqMTY4UlFLMlFHTTR1cDJqTVdNZGNmNkVsVVU2dXpXWEUtd21QbFFHUGpKc3pTWUtQdkhfbkFYTTkzQ1YyQ01weEkySzhLNWtHTzBsWXFoR29JVlNDSm9YdVZIV1UxcF9PNmE5VFY5SlI5bjhUR3VYX3hZblRpOV9SYm8?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "‘Ohio is not for sale’: Sherrod Brown will return to the Senate CNN",
-        "pubDate": "Wed, 04 Nov 2026 07:02:00 GMT"
+        "summary": "Former federal prosecutor to lead Cornell sex assault investigation CNN",
+        "pubDate": "Wed, 04 Nov 2026 14:53:09 GMT"
       },
       {
-        "title": "Too big to rig? How Trump’s voter fraud crusade crashed into a blue wave",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkhFQk9qT0o5dDFXVFZNRDJvbmRab3pfTjU5VENEeGV6T2x4LWM2RG1HWGlRbWlmblNwNG5NbkpkbnlPMUI1RF80aHpwck16QVI0QWZ6V3VYQ1NjbUhpUG1XamtUV3U1Vy0wUm92Yk11ZUtaOE1jMzM0N2RTR0xJXzduQUZ5cGV0V2R0QVZnY1U0QWhfdEE?oc=5",
+        "title": "Voter polls",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tSEIycG5TQlktUk5WbGRhaExfc3hqT29pUzdfS0NOQ2dhQ0ZHNDU2bnpPN1pKNldzaTRzTGprd0VaQW4ySmUyZERyZDlSNzdFaElDOXpJZG82VjZlLVNn?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Too big to rig? How Trump’s voter fraud crusade crashed into a blue wave CNN",
-        "pubDate": "Wed, 04 Nov 2026 06:28:00 GMT"
+        "summary": "Voter polls CNN",
+        "pubDate": "Wed, 04 Nov 2026 14:49:09 GMT"
       },
       {
-        "title": "Trump reacts to Republican losses and declines to take blame",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcU5hMS03SVBqSVQwTlVpZDNqSTRNbDdJakp4eUR4a3ZvSXlEZTNwQkZmRmdhdFlwaDJ4M0tLTFp6UF9JYlZoazNDNktPdlREWjBaTlZaX3FmMHgwQWN1aDN3SllfX1J1Ni1lRlpEaWNQTS1kSlp2YlFlNWJwdWVSb1lyU1Q?oc=5",
+        "title": "‘The impossible was possible’: Democrats celebrate historic wins",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWNOY2FFUGJlS0ZlaEx4NXBDNy1GMmNPdDdGeWs0SUVCZkpWREtDeTVQWVVSZTkwUUp4STR0ZVVZQmd6SmhTZ2c2RXRpYTBXY0gwMnp0dy1XYzdPRjMyNEcwenkxMFpHM0JnS05pMGhnVk1qemFFSjVRdEN2bVowLVZDRU16by1zTTFpMk9VQ1l1TXBTV19jNllqRmJfZDBkd0E?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Trump reacts to Republican losses and declines to take blame CNN",
-        "pubDate": "Wed, 04 Nov 2026 06:21:11 GMT"
+        "summary": "‘The impossible was possible’: Democrats celebrate historic wins CNN",
+        "pubDate": "Wed, 04 Nov 2026 14:43:00 GMT"
       },
       {
-        "title": "Former elementary school teacher becomes newest paper billionaire in China",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORXIwX2pLS1p5SVNiRUVuRXJrQndTWWVISHVfOXhhYTBuaDM5NU9nV0VNWDVFZ1dSMTJla3c0SDUwWTlwVXFvQmMtcmwyNVVxb01CaEY2UkV1Mzc0MFVUQmxidUlGc3BRdWpKWFJfYTRTbGZZTENZMzgzdlc0Tlp6ZWptamNFdw?oc=5",
+        "title": "Democrat Abdul El-Sayed wins bitter Michigan race, will become 1st Muslim senator",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNamNwYVJ1WWVTYUJGUmpLQ1kydmVIY3lTMWlMWTVUby1iZ1Z3Y2o4MGpfOFJUXzExSVNXZWs1aVlEbnBIY0hPVzNWMEZIbUo4M01fQ2hNYmpVS0NCQVZURExma1NoTi0wRVNtcjEtSS1SOXhZYWNTaUNTWG0taVVMUzdYMDU3N3VLYk5SRlh1VzJiN0tRTXpjZWJTREw5M3dFeGNURWx3VGVqTkE0MkpF?oc=5",
+        "source": "CBC",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Democrat Abdul El-Sayed wins bitter Michigan race, will become 1st Muslim senator CBC",
+        "pubDate": "Wed, 04 Nov 2026 14:17:59 GMT"
+      },
+      {
+        "title": "Dow jumps by 1,200 points as Democrats take control of Congress",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vQVR4WDhsdUVseFU4eUgwa2c4aDRnWFFYV2p3X2o0OEJNbnEwUzl4dXdxd05rZHFXckg5TXB3X3YtX3pLbkxSUWJYdUlpb1NRSlhoRmMyMXd0WUJnNTN0c0hfS3M3SUI3dDJjT2N3VGpxXzdMdGctaQ?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Former elementary school teacher becomes newest paper billionaire in China CNN",
-        "pubDate": "Wed, 04 Nov 2026 06:18:52 GMT"
+        "summary": "Dow jumps by 1,200 points as Democrats take control of Congress CNN",
+        "pubDate": "Wed, 04 Nov 2026 14:14:39 GMT"
       },
       {
-        "title": "Trump blames Fox News while his MAGA media allies blame everything but him",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEZQZzZnMHZ3UmM1eTl0al9Jc2hCZFBISE5NRTlVTFl3Y2Y1ZVV4YXlScDdyTXhjYm5aNlRZVDRReVJDZmNTQ2JPZnhaX3VFQ2ZFTXJtVkZJd3Q5aTJHOFc5eVF5RWpNT3V1SHVmbTJQUFdSS01QUEk5OUxCcy1jTjAyUzk?oc=5",
+        "title": "‘Why don’t you move to Paris?’ An American artist in the City of Light",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jeGNyTFhVdXdiZHdFUXlnM2liUWZQM0JaY0ZtSmE2SGZhZmJmM3h0MzdIQXE3Nmc0M3U4ME0tOHJqQmsyVG8ybVJHNF9fcWtoVW4xTE5TYWV0WFFtTHNwRm1KNlJSRG5OUW9yeQ?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Trump blames Fox News while his MAGA media allies blame everything but him CNN",
-        "pubDate": "Wed, 04 Nov 2026 06:16:44 GMT"
+        "summary": "‘Why don’t you move to Paris?’ An American artist in the City of Light CNN",
+        "pubDate": "Wed, 04 Nov 2026 14:00:15 GMT"
       },
       {
-        "title": "‘We shocked the world’: Hinojosa delivers victory speech in Texas governor’s race",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGNkcHJFc3BpVWVuLXVhdUVnVFFiTjJkTkxMSVRFaFhacEcwdDZ0T2ZwNG80dXloRURmRElpRkNfTjEtUWtpcDliT3psdnBWeTV5T1FqelF5b0dpbmpPQlgycDNWYkd5LXRvTlhzUWFRa250VkNoWE5ibkxQR3dsNXFlcFY5cEU4NUpKNXM0VmpMNmtqQWRkWUR3?oc=5",
+        "title": "CVS to split into two companies, in major breakup of its $117 billion healthcare empire",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJMk5Hb0JPYzlTU0ZOay0wUzdOYnp6bm9Fdm9JclFnMjdfeEd1dXFJaTAxWmF4QnRzSnladmJvU0lTMVZ6ei1BUkg1dzE3ZjlfR2dhNTBmRER4dzc4bHJ0ajMwUHVQZ1YxWGZjM2lBSHNkYlA4SnVQcWs5UQ?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "‘We shocked the world’: Hinojosa delivers victory speech in Texas governor’s race CNN",
-        "pubDate": "Wed, 04 Nov 2026 06:02:00 GMT"
+        "summary": "CVS to split into two companies, in major breakup of its $117 billion healthcare empire CNN",
+        "pubDate": "Wed, 04 Nov 2026 13:40:13 GMT"
       },
       {
-        "title": "Jeffries: ‘Today begins the great American comeback’",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ2dzSHhQLVU3WG5USlgxLVVHT2xXNm9FX1I3NVg5M0dwY1VLNmJsR0ZadXlyenhrc1pHY2dselBBUXdJMDlSbzVqV0tPaWMyaU9NM3JxeHdQc0w5MVZKdEJJRGNKeTFxMktBdTdhRG9pVFBrUW5wZng0cm9TRTZxRk9FMTM2dDJmdzJiVlZrTmVTT2Z0UXRzYTd4VzVqZw?oc=5",
+        "title": "Texans go honking to celebrate state turning blue",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNVZxQmJxZ3RjSWV0WE44c2U3MXFVMkEwOHUwYkE1UlNpX2NSLVV0c19BbGROSnNfRFRpejBBUGFWTTlSYllzQzU4V1NsZ0g2blVlZkEzdV9KdUxfZ25jM3FBVy1zRVhuVzhBWmgzMW03U0F1cGFSeGRQOF84QUp4b0Zjb09oYTFGaDUyT2tQMTQ4R0Z4SzlsWUM1SQ?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Jeffries: ‘Today begins the great American comeback’ CNN",
-        "pubDate": "Wed, 04 Nov 2026 05:50:00 GMT"
+        "summary": "Texans go honking to celebrate state turning blue CNN",
+        "pubDate": "Wed, 04 Nov 2026 13:03:00 GMT"
       },
       {
-        "title": "The historic firsts of the 2026 election",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzQ3BRWjVJOVllcFZfNnVtQmlGcjhBQ2k3MW9faFg0TmNjeTgwdW1YazUwVUI3UTJxY25rTEtZOXZkSllub0R5M0NLUEZCek1CVHRCYXRhdXNIUktxUEFNaUgtR1VrNGpDTWdKSzRzdzRnaUx2cm1IZA?oc=5",
+        "title": "A 24-year-old running the NYC marathon collapsed 2 miles from the finish line and died",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYTc1TExLYVJzLVJZeThZNFlDSF91Sl9DWFROSllZMUg4cVZFcEtvU1NXWk41RlhwRk9jRmFrbWZ1VWs1SXRSQjZ3VFFOdldOYzdjbFNuTU1EU0h2bE5SLUt0VXc5RDhHNkV4US1HQUhZSFRJRFQzNERwa01QV00yQzZ0aVItQUdhWVE?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "The historic firsts of the 2026 election CNN",
-        "pubDate": "Wed, 04 Nov 2026 05:41:51 GMT"
+        "summary": "A 24-year-old running the NYC marathon collapsed 2 miles from the finish line and died CNN",
+        "pubDate": "Wed, 04 Nov 2026 13:00:15 GMT"
       },
       {
-        "title": "Democrat Bobby Pulido flips crucial South Texas district, defeating Rep. Monica De La Cruz",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wU2hrNl8zMG9YajF6XzlNQWNUbUFBWFlEdlJoR2F3emFkd3Y5NVV2MnZSS3h6RFhiMS03NWRUbF9qSEc5MmRJdUZXcVZReEViZ1FyMFp2UXh5TVBUN1hjSzU1d29HblUxTnNWWVMxOHdHWnM?oc=5",
-        "source": "CBS News",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Democrat Bobby Pulido flips crucial South Texas district, defeating Rep. Monica De La Cruz CBS News",
-        "pubDate": "Wed, 04 Nov 2026 05:35:00 GMT"
-      },
-      {
-        "title": "CNN Projection: Talarico Will Win Texas Senate Race - Laura Coates Live - Podcast on CNN Podcasts",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTXJMM2VyaFFoOUdNc2xNLTkwcC1oMHVRZHJSRFZIVWU2bjdYc053dkwyaU12bWJHSkRfaS05M21QZjM2VnVGTjlhWnl6MWxENkdxUHZlb0t0SkRsakJ1RWxLaTk2ZVowOU5KSHhvZGUyVXBDTnF3OGRhVUVwUjl6aVBtWjVya2RJNlNVaVZzUk1nZDNFd3RRV205bnIxMTg?oc=5",
+        "title": "Look of the Week: Glenn Close and her six-foot impersonator demand a double take",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4taVpNRVI5NE9xUlJLY2dSbWF3RHlwSUdoWjJoaWZCN2MtcmZpcGJ6OG13R1BoakpDU1BtYktiNWRpRzJyXy16U3k5YVd3V1VEY003elc3YzBaTHN2cW9JR2xTUlJEdVpSbUlBaUdQZm9Remsy?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "CNN Projection: Talarico Will Win Texas Senate Race - Laura Coates Live - Podcast on CNN Podcasts CNN",
-        "pubDate": "Wed, 04 Nov 2026 05:29:06 GMT"
+        "summary": "Look of the Week: Glenn Close and her six-foot impersonator demand a double take CNN",
+        "pubDate": "Wed, 04 Nov 2026 12:33:59 GMT"
       },
       {
-        "title": "President Trump says he will accept the results of the election",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbV96LTBFMkVuSkt4MmVSR1loNU9nU1NVdTdCQ2RlS1F4RDFjcjZRMkU4OWZFSHB2Q1c5c3pvYldSSTdvQzdDcFNXUm50S1VNd0doclFndDdVY1Q5WFlWNlhaUXUxX1VhOUR2T213d25fRDFKaElpQVlDLXVvZ3M1LUpHVzVkaEZ6NEVN?oc=5",
+        "title": "Key Takeaways From Historic Midterms - CNN 5 Things - Podcast on CNN Podcasts",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ3A3ZzdWRmx0RHdLUGdHRG55OWd2bTg4YWZ6UmVBQnhwX0RodlRRZlVJMVZ2RVFrXy1lYVdGdVZZQjZueTlOcldnaDZTNktfQURfWGhJSmVLcWpabXhNeDZrcjRvMmxMSDczZVhrZDBwdGtTVm1HQVZFYXk5RVdEODFZLTcyZlhqLW5KaWh6b1lxOWM?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "President Trump says he will accept the results of the election CNN",
-        "pubDate": "Wed, 04 Nov 2026 05:20:26 GMT"
+        "summary": "Key Takeaways From Historic Midterms - CNN 5 Things - Podcast on CNN Podcasts CNN",
+        "pubDate": "Wed, 04 Nov 2026 12:09:07 GMT"
       },
       {
-        "title": "A 3,200-pound NASA observatory is careening back toward Earth. Here’s what to know",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLUZhcjRyMUcxUkJ4NjdzUkpUaGxUVjhieUE4WDlvUkcxRHVFejc5Y21Sckh0bHlNamhPVDR0cnRnNjlTMFhkb1JaeUgzQWJwbHpmenh0dFhHQXd1UWhpWnBlNUlVZGNLd0hTcjBjSVptbkprY3dLcl9zZVlycmxtVWoxaw?oc=5",
+        "title": "The invitation-only Arctic retreat surrounded by silence and secrecy",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01UEJXd21KUlhpYXRVM2QyR1hpQ0d0bTVXbzJrbllOSkZFU3RhemVEZ2lPUm9TQWlTZmFmSmRuXzVva2xJYkN1cDI0NXNnRVcxejFuLTljNHVvdGRjek5SeGxDLUJSV3k1MDRJNW5MQlZPSDRUX2JHbQ?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "A 3,200-pound NASA observatory is careening back toward Earth. Here’s what to know CNN",
-        "pubDate": "Wed, 04 Nov 2026 05:03:42 GMT"
+        "summary": "The invitation-only Arctic retreat surrounded by silence and secrecy CNN",
+        "pubDate": "Wed, 04 Nov 2026 12:00:15 GMT"
       },
       {
-        "title": "James Talarico will be the first Democrat in decades to win a Senate seat in Texas",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGVzeWJlc3M4MzNLVktjM3BkUUE1MXFRVmctd0RiS1V0SnFKcGRXcWM0VTY2Y3Q5Q1RPNC13QkF1R3JRNlhIckhfY1NGUkVWNjhWb1JySXdmYnY5WlZjR01STE1hUFBhemhkWWtxWG5na1pnaWJwRXYyd3pRRG9jc0F3cnhldmV6SW9pc0hkYkFYWU95ckk1bk1vbHczLTBEN0xYZ3pDMzJIYXhISkdZNHJjUlB3bk0?oc=5",
+        "title": "Why Nintendo is betting on a nearly 30-year-old game remake to win the holiday",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQXFvMFc5eVRLMm5DeEtPVlc0aE83QVAtTEpIaW1Cb21rTjdaUkN1UGdKUlZaN0JLRlNLZUxxQlM5eElTT0JKbnlCV013dnVibDVaTDZtRkl6QUR2T2ZZNEdFbVNaLUlMZjh6Tmc3djNHSkhGWW44UWVSOFhrVnhrRFdKWQ?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "James Talarico will be the first Democrat in decades to win a Senate seat in Texas CNN",
-        "pubDate": "Wed, 04 Nov 2026 04:51:12 GMT"
+        "summary": "Why Nintendo is betting on a nearly 30-year-old game remake to win the holiday CNN",
+        "pubDate": "Wed, 04 Nov 2026 12:00:15 GMT"
       },
       {
-        "title": "Trump’s personal push of Darline Graham in South Carolina comes back to bite his party",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHazMyY2ZSdHpvUWtOOVdxMHN0cndmR1l0dkI0emNBOHhMNnhiNFJQZnBhbndkcjJ5T3lPXzFZTEJrTHJNek0yMkthSkExZHlmWVRtWFhTbndtNUhkcHhQcE8yaUFmVjNBTEczRmNaSkl6MVE?oc=5",
+        "title": "These Midterm Elections Wins Could Mint a New Generation of Democratic Stars",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWGg5MzRzQ3Z6ZjNUSlVJX2F0YTFaUDBaMVI1a2pWQnFwNE5sS254NzBGVHUtMVNva3JuX3dwOWduVTJBaFBDTjczZzBlZlRiWnJULTNvNkE3b2JaSVdIVm9lQklvNUpJV2s3SkZXSXQtSkc0dDZWblVMTWVSTGstMmd6OVZKQTlD?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "These Midterm Elections Wins Could Mint a New Generation of Democratic Stars The New York Times",
+        "pubDate": "Wed, 04 Nov 2026 11:52:50 GMT"
+      },
+      {
+        "title": "How Nigeria’s Funke Akindele is helping take Nollywood global",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWVSMFhjdkZud1BVRlZraVQ3bVhyM0dydUg3WXpPdjQ2ZGlNRnJ2ZF8yQTJKTloxamRzODlvRmotblJqWjhHOWcxa1FUUXhENkxxd1FUSXF1SjJQRmtkbjNfdTdNc2lLYjExa3Z2TGNmTFRGRUV6RFI1NHh4VC1LaUtQNXRSV29WNGc?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Trump’s personal push of Darline Graham in South Carolina comes back to bite his party CNN",
-        "pubDate": "Wed, 04 Nov 2026 04:51:00 GMT"
-      },
-      {
-        "title": "Josh Turek wins Iowa 2026 Senate election, CBS News projects, flipping seat for Democrats",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43bVRVWHhNenpqZTNmemlrVG9UQjJwNk9kT09SUDFGNmxpWS1pWjRlWDlxbmRPYldRazJLRWhfS0FpWDNTR2FLOGEyWEZuSTZ4aE1aSE93dzFYa09lTVVVRVhkM2lKNlhFaFR3?oc=5",
-        "source": "CBS News",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Josh Turek wins Iowa 2026 Senate election, CBS News projects, flipping seat for Democrats CBS News",
-        "pubDate": "Wed, 04 Nov 2026 04:32:00 GMT"
-      },
-      {
-        "title": "Texans leave ‘I Voted’ stickers at memorial for man killed by ICE",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORVZ5dERsZ3VDQ1NGXzNiZl9KQmhvN0xpdWZCUllMY2lBWndhTzZiYWZlcEZ6bTFVVFpPUWN4RVVYLU90YXNPeHY0QnVGaWROQUdMUFl5M1M3cGc0OHRYYzJaSTA0RkJPeng5SXExOU1yNGVNWXVRZVEtaV9yMFB4aFZ2Z1hRNlZIaTVFV3lLVU9VSnN2azFuUU9DQUhveFFrYkd3WlBkUms2TXJBV1JMZWpuUU9vanc3Slo2WFNB?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Texans leave ‘I Voted’ stickers at memorial for man killed by ICE CNN",
-        "pubDate": "Wed, 04 Nov 2026 04:12:00 GMT"
-      },
-      {
-        "title": "Van Jones: ‘Can I be happy right now?’",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQlRvWGM3MlFDTHIwampDUWdBQWpsMmk1Qk42cThSeVppa0hBQUZiRHJBejdNZmRkZUZKdTctRENJOXQ4NTB6UGUwOWlOdGxYMlVlQVYzMmhyVC1RUG1VTUdpTENpZ01kYlVFTVpJRXhSaGhBbG5BdUN2WVpqMmlmRkdJVDZfdw?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Van Jones: ‘Can I be happy right now?’ CNN",
-        "pubDate": "Wed, 04 Nov 2026 03:55:00 GMT"
+        "summary": "How Nigeria’s Funke Akindele is helping take Nollywood global CNN",
+        "pubDate": "Wed, 04 Nov 2026 11:02:09 GMT"
       }
     ],
     "🇪🇺 Europe": [
       {
-        "title": "Stock futures rise as Democrats win big in midterms, traders bet they will slow data center buildout: Live updates",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nc2FkNktwbUVRcjhVVWhQaVRWeWpqX25tSHo3WWF1eW55OGZrb0ZpSHpNakQtaWRMZ0N1dXZRajEtby1lOHk2Vl9aZkdfZUc4Z1ZDYkNrZkpGSGZBT1hIdE5jZDhFNW1BU1hzdnBheTBPV0tmcjFB0gF8QVVfeXFMTW1hbnNIQUZVQlU0eEdtb2E2WTZ0OXprLWVqMFI0Nzk0U0IycTFiRjNScTBzak5Ia21WWXhKOHNxTENWRkRzaUpWYnFLM2phc29CT3BaSXpSUGE1N21vYmFsWWhWczNSdlBLTElYcm1UbjJTWktwNTJsellmMA?oc=5",
+        "title": "Live updates: 2026 US midterm elections and results",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12UGtQS1M3eEd3N1BXOGR4TDdmeVlabFdQOXFya3NiNlZRTkdteEdCM2JPbHlVYzJzMEhwc1dhOENCUE1TbnFiWExFQWtuX0VqRlZhVFNB?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Live updates: 2026 US midterm elections and results BBC",
+        "pubDate": "Wed, 04 Nov 2026 18:10:23 GMT"
+      },
+      {
+        "title": "British citizen tests positive for Ebola in DR Congo",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObVQxX0pwMHFxVzZwMDR4eC1FdF9Jc3lRSF80Tks2RVg4NDBhdHYzVFZCQzVaeWpLUDFSb3dPQ0ZxYTZXQXh3NUg3amNoLWxONGZkSU43QnVuZWdMT1hxWDhyeFZkemlEY0pSNEIxb3hkR0FOMVoyRjR2QUZHSWVOYUVTTFBPb3hxVkdyZHJZZ2VPUktuTjgyeHNCRkw?oc=5",
+        "source": "Sky News",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "British citizen tests positive for Ebola in DR Congo Sky NewsSee more headlines and perspectives on Google News",
+        "pubDate": "Wed, 04 Nov 2026 17:37:30 GMT"
+      },
+      {
+        "title": "Midterm elections 2026 live updates: Vance blames Iran war for Republican losses",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEhFN2xhemN6TGo3SFNfWFlsYUprNy1LbndBY25jUDRGdTNWSlltV1NUbTFpVVEwMnZIVU9DZHRsSXpLVnVmRjZRM2lTXzJoR1RnM0Y1eTRNbmVsSmM1S1JGN3hrSmUxUlN1Y0E5WlpQSGdWXzdPLTliMnYxdlI0WTd4SUJlQdIBiwFBVV95cUxOWENJekh3a01FVnYySmxQc1UzS2hqemVpaWdacFNqazBkOGViX21aY3BNVEhHRmtpRTBfWTVQWDZib0tJWkpzeEctZUlNa0NNZkppVnE5eV9FOFI2cVZaSUlpUTRmUGZSOElsRDZOR0otMkZyWnIybGhlTWNMZ29MTThjSTQ4a3JKZngw?oc=5",
         "source": "CNBC",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Stock futures rise as Democrats win big in midterms, traders bet they will slow data center buildout: Live updates CNBC US stock futures tumble as Democrats score key midterm elect…",
-        "pubDate": "Wed, 04 Nov 2026 09:52:00 GMT"
+        "summary": "Midterm elections 2026 live updates: Vance blames Iran war for Republican losses CNBC 2026 Midterm Elections Live Updates: Vance Blames Iran War for GOP Losses as Democrats Take Co…",
+        "pubDate": "Wed, 04 Nov 2026 17:36:00 GMT"
       },
       {
-        "title": "Celebrity hairstylist John Frieda dies aged 75",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IWU9YQ2xSSDluaDQ3Ni05dld4cWVpVjdDbzdMM29Td3IzeUFjemdQZkczUTY2RXVSNkdtNncyZUNHaGRwbm0yS1ZxdnEyd1JDQm83cmotU0VaTURlMlE?oc=5",
-        "source": "BBC",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Celebrity hairstylist John Frieda dies aged 75 BBCSee more headlines and perspectives on Google News",
-        "pubDate": "Wed, 04 Nov 2026 09:38:08 GMT"
-      },
-      {
-        "title": "Column | Asking Eric: GLP-1 use disrupts friend group",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2sxOVFNR3Zqa0w0TGhtZ2hKRm1YcWpBYk9yZ2hxaGRQa3RZbDV5T3o1dDlJZTNhZkstb2RMNjRYNVBnbF9wa0RlMkRPV29MTEhIX3Mya3AzaXNWZUVyTXVIb3VhblQyUTYyUzUwb3Zydm1XQUZmZE1UVUlTVHFaTVRfV0hMS1JKWm94ZTdXbm5jbWFESVh3MQ?oc=5",
-        "source": "The Washington Post",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Column | Asking Eric: GLP-1 use disrupts friend group The Washington Post",
-        "pubDate": "Wed, 04 Nov 2026 09:33:55 GMT"
-      },
-      {
-        "title": "The next global pandemic could be brewing on a mink farm in Utah – and little is being done to stop it | George Monbiot",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM1BheTJMRWlMbGpEaUQ4eGZ5UDVWaUJmdmJDM0pGcjNONTlqSE1VNEJBaFhLbTdWUDFXUFRaLVlBeTJIcFhvRVFtNEdsLVplRDdndVFlcG9lelRIMW5aQ0pQdy1Gb1pZSDhDRVY0RU9hVXdKeXlCWTFtQUo3UXdCdDNLZFU2dGJyZERNUHNBdXNYZnF0QUV2cDNwLTF2QVItMFRvSA?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "The next global pandemic could be brewing on a mink farm in Utah – and little is being done to stop it | George Monbiot The Guardian Bird flu is one mutation from serious risk to h…",
-        "pubDate": "Wed, 04 Nov 2026 09:12:00 GMT"
-      },
-      {
-        "title": "US midterms 2026 election results live: Democrats capture Congress",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNm1Mdnk5QnRLWkpvSHRLZFJwX2NwRnM2clg1OE1fdzZUZFdDTXlmbldHVkU0ZkRqNVB2Wk5JN2dtNVhWVGx3YXpzQ2ZXZ2lOdzkxd0hzZzR2cEp4LUhxNlFVNHZzYmppb1NtcEtsQ2NZdGtKRlNxVEJIRXFkZkhXNFZuWGttQVdxQ0h6T1A5cVd0U19ZNm93YnFQWXFra0lyRWtfTnFNMFJpV0FaS1VCOGYzNWNTQQ?oc=5",
+        "title": "Dozens dead and missing after Russian strike on Ukrainian aid centre, officials say",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnJMX1lSSDlPU0otVy01QlBuQzZyUm5LWlpyMDM3QVlGcU5BczEyYUh6LWlJakluTEtTSVdLZFhfUERZQ3JPbEdGc1cyR2dlWlp4dC1wbDdvdXdMbWJjRUdmSDl2Y2VNNkxPS1U1TDB6WjJMZTlRdV9hSy05OWVPTVlfTWRQVC1RbExnWUV1eWl1bmpvVWR6QXgtcHhSbHRoUWNXUjhIb1FpM1RuRm00OFVKLVgtZ1hIS2g2dmdlbl8zdw?oc=5",
         "source": "Reuters",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "US midterms 2026 election results live: Democrats capture Congress Reuters Abdul El-Sayed will win Michigan race, CNN projects, as Democrats secure historic majorities in the midte…",
-        "pubDate": "Wed, 04 Nov 2026 09:11:25 GMT"
+        "summary": "Dozens dead and missing after Russian strike on Ukrainian aid centre, officials say Reuters Russian bombing of Ukrainian aid center is one of the war’s ‘deadliest attacks,’ Zelensk…",
+        "pubDate": "Wed, 04 Nov 2026 17:15:45 GMT"
       },
       {
-        "title": "M6 LIVE as all traffic stopped on stretch of motorway after crash",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYnlYTllheEhKMkMwa3RiR1hBbUx5RGRTRzhudnVneHBqS3QtUzBBMEZJQ0NhX3pFZ0JWQ09sWUMzV205QmNpdVd5YlBGaXdfcmFCOVZ1T3VGc21BYWIzbXdmaVVGRHhrcnVBOEtzZXhWSEsyVDB4LWlVVE5Ba2xqc2s3ZHJxZUprUWIwbVo0M2t6Wlo0X0RoY3A0bURUOV95TGdkVXNod0F5MHVuOVE?oc=5",
-        "source": "Manchester Evening News",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "M6 LIVE as all traffic stopped on stretch of motorway after crash Manchester Evening News 'Severe' rush hour delays on M6 in Warrington Warrington Guardian M6 traffic LIVE: All tra…",
-        "pubDate": "Wed, 04 Nov 2026 08:30:36 GMT"
-      },
-      {
-        "title": "GOP Sen. Pete Ricketts fends off independent Dan Osborn in Nebraska Senate race",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMG9BN2J3OUc5SHI3S0J1RzhyMkJERl8xOFpNQTZNQ3k4UnBaeDVaRjdzZk0tVmE5Y0hxQXhERGVTUVRpWm00UU5NUDdZbVVHUHhUUHNJNEFZNl9TVXY1N3V0YkZfUTd3WEQxWnlhR2JVZzFRMGRzbUlJMGlBQlAtWFRqbWZHdTBkem5FTV94Uzg3UThoS2p5aFBHNzcyQWhDNzBOaWdxVll5dU92WDhDOXN6ZkhDSFU?oc=5",
-        "source": "NBC News",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "GOP Sen. Pete Ricketts fends off independent Dan Osborn in Nebraska Senate race NBC News 2026 Midterm Election Results: Latest Updates Politico Pete Ricketts claims victory over Da…",
-        "pubDate": "Wed, 04 Nov 2026 08:28:00 GMT"
-      },
-      {
-        "title": "Manchester United 3-2 Roma: Bruno Fernandes claims players don't need to save Michael Carrick's job after first win in 10 games",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQi1HeG1NcUhUWmY4UFV6NUlnRGF3Y2VlcXlqRmJjOGZWQVpzT2xJb0pOTjVqd1FxYUV4TkkzeGRtMF9Za1ZrZ0ZmdDJudXhPQkR6WXAtMVhOQ0hBaWNmTjRfT19WMFZsY1BEV3VoVlNNZWQ1YjlrdzhQWHhubVlFMFpYeGY5RUxETjVwNnV5bU1ELXFWQ2tGU1pZUEhzUGFNTF9VQ0lnNHJuamNvMW9hOU5OV1JfdXlxaUVhejJobnB0TDJRVVFSWnhLTFUxcUpqOEhZeFMzX2hIMW1jMGtoNzl3TDA4bWdwYjQtZlJLQlEwcUk1ejZzT002Q0ZoWDdyejdR?oc=5",
-        "source": "Sky Sports",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Manchester United 3-2 Roma: Bruno Fernandes claims players don't need to save Michael Carrick's job after first win in 10 games Sky Sports Man Utd 3-2 Roma: Bruno Fernandes on Mich…",
-        "pubDate": "Wed, 04 Nov 2026 08:23:32 GMT"
-      },
-      {
-        "title": "Qatar pulls out of hosting 2028 Nations Championship owing to Middle East crisis",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWllBVjk0NzhUN0NLbEZVT2xkanlZZXBkRDA2VWNKY2FxVExwb0YxYjljOVdHMkZVanY0RmtwRWJpMWU1dWlmaGZsT3BkUDRvZmxCanY3YnFTQ3pCU3hObjR4Rmd6Y3psbDJiZkRza0Jkb2tPS2ZFMERnRi12THllQUF6NWdnSDIwLTVPc3BBSmV6Q0J4UGVHNC1YZXpRWk5jZVRUQ0NsdVlsZU90NmhJSzNHVmo1R01nTE9nekNtQ1lTZUpQ?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Qatar pulls out of hosting 2028 Nations Championship owing to Middle East crisis The Guardian",
-        "pubDate": "Wed, 04 Nov 2026 08:01:00 GMT"
-      },
-      {
-        "title": "West Ham took too long to sack Nuno and now must trust Parker to do what he does best | Jacob Steinberg",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNUJqUC1ZNllULURETGMycndhWXU4RTBYNWx6ejl4RWt4SkdPX0x4Y3Z4QnA2VVNuYXlrMm41T2kwbUI1clYwN0poNGdxdVFvQ3BXODdJRWFTeUotOVE0c0I0VC1lNDBTWFFGTy0wdlkxLW9UVGNpSTVVTlNwcTJQei1xbm50blhxSDloZXgxMFcxQlVRMGYyMF9PdHp6WGpBTzF2aFgwNC1pSC1IdHRjemtUaEpTSkRMb1o2QTM5T1pYTExONUhCVXRUcmZxZjg?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "West Ham took too long to sack Nuno and now must trust Parker to do what he does best | Jacob Steinberg The Guardian West Ham approach Scott Parker after sacking Nuno Espirito Sant…",
-        "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT"
-      },
-      {
-        "title": "Takeaways: Voters punish Trump, and the GOP suffers historic losses",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjkyWmJqMU9FSGNlZDU1XzEzZ2IzTUNlZ25OV1BuYmxTREU5NE41R0tldnU4Z3lCclBGYzltRFJySF9jMldXMDZxTTBaaGtYTU4tbHVJcXNCemdqblJfUXY3QTk0alF6VmJtWjBBS3kwaWVZOV9GTzdrM05aVXFRSlpjZTBPcWY2RHlDbnF6b21kRUVQZDNsUk5ZOUpwNnN0VkNENlhzWnBwQzdzTDkycVpyM1hJa3VYRC1SUWdWbGlGdw?oc=5",
-        "source": "AP News",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Takeaways: Voters punish Trump, and the GOP suffers historic losses AP News Opinion | The American People Have Repudiated Trump The New York Times Voters punish Trump with historic…",
-        "pubDate": "Wed, 04 Nov 2026 07:42:00 GMT"
-      },
-      {
-        "title": "Oil Prices Rise as Investors Weigh U.S. Midterm Results, Iran Risks",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGZJRGVaVkdJaDR5b1REaE5CdWQtY2ZlczBhUXFWT253Vi0tMkNoUVhSNUI0Rzlqbnc5UnVVS0lqN1kwVzZ3eTJ6ODByNlc5ck5HYmlkMEVyRzlrVDNFdk8zQ2JuRWdQLUdYc3ozNUVCc3hRSGhDc0tKNW9QY1A2ZVpMZC1PNGxqUU81QkQyZms0R1VxWUUzbTRLSmYyUTRvM0ZHVmVjdTRpZ2NxLUJkcFlQZzY?oc=5",
-        "source": "WSJ",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Oil Prices Rise as Investors Weigh U.S. Midterm Results, Iran Risks WSJ Market Looks Weak and There Is Risk to the Downside RealMoney Pro Brent rises 1.3% to $106.13 as Iran-US dea…",
-        "pubDate": "Wed, 04 Nov 2026 07:40:00 GMT"
-      },
-      {
-        "title": "Democrat Abdul El-Sayed wins Michigan’s high-stakes Senate race",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQjFuSTh6Q2gzV25QNEc5WWRranNzZklidHVlT2N1eGp1YzhDUmlyYWN3OC1IQ2dLS0lPZFBqa3djazBKelpJdVJjT1lFTzBWZ0RLOTQzaDZTaHIxdWVWd1FlYnRkYml5MTYxb1piWWVOTG85OXFhNnVOeFBncUZzWkpMWElUdk9BOV9SUWhLbXVUZjhLYTlvM2hRTjBTcnl3MWJYRHVUR29VcHZzaXFNZUJzcGlaMFpLZjhHSw?oc=5",
-        "source": "NBC News",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Democrat Abdul El-Sayed wins Michigan’s high-stakes Senate race NBC News Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator The Guardian ‘Reject…",
-        "pubDate": "Wed, 04 Nov 2026 07:26:00 GMT"
-      },
-      {
-        "title": "US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSkJTZnd4N2lLNFJocVRPbDdtdFlQZkM4LXVYblJzbkhQR2d4S2VyNzdWamIxaVQxOXl4SGt0dXJra0xYclNWVFZhMzVIWkNRZ0pwaHRVWDBKSHIyNWZUZVFTSks5ZDMyVWJMaEhxSDJwSDJ2MkhpWHUtOGV6c1A1ZXFpdzhqbnM1UVN6bmhYazE4a3BO?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump The Guardian Story of US 2026 midterm elections in maps and charts BBC Resounding w…",
-        "pubDate": "Wed, 04 Nov 2026 07:25:44 GMT"
-      },
-      {
-        "title": "The corporate raider at the centre of Poundland’s woes",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWFpyZGJxb3JTNmRPWnd1MGNWVUkxY05kMFBQRDRvamkwbFJZY2IwRThXOW55QVRWZHdHNDk4cmp6T1ZhNGRhbFpFcFVsU0RBUGZVNlNYNGJZbU1EX2pLcHpkNGVfZ1g5cGFGNXNNaG5BZm1vOFdoZWprTW1rUUo5by13TWJ4Ym9weVFjZ2pJdWFfVVQtbzJlczNfNVJOWHdmUXBDMw?oc=5",
-        "source": "The Telegraph",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "The corporate raider at the centre of Poundland’s woes The Telegraph Poundland supplier 'angry' with owners over administration BBC MPs summon Poundland’s owner to select committee…",
-        "pubDate": "Wed, 04 Nov 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Abdul El-Sayed shouts at Sky News journalist: 'I do not care what you think'",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wUG9UMUhfUEwxV2doQktQODh0RVlCRWQzZElkb1ZBc2pPOEI5cGFCTy1RUnFEaER2Z3JxLTBSOXIwZWtRYWZuTmF2SVB4ZnN2OTFjUGY3RHBWR2k2Y0hiX2VIckZmVDl2M25YU21SQ2p6QkstRTlJ?oc=5",
-        "source": "GB News",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Abdul El-Sayed shouts at Sky News journalist: 'I do not care what you think' GB News Abdul El-Sayed shouts at British journalist: ‘I don’t care what UK thinks’ The Telegraph Abdul…",
-        "pubDate": "Wed, 04 Nov 2026 06:21:58 GMT"
-      },
-      {
-        "title": "Kimmel Bashes Trump After Democrats’ Midterms “Tsunami”: “The Only Ass on His Mind Is the One That Just Got Handed to Him”",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMXdQTlpNWkNpUWxxTi1mOHhZS0VMMGhhNnFPbHl4Qk5lQ1NHcEt1RGdMN3JCSzdySkc2dFRUSy1BdVdraVg2WVRLQmRyQjhNV1JLcHNPZlBWTzdUanJIa1lkN3gyVjNLVXFwV3RiWkVvUy1BOFZMVnNkUElTb19scWdFMkNUZkNXR0xacFJwVXdERmM1TFk4NmQ4MjdkaEM2UW5yS0I4VTJ1NnBxbTdnS3lyNnNYZUhyRDdRaGNCQQ?oc=5",
-        "source": "The Hollywood Reporter",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Kimmel Bashes Trump After Democrats’ Midterms “Tsunami”: “The Only Ass on His Mind Is the One That Just Got Handed to Him” The Hollywood Reporter Jimmy Kimmel Rides Election Day’s…",
-        "pubDate": "Wed, 04 Nov 2026 06:17:29 GMT"
-      },
-      {
-        "title": "Stocks fall as Democratic wins stoke fears for AI boom",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVEtJOG9HYUZYU0lNTFl5cUE4cEVLN2FsMlVWYUN6cGdSMnpJVDdOVVRsUE8zNUZJSEltczZNM2h2OXZuUVFtTV9uSzcwekdVaGRsTU5YTjYwRmhXVnNHclhfVU5Ed3ZFeHBZY1I0TWszTnVPNktoUG5kSGh4aHhGcTVVc2c?oc=5",
-        "source": "Financial Times",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Stocks fall as Democratic wins stoke fears for AI boom Financial Times Dollar falls while gold and US Treasury bonds rally as markets react to Democrats’ midterm election victory –…",
-        "pubDate": "Wed, 04 Nov 2026 06:01:08 GMT"
-      },
-      {
-        "title": "Judi Dench says Daniel Craig ordered her death. James Bond just got a lot scarier",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUHRGVnp1OVcxd3BpNEFBNE1NNXZrV1BzcVR4SkkydUhlTlpZa1ZqdmJOdDcybEVHRHgyNjM2QUJnOU9KWWd3dFBFcktVdmxvU2t1SmRuMFdqdnV6RE1pZU5NdExtTk1vNkdIQ2RzVDRpejhCdnI3RFlDSm9DZEMtSGluVmk4cncyN2pJckgzY3J3RFo5SkNLeEtVdzJ3cXY5NWg3QWZyZ3N2bjlQY2E1WnhjRjM0Z3NCZzN4VklYSDRJbVBrckt5bWx4S242T3R2S2dFcFNEMXNBVVVMTGpmNGg0WlQzQQ?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Judi Dench says Daniel Craig ordered her death. James Bond just got a lot scarier The Guardian Judi Dench Reveals Daniel Craig Pushed to Kill Off M in Skyfall IGN Judi Dench: Danie…",
-        "pubDate": "Wed, 04 Nov 2026 06:01:00 GMT"
-      },
-      {
-        "title": "Horoscope for Wednesday, November 04, 2026 - Chicago Sun-Times",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeGVfWGZIZWR2dHZtMVp5aDZLenhhRl9lQlNRSTNhVzR1NFFjMW9fb09YREFvVUNJd1pOelUwSHJjX3kzZkNRcWFtVFplb0t3czVTTEVJSXdWX1JENG9OR21Wc3hhSnZZN2ozOUFlVzVnUmZWS0VNNmIyaF9feVdOb2dKS2cyaW5PUHhJaUROQlpKZERweklSM1ZR?oc=5",
-        "source": "Top stories - Google News",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Horoscope for Wednesday, November 04, 2026 Chicago Sun-Times Horoscopes Today, November 4, 2026 USA Today Daily Horoscope for November 04, 2026 Chicago Tribune Your Daily FinanceSc…",
-        "pubDate": "Wed, 04 Nov 2026 06:01:00 GMT"
-      },
-      {
-        "title": "Bella Maclean: I put a no-nudity clause into Rivals contract",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcm9SOWtsMG1yeUpKSmJYcEFsMnByX1RYaG9yS3h1eFBNaFRvRUltZzI1Y0xycThveG1RQ2VKYkJLYW11eENWVWN1ZXNnQ215UFBqV25Ka1JDUHFGYzFxcW9oeHVSbnRMOFZmZWRXRGdmU2hHbkhVdFl2QklXeXN5NVBRS291ZVRWTGVVVzdDSnRUZjhrbFhENklKc0phTWF6WXJXMTVmcw?oc=5",
-        "source": "The Telegraph",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Bella Maclean: I put a no-nudity clause into Rivals contract The TelegraphSee more headlines and perspectives on Google News",
-        "pubDate": "Wed, 04 Nov 2026 06:00:00 GMT"
-      },
-      {
-        "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1U192ZHdUNHBqb3F0by1leGRRYzI0ZVlLbjRHTm82WjlNSEkydmJYOHVPV21YemxoLUpuZWtscEdzTE5Gc3RGNU1oUjA4aXFPcDByNlJaTUhVUlN5Qnc?oc=5",
+        "title": "Man hid woman's body in freezer for three years, jury told",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00WDNPa2paUVRVTWtzWHBnclMxN1ZzNXFNS2ZJaVFDdVJjc1VkS29JU3gxWkxJQURwR1VSNkJwWmY2cUxKMWhJZExLeXJOdHdxZ05ZVGM2aGFtRXVyUlE?oc=5",
         "source": "BBC",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "James Talarico becomes first Democrat to win Texas Senate seat since 1988 BBC James Talarico wins Texas Senate race in historic victory for Democrats | US midterm elections 2026 Th…",
-        "pubDate": "Wed, 04 Nov 2026 05:35:26 GMT"
+        "summary": "Man hid woman's body in freezer for three years, jury told BBC Man killed 'soulmate' and kept body in freezer with her guinea pigs for almost three years, court told The Independen…",
+        "pubDate": "Wed, 04 Nov 2026 17:11:54 GMT"
       },
       {
-        "title": "Emergency Triad: MAGA Drowns Under a Blue Wave",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0d2Xzcwd2Z4aWJxRlNCTHVvaGhDVkpfek9vbHNPSkR5aXlyelBYNkRYbTlvM3ZVazl6TFFFcVZGcHhkZ3loQ1VDaEtUeDNIeUdpNUxKbUpNT1EyNzlYM2t2S1ZMSEhObkZRNWROaWpheVFuNWUtVnRhMFBoQ0VISjhnTFRONmV3WWRyamt3STJGXzFoZzlwQ0FqMDN2Rmx5LTJfdjBEODJlSV83RTYxSkNuVQ?oc=5",
-        "source": "The Bulwark",
+        "title": "House Speaker Mike Johnson will not stay on as Republican leader after GOP losses",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWXY5a2NQWHFxa3dPbENhdXF3d0gxWlBUWFkzb0lwTlRhSXpRTlF6LUxtb20wU1JEZ0E2aWh5VXc1cHVjWnluZXN3UHRvc0FxNWRkM0kzaW1sa2J1Z2I2UUJKZVFYSTR1SEtiM3h3QVI4SGFtV1pnU0hFVEFEM3VjMlRRNmVuamRUSkZQVnNmVXBOX3dJMlFFOVRVU01TZW01XzB0RXRES0ZWSzI5?oc=5",
+        "source": "NBC News",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Emergency Triad: MAGA Drowns Under a Blue Wave The BulwarkSee more headlines & perspectives on Google News",
-        "pubDate": "Wed, 04 Nov 2026 05:29:29 GMT"
+        "summary": "House Speaker Mike Johnson will not stay on as Republican leader after GOP losses NBC News Steve Scalise launches minority leader run , promising ‘consensus-driven’ approach Politi…",
+        "pubDate": "Wed, 04 Nov 2026 16:55:28 GMT"
       },
       {
-        "title": "Keisha Lance Bottoms Wins in Georgia to Become First Black Woman Elected U.S. Governor",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUFUQnlmVzJkV2FRYkkxUWZENVozX2sxYVBFZ2E2Vm1LZlFiYk9EdzM4c1JDaWREdWMxd1ZmbTBvQV95Z3JRZGs0MGhUTjREVTJPRk96aEsteTZrd2Q4c09La2IxNnVxQm0zcXIta0IwMkxOaGxoamxlbTFvc2hBbQ?oc=5",
+        "title": "New EU deal worth billions must be ‘launch pad’ to rejoin, Burnham told",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZXZwRlZPMlBwU2x2Y2FYSGRZRmVKRVJhUnBrZjBRQXpqSENXb0FYSnFHUEpkY2FoSDBXZzV0MFY4eHBGb0k0d3dyZXNuSmhXTjUtZzluS1RvSl9WMndxV240SlRPeFc1ZktXcXRYczVMeXJmeHlyVzFaelh2SU5QZU5LN3hXNm5EVkozcjFPUjBGdw?oc=5",
+        "source": "The Independent",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "New EU deal worth billions must be ‘launch pad’ to rejoin, Burnham told The Independent Andy Burnham to unveil EU trade deals worth billions of pounds The Guardian UK and EU agree…",
+        "pubDate": "Wed, 04 Nov 2026 16:51:00 GMT"
+      },
+      {
+        "title": "Goalkeeper involved in collision with Spanish footballer who died releases statement",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORmFGMzhXV3QtUlRjS0g5QWh0S2pUUXRYOEpwUXRDckQ2b0hJZlE1dDA0RTVKejNNbEpkeDZGckhPeHpBN2NLcDJZcUtVbnVIQnQtWjd1MWVBd2ZRY2V5N1Ftel8zQlNEekFHdWctVDFtbjJXN1FRMXFvcTczS3dvUDBRT3BxYXpMNG9weTcyT2czeVBNZHpsNGZjeG1MT0czLTJXT1RwbGFob1BGWG5CdHlUdlFPb0FISXl6Tg?oc=5",
+        "source": "Sky News",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Goalkeeper involved in collision with Spanish footballer who died releases statement Sky News 'Most difficult days of my life' for keeper Owono BBC Tenerife footballer Jesús de Mig…",
+        "pubDate": "Wed, 04 Nov 2026 16:49:08 GMT"
+      },
+      {
+        "title": "After the US midterms, what will a lame duck Trump mean for the global economy?",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMnZRT0MyRlJQZFBrYkRoNTB5LV84MXFhZmlpeGhadldPTUtqTnpHQ0RrTDR0eXZPRzQxeURDeTFudHhha0VoUFk4MjJfZ0hjRnp0cFFGUXFGeHd4cFNXSzF4N195TWtGMGdHbkZ6NTdzVWs4bnR3bTVMOUl4MWw5a2VUaWFVaElkOS1QZnh0Z2NOWUZOak83NUNXVFljX1k?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "After the US midterms, what will a lame duck Trump mean for the global economy? The Guardian Dow rallies 1,500 points after decisive Democratic midterm victory, drop in oil prices:…",
+        "pubDate": "Wed, 04 Nov 2026 16:43:00 GMT"
+      },
+      {
+        "title": "Anker’s new window-mounted camera monitors the outside of your home from within it",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUGJ6MlMwNFBLRGhDQTNLRWRFTGdBQkF2YU5URXc0VzVvRXN2Y3ZNWTJQSEZhZ2RWZVVRZVRYaDc0WlRzSVVUaFdXaEFSZkZTZjFPdkhkS2dHYWEyQmhFVHBfN0xuNnNabTZLY0FjUkhrdUpMcnNXU0Q5cHJDREYtaVRZeHR6RVljeGdoeFVSaEFtRFdZMWNDajlSajBXdC0weXZZWXpic1M?oc=5",
+        "source": "The Verge",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Anker’s new window-mounted camera monitors the outside of your home from within it The Verge eufy Window Camera E10 Launch: Indoor Mount, Outdoor View | IIC iPhone in Canada Can’t…",
+        "pubDate": "Wed, 04 Nov 2026 16:36:21 GMT"
+      },
+      {
+        "title": "Martha Stewart sensationally blames ‘Today’ host Craig Melvin for homeless Halloween costume fiasco",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHV3TFQ3bWYwWWZ0REJnVmZIRFYwZ0VqZjUwTjljS3E2OVY2OGMwaGtuMkRybGRCcmg3cWk1NFo0N0tRa3hvUTQ5Z0I1NGtNeTFnVERBQlF4d3UxeUxWcURJamU5emNacDhEWms1bzd1MV9CNV9MbE01TkQ5RWQzUnJhTzI4R3dYUU9Bc01JMkZ0U3JaNzZGTDhHTXREWWhvZjRBbTdVMHlmR3NJczUxMUFKd1RNSDIzTUhUNVZUdVk0MkN0M25lSDZB?oc=5",
+        "source": "Page Six",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Martha Stewart sensationally blames ‘Today’ host Craig Melvin for homeless Halloween costume fiasco Page Six Martha Stewart Apologizes for Homeless Halloween Costume The New York T…",
+        "pubDate": "Wed, 04 Nov 2026 16:22:00 GMT"
+      },
+      {
+        "title": "A 3,200-pound NASA spacecraft could fall to Earth any minute now",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUmlBaU5rTFNqWUU0LUg5bVk4alBZUkVVVzdHN0k4SmV6dzQzdGNNMDFxZ0xiQ3IwMVZsUmNPY0RFUUotbUlXRVZrS3kxMmhBS0dKdzhUa0VLS0xXMVdnVERwLTBKb1Q2SDMyLU9HaXhyVzlHaGdSMnJXLVNtWThxd0l5cXRBRDRkRjJITUlpaVRONnhwQTlLaTBabWFwemtrT1MwY0lsZDc5Sk5KamdaQmZMb3lRZGVXWDd5QnlIMWxaVUhLYi1KeHFmYTNKZmYxanc?oc=5",
+        "source": "Live Science",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "A 3,200-pound NASA spacecraft could fall to Earth any minute now Live Science A 3,200-pound telescope is falling out of orbit. How it could unfold CNN NASA’s Swift telescope ends i…",
+        "pubDate": "Wed, 04 Nov 2026 16:21:00 GMT"
+      },
+      {
+        "title": "CVS Health to split pharmacy chain from health insurance",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSm1FV2liMHhfa0k2RUsySFJVaFJZTmZTcmE3eE1JZnhsa0g0dFZBQmx1Nm1TU1FORVFVcV9yUmdlM1plalNFRXhtcGlQa0lzbkZIYVRJT25OMUFyeDV3R1VMWlB2NDk2N25EdmhVN1ZRRE0xZnlmTThHRlIwTmQzNGVKMA?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "CVS Health to split pharmacy chain from health insurance The Guardian CVS to Split Off Pharmacy Business, Ending the Healthcare Conglomerate Era The New York Times CVS to split int…",
+        "pubDate": "Wed, 04 Nov 2026 16:19:00 GMT"
+      },
+      {
+        "title": "Lions receiver Amon-Ra St. Brown says Jack Campbell’s injury puts ‘things into perspective’",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYkFWRXFyVTRuVGVGV1dvalFVTVpiT0ZZdUtfMWttMTVUZXpHS2pJVDRqdnlqOVpRVmZ5QzB3b0c4WFhDY1pxbC1nWXhmNXhUeS1mZUxmd2NfYzdLeVB0V21MMlppMkNacTE5Q1ZfYlVWTzN2UWVxMXduaVBmYWhKM3pCRGkxa2RsdFZEeTFNb3p6Q2dsWlVVek10TzVkQzZhSDI4?oc=5",
         "source": "The New York Times",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Keisha Lance Bottoms Wins in Georgia to Become First Black Woman Elected U.S. Governor The New York Times Tuesday’s elections bring historic first for Black governors NBC News Keis…",
-        "pubDate": "Wed, 04 Nov 2026 05:14:00 GMT"
+        "summary": "Lions receiver Amon-Ra St. Brown says Jack Campbell’s injury puts ‘things into perspective’ The New York Times Statement from Jack Campbell Detroit Lions What the Lions have said a…",
+        "pubDate": "Wed, 04 Nov 2026 16:16:53 GMT"
       },
       {
-        "title": "Democrat Gina Hinojosa wins race for Texas governor, ousting Greg Abbott",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamcxcDVWN09TTFpncEF1My0yNGhfNHliYW5UcVhCRnNDR01yMWFKRWl0XzkyZDZLZGM5NzgwMGFtVVZHQ0YtZTVYN0lFVmdvdVZzV0NLNE1aX18xRGhpZUw2eVBENGM4aF93czUycG9OSUVvZ0JsZEdlUUVqMHI1WmlIbjQ?oc=5",
-        "source": "NPR",
+        "title": "Man Utd: Michael Carrick run has echoes of Jose Mourinho and Ole Gunnar Solskjaer",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPck9NMHpPUXBQcklkU0h4OVc4NG4ydWZtWEJ5b1NyN0FtM3JLaTVjRlFRa1g5cTRlNFFDYmc1SlJXSTZPUlE3eUw3TDR3MC1UOG1YNTV5SVl6TDZ1NURFbWpFbm9XVHJ0Qlpr?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Man Utd: Michael Carrick run has echoes of Jose Mourinho and Ole Gunnar Solskjaer BBC Man Utd 3-2 Roma: Matheus Cunha scores two and is sent off in wild comeback to end nine-game w…",
+        "pubDate": "Wed, 04 Nov 2026 16:12:46 GMT"
+      },
+      {
+        "title": "JJ Gabriel: Real Madrid reach verbal agreement with Man Utd teenager who requested to leave Old Trafford",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMjA2NG5yOHdVTzRSSGltTTA4Z0pYZFhIa3FjNmRKSFRaNFJUeHJSdHNTM1hwLUpIM1N1M3p0RndxY3J3NVB3SmNDcVg1WUpQV1dFQnVidXBRRTJJVWFHMENnaTB0MU5aMTJ6UnlEbmJuWnlKdkxiU21ibGU3ckJ5aDFySW1TakJOYUU5N2xkdUJEY3RXeGhqdnMyb0tLejhRTHpFX2ZKblk4V2tUbWtnS1lsVXhucE1aLUIwb212eWR1LTAtX3puVlFKVHgwMWsxODZGdzF5TmdBajJsWUlRSkNhOHpLN0E?oc=5",
+        "source": "Sky Sports",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "JJ Gabriel: Real Madrid reach verbal agreement with Man Utd teenager who requested to leave Old Trafford Sky Sports JJ Gabriel: Real Madrid confident of signing Manchester United f…",
+        "pubDate": "Wed, 04 Nov 2026 16:10:06 GMT"
+      },
+      {
+        "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeGN5S1VQalFjUHNUdDVZaUhiRTFyS3NubHVCbTNBSFo2Zk9NQ1B2aDgxc2FzemtxeVd3S2h6SGxfVFNreF9LYVM4OEtCbnpvYy1OTzFiMHZWaGFkb0lPTVotb2ZJNERMcVZtSzJnLVd3dENNZ3Y1RUYtLVFJenZOQld0bzJLNkJ0cHBEVWpCQkNRTGpjcGZCalJPQmNZQUVYcFJPT01xemo5X0tzLWdMbzNUS2ZBMDFrV25qUjJySmo0TjhjLXU2MTNlV0Nydw?oc=5",
+        "source": "Ars Technica",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Democrat Gina Hinojosa wins race for Texas governor, ousting Greg Abbott NPR How Gina Hinojosa Captured Texas The New York Times Democrat Gina Hinojosa takes down Texas Gov. Greg A…",
-        "pubDate": "Wed, 04 Nov 2026 04:19:12 GMT"
+        "summary": "Binance says hackers who stole billions in crypto spent months planning heist Ars Technica Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3…",
+        "pubDate": "Wed, 04 Nov 2026 16:06:03 GMT"
+      },
+      {
+        "title": "SpaceX, Tesla stocks sink as analyst warns Democrats' victory will create 'major hurdles' for AI build-out",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOLW9sbEpPcUNLQmxfYTRlN1EzWTFQSThVckFBVE0yWWRoYy1uSllCWnNmcHpPTVpGMTUtVVpiWnBHcGowMWd6UW5uSWdjaUM1eGxyeG1hQzBLaFZCVzd2dFJZN2wybnBEdmo2ejJpNVlGcDB6QlFiYUJHLWgwS1VRMFFPR3VzVFdVX1hCVjVWd1RnMHRkZUEwRllueDQwTnZGZkNwSU5qLUVSem5YY0h6eU5HbmJ4T29CTGR0Ylk3cDItam9oRVJoT0dGNFBmTzRrWHA3bmtzLXk3c1JhOHk5QTJNWC1nX3NLaXNLbFNEeGhPVFRKRV92MG5R?oc=5",
+        "source": "Yahoo Finance",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "SpaceX, Tesla stocks sink as analyst warns Democrats' victory will create 'major hurdles' for AI build-out Yahoo Finance AI data-center stocks slide, renewables rally after Democra…",
+        "pubDate": "Wed, 04 Nov 2026 15:58:28 GMT"
+      },
+      {
+        "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HQS14aEQzbWlhaVY2Sl95aUxZdUUzaFJKX0lKSkRyNjFWQVVqc0tmcGpadF82QXptYUkxY1lSUFBGNmk5NnFzLWljQVEwekI3aDJROGxjd2U0Vm8?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms BBC AI Billionaires’ Political Spending Report Cards: Big Winners, A Few Losers Forbes SpaceX and…",
+        "pubDate": "Wed, 04 Nov 2026 15:51:37 GMT"
+      },
+      {
+        "title": "Blood tests that could spot early signs of cancers to be trialled on thousands of NHS patients",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSnJuVk9zRWxXVGhac0xtbHdjaTRFb0MxY1ZjNHYwemt3LXBadW9oOXp4TkxYUURWSy12VjNKaU1uN05rZDBjeGRfdUVPcE11VGR0N3ZJWmtIVUJaMHVaOUxJb05EVkVyZzFxYzVQWUZyQ0RaMkZibEJHZXRzb0hNdnpucjJnMkkxbUZnYkFjSzE4SzlJVjFxNlJ3UFlISjcyZ2hTZXI1YXdzMlBPc1hXWlBFdE9URXFJX2RsZFNXTHZEclFwcmFPaDZn?oc=5",
+        "source": "Sky News",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Blood tests that could spot early signs of cancers to be trialled on thousands of NHS patients Sky News 'Multi-cancer' blood tests coming to some GP surgeries soon BBC New NHS bloo…",
+        "pubDate": "Wed, 04 Nov 2026 15:49:42 GMT"
+      },
+      {
+        "title": "Stock Market Today: Dow Jumps 1,000 Points On Democratic Sweep of Congress — Live Updates",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdkhBSGM4WXZveWt6VklsUEVRR2txWWZWYjNEeXAzZktmOUVTMmViMXN6dUhfcExmbWpGZ1FRbTNmOHNRTm44a1FfNUpLVWZ2a2FVQ0JPWlFYTEpiRHpIUjR6aE1kdTk1NGJabHBnanNhbEx5ak9ZQ04taVZSaHFPQ3dpcHV6WVE?oc=5",
+        "source": "WSJ",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Stock Market Today: Dow Jumps 1,000 Points On Democratic Sweep of Congress — Live Updates WSJ Dow rallies 1,500 points after decisive Democratic midterm victory, drop in oil prices…",
+        "pubDate": "Wed, 04 Nov 2026 15:48:00 GMT"
+      },
+      {
+        "title": "Israel's president to begin consultations with parties after election deadlock",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16VlJEM1d3V3hZVURESU85dmlFTTlValUxVG8xLUlaNi1hVy1sYmlPMG4zdWg2cW5EMUdLWEZHczFMWG9Qcy1DcnlNNmd4SlVXUGhYS2NZX1FBcjQ?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Israel's president to begin consultations with parties after election deadlock BBC Israel’s President Could Play Key Role in Breaking Post-Election Deadlock The New York Times Isra…",
+        "pubDate": "Wed, 04 Nov 2026 15:45:45 GMT"
+      },
+      {
+        "title": "Commuters 'stared at their phones as Afghan migrants raped and sexually assaulted runaway autistic girl, 14, on train'",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbU5JZlNHWHowVmJkcjRXNWJZQjEzbzFkd3lNRGxSdHNGNWctblA4MUd6aS1pc2JRZVVOUnc5RVc1SHFQT2gtSWRYZFMyNFdDdS1VaFZVWnBGazlTMkhFUHJTZUo5YUk4VWpwTXVIZWlSck02QTNjd1BaQ0x5VXJSX09QRkdqR3dMRUp3?oc=5",
+        "source": "The Sun",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Commuters 'stared at their phones as Afghan migrants raped and sexually assaulted runaway autistic girl, 14, on train' The Sun Ealing man raped autistic girl, 14, in train toilets…",
+        "pubDate": "Wed, 04 Nov 2026 15:42:00 GMT"
+      },
+      {
+        "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0ZJLU1xVUtkYUYzT1JLZEFQYjNQbXJ6Sm0ybE9zRkt4bDFYU1hQRUJfcm5zcllnWlM0a2VvYW8temxEdmFXNmhUWXF3bmhzV3ZFa1hzTGExbUs2MUV4aFJReFc1NVIwZlZsZXZNOF9BQWYyQzdQa3VFWm41VmFCanZCTGxEMFZxLV9WNmJvQ1otVjNlVUlhWWtGZzRCU3E0OE93?oc=5",
+        "source": "Quanta Magazine",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "New Research Tests Whether AI Models Know Their Own Thoughts Quanta Magazine",
+        "pubDate": "Wed, 04 Nov 2026 15:36:19 GMT"
+      },
+      {
+        "title": "Londoners urged to avoid home fireworks over pet and safety concerns",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wdnpkb0t0ZWliZ0JTc1FRdThrMzF0LWZmMHQxR0tadXlaTU5UT29wMFBWNDhuRmUtX2U3dEs0UEt0TVpOd0VTb0xURUJjc3BlWUVVZmhwemh6WVRtdXc?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Londoners urged to avoid home fireworks over pet and safety concerns BBC From curfews to £90 fines: Your legal rights explained ahead of Bonfire Night The Independent Warwickshire…",
+        "pubDate": "Wed, 04 Nov 2026 15:28:22 GMT"
       }
     ],
     "🇷🇴 Romania": [
       {
-        "title": "HARTĂ. Statele unde democrații au întors controlul asupra Senatului. Unde și-au păstrat republicanii mandatul la limită",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUzdZcDctbjU0RW5acmh4a3hFV2dYbklKdFFsYWRnQ3dlR0dvRHp2Nk5hVXd4TjhGV2RYSUpqdUZVN2MwMXFKRDNiSUhqTmZmSlJuSkthY0EtWHVLR1RaY3hZV0pwRDRaOURjcjJPUmJfcVpTOVlGNVFpYzJCTWdGN2NfTWxiVmVyRzhKWG8wSFg?oc=5",
-        "source": "HotNews.ro",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "HARTĂ. Statele unde democrații au întors controlul asupra Senatului. Unde și-au păstrat republicanii mandatul la limită HotNews.ro CNBC: Acţiunile din inteligenţa artificială scad…",
-        "pubDate": "Wed, 04 Nov 2026 09:15:40 GMT"
-      },
-      {
-        "title": "Reacția ironică a lui Musk după înfrângerile suferite de republicani: „Intervenţia laserelor spaţiale nu a...",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPREJNbnptVm1hYWpzLTF5T0pZaGJ3U2g4by1rOEF3SVJPaWFXelhFNzg3V3ZwOE1tU0NybERVVTFSVExzNUwzb2RiSXc3NTk5Vk1DOEtJekFGTi1RaS02SjZGWUFMUU42dVIwYUNfOG95Ync0Q3VGbHBuUlB3UEVObG1VODVwdjdZSXdrX2QxRGxPTjB3clVSZi1pSXJpYWx0LTRkVi1YajFIaTlqamVVZGZQcndOak95RVcyeHVVM2RPWVJvUVFzdjZleHNCUXZKSEdPOEJVQ3VPelBVMFEtSnpFYWVwY2xhM1JweUdBUU5lTVBBTnhtRnFNa0hYTEE0ME1pV1NNVDRqZnfSAZYCQVVfeXFMUDBiRTFpTTE3Q1l1VWNVVU84aV9WS0hIeEN5VU5LZUt6eWgyUWtqWGdnYkpIQ0gtMTlmWGxvMzl1MzBaRXhJV3d2MFhxbDR6NGhHM2wxNi1uNk5FR3FKYmtQbzJDTjdRVEEwN3ZUZFE1UTZkemZySUY3V1dibUJFODY1UFlkZHRYQnpRajYxS3ZabTF6bUtGaE9fYlluRVBjY1lFQlZTRFNxUUx5WVR6Tk93RkJ2Ny0xZVJVUTF4ZmNtc18wMmloZXBPSlRsODNWQWVQb0RRS0x5RVJnYW15cGkzdXRleHBxWGZsSzBoLTlZZ0VlVlE4YjJnWXBkV3ltXy1ocFhYWEoyWElXWVNveXhnNHBseVE?oc=5",
+        "title": "Surse: N. Dan i-a transmis adjunctului de la Pentagon că România este dispusă să plătească pentru trupele...",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZkllM29ZcGl6Uy1ocmRoQ0J4UlF0cm5MUnJna2hJejllM1JlbU00c1JfTGtRUk1DVDhGclNjbkRfd1J6REtxd1FhdTR1cVZYeHdPMUVHNFZ5VjRnNkRHck1ZTExRamJXTFB6TlJfZ1h4eVFJTFlUR21ZRVR0OVVqRlVDcVpSaVRWSWVzWFpUUE1saXo3d28zMXNZTVFWVWxrdVhOSFNzSXJDR3JTWGZHTnNxWUExX0tXVVBBamdBUUgwX2ZVM3hfSUtTeXRLTm4yQzNGY253Rk5wRXRnbVJBRXYxc1ZGcTN4TWtEekRQUFRfQ2FJaFM3QkpUbFlzd2hFdXRBRTI2aWhsbHFvMno3UmN30gGcAkFVX3lxTE9NUGljVkpLTWdNczVVU2NkTzNsVldaVk9tNzZjTlFMWlBJaTdrSGduMFdTV3M3Q29zbldtV0xzU2FlMi1GZUwtYng2eGFtQWZtTnJwQXBPenBjNTUxSU5jT0M2cUdKRTZ0MHhQZ1BvekhWUXdzYi04UFhkZko4LS1uRkJLSDJDRVR0ZUJFUlUxakJxdXVOTUZWaF9jc2xnbDBUcl9idnRQUS1nQW05cldBcG9ndjR3QUZhOW5IcXluNkRvSFlTV0owNEhLOExfMkdiajB3aFdZTGVzLWVHNWZXY18zN1JzdlpKRklQeHllQTR6MGpNNEhyQTlpbHcwTm80S2ZFaGd1YXZKQ3lGM3EtUVUzWklGS1F5dzJu?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Reacția ironică a lui Musk după înfrângerile suferite de republicani: „Intervenţia laserelor spaţiale nu a... Digi24 Reacția ironică a lui Elon Musk, cel mai mare donator al republ…",
-        "pubDate": "Wed, 04 Nov 2026 07:58:28 GMT"
+        "summary": "Surse: N. Dan i-a transmis adjunctului de la Pentagon că România este dispusă să plătească pentru trupele... Digi24 România vrea să plăteasc pentru ca SUA să-și mențină militarii î…",
+        "pubDate": "Wed, 04 Nov 2026 16:35:14 GMT"
       },
       {
-        "title": "Primul senator musulman din SUA. Abdul El-Sayed își proclamă victoria în Michigan",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTHhjXzJzVjRoZWNidXZnODVaUWJqcUVhZTZYX0h1UlI5WG0zMnVqbjZSRkxBazRkRWlRbWxnYVJQVDJLMWVGUTBzTnVmbVpHVXQydjFqSUNyRnEwVnpVWWVmd1lWUGtrazJNbklZYTRsXzE4d0ZSODNFT2hacDdBazROcFpUc3o5UExBWFFmQW5QWVlnTE5JZ0l3ZXBPQjgtU2tBMGJZaUx6bExwZ0NLV29tY3RwY0I1ZzkycllzVmNKQk9mNXJPZDZ4cktGa0ZOMDBJbEdTR3dtSkRGSnRWWg?oc=5",
-        "source": "HotNews.ro",
+        "title": "Comisia de la Veneția solicită o reuniune pentru „amendamentul Fritz”. Precizările Ministerului Justiției",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORFQxTk00NmQ1VGwxVnZfNXNQd0F1TV9SaDdqWXd1TlpBc0pVV2VZdy1HMTZBdkVUMkJ1WmVkR19TYjQ5TFdManVtdXg4eGZGX3UtV3ZNOTJPc3dDT3JvbjRNdEZZdVl4bllYX2IwQ1N4VHlPS05jUWJ1VWxvRDZwQy1RRW8xaGFRN01rQ2lFdnp6cW5G?oc=5",
+        "source": "Adevărul",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Primul senator musulman din SUA. Abdul El-Sayed își proclamă victoria în Michigan HotNews.ro Midterms 2026. Cine este Abdul El-Sayed, candidatul din Michigan care ar putea deveni p…",
-        "pubDate": "Wed, 04 Nov 2026 07:36:22 GMT"
+        "summary": "Comisia de la Veneția solicită o reuniune pentru „amendamentul Fritz”. Precizările Ministerului Justiției Adevărul Comisia de la Veneția vrea să discute direct cu autoritățile româ…",
+        "pubDate": "Wed, 04 Nov 2026 15:44:10 GMT"
       },
       {
-        "title": "Schimbare semnificativă pentru Mega Image, Profi și Shop&Go în România",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1dYdkp3NFVLNXBGLWthMFVCc3c2Qno3bHdFYmZITmpTZFlrVEFZRV9SaG5wQXVkbldlckVEOC16SmNUcWhWREdpOU54VmF6bGdlVGlyY19LeGlMTW1xZWZPUkVsOFR3OEhkVFdhRkJYOVJFVHNxNTZPUnhueVJzRXRYME1WUVJGWTA4dQ?oc=5",
-        "source": "HotNews.ro",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Schimbare semnificativă pentru Mega Image, Profi și Shop&Go în România HotNews.ro Rețelele retail din România se reorganizează. Un cunoscut supermarket va avea propria identitate ș…",
-        "pubDate": "Wed, 04 Nov 2026 07:24:30 GMT"
-      },
-      {
-        "title": "„Operațiunea Jupiter”: A 3-a zi de percheziții în București și alte județe. Sunt vizate infracțiuni cu...",
-        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNckYzWThfXzNiN3Y3dnYwOUlHMl9rZEktMDdSZDZ2RkRiSURvTTg5aEdSWHpPR3Mta2x3Z2psQXVERmRKLTg4eWxPVjZBNkdXQ1V2YmV0b29SSl83eVhsV2lISFdiY3JfTFVBQXdCX0t1WXdOMV9SY0pvelJrQjEtRXdpM3h0Sm5BcWItM1o2QlU1S0JkQ0JqTmZRdXl4ZTJ0a0FadGt6QWhkdk1BSEt1UVItZzJkeC00bW9WMndaZ2NLR3hseUc4bGoyQWtmY3p5a01pX000MnBKSUNYTkdqYWN4cDBCRkI3WWRhSkZQWTJoSXVCVnI1V3dIbDMzVThSUGpldHZQNThXWVVOcGFnSnBEb3UwbEnSAaICQVVfeXFMTW1QODNfMVJIMHdCTnk2Q2dHU0NDSl83QU16Y2JjY3FMUlZOZGw2NjZGdUxqRU42eWI4b0pobXg4WUxxYzhHM0tLV1ZSck1BaUtfWUQ0YVZvandiVDhabFpjZVZTTXdGb2QyQVp6ODZrb1ljcHJ3MjFEUlBWWkVUaDJZRmdWTHliOG5ZUTc4bmpIaUdQRXVJUXRYbDhHa092dDRYZTBtdFpmMC1vd0FkTUFGSFdvNGxCZF9YUGJaX040ZEhLdWpnQ0N2ZFJtdUQ4a3RSamRncF82emRRMXNMQzM3QnlfVmVYS0t4NjVJRS1mcjhiNXp5SmtGUlRWRWp2NUY3RkY4cTRJT2lCN3lkeWlIdzdzckl6cFBjdGFvWnNyX2c?oc=5",
+        "title": "Averea lui Elon Musk nu a folosit la nimic în alegeri (analiză AFP)",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUzhnZUtTNE5XZWducVM0SjVWNmI0c1psd2J0V3psOGZfeWhHRk5paHlscUx4eWdBUXlTTEplbGl4cnQ4SWZWOC1henpxdGR5N1ZVOS1odXYtejVoYkVtTTNneTIyU2FhenJZQ3o2SWhkMVlxckRMZW9FWGRaUHdNeE1HSDdDSGVkYi1vX0w0c2xvaUhjX0YxM3RDLVpCekoyRWtMaUxtMlpTSnhZNkZtX2xvb9IBvgFBVV95cUxOelpCQk9admtGcWt0cWQwY1laX0xNVDRnTy1XaDhSUm1ROWdCY256eV9vU2gyaUdQMDc2a0xjT0xVVWVjUVlkM1pQanBPRTAzRm1LY2NhakNJLXluVmhWZkVyRVZvRm1MeVpFVFM3d3hGSTN1aTQ2WE1pc0NmQlF5eHFTcXg2MS1uZmZ4eWdIMlRhaWZjWGdtc2V4QnFqMEoxYk4zOFhpNTNpYjh1UjlsZ1ZCNGlnSVQ3V0I2bWln?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "„Operațiunea Jupiter”: A 3-a zi de percheziții în București și alte județe. Sunt vizate infracțiuni cu... Digi24 Dâmbovița: Percheziții la persoane bănuite de evaziune fiscală cu p…",
-        "pubDate": "Wed, 04 Nov 2026 06:59:35 GMT"
+        "summary": "Averea lui Elon Musk nu a folosit la nimic în alegeri (analiză AFP) Digi24 Reacția ironică a lui Musk după înfrângerile suferite de republicani: „Intervenţia laserelor spaţiale nu…",
+        "pubDate": "Wed, 04 Nov 2026 15:34:24 GMT"
       },
       {
-        "title": "Alegeri SUA 2026. Secțiile de votare s-au închis. Proiecțiile indică o victorie masivă a democraților...",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNXFTcC1aaGtRWWJkcGhiU3pCbHpVNUduTENuS09Jc3N1TXdWYjBseERuSmpldDB2S2tITkttNTAtLXpSWF9LNC1lZlJtTWZhWEZNYzVIaXltNEx6dUhFUENFWmltTTNuUE1Gdi0wTEhBX3dSUG5aZmh4WWU1Z2NJWVhIZ2xWWFJGTUNjY1FfVFc0akhtZnRlQVRad0w2LU9aTFZuUUlwd0dFeDcxakQ0d2lnd3BXZ0MyWVlZN0xqcmxJeVM2WEwtMWlGdmd2YU5FR3ZlYnUtQ1h1OGdEdmdOZWFZVdIB7gFBVV95cUxOYXN3QWhyenZ4XzlheDlUSnhfbmxmd3RYdndZelNlcjhpeDVERnIycjdIOVZ5OThYWTB1SnFQTWk3c2EtWGw0LVlROUxpQWFaaGN5WjFMcUVuUzl3cGQ5QkpZMlJOY0pDS0FNTTMtT0IxU3RxNGtzLWtXTVZiMTMxc0V5TjR6VGNCemFSMWFqRmJkRGN4bGtYUUdzZlZzS2FuNjNGZWxEYXA4ci14OUdvSUE4ek55UjdjOENGcDVfZzQ5QTlOUFVuQ2tYcE5oWlUxb2hjTjU2UGJxTlR4aTd5LU1nYnhYSXo1Tk9OVGtn?oc=5",
+        "title": "Primele reacții venite din Rusia după înfrângerea republicanilor lui Trump în alegerile din SUA",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0hMMWZodkdyWnFnbGUwbmx6WjM4VmR6YmQ4WXNRdThPa1BZZTZ5T0xoSVRMdFp1UmlCY2ZRZkNfNno2MGxPeENrbUxJeTRWanh6dDcxZVRuWjd5T2FRcGhlc3p2V1pIUk0tanBrWXE5NllVdkhlM0hya1VpdlZ0WHVoWjdjVWRibV9ZUkZHRjQ4VlFlUDd0Zmd6aGJVNkNjc1hEeWhHN2dGTm5DVlRVUlNnZVZKUjlUaGpQSEFqdWwxcDZMVlVWTmc1X2NsMlNFYzBERll2TUjSAeMBQVVfeXFMT1IxcDUzd1B3akhHRHE0WDNKMUJrWEJ5S2Qta1l4d1NhbURpR2ZpRnNveU9jX2lVNHlocklDTDN4YkxGUWlTcFowWXNWQkdCcmVZZkl6c29pLWYtcUFCdF9yUnI0SkJuS1ZOOWRDcHNwTjJrZjFRLXVYOTlROXl4OExjS090b09KMk1jTm05cmlYNU9MSTZkSGQ4Q2lkNUcxMzFiWEdoc2tIbnM1UXdiQXZWMk1HZXE0akNVQk9aRF9nY3I4alZyb1MyLWR0QVdzN3ZOaUtEc0JHYTFLNHlEUEJLMnM?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Alegeri SUA 2026. Secțiile de votare s-au închis. Proiecțiile indică o victorie masivă a democraților... Digi24 Reacție din AUR după înfrângerea zdrobitoare a taberei MAGA. „N-are…",
-        "pubDate": "Wed, 04 Nov 2026 05:11:23 GMT"
+        "summary": "Primele reacții venite din Rusia după înfrângerea republicanilor lui Trump în alegerile din SUA Digi24 Ce urmează în SUA după victoria istorică a democraților. Analiștii avertizeaz…",
+        "pubDate": "Wed, 04 Nov 2026 15:13:05 GMT"
       },
       {
-        "title": "Numărul 2 din Pentagon, la Cotroceni. Nicușor Dan îl primește pe Elbridge Colby",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZTUyX0ZSQnZHdFdubHR0VlJnNGpHaXlVVWs2ZzhVbC16Z29ieF9Vb195azM3dGtoellWQmZjZUpmbXBlay16cEppWUM2ZzVsVVBWaGdfVnhSeHNDd1lSNW1FbmQtMVpSWlJscEpVUVFtcm5uUjlFZUI4dllKZlhJMUpYRmpFdm1xT3BCNFRudktTUS1mcDZucm5RWi1wSGlfQmFKNFN2cw?oc=5",
+        "title": "Vaccin experimental pentru cancerul pancreatic cu răspuns imun la 98,9% dintre pacienții evaluați",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZlZjSFctS09WdHhMUC1wZ01WeEdiZGQ2U1dJRy0ydmIwNzJ4T1kzWFlkOGN2NEtnUUY4cHpMVUJCdzZFQ0lZblNmcTVvY3RNV0VWOGh0YWttT05DczA5OGhDVDJoQTlQeGtwa0EtSzEwN084c1hHcDRZaHZhQlNsVFBWSDFDcDROcHR4Y2hzbUJkaXBicXdLQUVCdHJxaG1MTEJQRi1vNDQ?oc=5",
+        "source": "Adevărul",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Vaccin experimental pentru cancerul pancreatic cu răspuns imun la 98,9% dintre pacienții evaluați Adevărul Un nou vaccin împotriva cancerului pancreatic a declanșat răspunsuri imun…",
+        "pubDate": "Wed, 04 Nov 2026 15:06:36 GMT"
+      },
+      {
+        "title": "Liderul suprem al Iranului, Mojtaba Khamenei, lansează un avertisment după rezultatele alegerilor din SUA",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVUtfclNBNVZiQ0pYcy1iTXBqX2pVLXFQNTF3dTdsdGtvZGstTDEtM3M5SlFSODZMVmtCcGl4QjRoY1NjbTl2QnhxUkRKR244Y2hvNV9BWk9IWlR2Z3dfVmhLa3BfZ19ZejdMa2RTLXM0SDlpbUI1ckVLbnVvUVZONnVYcFBwdWFaclQ5bUZJdnBYVFFOcUhWWjB2MHl6MzVhNUdralZBNVoyRDdtZkJvRGx6cy13SFlIWkUxT2pFM21IRTVPQTNpbnhTNlhubWpwdHRIS2VXdlJrVk43ZjMxSNIB6wFBVV95cUxQU0xoSlp5RGNzYW13bERXcERNRmxtb2JPSEVYbkJkRDJjaDNYUTAwbkFlRDdiX0ZBZGNUSWZzMG51MnFFMmE3TVJEaEdQWUU1bklTQTNRRFZxaW1sOEhQa1RNbzd3ekJZelFSQ055NU04TzM1UWpoZFY4XzhTOWFVM01ZdERNaWsySU1VN1IyYndfcDh0RDRpcnU1cnBQaTNKTG1PVnZ3dTVlYWF5bmIzNFl5UVlSMll0SW5XZUN5LUpzcWp6Q3RkSGlFSkpsRDhGZ1YydmpzWU5QdE5TZFN5dWI3MVNfcTJxSTdr?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Liderul suprem al Iranului, Mojtaba Khamenei, lansează un avertisment după rezultatele alegerilor din SUA Digi24 JD Vance, mesaj amplu despre alegătorii „furioși” ai lui Trump și „…",
+        "pubDate": "Wed, 04 Nov 2026 14:19:48 GMT"
+      },
+      {
+        "title": "Statul încasează cea mai mare parte din majorarea salariului minim. Din 300 de lei în plus, angajatul primește doar 100 de lei",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOFBDMEhZcllmSWlpQW5JTXhTWnB1cnpFY25RRXo4SE8wXzlPcTlGcXhIeUxQU2dXVEZLTkJrMXhFdjlVc0d5SVdnR0dSSGZobFNESlNpQmZMRVUwNDlRZUJwSVFZbGtGaGd3LWFoQXdhSENWTmZ3M09xNG9nXzRiYXZNS1dUZnU0d2JEYVN1dy1uQ044aXc?oc=5",
+        "source": "Adevărul",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Statul încasează cea mai mare parte din majorarea salariului minim. Din 300 de lei în plus, angajatul primește doar 100 de lei Adevărul IMM România cere menținerea salariului minim…",
+        "pubDate": "Wed, 04 Nov 2026 13:35:52 GMT"
+      },
+      {
+        "title": "Grindeanu îi cere liderei AfD să retragă acuzațiile la adresa românilor: Readuceți la viață o mentalitate...",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQMXFHM0pPaDUxNzBQMEdhb1V6UmF5LWZTN3daWlhvSU80ckFsQXdUTWs3LS0ycloyaFNDY0hpeDNZN3R6ZGZ0dEZoX3JsaWgtc0hVWlhRZkhaWWhKZmVoUDRTMU8tVnlWTjlwa21oRlh1Sk5ObllXRnJnbWpUUm5ZOVdwLXkyUW1QajNYZGozcXowb3JERHdTSG04NkxNaHdFZ0pobVRqWEZJaHVVRzREbEprYWRDOVpKWHZkZklTeFZvUlVkaUJvWTZfVENMR0VaUW12RnRTZmhISHV1V0tfSThSdnV2WkZpQ2VIR1pzMDFuUUFGaDFlcDFUeEpmQ2I1eWhpbEVBcVhhS2Rnd2fSAZgCQVVfeXFMTzVMVUhZUlFrNllUckl1blI0aFBqdld2OS16TUJLaENtNm9zbndfOUJObk1qaUUyUW9WZGFlLVAzUXVTMWlMaENfelVRUDBUcGx0U2pnam5SV3VHVnFIYmVTQXRndno3QVlJRDNBM2JjZ1FsbExKTV8wUkZsbHVXYjhYTmxERVAzVWpQOUgxRkl2aUI2NEVlQkpQUkVfRjl4T0lMRWhZVDEzR0t0UEg4dGtPVjMtbTRqS3VLaE5lSjhoMWlmNjRBNFNXTjg1QlBHZ094TmJlZzhmMjMxU0x4OUZxbGQ1WnZEM3JScFZCY3czZFluV2NYU0c3ajM2Y0luTUVDNjFsNVkwcjQ5c0l5NnVFM1hkQm9Kdg?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Grindeanu îi cere liderei AfD să retragă acuzațiile la adresa românilor: Readuceți la viață o mentalitate... Digi24 Fritz îi transmite șefei AfD Weidel să ceară scuze românilor car…",
+        "pubDate": "Wed, 04 Nov 2026 13:06:22 GMT"
+      },
+      {
+        "title": "După supermarketuri, hackerii au vizat și congelatoarele băncilor de sânge din Franța",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2hJN1dOWW1kUFkwU1JEd3p1Mzlac1U1ZHVQZy1mT1VmWWk4eWhMd0hub0NFeFJuWi1Va0Z1MEE1TGpvSHlKUkc3NmVxR2wwejNXcVEyRkxUSWtlUHU4eFhRVDhJWjVrSWFBd2RSYUtURnJCdUIyeWVYYUJQTXVoZHA1WHlEWkU3Y2JaYzlKZHF4d09lbC1uLWxZVmRwZ1RSZklEVHpWREpvT1kxUE1kNC1zVlZYSnRIZ1lDbF93?oc=5",
         "source": "HotNews.ro",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Numărul 2 din Pentagon, la Cotroceni. Nicușor Dan îl primește pe Elbridge Colby HotNews.ro Unul dintre cei mai influenți oameni ai lui Trump, vizită decisivă la București înainte d…",
-        "pubDate": "Wed, 04 Nov 2026 05:08:35 GMT"
+        "summary": "După supermarketuri, hackerii au vizat și congelatoarele băncilor de sânge din Franța HotNews.ro Atacurile cibernetice din Europa se extind la depozitele de sânge. Ce au făcut hack…",
+        "pubDate": "Wed, 04 Nov 2026 12:56:14 GMT"
       },
       {
-        "title": "Ce au făcut candidații români la alegerile din SUA: victorie pentru Mihaela Pleșa în Texas…",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQLUVmWkUwSUd5VVNQYjAyTDN1NDhuZHU0akVPd1dMS3cyY2R4ajQzODZSS0hvblN1X1pPVFhGNDVpX3oxb2pFdTFCSlR6cDRLTjFILV9VdnlaVDB5ZEljNi1SbGR6OTdnSlNNSXBvVFg4X3k0NG1rZlE5ZjJLRVlhUHg5NTJLb3VuX0tRa2hGcmItNVpZc2dwQlNfYnNlWDFRRXRBcTQtbXlkbjh4ZVloZ21EYUlUSGhQakJ1MF9aRXpGcUxVek5qSElVakVLOGk2NFVNSEtCSVRzRm93by15dGlReWd5Q19zM05Dd09pTXRhRTA0MTAwQXhkNEZUa0tvMFowNlJsM1I0VFnSAZACQVVfeXFMTWRHWG9jamZzbFdRVzg3M0xuN3R0WnBKbUZDLVJnYTZmdnpFU2hQYzlOZURWbDE4TTlCb1FsMzdQN1F3UGhtNWJtbXAtVU1RSktjTFF3eDg5eXUzVTFiRVA0czZldFVGNTVNelg3amk0c3ZvUE5ieDg4VTZBRk5aWHY1XzNxX2QydDNIVGJpODl1WmNkUmplcl9EYUROdnNIRHoyYjhZU1ItZVlNYTQ4M2VVYzl4dnJSVUFqaWotS01xUlB0bFFoaTlnTUlmS1h6SzhCVU82N3JTdTF1WjBGUXBGMG5OSjBVNHFlTkZMQUIwNDhjZXF6aG0zaFBiOVg2b004Z3l3SW5JajZmNEp6cTk?oc=5",
-        "source": "Mediafax",
+        "title": "Noi tipuri de cancer de sân, identificate prin analiza a peste 7.600 de tumori. Descoperirea ar putea explica de ce boala evoluează diferit şi de ce unele tratamente sunt mai eficiente decât altele",
+        "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNUzJTVGFhZ2doTUhjVkdUcFA5czdtRGJOcDdCbnhrYlBEOWxWZW1sRDFUN2haQ3VidWFDT3ZNTjF4N2xzblNpVnpSRHpTM1JHWjMyVUFaQ3JqZXFvLTNEc2tLaHFDUHBpcVM5d0dJOS0zdWFjMHQ5Z1Jaelc0TC1vLVBRa2RfSWdaY3oxdW1FWWRGeC1keDItNFpnNmpWMzUyN3YxM3c3dzB1cGR6bFpNQTZ3OTNZTE1HMG94SWxXNmhHTW1jYTBqeVYtT1hteFE3Vm1MTWdJSm5zbmRSSEtobDc0MGRCY3AtLXJXT0pMSFExTGFPX2tMYTVXOG9hNjFycFJ3YjFpYWxxNUdsejQxU0tlNXhqdkRaYmFfTjVjTmtkT3VLMHBLYWlnNmtLSkhpdjVySllqb3g3SmxfUWxzeEduekZkcWt6YkJTbFd3ak8wbWZ5cVhGekxOb3lHbWpleUYwblpWR25Bd0ZHbFFybGdWWHY?oc=5",
+        "source": "News.ro",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Ce au făcut candidații români la alegerile din SUA: victorie pentru Mihaela Pleșa în Texas… Mediafax Midterms 2026. Rezultatele alegerilor din SUA. O româncă a câștigat în Texas pe…",
-        "pubDate": "Wed, 04 Nov 2026 04:26:13 GMT"
+        "summary": "Noi tipuri de cancer de sân, identificate prin analiza a peste 7.600 de tumori. Descoperirea ar putea explica de ce boala evoluează diferit şi de ce unele tratamente sunt mai efici…",
+        "pubDate": "Wed, 04 Nov 2026 12:52:56 GMT"
       },
       {
-        "title": "MasterChef România, 3 noiembrie 2026. Cine pleacă acasă dintre părintele Alexandru Balaban și Maria Boroghină? Decizia chefilor surprinde pe toată lumea",
-        "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOVWp2YnFmNkZpMGdUX0F3enVic3R6TzlZWTN0aHhvOV92OG5kUjY5LTBraHNkenV4NU1lZHdEY1Fzc2ZOd05USkJOU2VDX1FGTUhNQV9GSGtqYkR1elF2bWQxS0Q2SmtWTDZ0MDI4Ukh0OWsxcXBRcE1XajBvbzdCTjR0UDRnWldEejZYUURIM2Zud0xEVVEzZ1hxUlFlMjVreW1pRFgzbmJqT2FoWXJSTWYydzZyX2VLeTNlTjVObXpHMFp2UkZiSmRySkJ2Z3VHRUxpX3dQcm1uWkJHOUxvaWRkU0NOcFBHWTVvYzZWckEyS2xPb0VyRE1FcUtsRlVVQ1ZkbnJEWUNYdGRKNjBFU0RDU3ExNWlVLVp2ZEdDa3pGcjZTeUpaaUpWQnNPZw?oc=5",
-        "source": "PRO TV.ro",
+        "title": "Anglia/ Medicii de familie vor folosi analize de sânge pentru depistarea precoce a cancerului, o premieră",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMnNvbWF6bFRWYmNOZ0wtUjdJUGtXUFhsLWoxamx1UFE0WV9WRzdkTjlFbEJ6ZDBRMzZtZllkdTZtN3JxQmNsSHZhZ09ZTnpUaEQ4LTZxNENMWV94TkZJMnk5aE5KNHY0cThRUk9yVnBkbnJQWnBxRjVqbm9yZzVCX1ZrNVZqYlAxT2pDcEZtLU9rVmRuZ0pzdlpXNFk5clFhSVFHNHd3NkVhbjV4LXlULUxVclNOQm1jcGhSSDFQNHZ6andQY2lkTjdFOW1DaXlkVXc2bXZwWHQ5RWp3d2ZER0prRkQ0cDdqa1E?oc=5",
+        "source": "Agerpres",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "MasterChef România, 3 noiembrie 2026. Cine pleacă acasă dintre părintele Alexandru Balaban și Maria Boroghină? Decizia chefilor surprinde pe toată lumea PRO TV.ro Episodul 19 - Sez…",
-        "pubDate": "Tue, 03 Nov 2026 21:36:40 GMT"
+        "summary": "Anglia/ Medicii de familie vor folosi analize de sânge pentru depistarea precoce a cancerului, o premieră Agerpres Teste de sânge care pot depista mai multe tipuri de cancer simult…",
+        "pubDate": "Wed, 04 Nov 2026 12:19:21 GMT"
       },
       {
-        "title": "eMAG a dezvăluit primele prețuri de Black Friday 2026. Bilete la Beach, Please! cu 1…",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSUNiVzgwc25KUXhLeVNvdFYwcENkSTRpLXVsZ01GOHRsRER6WFRDUWZhSGRfVVNBcHZ5NU9nczBkWU5EWDVTTGp0LS1IT3l3MV93VzEySkF1eURSaV9TZnVkVmVUTjBaN2NvU1hRSTRsY2xoS3JCeV83WnF3SGxST0VEbmhlaDhIbjh1V3N6YXNiay1NakhRZE5TQTNtb21WUkdia0ZGU2FCdkdibG83TEJVUGxhaHZvNmJ0aWdWVkhVOGEyODZwQkU1MWs5TTRNTlZPcXFIdmpJOHluVDVfWUE1R0dhYjRsQUFta3VKRUdnOThTcGEw0gH8AUFVX3lxTE5ZMkpURFRmQmc3SWNkMlRQR0I4VV82WTJvNFFTNncxcklMT3FmYWs1SkFOSFdJR2ZKTHgzMG84YXVYa196RkotLTNEVF9TRVpZLVB5emQydnNKbVBuR2dNVGM1RXoyREZRYnNMc3ZkdTBKd1ZWQVE3Ymg3VDdFSWR5UVRGakxfYXdwSlI5dS1ibkktQ2lGMHc3ZVB1cGl0NlVtQkhuLXllZ2t3WGIxcVR4dFd3NDFyTm9jSFBOdk05ZXVuMS1jdjlwakpIdVFJYXVab1RzZnUzY09RY3hhRUJLNndONXNuZ3FNbC1teDIyZGpRcG5rekpUNGxYNw?oc=5",
-        "source": "Mediafax",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "eMAG a dezvăluit primele prețuri de Black Friday 2026. Bilete la Beach, Please! cu 1… Mediafax Peste jumătate dintre românii care știu de Black Friday vor să cumpere produse la edi…",
-        "pubDate": "Tue, 03 Nov 2026 19:51:15 GMT"
-      },
-      {
-        "title": "Zelenski spune că nu îl cheamă pe Putin la Kiev. „Au venit la noi fără invitație în 2022”. Ce crede despre...",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQc0xhVHBfUzNuTHloZ1d2N0FwVXROSWdScDFHSFU0cG50Z1NubjBjNHljRGtaNDNJTXFVZHpVWFlHclU0WmFFY0k5RDJmdXpVWThIMlNnX3YyX2RwZTNrbDNxOGtvRjRubDg4VkFjWHpMOE9faVRHVmU3bEpHcXVVTGZyR1h3TTNUNzR2SHpZRWdUei1ERFp1NGw2MVNWZ19hOTU1LWc3UjU2TzJySTUxUkg4Vk5ROVFlUmxaZ0VNazZTSzU5Uk9IbU1ZWmVMREotaHNleGdwQXBuRTFtS0JTZDVCdVZXb1VSRDJjS3V3cUtpYzVud1drLURMUEk?oc=5",
+        "title": "Cine este Mihaela Pleșa, prima româncă victorioasă în alegerile din Texas. „A vă servi este onoarea vieții...",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZFRDNmVOSWxTeno1NUdDYWpfQkZ0YTYwMTJnYWRoTFFzY3ZncUxLWnVYdzFMZG9jaE5mcE9vVml2cEhTQk9hcmUwaVJTZ2ZPOGpCYXFjN2lZN1dRa1FWbmJfRFlNRFZHSnlxcW5LNFdBTVNZdEEwY213UUhGNUMyaFJNUUdHaXluanRoUGJ4N25YUEptTXlYZ0Z3cWdBZVRQUG9yUW8wdkEyTmlKdzNVS1Z6cDlxZTBWWEtBUEhqNjBMOFNQQXA4MmJDRzFEZk5SbEprUnZpRU41TjRZdzJtWW9jZjlEaEUzRHR6OdIB9wFBVV95cUxQYXItNnAtVHNyVXBIeEZBblBkN3p1VV9YcFR4cHpib3BnUXg5aHJsS3liTUZaU3dZUXNfYzRSd3pVemE1UXFiQi1oMWV5MjMwUVhPVVNKZllMSlN5Y3hVX3JpRnVtUzFoWlFlWURHWThBeWdRVE1DQWE4NHB2NWlYUzFtZjQ3eXFLcTRjazBUYU02bmVLajRZOTFwR0JBNzJWMk0wX20xYmFjbGlHRkd2YUNMemdTUjFQc2VuOXVnT1dfOXlneHlWWEtlUGl1TU5Fb2NnNlNPRmZoWlBSMi1SbERZVlBQeGY1TVFvSTV6Uk43M3l5em1R?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Zelenski spune că nu îl cheamă pe Putin la Kiev. „Au venit la noi fără invitație în 2022”. Ce crede despre... Digi24 Noi negocieri pentru pacea din Ucraina, la Abu Dhabi. Rusia, Uc…",
-        "pubDate": "Tue, 03 Nov 2026 18:34:47 GMT"
+        "summary": "Cine este Mihaela Pleșa, prima româncă victorioasă în alegerile din Texas. „A vă servi este onoarea vieții... Digi24 Midterms 2026. Rezultatele alegerilor din SUA. O româncă a câșt…",
+        "pubDate": "Wed, 04 Nov 2026 11:55:22 GMT"
+      },
+      {
+        "title": "„Bugetul statului la ora adevărului”. AUR a depus o moțiune simplă împotriva lui Alexandru Nazare",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWmhSSWIwZ1QxdmdDQVVLc3VDcm1fXzRWb3pBZXM2Q3FQVHdjMkNLWVRQdFgxcktVOTdTTFVjOVhJZmZQdy1TM3JuSnZVRmgxNE52aHpfTi1TbEI2QWk3ZGt6ZDE2ZjJWS2RxVmt5R0lhQmFOV2dzeXN3MU5VZy1GTHNOY2hLYzQydkN4SjltR0xnN0JJVkhYT3hVVEhWOWVFTkktY2RNY1dCMVRSQnE4dXptcHc0b1o3bVJnMHItaWdxZ2ZqaWNuQUZmVFV5N1N6YUpNS2syaVZhN2pUOS1wRUxrQm9od9IB8AFBVV95cUxPRDUyV0FtU09sMG1NcjJKZFlrY0FBMHZETDdXVlhpZFpCbEI3MDlfOUpMSlRWWFlNU3RBVUxKN211dmI4eWFQbURZWF9yZkJmOWp1VS11ZXZtS0plWHdjN0dmNXVLeDlaOUp1UGt4b1VMczFORkF5ZGdvOVptQkY0XzROVWhjWlhjcC1ZZExlZDY1cTVURUtBSmQyTUt6SkVVRVhpY2tFaEpLQTZoMVA1NlZYRUxnY1BudnZDa3YzaDkyb1djNEpvSE9ja00zZk1kUDh0djFhQTlDbWx3ZWhBTlAzU0U0SnFJQXVyMWRndVU?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "„Bugetul statului la ora adevărului”. AUR a depus o moțiune simplă împotriva lui Alexandru Nazare Digi24 Senat/ AUR a depus moțiunea simplă pe Finanțe Agerpres AUR a depus prima mo…",
+        "pubDate": "Wed, 04 Nov 2026 10:20:02 GMT"
+      },
+      {
+        "title": "Aderarea Ucrainei la UE, incertă. Blocul ia în calcul tot mai mult decuplarea Chișinăului de Kiev în drumul către Bruxelles (Politico)",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOLWxHQ2ctblctbi0wQjI4VHZsLU5jUHR1blBHamFSOWZxZW1XdjM4YlZzRmtkbTZfbDFqNnNEUWNIRThUN3lXajJjZUc1VWxYSDRNOFdJNUdLenRhYUY0RUFTMVdBRjJMeEcteWlrYXJKY2EybkxxV0RVWEN2WnhTaUNEcWtQMlJDbDNNZ0FfVVBCdUl6WmQ4NHY4N1JSalVxTDUxOEROX0tPRk0zU2lNWHFITEktcTBkSjRodzJnYjdMYVhsR09ucmc1YlNQLUxXbGtiQWV6eXpQTXg1REd6bFpobFEyQ2toZjYzYXJlVmRiWVY3RkRsWnppNExBM1ZHZmR0cUdXb1Q?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Aderarea Ucrainei la UE, incertă. Blocul ia în calcul tot mai mult decuplarea Chișinăului de Kiev în drumul către Bruxelles (Politico) Digi24 Moldova a depășit Ucraina în negocieri…",
+        "pubDate": "Wed, 04 Nov 2026 09:59:13 GMT"
+      },
+      {
+        "title": "HELLENiQ ENERGY urmează să prezinte planuri majore de investiții în energie regenerabilă în România",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdW5TMHgwd0phalljdk1IdXl0X0o1OVNqZm0tOHVBUmZzcF8xVVQ2YV9oOFF5SjR2Sld2NTIzVnRhNzFVQjZxWUowY0pjZkMwRWt0YjR5dWVBRXBMU2ZNMmZIVm1EUnVxMVJ3c1Z5cjVfN2NTWTY3cDBuRWxqOGVOWV9UYURudU1COW5BMnBCOXR5eG01UE9JalVvUWpkVTlIRUNVeDlPemUwRkJGaktSTE5nRkZnbVhmZnkzeE9WUi10YkJKMGc?oc=5",
+        "source": "G4Media",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "HELLENiQ ENERGY urmează să prezinte planuri majore de investiții în energie regenerabilă în România G4Media",
+        "pubDate": "Wed, 04 Nov 2026 07:04:51 GMT"
       },
       {
         "title": "VIDEO Sânge de dinozaur descoperit pentru prima dată într-o fosilă / Globulele roșii erau fosilizate într-un mineral de oxid de mangan",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRVZrWl9aaklQaGRkdm5pVzRyWGNMQmZLUmVWZ2g2dVlZUWhfaDNJTDhCZldnOERzYzVSaGxSVlVVc1BPVFFTR3prdDZmTHgxMFltNEllN1Z4Rlo2TGZyZWJhMHgzYTRtVWpMRVNadGZENVRhTGVieTZDZTVhcS1SbmE0M3c3OHhxUVBHVnFubC1YSGtMVVZFT182c2VtWjc2S1E4Sml1M2lDVWtmemVLdzdkclpaY0RDM3RaaDhGLVJsbnIyOFBOVFFtem5Jd2hLWkZOY21FU1V6STc0TWhBX2RNLVV5OEx4TXgybG9QTUNhZw?oc=5",
         "source": "G4Media",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "VIDEO Sânge de dinozaur descoperit pentru prima dată într-o fosilă / Globulele roșii erau fosilizate într-un mineral de oxid de mangan G4Media Celule roșii de dinozaur, găsite într…",
+        "summary": "VIDEO Sânge de dinozaur descoperit pentru prima dată într-o fosilă / Globulele roșii erau fosilizate într-un mineral de oxid de mangan G4Media Celule sanguine de dinozaur au fost d…",
         "pubDate": "Tue, 03 Nov 2026 17:50:31 GMT"
-      },
-      {
-        "title": "Prima reacție a Rusiei după afirmația jurnalistului Tucker Carlson că SUA vor ataca nuclear Iranul",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPajZ2SHVhd0UwVC1VYU44a3UwRzlLWmZaMnE5Szh4Y0xReEI1TnRFVGsyM19QeFIyRVNzWV9vcl9reEZCOWpZZFd1Ul9GdlNUcGJ1S2NOQ3FfSUVSLTBkWnpxbDBPX3BYc2E0dXk4R1ozYmhfaVpQSGZXOHRJTEtROENhU3pzelRfYkRORWhEUXNSZm1jZ2I3ODhmejh3elNqTWFXakpMRlliYzJaZTdGdXJ4Mnp6Rzh4S2ZJcGlqZ1UzWXVEV3RKZGFhMGVwRkNnZkRfSzlEbk1DUdIB5AFBVV95cUxQaGJ4Tlh5a2czQkotUDdkbzdaeEN4VWgyWE5YX0FtSnZvRUd5dFVpWGR4cWhmMTc3S294TnNSY1dnVExSQ1NDeDRqVUdQaV9BWUZCekFKRkhrZmE3d1JhOW1uMWxHV3RqVGJuaWxsNDlWYnBsanYwaXN0ZXNxOFprMG45d2F0WXpyOEFfTHhpVTBMb1VjN2NwV1pteTc0Nlg1V1FKSzJkUzVFU3RuSC12bm1PRDBWSDg1S29XVDB0QTdmSWFyQTZZb3VhUmRUWUE5WFc4ZkZSOVMzQVYyTmpzWnZ6T3U?oc=5",
-        "source": "Digi24",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Prima reacție a Rusiei după afirmația jurnalistului Tucker Carlson că SUA vor ataca nuclear Iranul Digi24 Trump confirmă că SUA au lansat noi atacuri asupra Iranului Agerpres NYT:…",
-        "pubDate": "Tue, 03 Nov 2026 16:30:48 GMT"
       },
       {
         "title": "Review METZ MNH7000. Un televizor 4K cu ecran mat, gândit pentru camerele în care lumina poate strica...",
@@ -729,214 +753,126 @@
         "pubDate": "Tue, 03 Nov 2026 13:42:12 GMT"
       },
       {
-        "title": "Ce pățești când superi un om influent dintr-un județ. Cazul localului unde procurorul Teodor Niță „a fost...",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORjlzSnZkWjlfdUtCSHpyUktueHQ4ZUtwZVlLSUVwN1o3VVpLbUl5aXY5d2dQcS1IQmpGZ3ZLS2JmUTJIREZBTmZBRWpYaGRnR0RGSDJEa01EeGVOYWFQQzYxeHVOWmtKT2ZEQk9tUEM4alBNU3pOMkUxSmkyTEtBUkRLRHV0ZGpaSTlHcnQ3VmM0anlZdU9pNjZkbFY3OXU2WUs1d01jVEtyTmFpUEp6ZGNIeFhNeTduRzN1eE1EVklmeTJLSlUtMHJpTGNMRVVYTENfMXdHM3NLYUEzNTJOVDRWaEZHd2YxNDJyVndWLWp1cmp3N1V6SWh3?oc=5",
+        "title": "Un meteorit de pe Marte, căzut în deșertul Sahara, are o vechime de 4,1 miliarde de ani. Care este...",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUWZqcklOTVVBTHBLM1h0TThHQ09fUFNud0pnTEtwc3l2NnpHUUxVTVk3ZTI0VGt4ZEZKWklOTlN4ZjFuM1pDNGpjdHc4X2ZFRmc5Rk5DSUlZMC0wYVZvd1pjTDlPdjQ3dS10UU44bkRfWk9MV0ZoMHB3cnVnMkx2QjlZcG5qNXJtOUR5cVVYR0JEZnFiajVGb3dvVGlBckVSTDN5YUhEQmZlWUt3NmtqUlFlRkNycno2cVd3Y19nbzJnLXVqdnFEaXg3ZEdFSGZOdXFBRHh4OGhKZkMyQnZnalFHa0RndFFiU0JjNGxrRHFWRGJSdkRfNzNCSjM3TkViN0FfT0JTTdIBkgJBVV95cUxNR3dGU0FNY1lGN1JDcHVQSkJMZ3owTnZ1VXB1SjNMMWw5OW00VzItSDMtMjVBUHJsTFVuT1hvVFdITXlpRDFENTNkWEU2Z05hcXVORTlsRmRySEg4eHdTaXRiRGY4bHZqUWZMV1ZQOTVSUVR3aU10Sy1LUnRCeE5LUXJ0dEZXUjc2aUZHSzlsN0M2ckQwQUhLazJITkY4bnE1MDAxSFVsNUk5aVJJdzBjSDkxMmVaSDVUUWFIUE5rdERVSWtpMWdMUEloT0ZCM296cDZRbE9hOEFleWxHdm9nQTlSR2l1V1NGbHVPSlFtZ01yQklVSnVXSi03MFRSd0lZNlhqYXhBWVlrbGFGVHFWckdB?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Ce pățești când superi un om influent dintr-un județ. Cazul localului unde procurorul Teodor Niță „a fost... Digi24 Cum ar fi fabricat procurorul Teodor Niță un dosar penal pentru…",
-        "pubDate": "Tue, 03 Nov 2026 12:27:09 GMT"
-      },
-      {
-        "title": "O nouă metodă pentru dezvoltarea vaccinurilor personalizate împotriva cancerului",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWGhpZWpMeFVkOWxLZmpJZnkyaWVFa0FDZmtIVFZQYUNTQjMtRklMMXlyb2NtOHd6Q2tOWkJYSzc3OGR5N004N3E3dUFHNVI5UFd2RUxrR0NySlpZVHlQWEo2TFYwbkpIbXRnT1VzSm1YUFJTLU9jcGczMHRlTGNjbzd4enRnWnJrT0hiVGE4aThxVV9aY3F2d2VaTmNJU0FZTnRFbnFQcWMzRjJl?oc=5",
-        "source": "G4Media",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "O nouă metodă pentru dezvoltarea vaccinurilor personalizate împotriva cancerului G4MediaVedeți mai multe titluri și perspective în Știri Google",
-        "pubDate": "Tue, 03 Nov 2026 05:50:12 GMT"
+        "summary": "Un meteorit de pe Marte, căzut în deșertul Sahara, are o vechime de 4,1 miliarde de ani. Care este... Digi24 O rocă descoperită în Mali oferă indicii despre ce se întâmpla pe Marte…",
+        "pubDate": "Sun, 01 Nov 2026 20:57:09 GMT"
       }
     ],
     "🇲🇽 Mexico": [
       {
-        "title": "Sheinbaum gobierna con las migajas del presupuesto",
-        "link": "https://www.elfinanciero.com.mx/opinion/alejo-sanchez-cano/2026/11/04/sheinbaum-gobierna-con-las-migajas-del-presupuesto/",
-        "source": "Alejo Sánchez Cano",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "'Sheinbaum no gobierna con 10.6 billones disponibles. Gobierna con lo que queda después de pagar las facturas y cada año queda menos', analiza Alejo Sánchez Cano en su columna.",
-        "pubDate": "Wed, 04 Nov 2026 09:50:31 +0000"
-      },
-      {
-        "title": "‘Tony Montana’, hermano del ‘Mencho’ acepta posible condena de 20 años de prisión: ‘Pido misericordia’",
-        "link": "https://www.elfinanciero.com.mx/nacional/2026/11/03/tony-montana-hermano-del-mencho-acepta-posible-condena-de-20-anos-de-prision-pido-misericordia/",
+        "title": "‘Era mi amor platónico’: ¿Bobby Pulido le dedicó ‘Desvelado’ a Selena Quintanilla?",
+        "link": "https://www.elfinanciero.com.mx/espectaculos/2026/11/04/bobby-pulido-le-dedico-desvelado-a-selena-quintanilla/",
         "source": "Redacción",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "El hermano del 'Mencho', Antonio Oseguera 'Tony Montana', pidió una sentencia que le permita no morir lejos de su familia.",
-        "pubDate": "Wed, 04 Nov 2026 09:45:57 +0000"
+        "summary": "¿Quién creó la canción ‘Desvelado’? Aunque Bobby Pulido es el intérprete del tema, la letra fue escrita por Jorge Amena para el álbum debut del cantante.",
+        "pubDate": "Wed, 04 Nov 2026 18:06:35 +0000"
       },
       {
-        "title": "‘Hice que ganara Calderón’: Fox revela que operó para mantener al PAN en el poder en las elecciones 2006",
-        "link": "https://www.elfinanciero.com.mx/nacional/2026/11/03/vicente-fox-revela-que-hizo-que-ganara-felipe-calderon-las-elecciones-de-2006-contra-amlo/",
+        "title": "Nueva megamarcha de trabajadores del IMSS para el 9 de noviembre en CDMX: Hora y calles afectadas",
+        "link": "https://www.elfinanciero.com.mx/cdmx/2026/11/04/nueva-megamarcha-de-trabajadores-del-imss-para-el-9-de-noviembre-en-cdmx-hora-y-calles-afectadas/",
         "source": "Redacción",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Vicente Fox admitió que no fue democrático y que operó, como presidente, para que AMLO perdiera las elecciones contra Felipe Calderón.",
-        "pubDate": "Wed, 04 Nov 2026 09:44:31 +0000"
+        "summary": "Trabajadores del IMSS convocaron a una nueva megamarcha nacional para el próximo lunes 9 de noviembre; aquí te decimos qué calles serán afectadas.",
+        "pubDate": "Wed, 04 Nov 2026 18:04:38 +0000"
       },
       {
-        "title": "¿Por qué Bobby Pulido dejó la música por la política? ‘Dios me dio un don para cantar y ser un líder’",
-        "link": "https://www.elfinanciero.com.mx/espectaculos/2026/11/03/por-que-bobby-pulido-dejo-la-musica-por-la-politica/",
+        "title": "Clima en Península de Yucatán: ¿Qué temperaturas se esperan este jueves 5 de noviembre?",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/04/clima-en-peninsula-de-yucatan-jueves-5-de-noviembre-que-temperaturas-se-esperan-source-ia/",
         "source": "Redacción",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Bobby Pulido participó en las elecciones intermedias de Estados Unidos como un candidato a la Cámara de Representantes.",
-        "pubDate": "Wed, 04 Nov 2026 09:44:25 +0000"
+        "summary": "Este jueves 5 de noviembre, la Península de Yucatán se prepara para un día de contrastes climáticos.",
+        "pubDate": "Wed, 04 Nov 2026 17:55:13 +0000"
       },
       {
-        "title": "Se frena el crecimiento en cadenas comerciales por menor consumo",
-        "link": "https://www.elfinanciero.com.mx/empresas/2026/11/04/se-frena-el-crecimiento-en-cadenas-comerciales-por-menor-consumo/",
-        "source": "Karla Rodríguez",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Apuestan por tecnología, automatización y marcas propias.",
-        "pubDate": "Wed, 04 Nov 2026 09:41:05 +0000"
-      },
-      {
-        "title": "Asesinatos a periodistas en México: CJNG entra a la lista de ‘Depredadores de la Libertad de Prensa’ de RSF",
-        "link": "https://www.elfinanciero.com.mx/nacional/2026/11/03/asesinatos-a-periodistas-en-mexico-cjng-entra-a-la-lista-de-depredadores-de-la-libertad-de-prensa-de-rsf/",
+        "title": "Owono vive ‘los días más difíciles’ por muerte de Jesús de Miguel: ‘Afrontaré lo que venga’",
+        "link": "https://www.elfinanciero.com.mx/deportes/2026/11/04/jesus-owono-habla-muerte-jesus-de-miguel/",
         "source": "Redacción",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "El CJNG está detrás de múltiples actos de violencia contra periodistas en México.",
-        "pubDate": "Wed, 04 Nov 2026 09:40:35 +0000"
+        "summary": "El portero del FC Andorra envió un mensaje a la familia de Jesús de Miguel y reconoció que todavía le cuesta asimilar lo ocurrido en el encuentro de LaLiga Hypermotion.",
+        "pubDate": "Wed, 04 Nov 2026 17:43:36 +0000"
       },
       {
-        "title": "Elecciones en EU 2026: ‘Ola’ azul derrota a Donald Trump y demócratas ganan control del Congreso",
-        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/03/elecciones-intermedias-estados-unidos-2026-en-vivo-resultados/",
+        "title": "Wall Street ‘celebra’ triunfo demócrata en EU: Mercados abren con ganancias de hasta 2.33%",
+        "link": "https://www.elfinanciero.com.mx/mercados/2026/11/04/bmv-wall-street-hoy-4-de-noviembre-de-2026/",
+        "source": "Valeria López",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "La Bolsa Mexicana de Valores exhibe un impulso positivo. El S&P/BMV IPC de la Bolsa Mexicana de Valores gana 1.87 por ciento hasta las 71 mil 496.38 unidades.",
+        "pubDate": "Wed, 04 Nov 2026 17:42:43 +0000"
+      },
+      {
+        "title": "Clima en Jalisco: Soleado y hasta 30°C para el jueves 5 de noviembre",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/04/clima-en-jalisco-jueves-5-de-noviembre-con-sol-y-temperaturas-de-casi-30c-source-ia/",
         "source": "Redacción",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Las elecciones en EU marcarán la segunda mitad del mandato de Trump, mientras las encuestas colocan a los demócratas como los favoritos a llevarse el Congreso y estados clave.",
-        "pubDate": "Wed, 04 Nov 2026 09:38:32 +0000"
+        "summary": "La Zona Metropolitana de Guadalajara tendrá un día soleado, con mínimas de 10°C y máximas cercanas a 30°C. Prepárese para el calor.",
+        "pubDate": "Wed, 04 Nov 2026 17:04:32 +0000"
       },
       {
-        "title": "Abdul El-Sayed, la nueva figura a seguir en los Estados Unidos",
-        "link": "https://www.elfinanciero.com.mx/opinion/omar-cepeda/2026/11/04/abdul-el-sayed-la-nueva-figura-a-seguir-en-los-estados-unidos/",
-        "source": "Omar  Cepeda",
+        "title": "Entre colibríes y recuerdos, Grupo Camino Real celebra el Día de Muertos",
+        "link": "https://www.elfinanciero.com.mx/viajes/2026/11/04/entre-colibries-y-recuerdos-grupo-camino-real-celebra-el-dia-de-muertos/",
+        "source": "El Financiero",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Abdul El-Sayed ganó las elecciones por el Senado en Michigan: ¿Qué implicaciones tiene su triunfo tras ser considerado como uno de los demócratas más incómodos para Donald Trump?",
-        "pubDate": "Wed, 04 Nov 2026 09:38:01 +0000"
+        "summary": "",
+        "pubDate": "Wed, 04 Nov 2026 17:00:55 +0000"
       },
       {
-        "title": "México ‘pierde’ con la llegada de demócratas al Congreso de EU: ¿Por qué no será favorable?",
-        "link": "https://www.elfinanciero.com.mx/economia/2026/11/04/mexico-pierde-con-la-llegada-de-democratas-al-congreso-de-eu-por-que-no-sera-favorable/",
-        "source": "HÉCTOR USLA | VALERIA LÓPEZ | JASSIEL VALDELAMAR",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "La negociación del T-MEC será uno de los principales factores para medir la tensión.",
-        "pubDate": "Wed, 04 Nov 2026 09:09:30 +0000"
-      },
-      {
-        "title": "Vida y muerte del árbitro electoral independiente",
-        "link": "https://www.elfinanciero.com.mx/opinion/ciro-murayama/2026/11/04/vida-y-muerte-del-arbitro-electoral-independiente/",
-        "source": "Ciro Murayama",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Ciro Murayama explica cómo el INE antes fungía como órgano autónomo de manera auténtica, y las decisiones recientes que lo hicieron morir desde el 'autoritarismo'.",
-        "pubDate": "Wed, 04 Nov 2026 09:03:31 +0000"
-      },
-      {
-        "title": "El día que Trump perdió el Congreso",
-        "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/11/04/el-dia-que-trump-perdio-el-congreso/",
-        "source": "Enrique Quintana",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "¿Qué implicaciones tiene la derrota de Donald Trump en las elecciones? Enrique Quintana explica qué pasará con la agenda legislativa en EU y la relación con México y el T-MEC.",
-        "pubDate": "Wed, 04 Nov 2026 08:46:01 +0000"
-      },
-      {
-        "title": "Poder informal y criminal",
-        "link": "https://www.elfinanciero.com.mx/opinion/raymundo-riva-palacio/2026/11/04/poder-informal-y-criminal/",
-        "source": "Raymundo Riva Palacio",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "El columnista expone las redes de influencia y los señalamientos que rodean a figuras de la 4T.",
-        "pubDate": "Wed, 04 Nov 2026 08:34:46 +0000"
-      },
-      {
-        "title": "Confianza",
-        "link": "https://www.elfinanciero.com.mx/opinion/macario-schettino/2026/11/04/confianza/",
-        "source": "Macario Schettino",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "El columnista cuestiona un crecimiento del PIB que no se refleja en el empleo ni en la inversión.",
-        "pubDate": "Wed, 04 Nov 2026 08:06:15 +0000"
-      },
-      {
-        "title": "Nos gusta Omar… pero su trabajo no",
-        "link": "https://www.elfinanciero.com.mx/opinion/salvador-camarena/2026/11/04/nos-gusta-omar-pero-su-trabajo-no/",
-        "source": "Salvador Camarena",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "El columnista analiza por qué Sheinbaum y Harfuch mantienen popularidad pese a la desaprobación en seguridad.",
-        "pubDate": "Wed, 04 Nov 2026 07:54:42 +0000"
-      },
-      {
-        "title": "NVIDIA AI Day llega a México IA+",
-        "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/11/04/nvidia-ai-day-llega-a-mexico-ia/",
-        "source": "De jefes .",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Qué intenciones tiene NVIDIA con México, cómo el Palacio de Hierro logró incrementar sus ingresos en el tercer trimestre y por qué Nuevo León se mantiene como una de las principale…",
-        "pubDate": "Wed, 04 Nov 2026 07:40:54 +0000"
-      },
-      {
-        "title": "La certeza jurídica y el derecho a prever el futuro",
-        "link": "https://www.elfinanciero.com.mx/opinion/hector-ibarra/2026/11/04/la-certeza-juridica-y-el-derecho-a-prever-el-futuro/",
-        "source": "Héctor  Ibarra",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Héctor Ibarra explica que los ajustes a la modalidad 40 del IMSS deben realizarse 'mediante los instrumentos jurídicos correspondientes'.",
-        "pubDate": "Wed, 04 Nov 2026 07:32:02 +0000"
-      },
-      {
-        "title": "El nearshoring: energía y desarrollo para México",
-        "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/11/04/el-nearshoring-energia-y-desarrollo-para-mexico/",
-        "source": "Francisco Ripol",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "México se enfrenta a un nuevo reto con el Nearshoring, especialmente en proyectos de energía.",
-        "pubDate": "Wed, 04 Nov 2026 07:30:00 +0000"
-      },
-      {
-        "title": "Goles de oro y autogoles presupuestales",
-        "link": "https://www.elfinanciero.com.mx/opinion/lourdes-mendoza/2026/11/04/goles-de-oro-y-autogoles-presupuestales/",
-        "source": "Lourdes Mendoza",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Lourdes Mendoza cuestiona los antecedentes administrativos de Francisco Bravo Bravo, sus nombramientos en Veracruz y ASA, y los señalamientos sobre licitaciones.",
-        "pubDate": "Wed, 04 Nov 2026 07:30:00 +0000"
-      },
-      {
-        "title": "En Hacienda hacen ‘malabares’ fiscales",
-        "link": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/11/04/en-hacienda-hacen-malabares-fiscales/",
-        "source": "Víctor Piz",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Víctor Piz analiza qué hay detrás del gasto en inversión física y la recaudación fiscal.",
-        "pubDate": "Wed, 04 Nov 2026 07:30:00 +0000"
-      },
-      {
-        "title": "El anunciado aflojamiento del Banxico",
-        "link": "https://www.elfinanciero.com.mx/opinion/manuel-sanchez-gonzalez/2026/11/04/el-anunciado-aflojamiento-del-banxico/",
-        "source": "Manuel Sánchez González",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Para Manuel Sánchez González, Banxico debería replantear su estrategia de un modo similar a cómo lo hace la Fed para acercarse al objetivo de inflación.",
-        "pubDate": "Wed, 04 Nov 2026 07:30:00 +0000"
-      },
-      {
-        "title": "México ‘reconquista’ California: ¿Quién es Xavier Becerra, hijo de inmigrantes y gobernador electo?",
-        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/03/mexico-reconquista-california-quien-es-xavier-becerra-hijo-de-mexicanos-que-se-perfila-a-gobernador/",
+        "title": "Clima en CDMX y Edomex: Hasta 25°C para el jueves 5 de noviembe",
+        "link": "https://www.elfinanciero.com.mx/cdmx/2026/11/04/clima-en-cdmx-y-edomex-jueves-5-de-noviembre-con-mananas-frescas-source-ia/",
         "source": "Redacción",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Xavier Becerra retuvo California para los demócratas, un estado gobernado por ahora por Gavin Newson, quien ya no podía competir por un nuevo mandato.",
-        "pubDate": "Wed, 04 Nov 2026 04:56:02 +0000"
+        "summary": "El Valle de México espera un jueves con temperaturas frescas al amanecer y un ambiente cálido por la tarde. No se prevén lluvias.",
+        "pubDate": "Wed, 04 Nov 2026 16:47:32 +0000"
       },
       {
-        "title": "Conductores de ‘Ventaneando’ niegan vínculos con Inés Gómez Mont: ‘Nosotros no robamos’",
-        "link": "https://www.elfinanciero.com.mx/espectaculos/2026/11/03/conductores-de-ventaneando-niegan-vinculos-con-ines-gomez-mont/",
-        "source": "Redacción",
+        "title": "Peso ‘hace leña’ de derrota de Trump en elecciones en EU: ¿Cuánto gana al dólar HOY?",
+        "link": "https://www.elfinanciero.com.mx/mercados/2026/11/04/peso-dolar-tipo-de-cambio-hoy-precio-4-de-noviembre-de-2027/",
+        "source": "Valeria López",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Los conductores de Ventaneando hablaron sobre la detención de Inés Gómez Mont en Estados Unidos y aclararon cuándo fue la última vez que tuvieron contacto con ella.",
-        "pubDate": "Wed, 04 Nov 2026 04:27:42 +0000"
+        "summary": "Las monedas de mercados emergentes se benefician de la perspectiva de un 'Gobierno dividido' en EU en el que Trump y os demócratas chocarán constantemente durante los próximos dos…",
+        "pubDate": "Wed, 04 Nov 2026 16:39:58 +0000"
       },
       {
-        "title": "Senado avala la ‘Ley Antimemes’: así busca regular contenidos en internet",
-        "link": "https://www.elfinanciero.com.mx/nacional/2026/11/03/senado-avala-la-ley-antimemes-asi-busca-regular-contenidos-en-internet/",
+        "title": "‘Nos da mucho gusto’: Sheinbaum celebra victorias de Xavier Becerra y Gina Hinojosa en elecciones en EU",
+        "link": "https://www.elfinanciero.com.mx/nacional/2026/11/04/claudia-sheinbaum-mananera-temas-hoy-4-de-noviembre-de-2026-en-vivo/",
         "source": "Redacción",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "El Senado aprobó la Ley Antimemes, que contempla multas de hasta 4.6 mdp para proveedores de internet que incumplan las disposiciones.",
-        "pubDate": "Wed, 04 Nov 2026 04:11:34 +0000"
+        "summary": "Los demócratas ganaron y en grande la Cámara de Representantes y el Senado, por lo que podrán poner freno a Donald Trump durante sus últimos dos años de Gobierno.",
+        "pubDate": "Wed, 04 Nov 2026 15:56:53 +0000"
       },
       {
-        "title": "La vez que Carlos Albert discutió con Ricardo La Volpe EN VIVO: ‘¿De qué estás hablando? Hasta lueguito’",
-        "link": "https://www.elfinanciero.com.mx/deportes/2026/11/03/asi-fue-la-vez-que-carlos-albert-discutio-con-ricardo-la-volpe-en-vivo/",
+        "title": "Yolanda Andrade denuncia agresión en la calle: ‘Me patearon el bastón, pude haber caído’",
+        "link": "https://www.elfinanciero.com.mx/espectaculos/2026/11/04/yolanda-andrade-denuncia-agresion-en-la-calle/",
         "source": "Redacción",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Carlos Albert tuvo una acalorada entrevista con Ricardo Lavolpe, exentrenador de la Selección Mexicana.",
-        "pubDate": "Wed, 04 Nov 2026 03:11:30 +0000"
+        "summary": "Yolanda Andrade, conductora de televisión, pidió respeto por las personas que necesitan bastón para caminar, luego de vivir una mala experiencia.",
+        "pubDate": "Wed, 04 Nov 2026 15:52:21 +0000"
+      },
+      {
+        "title": "Noroña reprocha a Higinio Martínez que no lo defendiera de ‘Alito’ Moreno: ‘No dijo absolutamente nada’",
+        "link": "https://www.elfinanciero.com.mx/nacional/2026/11/04/norona-reprocha-a-higinio-martinez-que-no-lo-defendiera-de-alito-moreno-no-dijo-absolutamente-nada/",
+        "source": "Diana Benítez",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Fernández Noroña criticó que el presidente del Senado, Higinio Martínez, no tomara una postura en su favor luego de que el senador 'Alito' Moreno hiciera un comentario en su contra…",
+        "pubDate": "Wed, 04 Nov 2026 15:47:10 +0000"
+      },
+      {
+        "title": "Se agrava crisis en el Aeropuerto de Tulum: United también dejará de volar y recomienda pedir reembolso",
+        "link": "https://www.elfinanciero.com.mx/empresas/2026/11/04/se-agrava-crisis-en-el-aeropuerto-de-tulum-united-tambien-dejara-de-volar-y-recomienda-pedir-reembolso/",
+        "source": "Aldo Munguía",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "United explicó que la eliminación de los dos vuelos que realizaba diariamente en el Aeropuerto de Tulum corresponde a factores de mercado.",
+        "pubDate": "Wed, 04 Nov 2026 15:41:07 +0000"
+      },
+      {
+        "title": "ASF halla ‘irregularidades históricas’ en el INE: Advierte que revisará contrataciones de últimos 25 años",
+        "link": "https://www.elfinanciero.com.mx/nacional/2026/11/04/asf-halla-irregularidades-historicas-en-el-ine-advierte-que-revisara-contrataciones-de-ultimos-25-anos/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "La Auditoría Superior de la Federación investigará los contratos del IFE, el INE y los Oples para identificar posibles irregularidades, concentración de proveedores y prácticas ile…",
+        "pubDate": "Wed, 04 Nov 2026 15:37:37 +0000"
       },
       {
         "title": "Muere Carlos Albert, exseleccionado nacional y comentarista deportivo, a los 83 años",
@@ -944,7 +880,87 @@
         "source": "Redacción",
         "sourceUrl": "https://www.elfinanciero.com.mx",
         "summary": "Murió Carlos Albert Llorente a los 83 años. El exfutbolista y comentarista deportivo fue despedido por periodistas como David Faitelson y Francisco Javier González.",
-        "pubDate": "Wed, 04 Nov 2026 03:10:31 +0000"
+        "pubDate": "Wed, 04 Nov 2026 15:37:21 +0000"
+      },
+      {
+        "title": "‘Caos’ en Línea B del Metro de CDMX: ¿Qué estaciones no dan servicio HOY y por qué?",
+        "link": "https://www.elfinanciero.com.mx/cdmx/2026/11/04/caos-en-linea-b-del-metro-de-cdmx-que-estaciones-no-dan-servicio-hoy-y-por-que/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "El Metro CDMX suspendió el servicio de la Línea B entre Oceanía y Deportivo Oceanía por daños en equipos eléctricos tras un incendio.",
+        "pubDate": "Wed, 04 Nov 2026 15:36:46 +0000"
+      },
+      {
+        "title": "Irán celebra derrota de republicanos... y Trump responde tras perder el Congreso: ‘No es revés para mí’",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/04/iran-celebra-derrota-de-republicanos-y-trump-responde-tras-perder-el-congreso-no-es-reves-para-mi/",
+        "source": "EFE",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Irán celebró la derrota de los republicanos y de Donald Trump en las elecciones de medio mandato de Estados Unidos.",
+        "pubDate": "Wed, 04 Nov 2026 14:56:03 +0000"
+      },
+      {
+        "title": "Texas se convierte en demócrata: ¿Por qué la derrota republicana es un revés para Trump y Musk?",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/04/texas-se-convierte-en-democrata-por-que-la-derrota-republicana-es-un-reves-para-trump-y-musk/",
+        "source": "Bloomberg",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Los demócratas consiguieron importantes victorias en Texas y pusieron en jaque el dominio republicano.",
+        "pubDate": "Wed, 04 Nov 2026 14:24:20 +0000"
+      },
+      {
+        "title": "México ‘pierde’ con la victoria de los demócratas en el Congreso de EU: ¿Por qué no será favorable?",
+        "link": "https://www.elfinanciero.com.mx/economia/2026/11/04/mexico-pierde-con-la-llegada-de-democratas-al-congreso-de-eu-por-que-no-sera-favorable/",
+        "source": "Héctor Usla, Valeria López, Jassiel Valdelamar",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "La negociación del T-MEC será uno de los principales factores para medir la tensión.",
+        "pubDate": "Wed, 04 Nov 2026 14:21:38 +0000"
+      },
+      {
+        "title": "‘Desvelado... pero con victoria’: Bobby Pulido gana el Distrito 15 de Texas y da un escaño a demócratas",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/04/bobby-pulido-gana-el-distrito-15-de-texas-y-da-un-escano-a-democratas/",
+        "source": "EFE",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Bobby Pulido fue declarado ganador en la contienda por representar al distrito 15 de Texas tras derrotar a la republicana Mónica De La Cruz.",
+        "pubDate": "Wed, 04 Nov 2026 13:52:45 +0000"
+      },
+      {
+        "title": "Logística inversa: la segunda oportunidad de venta que busca la industria de la moda",
+        "link": "https://www.elfinanciero.com.mx/transporte-y-movilidad/2026/11/04/logistica-inversa-la-segunda-oportunidad-de-venta-que-busca-la-industria-de-la-moda/",
+        "source": "Reyna Isabel Ortega",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Para la plataforma Reversso el reincorporar los productos en el menor tiempo posible se convierte en un factor clave para recuperar ventas, reducir costos y proteger la rentabilida…",
+        "pubDate": "Wed, 04 Nov 2026 13:25:00 +0000"
+      },
+      {
+        "title": "ORGULLO...",
+        "link": "https://www.elfinanciero.com.mx/cartones/rictus/2026/11/04/orgullo/",
+        "source": "Rictus",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "",
+        "pubDate": "Wed, 04 Nov 2026 12:41:06 +0000"
+      },
+      {
+        "title": "Jornada 4 de Champions League HOY: ¿Dónde ver EN VIVO a Real Madrid, Liverpool, Arsenal y Manchester City?",
+        "link": "https://www.elfinanciero.com.mx/deportes/2026/11/04/champions-league-2026-en-vivo-resultados-de-la-jornada-4-hoy-4-de-noviembre/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Consulta los nueve partidos de la Jornada 4 de Champions League del 4 de noviembre, con horarios del centro de México y opciones de transmisión.",
+        "pubDate": "Wed, 04 Nov 2026 12:00:01 +0000"
+      },
+      {
+        "title": "Horario de comercio",
+        "link": "https://www.elfinanciero.com.mx/opinion/manuel-molano/2026/11/04/horario-de-comercio/",
+        "source": "Manuel J.  Molano",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Manuel J. Molano analiza los costos económicos de eliminar el horario de verano y plantea unificar horarios con los socios comerciales del norte.",
+        "pubDate": "Wed, 04 Nov 2026 12:00:00 +0000"
+      },
+      {
+        "title": "La economía mundial cambia de motor: ¿puede México aprovechar la revolución de la IA?",
+        "link": "https://www.elfinanciero.com.mx/opinion/clemente-ruiz-duran1/2026/11/04/la-economia-mundial-cambia-de-motor-puede-mexico-aprovechar-la-revolucion-de-la-ia/",
+        "source": "Clemente Ruiz Durán",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Clemente Ruiz Durán analiza cómo la inversión en inteligencia artificial redefine la economía mundial y qué necesita México para aprovecharla.",
+        "pubDate": "Wed, 04 Nov 2026 11:30:00 +0000"
       }
     ]
   }
