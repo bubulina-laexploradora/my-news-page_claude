@@ -1,216 +1,344 @@
 {
-  "lastUpdated": "2026-11-11T23:09:07.194Z",
+  "lastUpdated": "2026-11-12T04:30:42.706Z",
   "regions": {
     "🌍 Global": [
+      {
+        "title": "Iran’s chief negotiator tells Al Jazeera ‘ball in US court’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Iran’s chief negotiator says it’s up to the US to answer Iran’s position in the latest round of peace talks.",
+        "pubDate": "Thu, 12 Nov 2026 04:19:55 +0000"
+      },
+      {
+        "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+        "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+        "source": "Jonathan Yerushalmy",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading Jensen Huang…",
+        "pubDate": "Thu, 12 Nov 2026 04:02:56 GMT"
+      },
+      {
+        "title": "Mammoth crowds greet Pope Leo on return to Peru, his adopted homeland",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUpuTEFWN2VuSlF3TnN5Z2MyeUg4dmt5WmVYNHBIUjJLMDNaMnh2OXVibjZUT3BGZmtXT1lTSnFhX1M4dU8wYVpsNi1XX3Y5SXRObkkxSmdCQU53OFMtTkxVcTBIVEo1UE5RUHZmVnpCNV9FblhuM3QxdlVILS1pWWJ2dzEzYmRLMUoybmpneFlPeW1YYUE?oc=5",
+        "source": "The Washington Post",
+        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Mammoth crowds greet Pope Leo on return to Peru, his adopted homeland The Washington Post Pope Leo returns to Peru, the country that shaped his path to the papacy CNN Pope Leo begi…",
+        "pubDate": "Thu, 12 Nov 2026 04:02:47 GMT"
+      },
+      {
+        "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
+        "link": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report.",
+        "pubDate": "Thu, 12 Nov 2026 04:00:24 +0000"
+      },
+      {
+        "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+        "link": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports.",
+        "pubDate": "Thu, 12 Nov 2026 03:50:42 +0000"
+      },
+      {
+        "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/world",
+        "summary": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
+        "pubDate": "Thu, 12 Nov 2026 03:32:54 GMT"
+      },
+      {
+        "title": "Building collapse in Brooklyn kills two, injures more than a dozen",
+        "link": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Rescue crews search for victims as Mayor Mamdani says first responders arrived one minute after emergency call.",
+        "pubDate": "Thu, 12 Nov 2026 03:31:08 +0000"
+      },
+      {
+        "title": "Mother reunites with sons taken under Pinochet regime 40 years ago",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_mother-reunites-with-sons-taken-under-pinochet-111126?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "A Chilean mother has finally embraced her sons for the first time in 40 years since they were taken under Pinochet.",
+        "pubDate": "Thu, 12 Nov 2026 03:13:32 +0000"
+      },
+      {
+        "title": "World heading for ‘irrevocable overshoot’ of global temperature thresholds, analysis warns",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnU1c3FRTTBJdkdjMmZvTEljcTNLWWpmaXg5QUszdEE1aVhtUTU3QTJDT2pTSjZZRGRxU2tTTXA5TzcyQmNBcnJnc0htWFF3a3Z1cnotcnVtYU1NMG56RXMyUEhZMGljREVNREF1ZVYzaDZFYXZMVFhNeE5mamNxYmZwSnlwT3ltcnB1X1cwSHRTcTFVRTBzRjlyUkpmRml6TkJzUktwR1VPNXk2T0VXZ0NOdUJhTTNCQXc0SnRWNGVtb1lkM2t5bGhaY0NPeGdjV05aU0l3?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+        "summary": "World heading for ‘irrevocable overshoot’ of global temperature thresholds, analysis warns The GuardianSee more headlines & perspectives on Google News",
+        "pubDate": "Thu, 12 Nov 2026 03:02:00 GMT"
+      },
+      {
+        "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
+        "link": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+        "source": "Lorenzo Tondo",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a ‘generational’ threat to wildlife The vast, dark slicks in the strait of Hormuz are vis…",
+        "pubDate": "Thu, 12 Nov 2026 03:00:07 GMT"
+      },
+      {
+        "title": "Beau Lamarre-Condon admits throwing Jesse Baird’s phone off a bridge after alleged murders, trial hears",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
+        "source": "Kat Wong",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Court hears former police officer agrees he was trying to destroy evidence that might incriminate him Get our breaking news email, free app or daily news podcast Beau Lamarre-Condo…",
+        "pubDate": "Thu, 12 Nov 2026 02:46:16 GMT"
+      },
+      {
+        "title": "Australian teen missing in bush for six days rescued alive",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VNEE3dFVYWDhwbExMUEhKX1RLYkJiZ1lYazdMbHpnWWIzUExPQWRsakNiZGRqT2hTaUo1X0FrRlhraUZLZndRcFJNZW9wbUU3SXhoZVZFb1Y3NjA?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Australian teen missing in bush for six days rescued alive BBC Joyful mum says teen found after six days missing in bush is 'grounded for life' ABC News & Headlines – Australian Br…",
+        "pubDate": "Thu, 12 Nov 2026 02:40:18 GMT"
+      },
+      {
+        "title": "Survivor pulled from rubble of deadly building collapse in New York",
+        "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/world",
+        "summary": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn.",
+        "pubDate": "Thu, 12 Nov 2026 02:33:12 GMT"
+      },
+      {
+        "title": "Australian teen who went missing in bushland wearing only shorts and boots found alive after six days",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
+        "source": "Australian Associated Press",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "William, 17, was reported missing after straying from his camp near Walhalla in Victoria’s Gippsland region Get our breaking news email, free app or daily news podcast A teenager h…",
+        "pubDate": "Thu, 12 Nov 2026 02:30:28 GMT"
+      },
+      {
+        "title": "Indonesian VP resigns over education qualification row",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Indonesia's Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
+        "pubDate": "Thu, 12 Nov 2026 02:22:48 +0000"
+      },
+      {
+        "title": "Argentina’s Milei cries as he bids farewell to the Pope",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.",
+        "pubDate": "Thu, 12 Nov 2026 02:03:30 +0000"
+      },
+      {
+        "title": "Three-storey building collapses in Brooklyn",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "A three-storey building collapsed in Brooklyn, New York, killing at least two people and injuring several others.",
+        "pubDate": "Thu, 12 Nov 2026 01:50:36 +0000"
+      },
+      {
+        "title": "What could Chinese intelligence have learned from Nvidia CEO’s affair?",
+        "link": "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Nvidia says no secrets were compromised, but experts question what sensitive information may have been exposed.",
+        "pubDate": "Thu, 12 Nov 2026 01:33:09 +0000"
+      },
       {
         "title": "Human torso found in sofa in Sydney bushland prompts homicide investigation",
         "link": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
         "source": "Guardian staff",
         "sourceUrl": "https://www.theguardian.com/world",
         "summary": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man Get our breaking news email, free app or daily news podcast N…",
-        "pubDate": "Wed, 11 Nov 2026 22:57:33 GMT"
+        "pubDate": "Thu, 12 Nov 2026 01:27:01 GMT"
       },
       {
-        "title": "Hegseth and team reprimanded by Arlington national cemetery guard; Trump defends his defense secretary and Iran war",
-        "link": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-        "source": "Robert Mackey (now); Shrai Popat, Lucy Campbell and Tom Ambrose (earlier)",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Incident occurred at Tomb of the Unknown Soldier on day president claimed US ‘did not start war with Iran’ in Veterans Day speech Democrats lambast absent peers over failed Hegseth…",
-        "pubDate": "Wed, 11 Nov 2026 22:57:15 GMT"
-      },
-      {
-        "title": "Israeli strikes hit tent camp as five killed in Gaza",
-        "link": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
+        "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Tent camp attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.",
-        "pubDate": "Wed, 11 Nov 2026 22:55:37 +0000"
+        "summary": "Gaza's Civil Defence says an Israeli strike on Nasser Hospital has killed at least six people.",
+        "pubDate": "Thu, 12 Nov 2026 01:20:55 +0000"
       },
       {
-        "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
-        "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
-        "source": "Tiago Rogero in Rio de Janeiro",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man believed to have taken part in…",
-        "pubDate": "Wed, 11 Nov 2026 22:50:37 GMT"
-      },
-      {
-        "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
-        "link": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
+        "title": "Former Italian Red Brigades member escapes house arrest in Argentina",
+        "link": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "sourceUrl": "https://www.aljazeera.com",
-        "summary": "The move comes months after the government of Javier Milei designated Iran's IRGC as a 'terrorist organisation'.",
-        "pubDate": "Wed, 11 Nov 2026 22:34:43 +0000"
+        "summary": "Bertulazzi used a rope and harness to climb down from a fifth-floor apartment and evade authorities in Argentina.",
+        "pubDate": "Thu, 12 Nov 2026 01:04:28 +0000"
       },
       {
-        "title": "UK appoints world’s first special representative for climate security",
-        "link": "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security",
-        "source": "Fiona Harvey in Antalya and Damien Gayle in London",
+        "title": "Australian states could sue tobacco companies for billions in healthcare costs under proposal",
+        "link": "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs",
+        "source": "Melissa Davey Medical editor",
         "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Exclusive: Madeleine Alessandri, chair of the joint intelligence committee, will take on the role of advising No 10 on climate-related national security risks The UK government has…",
-        "pubDate": "Wed, 11 Nov 2026 22:30:01 GMT"
+        "summary": "Exclusive: Former barrister who helped legally establish that secondhand smoke causes lung cancer argues states could seek up to $50bn in compensation Get our breaking news email,…",
+        "pubDate": "Thu, 12 Nov 2026 01:02:01 GMT"
       },
       {
-        "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
-        "link": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
+        "title": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
+        "link": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "sourceUrl": "https://www.aljazeera.com",
-        "summary": "The BBC denies defamation charge as Trump celebrates “huge victory” in court decision.",
-        "pubDate": "Wed, 11 Nov 2026 22:10:12 +0000"
+        "summary": "Chip giant's stock price falls more than 8 percent amid speculation over co-founder's position.",
+        "pubDate": "Thu, 12 Nov 2026 00:43:26 +0000"
       },
       {
-        "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+        "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
+        "link": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Guard at memorial site can be heard yelling at group to 'maintain an atmosphere of silence and respect at all times'.",
+        "pubDate": "Thu, 12 Nov 2026 00:42:37 +0000"
+      },
+      {
+        "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+        "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-        "pubDate": "Wed, 11 Nov 2026 22:07:37 GMT"
-      },
-      {
-        "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
-        "link": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
-        "source": "Dan Milmo and Graeme Wearden",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independen…",
-        "pubDate": "Wed, 11 Nov 2026 21:59:07 GMT"
-      },
-      {
-        "title": "Housing protests sweep Madrid and Barcelona after Spain’s workers' strike, with clashes erupting",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlZ0c3o4SEdVYWN6SGE2YW45M0xMVUlhNUJlMlo0QnZxMVB1UEdWOVZBOU9qcG9SSUlFSmtOa2F5MFJoQ0hPVEp0SVJ3NzJDV2FfcWtKV040dzUxRExKd2Y0bzRXNUViQzRvaDJBbGdfeW9FaTJyRnkyX1V3SU40Zms3TzhrUDR3dFdzc0J4S3ZqWkJIVUNUZVlfX3FjUy1EV19Wd3dMZw?oc=5",
-        "source": "AP News",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Housing protests sweep Madrid and Barcelona after Spain’s workers' strike, with clashes erupting AP News Millions of Spaniards stage first general strike in 14 years as anger rages…",
-        "pubDate": "Wed, 11 Nov 2026 21:43:00 GMT"
-      },
-      {
-        "title": "Blue wave? Meh. It’s the Brazil election that matters at COP.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWUdiaExXWTNlV21iSDd2RW13d1NQWUNJV1FVUGI3STJpZlhwajc3SUJBbXA3TFE3VjR4Y194cXBpSDZGMkxXbW82NklaOV9zUnA2OXh4dGMtRGlCb1NTUDBNQXo1TVlMYWlxSmJWVUQ3Vl83UjRLME9IWGFlMHdpVWdtdi03NS14bVQ5SV9B?oc=5",
-        "source": "Politico",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Blue wave? Meh. It’s the Brazil election that matters at COP. Politico Conflict must not distract from climate action, leaders warn COP31 Reuters Lula Scolds Leaders as War and Inf…",
-        "pubDate": "Wed, 11 Nov 2026 21:43:00 GMT"
-      },
-      {
-        "title": "‘It's kind of hard to wrap your mind around’",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQW4zb0lkNFVhaGRmNTRGRXUta3dqY2lMSmdIbGk5SEVIdy15aWdzdU55OHBWZVdZdUZzdUhUNFEybVlJVXlYMXdOMGxtMldncS1XbFdCOTY2bk4wSXh2V0l2bXdzaXlSdnRZMmlnQmEwNXBQTXRURVBvd2FIOFE1WmNCS1BFekhIa21pS2hEajdEQUNHN1E?oc=5",
-        "source": "Politico",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "‘It's kind of hard to wrap your mind around’ Politico",
-        "pubDate": "Wed, 11 Nov 2026 21:21:00 GMT"
-      },
-      {
-        "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-        "link": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Iran's parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
-        "pubDate": "Wed, 11 Nov 2026 21:03:40 +0000"
-      },
-      {
-        "title": "Thousands march to mark Poland’s Independence Day",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Thousands of people have taken to the streets of Warsaw for Poland's annual Independence Day march",
-        "pubDate": "Wed, 11 Nov 2026 21:02:02 +0000"
-      },
-      {
-        "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Thousands of schools across Italy, the UK and Ireland received hoax bomb threat emails.",
-        "pubDate": "Wed, 11 Nov 2026 21:01:42 +0000"
-      },
-      {
-        "title": "Oil production nears pre-Iran war levels, OPEC says",
-        "link": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.",
-        "pubDate": "Wed, 11 Nov 2026 20:45:30 +0000"
-      },
-      {
-        "title": "Gaza goalkeeper killed in Israeli attack",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Palestinian footballer Mahmoud Abdel-Malek was killed in an Israeli strike days after the Thousand Martyrs Cup.",
-        "pubDate": "Wed, 11 Nov 2026 20:44:34 +0000"
-      },
-      {
-        "title": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
-        "link": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Democratic lawmaker Robert Garcia denounced a White House letter as an unconstitutional attack on legislative branch.",
-        "pubDate": "Wed, 11 Nov 2026 20:39:50 +0000"
-      },
-      {
-        "title": "Scenes show aftermath of horrific Israeli strike on Gaza tents",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/scenes-show-aftermath-of-horrific-israeli-strike-on-gaza-tents?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Palestinian families have returned to the Sabra neighbourhood of Gaza City after an Israeli strike killed three people.",
-        "pubDate": "Wed, 11 Nov 2026 20:33:35 +0000"
-      },
-      {
-        "title": "F1 champion Lewis Hamilton calls on Israel to open Gaza’s Rafah border",
-        "link": "https://www.aljazeera.com/news/2026/11/11/f1-champion-lewis-hamilton-calls-on-israel-to-open-rafah-border?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Hamilton visited the Egypt-Gaza border as conditions worsened for Palestinians in Gaza after heavy rains.",
-        "pubDate": "Wed, 11 Nov 2026 20:24:51 +0000"
-      },
-      {
-        "title": "First Palestinian American elected in New York talks to Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/first-palestinian-american-elected-in-new-york-talks-to-al-jazeera?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Palestinian American senator-elect Aber Kawas says Gaza and affordability in New York drove her into politics.",
-        "pubDate": "Wed, 11 Nov 2026 20:24:01 +0000"
-      },
-      {
-        "title": "Live Updates: Trump says Iran war will be over \"when we want to end it\"",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JdnI2N05uOHdtZFhtb0U3MGN6bEhNN05QbE85RV81UGRMenBqY04tWXhLU1MxRzR6NWxZOUx5cnNzYmRwRFEwRWJnbi1Cc0JpMUt2aW53VEpWOFA0cEptN2xLLVB6S1RxNDlydWs5MGsySnprakktTlkwUmxqODQ?oc=5",
-        "source": "CBS News",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Live Updates: Trump says Iran war will be over \"when we want to end it\" CBS News Oil rises after Iran says no nuclear material will leave the country CNBC Iran: We Won't Let Go of…",
-        "pubDate": "Wed, 11 Nov 2026 20:18:00 GMT"
-      },
-      {
-        "title": "Uzbekistan: the crossroads of Central Asian cultures",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/uzbekistan-the-crossroads-of-central-asian-cultures?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Showcased in Qatar’s Museum of Islamic Art lies an exhibition that expands on Uzbekistan’s intercultural artifacts.",
-        "pubDate": "Wed, 11 Nov 2026 20:07:31 +0000"
-      },
-      {
-        "title": "Three women killed in LA crash as driver arrested",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/three-women-killed-in-la-crash-as-driver-arrested?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Three women killed in LA crash as driver arrested",
-        "pubDate": "Wed, 11 Nov 2026 20:03:45 +0000"
-      },
-      {
-        "title": "African writing award probe finds 'no evidence' winning story was AI generated",
-        "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
-        "pubDate": "Wed, 11 Nov 2026 20:00:54 GMT"
+        "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+        "pubDate": "Thu, 12 Nov 2026 00:36:11 GMT"
       }
     ],
     "🇺🇸 United States": [
       {
-        "title": "At least 3 killed when SUV crashes into North Hollywood food stand; driver arrested on suspicion of murder",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmsyOFlFQ1BwM1V1X25KVmxpVUY1SGNOcmFTVGFSc0xLNUxrd0lDYXA4UkJ1cEtJTUJzR3BYRUhYYWx3eW5raVdtUUNlU1FJRVdEQkd4REN5OTBST0NTTjhlU3FoVFlfZ1VRMk5lWGpUYXF5VHVFZVJ6TGtNdFlyY21WX1FnbDBPdTRyMmdjeUhpZFhrdjB2R0JlazFoSEw0N0FCdk1zUUg2LXctWXBBb3FiNnY5dmdsVnc?oc=5",
+        "title": "Incoming House Oversight Chair: ‘It’s very clear’ Trump administration lawyers ‘don’t understand the Constitution’",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb2FoQUQ1aUVYdDRzVmd6Y19OMFBabjZoeGpNRFdKQzlCR3Zta0pEcEdmOEZVenhwMklVdjNKT2N2VGYzaWtudl91SmVkUUVwRjhrbl82LVFtNFhTVWJmWVFTQVVPYnQ5c3pUUjNvSGlxeUlIVEEwSVk3U0R3dUlJeXZsckR5cHM1a2RSU09yanZYMVg4YW16X01rZ2FUTjlZMnZxTU0zZlB3dGVIN09JSXJDSVZXR0lYY3hQandLdjUyRGlocEllVnFwWlhWenBXVHNYZ1RhVC1JbVRwMllDelZIQlBwTFVv?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Incoming House Oversight Chair: ‘It’s very clear’ Trump administration lawyers ‘don’t understand the Constitution’ CNN",
+        "pubDate": "Thu, 12 Nov 2026 02:26:00 GMT"
+      },
+      {
+        "title": "At least 2 killed and more than a dozen hospitalized after Brooklyn building collapse",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKWXhkRE9uLTNUaHlsWExmMDdWSGhaMTJfRUZIV3dWWXlnM0t4NEZla2h4VDJzSjE2SFpCNHBwMVFkdzBKV1FWcnl4NG5BV3k2YzdrRHpOTWt0ZFI5M1hzekhYZFJaM2lnd3psenM2T0lfQQ?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "At least 2 killed and more than a dozen hospitalized after Brooklyn building collapse CNN",
+        "pubDate": "Thu, 12 Nov 2026 02:05:24 GMT"
+      },
+      {
+        "title": "ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOHg4SG1YVGVmd216dVkydUxNRERxZjZTOHdORS16MldQUzBrXzl0Z3RmZ0VJeVplWFBZdlZUbExVSHBlSGt3VUtmUll4TzZoaGhRY3p6RzJocXVZVU1iSzk2R2VaY3NoUzBPQTVsTGtjemRLUFcwbmQ1S1hlRWlVMHNhQmtSaDAwQXlETjZrNmFLWVJjUHJXN202cDU3ZE5ZS0ww?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants The New York Times",
+        "pubDate": "Thu, 12 Nov 2026 01:09:48 GMT"
+      },
+      {
+        "title": "Nvidia board meets on future of embattled CEO following affair with alleged spy",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWVuc0dXalVCNi1ZNlZ6RExoSTJGRW5DaGlIalhLaXlCRkhIZ0Q2X0NVRXNHdUpFcTM0UVY3Tjgtbmd5T3VoN0ZVeXhnenBsci1qZ3V0bjNmdjh5LU94UjU1Q21qa2dkelZvU0Q2M0x6WU85ZUE1Tlg2X08zX1NWckJtdi1aM1BUNXdNVnZjbUFEV3NZTGhHcg?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Nvidia board meets on future of embattled CEO following affair with alleged spy CNN",
+        "pubDate": "Thu, 12 Nov 2026 01:03:21 GMT"
+      },
+      {
+        "title": "Why Scott Colom’s win in deep-red Mississippi holds a deeper meaning",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWnpxN3NyYUNta2tLaDV0TGR6T3lLZk9ETkFTREp5bGoyT2dkMGVHX1FkVW9HS29IZFFfWWpWZXJNZ0F0RzUxZVByM2w1OEZxak1fTnpjN2g5VWxvU1NBWlZOdUFCeXRHVy1qVzhZZWl2NjktVjVwRm1YQjRWZkVJZml5bDk1cTZzWERURl8yQndRLW5oTDFhMllZdWN0Q0RxZXc?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Why Scott Colom’s win in deep-red Mississippi holds a deeper meaning CNN",
+        "pubDate": "Thu, 12 Nov 2026 00:47:00 GMT"
+      },
+      {
+        "title": "CNN on phone with twin brother of Dem Scott Colom as race was called",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGZ1VUhrc3VnbDBDR2F2VS1kWC1SdWNsWlBRSEZpaHlMR1BWVWdKMmpNbklnS190eGdzVGlHX05jbmVzYWZTbndNQUxfZWVISE9icEJXVTlOMnp6NmtCZlNrMkF1RFpsbjhPUVg2SkJfb1Q4WWUzTVVhdThmd1BjSnRTdHE0ekNwY3dmcV9RTzBsTTE5MU85QzI5NU5XMElrY2tFdFhidV9SQzBvSTd3dXk0bDJMYmRpSHJfM09lb3JoQQ?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "CNN on phone with twin brother of Dem Scott Colom as race was called CNN",
+        "pubDate": "Thu, 12 Nov 2026 00:46:35 GMT"
+      },
+      {
+        "title": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOURyZ0lrSVFQZHl4Z0FMa1hYRFFZM3dmd1UzYWxVbWpkaWo4dHFEY3V1cHdPakstSGZSX3RsWWRVaUVJbWR6c00zaGFpNk9EZDQ1UGxCWXhvR3ROWjNjLWg3M3lEdldLMmdQRGNlN0ZJTTZydXA5eEFIY1NrY05adXNnRktCV2wtaFVmZE04el9YRmxVMEUwNFl1OGN3QTc5R2FnaXJ3?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Democrats Face Backlash After Missing Hegseth Impeachment Vote The New York Times",
+        "pubDate": "Thu, 12 Nov 2026 00:21:37 GMT"
+      },
+      {
+        "title": "Democrat Scott Colom will win Senate seat in deep-red Mississippi",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVlVpZHhYRlRzRmowS0VFcl9lMngxZlVkbWNxQjlEUmxZMUYzTExvTU80a016cXNGLUZyQVV0djVPVEw5OWg1VEN3NnJ4WE03V1ZiYjJodE0wWllJUV94Y2FGNjZTajBpNTBBRmFKU2J2QlhJQ0pfT2NCYTQzWHFuV2htUFBrTGNNV2U0cGw4eExaS055dWdLX2NwYjRIMVU?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Democrat Scott Colom will win Senate seat in deep-red Mississippi CNN",
+        "pubDate": "Thu, 12 Nov 2026 00:19:00 GMT"
+      },
+      {
+        "title": "SS United States is being sunk off Florida's Gulf Coast to become world's largest artificial reef",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVJXMUFhNG1YTlQxLTQ2aXpoVUhGUTMxV21GSEhJTVRxd0xORFBPV0IzbzhRdlBlcVhmcXVmRDhiSzRCcFRrTC1GSU54allOVkJneU83YmJpajhreXY4dU9HeTQwZTV1eTJJZ1V6b3ZyT0xpMVVndmtDeXUtaEQwLWh4Y2s4ODNQMEV0R2VYZENxYW1HcGtTM3hqOUxINzI1SE9QZ2hkQU5UbjlERk0zWFh3WmJ2Zw?oc=5",
         "source": "CBS News",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "At least 3 killed when SUV crashes into North Hollywood food stand; driver arrested on suspicion of murder CBS News",
-        "pubDate": "Wed, 11 Nov 2026 23:00:54 GMT"
+        "summary": "SS United States is being sunk off Florida's Gulf Coast to become world's largest artificial reef CBS News",
+        "pubDate": "Thu, 12 Nov 2026 00:04:00 GMT"
+      },
+      {
+        "title": "Video shows violent clash between protesters and police in Spain",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYi0zRWJhRHNqV0t6TExtdm5jS2s0RWdGRmk5c0pzbExRNmxTenFMaGNSLWhVcUUtS25fVHJabF90X05ZZUpFWTJfMnRhaVZXVWtTQWdqSjVkQVcteWdGcEtyODQ4MTE5STFsei1Gd2pxUV9CM3FaY0Mwc3h5WF84QUxFWDFuSXp3NTZWU0haQnc0Z2R2bnJmbA?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Video shows violent clash between protesters and police in Spain CNN",
+        "pubDate": "Wed, 11 Nov 2026 23:41:00 GMT"
+      },
+      {
+        "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaEVLOE5Rel9JM1dzRXZPSkE3RlpKOFJmUExPRUp6OFFBcGtMUGdmUWdrQVVsa2ZPbkFCY0RWdlRIeVdhc25IbHRaTi03c1JuSlY5clFDY2FEX2JhZDhVc3NEODFxS1NkdGlCVklCcW9BTnhmR0JILUdJQkZSNDB3ejhKMDJrRjN0emh3QmJMaElLcEJ4VFdTQUFwTGJPT3RvSjVPZjI2TGl6Tk9ZdGxTZVdnYjU3b3JLQ3ljdHkyaw?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier CNN",
+        "pubDate": "Wed, 11 Nov 2026 23:40:00 GMT"
+      },
+      {
+        "title": "Kennedy family seeks to block construction of Trump’s arch",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeHBhZU1INEJHQUJVN2lHUF81N1liMU1BMW83WUhYRTdoc2pBYXBtc1RSS19OTHM4cWNrYWJSLXh5Zy1xdXJfZmt3UGt2WkNzRDhvWEFJSHg1QlNDREJZbFlGZHk4OWNWcFhCRDFTcm5fMHhQNUJxRW1RSFpfWm0wcy0tdkVZN3VXamxNM2JwbHJ1eDNVY0xfZmJXTWpSajRHNDViZVVGTVR4c09fQlZHVlZnS0ZMeGZuVTRSVQ?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Kennedy family seeks to block construction of Trump’s arch CNN",
+        "pubDate": "Wed, 11 Nov 2026 23:13:38 GMT"
+      },
+      {
+        "title": "Nvidia stock drops as board reportedly weighs Jensen Huang’s future | CNN Business",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoRUJ2MTBDV1lNNy1ETnc3cXEzM1dsMmJ4OEVfT2l2bDl1NnZMd1JWV00wX2VpUE9PdU00LV9xU0V3WXdIbnRNSVFyUUJtQ3BFckZRY05ObExzbjJyZlFWUUpveUJ3dXNyQ1lNQ2UyeGtMaURf?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Nvidia stock drops as board reportedly weighs Jensen Huang’s future | CNN Business CNN",
+        "pubDate": "Wed, 11 Nov 2026 23:07:35 GMT"
+      },
+      {
+        "title": "Spot a fireball during tonight’s Northern Taurid meteor shower",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QOWV1emtKalVxcFVmUXIzOWFpM0hrVEhyUjY4X0ZUcUhFV2pxVEtNellrNGsxZDlxSXpXUk51ZUgwSHA3dUdza1NuMWF3UUpwZ1p5S3E5U0wwWkFiX0RwamZsSFJzXzAtQ0d1b0E0amtFYjU0bi1N?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Spot a fireball during tonight’s Northern Taurid meteor shower CNN",
+        "pubDate": "Wed, 11 Nov 2026 23:00:15 GMT"
+      },
+      {
+        "title": "This is the 7th consecutive change election | CNN Politics",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWGFmc1hqR0xGY0hjaWJ5dHdQTkFlaXFGamFiSlI1UG1uSjNiSm1ISDc0MGl0b2RBX3l6MW1EeDJZYzNrczdvb0ltenRfREZjQVprYnVaNU40TW5NdGxZMnBMQlktT1MxYzcxajNhSDVCU29SQjhQQmFyY1JFQzB1Q2tJYw?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "This is the 7th consecutive change election | CNN Politics CNN",
+        "pubDate": "Wed, 11 Nov 2026 22:57:44 GMT"
+      },
+      {
+        "title": "Building collapse in Brooklyn traps people beneath rubble",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVRVa1p6aDBzZzdEQnhjbjYweEtGQWFIeDgtNWIxLWxWc2pyY3J2Y1hqRzlYdjFjcXUxMDZvN29qZnpUOTdsRzlJY09yOGlYNTV5SkJDVDA1TGZTaHJ2QnIwcTVvQWI0aUNWbGdpVzBLU2lsTTJHVFBpVUFhd1hvc1IwdmkwUkxmSzJJM0Q4aHJoQlM4VEhjRjVET2Q1Z3NF?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Building collapse in Brooklyn traps people beneath rubble CNN",
+        "pubDate": "Wed, 11 Nov 2026 22:31:11 GMT"
+      },
+      {
+        "title": "CNN projects Democrat Colom will win MS Senate race",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODhGVnNQYmo1V3gtR3lBbmZiN001bGxYb0pUc09zVHNwR3Y5M3F1Z2d6emZWZjJaa0cxajJ1QWxhRTJlbW9BTGdBODM2UVU2OFRKUmhwYnRTS2ZaM3V0TUdiX0t5aDJhU0FBLWUxcFh5WFZMNVlHMzN1UGF6N0FQS1RFYnN2c0QzUjhwMVFfbk1iOE85a1RXNm8yS0ZUSGU3?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "CNN projects Democrat Colom will win MS Senate race CNN",
+        "pubDate": "Wed, 11 Nov 2026 22:28:58 GMT"
       },
       {
         "title": "CNN projects Scott Colom wins Mississippi Senate race",
@@ -229,12 +357,28 @@
         "pubDate": "Wed, 11 Nov 2026 22:11:00 GMT"
       },
       {
-        "title": "Building Partially Collapses in Brooklyn, Trapping People",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQak9qRk1CZkUxWlZqbjBqMVZTZzFSNHdmM0c5LWpobFpaYlprdEpGREEzbVQ5Vk1QQV9PTndSWnFDc1p2TDFGN3J5X2pUajcybHNCQl9RODhGLVBCb0NGXzdQM2duak1FOTV0WDlOMnFuLU16emw0Tl9DS0ZJdERDNA?oc=5",
-        "source": "The New York Times",
+        "title": "Man accused of multiple rapes in Central Park arrested in Miami",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjMtbFBHbnoxQUZSTWtITmY5ZDZhZ0x2VndlZkE3TlVvVFZrY1poVkZncVdBQzIyNjNWT0VPbjJqUldtU2V1bHVPQk1SOU1wYkhWQVhTcVFQRU9kbGZGTkthUTFRRG0tRF80X2xNUjkzTWpfM0RwdUZ0MzF2SFc0bUNsckhwTGJxMEJ6N2dac2ZIbU1QekZ0cVRrYTBSd1FDUmRLMThR?oc=5",
+        "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Building Partially Collapses in Brooklyn, Trapping People The New York Times",
-        "pubDate": "Wed, 11 Nov 2026 22:01:33 GMT"
+        "summary": "Man accused of multiple rapes in Central Park arrested in Miami CNN",
+        "pubDate": "Wed, 11 Nov 2026 22:08:00 GMT"
+      },
+      {
+        "title": "Hegseth and aides reprimanded by guard at Tomb of the Unknown Soldier",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNW9XdEhvcmItcmprRUFnSUpEQmxzNDlzTjRyc1BxS2Z2ZXhyaUJrYll4eURqTGNsV3kwWEh6eEFrXzE2MEdzVVJ6aUJkeE1PRGZ1d3lXSjAzZGFzdG1FYmFwX2JjcW5WVEZXU09LcVZsQVI3NkwtV0M1Wm5FaWJwMGFiRFlncTJwNTZRXzU1SzJQRjF2SHZkOE5FY19Ebk1vdjMwcEhUZTJnYWs?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Hegseth and aides reprimanded by guard at Tomb of the Unknown Soldier CNN",
+        "pubDate": "Wed, 11 Nov 2026 22:03:00 GMT"
+      },
+      {
+        "title": "The 26 best gifts for couples that both of them will actually love",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAycVg2ZkhfVUtnX0tJMzlzWUt1TDJwalJNaWd1QXBNTjJsNldoUng1RXE2X1o5M0hvcWVLdkt5Vkh0Q0wtOXRqbmtNYkhlcmVXcUtWM081c0V1VHpDbTF4eTZsREIzQ1dET0U5SmN6TTlRUQ?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "The 26 best gifts for couples that both of them will actually love CNN",
+        "pubDate": "Wed, 11 Nov 2026 22:00:00 GMT"
       },
       {
         "title": "House Republicans’ middle is disappearing",
@@ -245,12 +389,12 @@
         "pubDate": "Wed, 11 Nov 2026 21:58:01 GMT"
       },
       {
-        "title": "Brooklyn building collapses, leaving people trapped under rubble",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51b1VrNmRuaFpRSjA5cVByYTY4c3d1NW10bjVudEZzVkVjd3FuTnFtVUNBcXZGM3N3SDdLQVJLalQxLUVxbzVQRHlVNFU4UHVPYlRobmd6NXhOeENfVVJOZHhXX1d3emI4MzlqZlMzZ0VMS003Q21lcnE1T2ZSdw?oc=5",
+        "title": "Irma P. Hall, ‘Soul Food’ and ‘The Ladykillers’ actor who found fame at 60, dies at 91",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80UklxZjYyek96djVkYUNBVko3M0hEMXVrbjJuRWFYQU00ZjhySkNkYnU0YzlYLUhhSGdYWGdsOUs3eDVqQUx4TUtiZFdPZUx3cmtVVDEyTkNmam5ITFZHWHJ3c0JDOGFWblZCZ2UxWQ?oc=5",
         "source": "CNN",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Brooklyn building collapses, leaving people trapped under rubble CNN",
-        "pubDate": "Wed, 11 Nov 2026 21:42:46 GMT"
+        "summary": "Irma P. Hall, ‘Soul Food’ and ‘The Ladykillers’ actor who found fame at 60, dies at 91 CNN",
+        "pubDate": "Wed, 11 Nov 2026 21:47:16 GMT"
       },
       {
         "title": "3-story Brooklyn building collapses, leaving people trapped under rubble",
@@ -259,336 +403,160 @@
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
         "summary": "3-story Brooklyn building collapses, leaving people trapped under rubble CNN",
         "pubDate": "Wed, 11 Nov 2026 21:42:46 GMT"
-      },
-      {
-        "title": "Violence erupts amid general strike in Spain",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qd1QwbzVna09jQ2dRektRZVQ1OWVNVTBaenA5VElQNjZjOFIyVHdaMWdBbmxIanBjTnZlc0lWT3lQV1hQZ1lmem1XcEFpQkpZdThRN0ZBR0xkUmlnMTNBRnoyTFhoYjJN?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Violence erupts amid general strike in Spain CNN",
-        "pubDate": "Wed, 11 Nov 2026 21:18:57 GMT"
-      },
-      {
-        "title": "Millions of Spaniards stage first general strike in 14 years as anger rages over housing",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1STDRvV0Vyd3oyN25FNXdzQnZCSVR3YXAtR0RDT2RjMHBibmlnUUszcHRLYlpmSjN4cFVZbkR6bzZ0RFowcl9wY1dqRzhkZnNBeUJXLUFQSi1HSGpxRkxkMkRQa092STkwUDdKUlMyXzBFTHpneHlJbg?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Millions of Spaniards stage first general strike in 14 years as anger rages over housing CNN",
-        "pubDate": "Wed, 11 Nov 2026 21:03:45 GMT"
-      },
-      {
-        "title": "Pete Hegseth And Aides Told By Guard To ‘Maintain Silence’ At Tomb Of The Unknown Soldier",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONmNNSWNVWl9TQjhlUV81Q3pPWm02OXlLVE80UkJUSjFILXVnd3hQVnhXTXJtbHhqdDZaSTl6N25EVVlFOFBmaHpKQmNrZEIwMEpDamg1NXl3djZrQmZyVWRhWmJfVWlJb3ljdXNnalg0M3VJOWhhb0FaTHRJbWt0RTNYYXVnNVA4MjFXSmxxdW1HTmljdU9zUWJ5S1FlbTY2M2xyTms5dE5rLUJPRXhlTjdhcGw1Q2RRYTc1TUtWTWdDNXk2LVhPdzFjTUhnV1JSckZsYm9NdTNfZU94NUE?oc=5",
-        "source": "Forbes",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Pete Hegseth And Aides Told By Guard To ‘Maintain Silence’ At Tomb Of The Unknown Soldier Forbes",
-        "pubDate": "Wed, 11 Nov 2026 21:01:01 GMT"
-      },
-      {
-        "title": "25 Years After the Anthrax Attacks, America Remains Vulnerable",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd3FDZnZ1NDdXS2tCMS0wNlZmSFFfZUVabTV6bV93TnB5cnFmOGV4ZE1kenlvbjByeTM3LWQ5aUFjUHNPczBUREoxVFBJOGlpdWdNcWFwcWlySjJLZjdpdEVpOUdmM3FITzgtaFc5bDdKTU8zNVBWbUxrOFNicklHVVpOTGtBdGc3ajJXU0FvMElJazR0MFFR?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "25 Years After the Anthrax Attacks, America Remains Vulnerable The New York Times",
-        "pubDate": "Wed, 11 Nov 2026 21:00:38 GMT"
-      },
-      {
-        "title": "Republicans Begin Aggressive Lame-Duck Push to Install Trump Judges",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd3B2OUJSbVQyNXZzX1kxMmhrcG5hUXUwT3ZvRXRRMTQ1RHJmRjRFQVR4TGp3c0xtQVJwVVpaS21SN3FCYUd3OFlyZ0lSbG9xQ0p0V1R2T013ZEZaR1ByX2pkMmw1NHFVbnNWZTRfYWRGckV1ajdoTmplM0hnLVd4dnFEcE92MzhnUVE?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Republicans Begin Aggressive Lame-Duck Push to Install Trump Judges The New York Times",
-        "pubDate": "Wed, 11 Nov 2026 20:52:30 GMT"
-      },
-      {
-        "title": "After Hegseth Impeachment Vote Fails, Massie Vows More Tough Votes for GOP In His Final Days",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaEJuRU43NVhybDJTb0JJREplcFduMTM0VDk2NTlYdXA2TktWMG5XN2doVmlYTXdvM2ZNY0FhRTBUMkkzTW9oalpGT1YxN3FjczZXTGxJV2ZDR0t0R21hTkZBaTBPdlMwQUZpMHdVcWU2dlItQ1hrMmlyb09fSDJlN3FNOGhRNGZtWEk1b1JjYm8tbFc0amc?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "After Hegseth Impeachment Vote Fails, Massie Vows More Tough Votes for GOP In His Final Days The New York Times",
-        "pubDate": "Wed, 11 Nov 2026 20:42:33 GMT"
-      },
-      {
-        "title": "Manchester United make formal contact with U.S. Soccer over Mauricio Pochettino - The Athletic",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMHFRelMxbzlWbWR2anNzZzFjTWhXVVNJa25NTVFoZ0w1SVBHbHBqcE1XN29NanY2M2tOTXRDejZvbEdfR3BqZENEQnFFNTRhR3ZsT29nVDBMTkRRb0VqV2pYUjNaR2FDb01kWEM2ZWVHcmlfZHdETGZ6UEthU2ZsZnFXZTgxb0V4UUtHUklFdVpZZ3pUeFcwU0ZxS0NmLW03eXc?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Manchester United make formal contact with U.S. Soccer over Mauricio Pochettino - The Athletic The New York Times",
-        "pubDate": "Wed, 11 Nov 2026 20:20:44 GMT"
-      },
-      {
-        "title": "Could the Voter Backlash Against A.I. Actually Help the Economy?",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXVmOWViTlBjQTZWVjI1WnZybG5xN0RIM2k1VnAweFpDa1R5LWFXczRENWRpNGRHRno4T2VtYzdMWmFjN3ljY0I2aHFLaHZLa2lYQjdyOEhYRDl0NHZ4eEdCSlczNDBBSHBLTjZNVHBuWTVDUlBqckFjcDA0UGtDTXNqc1hBdGpaMTQ3c2R6UWRweGlqNU1KeQ?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Could the Voter Backlash Against A.I. Actually Help the Economy? The New York Times",
-        "pubDate": "Wed, 11 Nov 2026 20:16:00 GMT"
-      },
-      {
-        "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaEVLOE5Rel9JM1dzRXZPSkE3RlpKOFJmUExPRUp6OFFBcGtMUGdmUWdrQVVsa2ZPbkFCY0RWdlRIeVdhc25IbHRaTi03c1JuSlY5clFDY2FEX2JhZDhVc3NEODFxS1NkdGlCVklCcW9BTnhmR0JILUdJQkZSNDB3ejhKMDJrRjN0emh3QmJMaElLcEJ4VFdTQUFwTGJPT3RvSjVPZjI2TGl6Tk9ZdGxTZVdnYjU3b3JLQ3ljdHkyaw?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier CNN",
-        "pubDate": "Wed, 11 Nov 2026 19:47:07 GMT"
-      },
-      {
-        "title": "Bessent confronts Lutnick over not labeling Nvidia customer a national security threat, sources say",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYjBRa0Izc2x0QWlCTzN5VDd0ZTlvN0VNajE1ZzdWYkVMaXB0VzBPV1dvSXVhV0hMQmtmNFFwYUFwQmR4S21FWm9mUjNvMnBoQ3htb3Njc01wc1dNV29McWNtRldDenFqN1VTUl91b1pwY0tiNXhhZWdsTE1XNnkwMng5NjdrbHo0Z0tGdHJOZw?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Bessent confronts Lutnick over not labeling Nvidia customer a national security threat, sources say CNN",
-        "pubDate": "Wed, 11 Nov 2026 19:33:06 GMT"
-      },
-      {
-        "title": "Manchester United target Mauricio Pochettino expected to coach USMNT games vs. Haiti",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVG5GNDh0OFI4MVZ6YXN0SmlkSjBHVFhjTEo2Q2hzdlZNdktRS3d6MzR3S3JGMjZsV215T3lsT2hzSHVWSVFBcnhXUk9ydkI2ejdCWU9pZEZXc1k2UnZ6Zl9Sb3FqZTh5VmNBcDhhd19Kcm1qZlZoQjlMaUpUMlNZSmxRRUM4NV9UbXI5LVF0QWxqY2ZRWm9JQmw1RFo?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Manchester United target Mauricio Pochettino expected to coach USMNT games vs. Haiti The New York Times",
-        "pubDate": "Wed, 11 Nov 2026 18:56:05 GMT"
-      },
-      {
-        "title": "Republican Rep. Mike Turner of Ohio says Ramaswamy gubernatorial ad cost him his reelection",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWUZJbkdQYU1qSExVcllkY3VtRkgyeWVGSkdaZWl3UTliRWQ1UGtHelFwejl6NjQzdFNtcFZlWXMyTDlHai0wcGpIOU9odnhhUWE3Q3Q1Y1hvM2xzcjdZdkN2ZDFmQXJsVEZvYThuejU0eUM3ZldiVmVuNS1fUnZTZkQwdXU3bkkwcDlTdXkxYXlvODZvbk9ZakZqQjlMLUlpcUQyaFNNc1NGU2pKcXc2NE5jSzUyeEhaRk9CQXZWXzV2ZmZZY3U2Mi1ITkFEdEZuVFl1LTVsMWFEeTdRV3FQTQ?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Republican Rep. Mike Turner of Ohio says Ramaswamy gubernatorial ad cost him his reelection CNN",
-        "pubDate": "Wed, 11 Nov 2026 18:29:58 GMT"
-      },
-      {
-        "title": "US soldier arrested on suspicion of espionage related to Russia",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa0RuMmR6Zmp5VFpyaDdjY1ZWWVNFTDhjb25tWk9fQ0tTeDdVWWxkVW03dXM0Ul9JZTZWWmI4R3pmUldnajg3NWhFMnNQYzFXT0RkZmRsV0ExYjQ1cjBvTVNZamdKX1ZfOERUMDBMN3MwYy1sZXktMWczR0Y4bTI2cy1RYmhCSXp5cHhadkE4MnlfY3dUamJzR0tkbzJ5OUFidVh2TXh4SDE5MktXV2tsWWV5REgzZw?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "US soldier arrested on suspicion of espionage related to Russia CNN",
-        "pubDate": "Wed, 11 Nov 2026 18:28:00 GMT"
-      },
-      {
-        "title": "The Trump team’s hypocrisy reaches new levels with warning letter to Democrats",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZzgwMFdMR2lGdDF5MzBpZE1DekNIM184cVRwOTJoZG9mY1JpV2ZkOVdSMS1MQTJnRThTZG9Rb1htSnYxcU1MNHhCakp1WVpzY095OVNsSHhxSkFpcjdVT2NBYkZWNWk4WDBMX1poZ0N5dzliaF9MQXV5a19XV3dQeGxJR01seTN4X0VZYg?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "The Trump team’s hypocrisy reaches new levels with warning letter to Democrats CNN",
-        "pubDate": "Wed, 11 Nov 2026 18:26:24 GMT"
-      },
-      {
-        "title": "Can Cam Schlittler repeat his Cy Young brilliance? Ron Guidry believes he can",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQclpxc25WWnZJald2eko4T0Q4Q01vOTdzc0pnWjlpSU5rZ050VU9WX2dhS0NtVkpYN0lDcmdpNHBpX3B1cl8xU1dHLU9qMU4wdl9oLXVDQi1EdTk0UGVNZzJOajAxRnRMREJpT1R4M3JQRXNiLTE0UnUwZjRFSGwyUWZHY0dyN2dsdE9PSERESzlWYWxWV0d4TDFwbw?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Can Cam Schlittler repeat his Cy Young brilliance? Ron Guidry believes he can The New York Times",
-        "pubDate": "Wed, 11 Nov 2026 18:17:10 GMT"
-      },
-      {
-        "title": "Jensen Huang dreamed up Nvidia at a Denny’s. The spy scandal threatens decades of his life’s work",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxZlpDenRuRUxpZ1RsOXNXSkFqTnNCc1FYNEotdndzTEdsa0ppMUFtZlpWeDZwRHpjVGFEdTJ4bjZNdktxQk1BTjg3UTJ6MkYxMmM4ZlI3Q1IyZE1NV2RDR3ZWVVhwY0hPMkV2Y3VYREYzbWFLenFydE9n?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Jensen Huang dreamed up Nvidia at a Denny’s. The spy scandal threatens decades of his life’s work CNN",
-        "pubDate": "Wed, 11 Nov 2026 18:09:58 GMT"
-      },
-      {
-        "title": "Biden opens up about cancer diagnosis, 2024 exit and midterm elections",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWRfMm1DYlVOWXBWUnUxalQwMGNHM19PVXkxb0FSb1Bwd2t0YWVIVWh6bElBempNblZkRThlY2lZYnZOQkI5THRNazktMFhMS1BJSmNBQU51RGlRTUZSSXVMeTZXdHhRVkMwYWx0bFlPYndzMmh3WERKQVpGTktJTUhrS2otTndKVzV0Y2NsUmE?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Biden opens up about cancer diagnosis, 2024 exit and midterm elections CNN",
-        "pubDate": "Wed, 11 Nov 2026 17:43:00 GMT"
-      },
-      {
-        "title": "Why it will be a 'painful 2027' for tech executives, especially Nvidia CEO Jensen Huang",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbHZzb183c3lPV24xQmFZOUg5NTBBUGdCWFVuU2EtRnQyT0F0bWVDVmxLQUxSSmR5WXNPY3dzclBld1ZybVBKTzNKUW9aZUF6ZF9qbUNhcDlKSklvNW1lS3ZJd2ZObmxfalpWOXJKbzBlTWdvUjBYRXZGcERmVWNFRXdHSS1nRmJPYWc?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Why it will be a 'painful 2027' for tech executives, especially Nvidia CEO Jensen Huang CNN",
-        "pubDate": "Wed, 11 Nov 2026 17:34:00 GMT"
       }
     ],
     "🇪🇺 Europe": [
       {
-        "title": "SS United States live updates: All valves open as sinking process continues off Florida coast",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2dqbjNScGZtYXF0TFpWM3JHRzcxRU56NmczZ2F4bjJfYjlVRUx5UUFLcy1kZVFmRkVoUGVyQ3pqckd4eG9JUElBMUtjMHhnRzZkUWRCeVc4TkRjd3pnU29YWUw2TzFiT3gyZmhLd1dhcG5oTUFXamthOHczS0hqY3dYUG4tdTRsTFZkTWk4ejhKSHByNGZBZWgwZDhZcU0xU3RCOURJQVE2UFU5ajhtYThZdDZPUUVoTS1uRk5FWjA5anU2ek9oS0NEQVNRYjhTSUlNeGFsd1pEbmpNZkE?oc=5",
-        "source": "6abc Philadelphia",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "SS United States live updates: All valves open as sinking process continues off Florida coast 6abc Philadelphia WATCH LIVE: SS United States, once world's fastest ocean liner, sink…",
-        "pubDate": "Wed, 11 Nov 2026 22:54:00 GMT"
-      },
-      {
-        "title": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjg3SUZPY3B5VWpoLVFFYWF6Y3Rfa0ZIUDV5Vmg0TGVRYXFrZDFyaXhUMHpoelJ2UlZrUjdkTGlsTnpxNGdhaWRZVFc4RUNkbzlkd1U0cFJXbV9kcGsteXBUcGdNSHpsYWJDLWpsZTdzb2dpT3dSb2NYTzd2RmMtdkh4c3hwbGR6cTE1MnBxQkFDbU4yUW0tOTZhallWTXlTN2pvc21seU5SVmM2eW9VZndiUnBaWXlJbzItMEdab0RGUmxKajFBN2xDMmFsQQ?oc=5",
-        "source": "NBC News",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier NBC News Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier CNN Hegseth and te…",
-        "pubDate": "Wed, 11 Nov 2026 22:15:34 GMT"
-      },
-      {
-        "title": "Validation of clinical and preclinical obesity across global cohorts",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92dTR0Z05SeS1TbmxlUmNOZy0wUGRnWXlyTzVJNWFfVnpHdDlDNnJPY01XM0VORlpnRDNHTzg2eURXWXRwYmxLWm8wQnNTaXotbmRjaE5pRmZIVkRheDA4?oc=5",
-        "source": "Nature",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Validation of clinical and preclinical obesity across global cohorts Nature BMI alternative for identifying obesity ‘could prevent misdiagnosis in millions’ The Guardian Study sugg…",
-        "pubDate": "Wed, 11 Nov 2026 22:14:49 GMT"
-      },
-      {
-        "title": "New measles case confirmed in central Iowa; potential exposure locations in Ankeny, Des Moines",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb1FrNkdyT3c1bDhidlVEa25Eb0lwN29rcHozSmwteHZSOFJ1SzgzVzlSOExFTjdrNHdqdU1IQTFkOC1BczA2ZXlmeWZHVmJRYVFzVHp1dDRZbExVaENNak9oUzNucVY5emlQdG9ZZG9IRDUxUWN3eUtGSXQxZDBFeGRoTmdMcFFWMU9wUTNFbEwta0wzYVA5bl9nTWg?oc=5",
-        "source": "KCCI",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "New measles case confirmed in central Iowa; potential exposure locations in Ankeny, Des Moines KCCI Polk County Health Department confirms case of measles in child The Des Moines R…",
-        "pubDate": "Wed, 11 Nov 2026 22:07:00 GMT"
-      },
-      {
-        "title": "Nvidia stock slides after NYT report alleges Jensen Huang had a second affair — with an employee",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NaFFJVUxuMG1NR25FakxCNU9rUnpXUEl0UVE4ZTJUS0VUN2lEWjlsQVVJRTdMUWt1Vkd1RUsxcjZKa3JCaWFWN0JYbXk0TWpUM3M4SVQ1OGlJaTNQYWJsRnZVczF4NVpyeUZIQTVUQnRYVS0xX2RSQWhGWGs?oc=5",
-        "source": "CNBC",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Nvidia stock slides after NYT report alleges Jensen Huang had a second affair — with an employee CNBC Exclusive | Nvidia is Preparing to Oust CEO Jensen Huang WSJ Nvidia CEO Huang…",
-        "pubDate": "Wed, 11 Nov 2026 22:06:48 GMT"
-      },
-      {
-        "title": "Housing protests sweep Madrid and Barcelona after Spain’s workers' strike, with clashes erupting",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlZ0c3o4SEdVYWN6SGE2YW45M0xMVUlhNUJlMlo0QnZxMVB1UEdWOVZBOU9qcG9SSUlFSmtOa2F5MFJoQ0hPVEp0SVJ3NzJDV2FfcWtKV040dzUxRExKd2Y0bzRXNUViQzRvaDJBbGdfeW9FaTJyRnkyX1V3SU40Zms3TzhrUDR3dFdzc0J4S3ZqWkJIVUNUZVlfX3FjUy1EV19Wd3dMZw?oc=5",
-        "source": "AP News",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Housing protests sweep Madrid and Barcelona after Spain’s workers' strike, with clashes erupting AP News Millions of Spaniards stage first general strike in 14 years as anger rages…",
-        "pubDate": "Wed, 11 Nov 2026 21:43:00 GMT"
-      },
-      {
-        "title": "Brooklyn building collapses, leaving people trapped under rubble",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51b1VrNmRuaFpRSjA5cVByYTY4c3d1NW10bjVudEZzVkVjd3FuTnFtVUNBcXZGM3N3SDdLQVJLalQxLUVxbzVQRHlVNFU4UHVPYlRobmd6NXhOeENfVVJOZHhXX1d3emI4MzlqZlMzZ0VMS003Q21lcnE1T2ZSdw?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Brooklyn building collapses, leaving people trapped under rubble CNN LIVE | People trapped in reported Brooklyn building collapse, FDNY reports FOX 5 New York Brooklyn building col…",
-        "pubDate": "Wed, 11 Nov 2026 21:42:46 GMT"
-      },
-      {
-        "title": "Brooklyn building collapse: 1 dead, at least 9 injured as rescue continues",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGxYems3T1dGcG5ob3R6aFo5VHhELXNLR0djOTJDWHJLQjEyeTV5TF9WRnR1TTByMkFVQmtJLTk5blA1bk9ZNzg3QnFVeDZwY2dFdXRUcHlvcWU1Q1BGQVkwRFBFd3FhLWItRUx4NXVtdzZBdC1MZlBnTGxFLVZWMGllLW0wdG8wbUxkWkh6Zi1Nb1N6WHptdUNDdUc0dlh6QUJR0gGoAUFVX3lxTE5EcDNUNEdPdThKYmhEM3F6aVJNQWFJNUpuSTVvWDdwbUI5dFduUTRQNWxHaXMzcTNtTGZGVmR5X1JBaE5JV09xZDdTeGtaVVlyZmlWZG5pSlU1VHBUX085azRUaW9fRWFqTzRoQmlsQ283MG9LQmhLUDN1WW9RUXhxZ2RhQ1duMElqSDBDU3h2bGVtLXNtc05PX3ByZFU3V19TMGg3QnZtWg?oc=5",
-        "source": "ABC7 New York",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Brooklyn building collapse: 1 dead, at least 9 injured as rescue continues ABC7 New York Building Partially Collapses in Brooklyn, Trapping People The New York Times LIVE | People…",
-        "pubDate": "Wed, 11 Nov 2026 21:29:39 GMT"
-      },
-      {
-        "title": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGdCeFJuSW5EWTJkTy1ERGxfeVdsRDRDMFBQcmM3UXB2dlhWQlhMQ1ZGdEdxd05BcTZyZDI0RVpWb3F5XzB2a2tIOWwwQWF3Y05pU3JVd3pCTUFqMWFXM1VUcmtEaGhhcWh6MHZQYzU0U1hJejMxOElDLWZwYzlubFk4TG9zYUkwSHZaUXlvTnI1WF9qemV2TXd5TXluNmtZc015dFNXbDVqcnFlOGhlTQ?oc=5",
-        "source": "Bloomberg.com",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade Bloomberg.com Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say CNBC Anthropi…",
-        "pubDate": "Wed, 11 Nov 2026 21:15:02 GMT"
-      },
-      {
-        "title": "Mauricio Pochettino: Man Utd strike agreement with Michael Carrick's potential successor",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHBMRzg1bDRpalkzeUhaWVQ5UVJaN2JZT2VndWV0c0hDcXdiSEphNXFBMFdmTklCbnhBdElTeTY4OHU2emktbE9BRUNNbzJqeWxVUXVOZVBxNW96LUFQeDNjTVBrUE56bTh1eEdENlIxQVdtR1NjMUpnajFSQXgxOTdFRnlrTEc1RGNtbjZqNUVsTGF0ZjBwLU1VUGRyYXEwVzFZRXdNMnI1X1JJVG9MTDFiYUl0N3ZiTjVzS2w3MGs4WVlUdDhUbXhuV1dTVkND?oc=5",
-        "source": "Sky Sports",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Mauricio Pochettino: Man Utd strike agreement with Michael Carrick's potential successor Sky Sports Sources: Man United contact U.S. Soccer over Poch; Carrick meeting Thursday ESPN…",
-        "pubDate": "Wed, 11 Nov 2026 21:13:23 GMT"
-      },
-      {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq rise as chip stock rally rekindles AI trade",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSjNNaXdrQndXWjJ4bGtQS0xsNGRLeTdndTF4UHJsMzl3RjhSam5tOWtGUmp1bXpKcGxIYkRxWXY1SGJINDA5dDZmZHFaT1VRS1k5WlNPakR2RHJxbk45VVpqeGo2R1lwMld4SmFjalV0QzE4cEF0Vl8zSWg4NVhPQmdyQWx0ZXM0RzNWclhnOUJxb3BHejlzaXljaF9raWkyRExvQ05pbnR5SFVtbUlFU0loWmUyOWlYMHFRNXdJT3V5eExpaEw3YkFfTllIMnpxQ2RMY25pU3lkdw?oc=5",
-        "source": "Yahoo Finance",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Stock market today: Dow, S&P 500, Nasdaq rise as chip stock rally rekindles AI trade Yahoo Finance Stocks making the biggest moves Wednesday: Corning, CoreWeave, Sandisk, Coherent…",
-        "pubDate": "Wed, 11 Nov 2026 21:07:19 GMT"
-      },
-      {
-        "title": "Democrats pledge to expose ‘absolute avalanche of corruption’ under Donald Trump",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDhCVXM2WUFrdWpKU212dHJSN2lSN0NJRjVrY19lZFlWUjVfQWh4RFJKM19CUWd0REZWNGJjQXdraWZaYVVXd0xIQklEVUVWdmZhWGFfbDNfb3FCZXk1OFRFMmpHN3pPOXhYLTI4ZW1KWmdTb3h1UTR0aWZ1NmVmck52X18?oc=5",
-        "source": "Financial Times",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Democrats pledge to expose ‘absolute avalanche of corruption’ under Donald Trump Financial Times Leading Dem on midterms aftermath: \"We're still in the fight of our lives\" CBS News…",
-        "pubDate": "Wed, 11 Nov 2026 21:01:55 GMT"
-      },
-      {
-        "title": "Pete Hegseth And Aides Told By Guard To ‘Maintain Silence’ At Tomb Of The Unknown Soldier",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONmNNSWNVWl9TQjhlUV81Q3pPWm02OXlLVE80UkJUSjFILXVnd3hQVnhXTXJtbHhqdDZaSTl6N25EVVlFOFBmaHpKQmNrZEIwMEpDamg1NXl3djZrQmZyVWRhWmJfVWlJb3ljdXNnalg0M3VJOWhhb0FaTHRJbWt0RTNYYXVnNVA4MjFXSmxxdW1HTmljdU9zUWJ5S1FlbTY2M2xyTms5dE5rLUJPRXhlTjdhcGw1Q2RRYTc1TUtWTWdDNXk2LVhPdzFjTUhnV1JSckZsYm9NdTNfZU94NUE?oc=5",
-        "source": "Forbes",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Pete Hegseth And Aides Told By Guard To ‘Maintain Silence’ At Tomb Of The Unknown Soldier Forbes Hegseth and team reprimanded by Army guard at solemn war memorial BBC Hegseth and t…",
-        "pubDate": "Wed, 11 Nov 2026 21:01:01 GMT"
-      },
-      {
-        "title": "Pensioner set on fire outside her flat",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXhvYmg0Z2JIMTYxY2x1SDc0cU50U1JrSzJlbWh3ZjdqblpoSEk4eDFWVTJseDhzS0s5aFMxcFVMSUFGQXFlTlVsbUgzTHozSEp3NE9ReFp1RFo5YWI3dnBsa1g4X0pWdi1XYy1TelJPNGd5MXpkc3hZbExWei1xZXhjMDhjSXFhWERz?oc=5",
-        "source": "The Telegraph",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Pensioner set on fire outside her flat The Telegraph Watford woman may have been set on fire with accelerant - police BBC Woman in her 80s set on fire in Herts named as attempted m…",
-        "pubDate": "Wed, 11 Nov 2026 20:57:00 GMT"
-      },
-      {
-        "title": "‘A tremendous step backwards’: US could lose measles elimination status under RFK Jr’s leadership",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlJTZU90X3plSHJFUlZnYjRPZkRQNGFPX2R6MDNzTWhRVG1ackVYUVNVazVnZlNzQTF6LVZ6R0JaQ0s3bG9PRUwxZlZ1bm9Sb0VoYlk0ZmpQNk9GdG8zdmZYcDRWdlhtallrWWF5Yld0ajdjUUxKTC1NTzdxdGw4OGtMc0JYc2hmR2dHOHNPUEtMcVk?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "‘A tremendous step backwards’: US could lose measles elimination status under RFK Jr’s leadership The Guardian America defeated measles in 2000. Vaccine opposition brought it roari…",
-        "pubDate": "Wed, 11 Nov 2026 20:40:00 GMT"
-      },
-      {
-        "title": "All Mississippi Senate ballots are in. Now the count enters the final phase.",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenJDcEtyRWhOS0Y2bWVhZWFIaENFT1RzTHJZT015QWRXWWppdzRoeDBhYTIwcmFnTjViZUJoUFZHZnczU2xmX2xpVVBKVWY4eWIySHN1VXF1d0wyMmJpaWNBa2JOSzFIYS1FOXJxZDZoMWFGcEg4aWxPc25YWE1xZE9vQl9NS096RmNjMlpLaHQ1Wm00SGg0RTVFc1IwLVgxSzlaRHRVM2RtQk02X2xsaHo5RXBoczRxbmd1LWpYS2JMTVgx?oc=5",
+        "title": "Pope Leo returns to Peru, his adopted homeland",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUpuTEFWN2VuSlF3TnN5Z2MyeUg4dmt5WmVYNHBIUjJLMDNaMnh2OXVibjZUT3BGZmtXT1lTSnFhX1M4dU8wYVpsNi1XX3Y5SXRObkkxSmdCQU53OFMtTkxVcTBIVEo1UE5RUHZmVnpCNV9FblhuM3QxdlVILS1pWWJ2dzEzYmRLMUoybmpneFlPeW1YYUE?oc=5",
         "source": "The Washington Post",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "All Mississippi Senate ballots are in. Now the count enters the final phase. The Washington Post Live updates: Democrat Scott Colom will win a US Senate seat in deep-red Mississipp…",
-        "pubDate": "Wed, 11 Nov 2026 20:33:28 GMT"
+        "summary": "Pope Leo returns to Peru, his adopted homeland The Washington Post Peruvian homecoming: Pope Leo returns to the country that shaped his path to the papacy CNN Pope Leo begins deepl…",
+        "pubDate": "Thu, 12 Nov 2026 04:02:47 GMT"
       },
       {
-        "title": "Missing Democrats Fuel Party Backlash After Hegseth Impeachment Effort Fails",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVJ3SE1VSjFMVTlxVUVCV0IzQ21ETEJPWVYzR0dsNk4wazNuc3ZKUXBjNHpkdHRXRFJQQWUtc1NnS0lpMHpRcFluSlhrNE1MSzBMQVR3b0NJR01rQklDaWtMRXJSOVpWdHlGRGE4cGNtYVlZUXNBOVdtdDcyWEZHUU5CZVBqXzRJaFZrYmF3MEJGZllTbmUzemFaRmJTRlBmcnIxVzBpVi1uUFB1YTZ3T2dRQWw?oc=5",
+        "title": "Nvidia board weighs fate of CEO Jensen Huang after affair with alleged Chinese spy",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgyQ1hDQlhOb0JIMEptNHA2VFpUZDFuYWl5R0RwSlpjYXNIMnJ1M0dVNnFlSUxkOVF5RFE3MUNPZWtKTkR1M3pNTEI2cC15ZGhvN240YTd0QTNYZEowNFNobjdSNm1WY1RlRXoyMUdaUE41TGtzWUNGeTFENG1PY3BNa1c5MHczSzJ4V1VZbjVISmZKOHpwNFFhOVdCZnRjSWtuM0c5WTVZa0lmS3o3YnJ5Q1pvZXo3LWtfRmV3?oc=5",
+        "source": "The Washington Post",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Nvidia board weighs fate of CEO Jensen Huang after affair with alleged Chinese spy The Washington Post Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports…",
+        "pubDate": "Thu, 12 Nov 2026 03:43:00 GMT"
+      },
+      {
+        "title": "Dangerous search for survivors continues after deadly building collapse in Brooklyn",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZkdYZk4zZ1NacXpLb25ncXd1WXJTX3c5aFlhM2lGYzRoSjFiZTlVeTItS0ZPSUwwOTJkdk1XaUxCYU5QbGpVTXN1YUpVUjIwT1FJNWhMdEJIUV8xTERyYmFzTFZLVDVBaUZRc2sydHpxWVNobG9qS2tGcGhxWHc?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Dangerous search for survivors continues after deadly building collapse in Brooklyn CNN Brooklyn Building Collapse Live Updates: At Least 2 Dead, Multiple Injured The New York Time…",
+        "pubDate": "Thu, 12 Nov 2026 03:37:00 GMT"
+      },
+      {
+        "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWVpUVldNM0YtR1R3dTJ3NEtyckxfX3hJd1NUa2pkUVVzMmFOMXNGX2N5RGxBa3RabndUeFl6d2JKUW4zWXFLVTlQMUQwVk5wQzNFUzVCUS00MWlIVjBaVkRkRlRhR3FYLUNJTUdJdEEzOVhnM3FqTlhZdXpBdnNyZjNZMWdYcmxqMGZCQ1ZXaEsxa1d0WFZPbU51UjZWYWVtaVc2X3pJdVNMS2pGWWJyTUduMUtKbmJlcUNr?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live The Guardian Nvidia's shares plunge as US tech giant's board r…",
+        "pubDate": "Thu, 12 Nov 2026 02:58:15 GMT"
+      },
+      {
+        "title": "The space rocket I could have been aboard explodes: Rhiannon Adam’s best photograph",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSjUzWlBuSVBnNlQwZWF2djJuVkxScldCV1o2bktXdzNXVFdESzEyREpqaXBqXzBUOHA1dkhNWno2M3J6M1NpenRpNENORXpjY2pIQy1CZXJwc2s2Z29jQTZfWDZjajZVZFplSWh6SUh1S1oyb0drdmY2dHp5Y1ZrLTFMam9sQzJ6TGlXaF95cW5iOVVPazlQTUhIUUN2OC1jRFA3eWd0SXk5ckdMYl9xNFFiZzdFSlU?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "The space rocket I could have been aboard explodes: Rhiannon Adam’s best photograph The Guardian",
+        "pubDate": "Thu, 12 Nov 2026 02:30:00 GMT"
+      },
+      {
+        "title": "People feared trapped after building collapses in New York",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOVlnRkZzRHVKaFB0UjJYSWV6MGYwaG1GeHNJbXhmc2RTbC1tYVRHT3g1YjNUTy1qQ2N1TzhtbWQtd29sb2oyZUswdWMxV2xvQzNLTFVKSl9EcTJvMVZVSmlBUWpwTFB0cGtaRWg2Y2ltZTI3QW1xVnk2bG9OQjY1RXNBSUk3Vk5vX3dGOEpXTnBBb2liQUR3Ql93?oc=5",
+        "source": "Sky News",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "People feared trapped after building collapses in New York Sky News 3-story Brooklyn building collapses, leaving people trapped under rubble CNN Brooklyn Building Collapse Live Upd…",
+        "pubDate": "Thu, 12 Nov 2026 02:28:57 GMT"
+      },
+      {
+        "title": "Anthony Clark, ‘Yes, Dear’ Star and Comedian, Dies at 62",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb3Y3ZVJxNVlJeFF2dk9XQUN6VlFVanoxclNiRHhTOENXbkpkc09mNDhlMUNzZW9NeVFqMnlXQVpURTVWLTRnS2hiMXBrYnFpeUZCeUZ0NUpwelhmV3lCLURIb3VTc0VEajVCYVZKNUYyUUc1Yk5FWjNXeUdqaWJQN1JCWGY1Zw?oc=5",
+        "source": "Variety",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Anthony Clark, ‘Yes, Dear’ Star and Comedian, Dies at 62 Variety Anthony Clark Dies: Comedian And ‘Yes, Dear’ Star Was 62 Deadline ‘Yes, Dear’ Actor Anthony Clark Dies at 62 People…",
+        "pubDate": "Thu, 12 Nov 2026 02:16:00 GMT"
+      },
+      {
+        "title": "Democratic lawmakers apologize after absences on Hegseth vote",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVpnSzRWYjNuTzdjclRyZUpOZTd0d0V4UVF3NDZXMC14cFBxVG1QZndoYVZaNW1ZWmx2TWQ5azFqYnBkbjJ3d01CdXBOczY5dlB3R3N6d01Db3paMUV3d3NWbEJEckY0ekszUnJsSlNPbDRkb2dqbVRneEpWOHUwa3FUVUNFb1M1MVROdVpuTFN3NzFXUnc5amN4QWRBek9VYzNXTXlmU3NmQnk4U2dF?oc=5",
+        "source": "The Washington Post",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Democratic lawmakers apologize after absences on Hegseth vote The Washington Post Democrats Face Backlash After Missing Hegseth Impeachment Vote The New York Times House Republican…",
+        "pubDate": "Thu, 12 Nov 2026 01:56:16 GMT"
+      },
+      {
+        "title": "Gwen Stefani and Blake Shelton’s Rare Outing Alongside Her Ex Gavin Rossdale Will No Doubt Raise Eyebrows",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHNWbEFBY210Y25NUU1HTFdxcG1kT0NTN2NiYjBhMHBSN2dIRXRqN3FIY3YxU2N5UnU0bk5UWjRIN0dtSFNMdXpKTVdsSTZOOEo4LU5VQ1hLd1NLOUVXeFF1blh4T2REVW53TE9yMVZnbG5aekktYlAxdnBFWEoxajNQQ21heDlnTWpjYjh1eEtCbXlaMWttalVmSkVINzFvem8tVkRMSWxUUGRBcHc?oc=5",
+        "source": "E! News",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Gwen Stefani and Blake Shelton’s Rare Outing Alongside Her Ex Gavin Rossdale Will No Doubt Raise Eyebrows E! NewsSee more headlines & perspectives on Google News",
+        "pubDate": "Thu, 12 Nov 2026 01:53:00 GMT"
+      },
+      {
+        "title": "Driver accused of DUI in crash that killed 3 pedestrians, critically injured 2 in Los Angeles",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS0dUSlVUZVJOSEpEOWVaeFQyWTZiMU5GdnhXM1dGb0pFc3RCcmJYU1RJcFFWMGZRcE9EY3ZhV0Nid3dsODFIZkVPM2pCTFBnSHg4b2ZWRVh3b2N2TE5ta2psYXp6R2w4aXF6R1ZPdzBvVDd6a1NYNDF2ZTlVdTVJUVhpZmNyaUh1TEF6bGVGb2lJRk5qMGZmU0ZOSDY0RkpTZzJpVHFHVlIxdDNFc0dTTFF0QWRiUQ?oc=5",
+        "source": "NBC News",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Driver accused of DUI in crash that killed 3 pedestrians, critically injured 2 in Los Angeles NBC News North Hollywood crash: Driver accused of killing 3 women in crash near Metro…",
+        "pubDate": "Thu, 12 Nov 2026 01:47:00 GMT"
+      },
+      {
+        "title": "Hegseth's group reprimanded for making noise at Tomb of the Unknown Soldier",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGNTeFpRQXBVOTU0QjlKdnl3Ri1EeG5oZ1RQNllEU2kzYVVUR2tKTVFxdnVwWFpfbFZzV25QeXFzWFc2YktKMVJTR0NZVEsyWnlsZXhEWmVFZ1hzVE50UkJpZEVXcWh1eVBVQXQ1Z3JOVTh6b25YNUp6c0prdmN0Q1h0bWRTRnhZZjMxMQ?oc=5",
+        "source": "CBS News",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Hegseth's group reprimanded for making noise at Tomb of the Unknown Soldier CBS News Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier The New York Tim…",
+        "pubDate": "Thu, 12 Nov 2026 01:33:58 GMT"
+      },
+      {
+        "title": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVhWcG5USS14S1FTbUdWOGtpYjRXSWdoUlJ4Ym95VXFGdnQtdVgyY3pMcjFScHpQc0c3a202TWJVcHp6YjFobDFfRl9Ga01PSGdaTEhZREZXRmtKUFBQY1JWQ0NmTHM2aVZnUVdNS3lPZG5RbDVVdHZFZnBkNmlwNU1Sc21GV1RvY0dwVHlyekd0UFg5aUZlNU1nYkJQZE1Y?oc=5",
+        "source": "AP News",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction AP News Streets Erupt in Celebration After Colom’s Historic Win in Mississippi The Ne…",
+        "pubDate": "Thu, 12 Nov 2026 01:30:00 GMT"
+      },
+      {
+        "title": "Brewers’ Jacob Misiorowski rolls to unanimous selection in NL Cy Young race",
+        "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8yTW5BaWtnUzk4YWJpLThJQjdlSXY1bTFsU2VJQnE1eDNCYUpocDkwUVR0RUZEVTh2MGhIbWZDRjM?oc=5",
+        "source": "BBWAA",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Brewers’ Jacob Misiorowski rolls to unanimous selection in NL Cy Young race BBWAA Brewers' Misiorowski, Yanks' Schlittler crowned unanimous Cy Young winners ESPN Brewers' Jacob Mis…",
+        "pubDate": "Thu, 12 Nov 2026 01:04:49 GMT"
+      },
+      {
+        "title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVMxMWYtSHpfTEN1dUVzcTRpZDBkRUR4ZVBENFJxODZHaEg5WHp0ekZFdENtZEZrNDl5eENKWW11LVJFSGd4T0Y0TVNEQU0wRUhoMW5HMVdsUmZmQThZVV9WdmVXc3ZGM0F5Wk1kRlM0TEFXbG51WUNyWGt3WXlRU1I2cmNoNmNocEtkdkktdU9NTVA1dUhiWHlYRG44aUxTM3VlVmdzOU41T3Z4aGxKbkw4VG5RZw?oc=5",
         "source": "WSJ",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Missing Democrats Fuel Party Backlash After Hegseth Impeachment Effort Fails WSJ Democrats lambast absent peers after Republicans block Hegseth impeachment attempt The Guardian Rep…",
-        "pubDate": "Wed, 11 Nov 2026 20:21:00 GMT"
+        "summary": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed WSJ",
+        "pubDate": "Thu, 12 Nov 2026 01:00:00 GMT"
       },
       {
-        "title": "Kevin O’Connell: Too early to commit wholeheartedly to Kirk Cousins starting Sunday",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOVlLeFd2Yzh6RGlVSUNRTkNZZUlZS3d4VC1kX0dqeDVfSFJlaUozNVAwMWx0V2hFWkswdXFKLXlfQzNVV2VBWjd6VlpYcVpGaXQ4ekpaRldjQWxNemE2dm1lNUR4RzlnTWJzVHJVLS10N1lDa3lsZDF6dmtYQzI1eHVzOTd2Q1lOaGtLQzhtS1FGbDlGRnlIVVRtVXloRzEweGM0UmlxMVZoZ1lraHdyYldfRUNpemJ2dEJ1TWFhVXRSWHFsZ1poMVZZTjU5WU9mTGQ2T0hzV3NqREE?oc=5",
-        "source": "NBC Sports",
+        "title": "Burnham's push for closer EU ties causes ripples in his party and others",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XTVJ2YjgwX3FHNUQ1bGZxMWVOS0dpTnpCdEtIZ05oNGRYbEhSM2ExQ0pwTnRYeE45WGVPUTJyUzBNaTh0bHpqWFVnaUd3THpYV09HMlpNc2VZVjcwVHc?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Burnham's push for closer EU ties causes ripples in his party and others BBC Andy Burnham wants to get closer to the EU - but he shouldn’t expect a smooth ride BBC Lisa Nandy wary…",
+        "pubDate": "Thu, 12 Nov 2026 00:30:48 GMT"
+      },
+      {
+        "title": "Map shows central Iowa locations where you may have been exposed to measles",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDZhOE55WmlqVHhHNjVjVmcxYnRTVU5oOE5OclJZa2pLMlJsMDhKdzdDVURGcld3VGE2MkUxbmhpUy1STkpGY1NxcmltamhBdE1lc2tuZlFUV1lkYzZVQW1MVEhvVTF4NGRvdjJNMUdmN2FtTTFHekpOSmtCTlF6S09qd2VoUmliTXNQa19CcUYyQzJsMGtBWXFn?oc=5",
+        "source": "KCCI",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Kevin O’Connell: Too early to commit wholeheartedly to Kirk Cousins starting Sunday NBC Sports Kirk Cousins says call with Kevin O'Connell convinced him to OK Vikings trade ESPN NF…",
-        "pubDate": "Wed, 11 Nov 2026 20:17:33 GMT"
+        "summary": "Map shows central Iowa locations where you may have been exposed to measles KCCI Measles Case Confirmed in Polk County - Nov. 11, 2026 Polk County Iowa (.gov) First Measles case id…",
+        "pubDate": "Thu, 12 Nov 2026 00:20:00 GMT"
       },
       {
-        "title": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdFU5UWlydXAwajQ4d0F4S2c5N1ZNTmZCTHpJT3I4M2tLMy05bEp3ekZ4cDdkTzB4cVdyazNGSHVYeTdxb1lQSGYyWTRvOEZxdUdaYUFJa3NLVmkydE14R1ZSSURSVjQ1N0cxTmFOMnVzV0tfZjl0LW9xbjVJM01Cc2hWeUxhLWRQOXRlTlZsR2MyZUZ6YlE?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say The Guardian Poundland set for more time to secure a rescue deal as emergency talks continue BBC Poundlan…",
-        "pubDate": "Wed, 11 Nov 2026 20:10:00 GMT"
-      },
-      {
-        "title": "Move over BMI: new obesity definition is better for predicting your health",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nakdYdVAtWEZ1TmZDTHZJT09KWUVXcGNrRG44SmdvMGRkTzhMOFdpTDY3NXNzSXhmTnNDbEdsQk5pYno4WURKTzdPalgwN1lGOTNvcUFOVmpoNDh3TGU0?oc=5",
-        "source": "Nature",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Move over BMI: new obesity definition is better for predicting your health Nature BMI alternative for identifying obesity ‘could prevent misdiagnosis in millions’ The Guardian Body…",
-        "pubDate": "Wed, 11 Nov 2026 20:02:01 GMT"
-      },
-      {
-        "title": "What is David Walliams accused of and what has he said in response?",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTzdoWU9RUDRtN1VPcWI1dVF2OUR2cDZrMXVtWlNtallWalFObl9vOTJGOUFaRGZMYjE3WHFuZWR0S19VU0ltM3dMQzVMODFycUJkTmlWYk5aM0VST1Z0dXh5Y0ZTMTNpTnpDOENnRGNPSmp6cGZEYU13aGhRa3Etc1dUS3pVNGRGT0FkSkRGTQ?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "What is David Walliams accused of and what has he said in response? The Guardian David Walliams: Author Chloe Combi says there were 'real concerns' about him in publishing industry…",
-        "pubDate": "Wed, 11 Nov 2026 20:02:00 GMT"
-      },
-      {
-        "title": "Why is gasoline suddenly under $4 a gallon?",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQm91N3FDYlY3SVBUYWNMVFBJSF9icTFwREFtM2pkWVhGbmg1T0s0bnlOSkZfRkFpNTZuZDlZQTJ3TS1wVW1DVlcyS3F3enphTldaYnh0a0lfdnhqWnNjRmJ1eGpMeEVSMlZxcHlGSElKMXVuV2RHMk5VSVB1MlB2Skwtc05odExwYlE?oc=5",
-        "source": "NPR",
+        "title": "The S.S. United States, a Historic Supership, Heads to the Ocean Floor",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjV3U1dabnNYNVVZV2RvZ084cGJ2NkwxUHhwZWYtWUlldGhLdU16YXVUOC0zOVNTYXljTVJCaEdDUGlwSi15NXJZQmh1a0NDWVlxaUlhUFlfOUhvbmg3YzJtb1A3X0pLenZPT3M4SFdKTkdTR1JYdGVYUFJpeTZOWTRlN1d3S0wtRExEbzQycjQtejh6Q2R3dHM4MURYQUxCYldZ?oc=5",
+        "source": "The New York Times",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Why is gasoline suddenly under $4 a gallon? NPR Gas prices fall below $4 per gallon for the first time since July NBC News Oil, gas, and diesel prices are declining — but not all f…",
-        "pubDate": "Wed, 11 Nov 2026 19:59:14 GMT"
+        "summary": "The S.S. United States, a Historic Supership, Heads to the Ocean Floor The New York Times The historic SS United States is sunk after a long goodbye off Florida’s coast Sun Sentine…",
+        "pubDate": "Thu, 12 Nov 2026 00:15:56 GMT"
       },
       {
-        "title": "Senior Reform UK official quits as questions over vetting failures continue",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSjZKRUV2MFoxZzJrWTQtbDRHSDJXVFNSM19wMHExOGpnVFVPTFY4dHRBMjhPS3Z2Y2pxWmIzMjAxdVAxR1JzUDlGZnlGRjFiX2R6SDgzc1R2bk9aSWg1MEl5TnNDUURiVFhqUmZnTDdva0hwM3hIeERFS2ZOODR0OGV1d0lwOVAtT19YWFRyLTlCWW1MOEVLUXJ3bnlwTmViWVNUUXl4a05aOHBuS0R5anFDa2JHeTFWQ2Nvc1RVZGM0a0t6MHJDM0k2bw?oc=5",
-        "source": "The Guardian",
+        "title": "Sunbed firms must not downplay cancer risk, says watchdog",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUUtTRHNISzN1UUo1OTBKNTQyRlhPbmRES0NjVEt5TnduQ3BPd1BpWWdXNVJONHdFSjgxN0xnTGZXLTBQYXhMX2p0Q0k0S3BCamdSemtfSk9zM0p1Umc?oc=5",
+        "source": "BBC",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Senior Reform UK official quits as questions over vetting failures continue The Guardian Reform UK’s vetting chief replaced after series of scandals Financial Times Nigel Farage sa…",
-        "pubDate": "Wed, 11 Nov 2026 19:51:00 GMT"
+        "summary": "Sunbed firms must not downplay cancer risk, says watchdog BBC",
+        "pubDate": "Thu, 12 Nov 2026 00:13:27 GMT"
+      },
+      {
+        "title": "Trying Tourette's device was the best day of my life",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBS0ZGUENndXVTRlJRSzcwXzVkMVNybXVoZTIzRDI0XzFzTk83cDVKc2YyNVdUS1U0NE11dUVWSFpwNU1VRW5kY2drMldMLVZFMnQtb3ZQUjFZMm5SM0E?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Trying Tourette's device was the best day of my life BBC",
+        "pubDate": "Thu, 12 Nov 2026 00:08:29 GMT"
       },
       {
         "title": "Bird flu fears prompt orders for farmers to keep poultry inside in England and Scotland",
@@ -596,48 +564,96 @@
         "source": "The Guardian",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
         "summary": "Bird flu fears prompt orders for farmers to keep poultry inside in England and Scotland The Guardian National Housing Order declared to protect birds from Avian Influenza GOV.UK Tu…",
-        "pubDate": "Wed, 11 Nov 2026 19:49:00 GMT"
+        "pubDate": "Thu, 12 Nov 2026 00:03:00 GMT"
       },
       {
-        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZDJtSXdwdkJWUlI4SlRWMzhQNlFKTG00LW4xVW9tZ1pLcFUtRzBQYklOMWRvZVZ4a3AwOTliX2hvcWpjYTN2eGR4NWp2M1BiMGNUMl9SZUxqQnpOWDU0QnRpUkdyX1FVSkVaRDFSUmw1R1pQWFFEMzNfVDN1MjY3QUNn?oc=5",
-        "source": "CBS News",
+        "title": "Some under-25s should get less benefits, Milburn review to say",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2RUNoUFdGS0Z4X21SVGpvalRSal96SXRnTnVLTWdpNVhIVjVTYUlHQmlBemc2N3BSQnNDZkxnZ0JaOGdDc3NZdmRhYk1rbnZWUVJjd1EyMGZUUTVCSnc?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Some under-25s should get less benefits, Milburn review to say BBC Young people to be stripped of main disability benefits The Telegraph ‘I just got AI emails rejecting my applicat…",
+        "pubDate": "Wed, 11 Nov 2026 23:22:04 GMT"
+      },
+      {
+        "title": "Woman, 80, in critical condition after being set on fire",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3VjM0FMSzgwYVFzU09ZU3N2eS1sNnl4S2pHWnBxb2FyckJWSEoycEJmU0hPU241aVdFbVNQM1FJQUUwRUJMWXJua2pObDlibHhqYVFEWV9xMlZZSjRlX0ZVcS16VXJGYkpYNEV1Z0RzWGJLNEc2V3pDaDZXc2JtNHZvQjZKXzc3OEE4Qm03blZCWFN4?oc=5",
+        "source": "Sky News",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Woman, 80, in critical condition after being set on fire Sky News Watford woman may have been set on fire with accelerant - police BBC Pensioner set on fire outside her flat The Te…",
+        "pubDate": "Wed, 11 Nov 2026 23:18:56 GMT"
+      },
+      {
+        "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXNzZ4OTdUeFE5N0g0NDVJR0Z0blhJUzhCUDNiUF9hTXNFcGlFaDhZWUkzTUk2T2ZIWHhOWml5dmZEaUR4Qy1NeUtYQkRyTS1iOGhjaFVVN21XWWpIU3c?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Democrat Scott Colom seals historic win in Mississippi Senate race BBC Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politi…",
+        "pubDate": "Wed, 11 Nov 2026 23:05:25 GMT"
+      },
+      {
+        "title": "Spot a fireball during tonight’s Northern Taurid meteor shower",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QOWV1emtKalVxcFVmUXIzOWFpM0hrVEhyUjY4X0ZUcUhFV2pxVEtNellrNGsxZDlxSXpXUk51ZUgwSHA3dUdza1NuMWF3UUpwZ1p5S3E5U0wwWkFiX0RwamZsSFJzXzAtQ0d1b0E0amtFYjU0bi1N?oc=5",
+        "source": "CNN",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "United Airlines bans AI agents from booking flights on behalf of travelers CBS NewsSee more headlines & perspectives on Google News",
-        "pubDate": "Wed, 11 Nov 2026 19:37:38 GMT"
+        "summary": "Spot a fireball during tonight’s Northern Taurid meteor shower CNN Meteor shower may bring ‘incredible fireballs’ over PA. Here’s when to look up Centre Daily Times Kansas City can…",
+        "pubDate": "Wed, 11 Nov 2026 23:00:15 GMT"
+      },
+      {
+        "title": "Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUMzVXplbnVxSEFUN2ZkNDBwUUsyRHlwbENDQXBBc2hQdHk0NkZEM1c3ZHZHMVM1YWMtX0JkcE5rR2ZHbUljT21KdTFIYnN6Q0pHbi1pRmVxN2dja3M5clhQZkd1dVd4MlJPVGVVOTJtUXlJdE9BV18tbWFRRjdNeS1fVE5DQmhYSUlsN1hsQ1dKLUdxRlJBZjB4d3ZHcTA2QWx4Q3NwVVpibFU?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay The Guardian Mauricio Pochettino: Man Utd strike agreement with Michael Carrick's potent…",
+        "pubDate": "Wed, 11 Nov 2026 22:49:00 GMT"
       }
     ],
     "🇷🇴 Romania": [
       {
-        "title": "Negocierile de la Abu Dhabi, la final: Zelenski spune de cine depind „cele mai multe lucruri”. Scenariul respins categoric de Moscova",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0pIbDlobHpZM21SLVJiN1ZjZXEyd3E5OG9LN2lTNEl1UzZrOFcxRUlZaS1uYUg3RmlYUzEtN1lrQXV6SG9SSk9XZ3lVZndxd1QwVGxtWEgzbkg3RkNvTE9yUG1UelVQRU8xV2x2cjEzWVNubnNwQTBHa1kxaEFOMUcyS1ZhUFJ0eEtwdGhBNnJPNG15ZzhUSUVxV3Vna3IxWUNwQ28ySnpfSWRlWnhwdFBrNDVIZw?oc=5",
-        "source": "HotNews.ro",
+        "title": "Un gigant tehnologic american se prăbușește pe bursă: Pierdere de 430 de miliarde de dolari în două...",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUxMdlRHZ0pKX1ZzNTFzSjhTQUVwMHFSQk8yeUhEQ1FRTVJoQXV6RVF5MS1mNjBlUW9jQVlZWXp2Z19sMGo4T3JpT1hUTjI0Y2FxaHFSc1Q3RkNXRlpBRjBZQkd2ZW5aWXl0ZHVvcEpKOUNIUl9LQXRYeUlSZ2xMM3htdjlHdkpWWmFHdHFyamlNRFd5ZTBnQ3V1LWJnRl82ZndmOWg5bkFxZ3pBdXfSAbYBQVVfeXFMTm5Wb0hWZTNyQ2YzOWtGRWVteHktSFBMZktTcWIzdmgxSjdPX2ZrYnhCNFdKTURPZ1dkQjlnNVJaNUxMQzBNdU1GZXB5SG5yVElzcVdJRXF3Z2RPMnNxWUx6eE05UURhSDZ6dDJqTDdoczVZUGxIMXoyZ0dOc01ZbXJrOTFKZUtoU2RNNzB0U0JZbEdlVG16NnhpUDJsdFIxcW1EX0toM1VDWDVCRW9wUzJORXRfN0E?oc=5",
+        "source": "Ziare.com",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Negocierile de la Abu Dhabi, la final: Zelenski spune de cine depind „cele mai multe lucruri”. Scenariul respins categoric de Moscova HotNews.ro Kushner și Witkoff la Moscova: SUA…",
-        "pubDate": "Wed, 11 Nov 2026 20:50:12 GMT"
+        "summary": "Un gigant tehnologic american se prăbușește pe bursă: Pierdere de 430 de miliarde de dolari în două... Ziare.com Acțiunile Nvidia înregistrează cea mai mare scădere din 2025 🚩 Ce…",
+        "pubDate": "Wed, 11 Nov 2026 23:33:51 GMT"
       },
       {
         "title": "De ce vrea PSD reorganizarea administrativ-teritorială a României. Explicațiile eurodeputatului care...",
         "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQY0M3SUFVUTRZZzlHczd1Rmo1UGdfLUxaSXluVGtvak1WQzZCT21QMXNtQ3Rlc0RRY2lPTngtNmR5LXZZY0ExRkhsTE1LVEhCUFJhQktyT1FRSXM4WG9FTGdQSTlWVk9STWFPVmh3a2gwc1puaTFaYWVpcE42SFFSdjBuVjFOeldOSUJWLXNCTTctMXdoOGV1c2xidE9ZX0F6M3NHNVJmNzRLNmo0dGpkMlM4NXpxTkFoM3ptSWVodkRfaFpha01nTnVOLWF5dGcteC1Gb1owQ0s5X3gtZG81LVYtZzU5U1pKdHBNYXlWb0NKYXBqRGhuTFVrQVNVNVlzNE5iall3TzJhamVIMlREYU1VWFhVLXBHRXA00gGmAkFVX3lxTE5nc1VlTHdZenJ3SVJzb0RERDhEa19BWExyZzgxcWNyQlRybHc2X1Zsb2VqTUhxeU9ia2J2NlRpMFRfajNPQWlZU0stSGRXdFozM1g1VTRxejN6Q3RaR01yNnRfWW1jVXVxZVljdHZjeVNiNmNjc293WlBqMUFIR3VyQTV4ZjZQRlllNkhzSnp3aUtUTG9kXzVJb2JOMkxPeWVYS29zNEMwLXE0SEVsVXdLeWtWams2MmFVYlVUT1ZaZG0ySEhEZnVsQmRFTk9mZW9RVV9xbUtrZ2k1MFE0alF4UVBoZEs1WjcxcDZMVTlCTDEwZE1kYUlTMVBEdmRNSnhjLTAtM3RpWDY0dEwyLUQ2VmU5NUFoVHlPdUJWYUIyc09Za2pQZw?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "De ce vrea PSD reorganizarea administrativ-teritorială a României. Explicațiile eurodeputatului care... Digi24 Cum ar arăta harta României dacă se aplică \"planul Benea\". 26 de jude…",
-        "pubDate": "Wed, 11 Nov 2026 20:26:15 GMT"
+        "summary": "De ce vrea PSD reorganizarea administrativ-teritorială a României. Explicațiile eurodeputatului care... Digi24 Primele două județe din România care vor să se unească. Grindeanu: „M…",
+        "pubDate": "Wed, 11 Nov 2026 22:48:14 GMT"
       },
       {
-        "title": "Video Cine va fi noul director tehnic al centralei nucleare de la Cernavodă (surse)",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFJkNWUxYThKX29vMjVhbEQ2MmdVeFJYZGNONXJhdjNfM0Y5UHpTcFlqOHc2VTQ1cHRQR1FSbXhlTkZ1SzlPeXBHbTVPdzBpN1VGY3pqOEkxbnVqOWlqaXR0RHdOS0ZiODk2TjVDVUJqSWFwVkVZWlB4MVJ6WjhBRGZjd2R4RUp6VUlRMHJZUFc3aHgxazlTdXdOWHBWT25VZm9GNnJTQWcydFlYS2R1Z0NXRUJGcTBYS1VucmN4X2pNVlBJLXpV?oc=5",
+        "title": "Anunțul lui Zelenski după negocierile de pace de la Abu Dhabi. „Vom face tot ce ne stă în putință”",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWd6NFdRaGVyMHk0LUhOTW5LM0FpQ0lzdkFkWUtfdTAtQUp2dUJWZ1BIaEJwdk1DQTlia3hEOUVqN3hIQjJDbno1X0VvRlBfclRnNnJpZ1RfYVMwa3RFNmNpWDlUZ1NoRlU2R29rUG1FY2UyNmxZYkNDT2JzbTN0ejRXSWp5T0NDaHJVRXFUS25XaGFWM0NNRy13ZFRKazJJNGRTcllQZFRGS2JoX3Q3Z1NoUlNSeUpNRWwwYnZoNjUxb1E?oc=5",
+        "source": "HotNews.ro",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Anunțul lui Zelenski după negocierile de pace de la Abu Dhabi. „Vom face tot ce ne stă în putință” HotNews.ro",
+        "pubDate": "Wed, 11 Nov 2026 22:47:47 GMT"
+      },
+      {
+        "title": "SUA: Scandal în Partidul Democrat. 11 congresmeni au lipsit de la votul de demitere a lui Pete Hegseth...",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbVpmekFocXhZcm5WYVREZmJpaWRxOTcwQnZEVkRUdWcwU3EyU253MmVNNVhUek5Dbk5GZlhFMHpJZ1ZTUUhvdHl4S0U0bTFpMEc5WWhtYXJMZlRUeW5oLVJ1b0lSVHVmT3FtMFVIbUMzMkR2VXE3aGltRkRQckdhMUJhTWJLNEFVVm96SEJIZlp5YWFCQXNiY0RWMWttb3FNRXZOZXp6blQ1YW1sYUlQZzU1RlFMOWQtUlZuWWJGRG1VSE1yLXcyYmIxcUxPMTkxRTl1VEhQN2JUUVBGNlR5bDBXeTVKLVNXZ1NoSW9fZUdjRTVySE11Mi12dDlTdEZLWDNZ0gGOAkFVX3lxTE5yTjg5Nm96VXVEVm42UFVHZG1IUE1GRF9PSDVrZDFVUW0wbW4wcnpsWmNvaFZCbUktZU5DbGduTExXeFhyNTg4ZUZqQ0lXNHBBZlZ3NFkyNUc5Zm1BNTdwcy1YZEJDUGI5Qno1UUM3bWdjbWpJVDUtdUx1TFl3UkYwS2V0dXFZTXhfaXJUQXdqcTVEMmZ2RW1IN0JfNHh2d29QT0tqeW9kVTZnWVVmQWV3aDNCSDNmOGhlQXBWaHhzdlVkVVhjaU1TNDJXLXBta1BkM1EzT1ZiRkJ5Y3VOdUVzR3RXS2cyOWtRSHAxNG9NaGJvME8yUGRCZEdPY0U5NmQzckdMY01XYTVRYTI2QQ?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Video Cine va fi noul director tehnic al centralei nucleare de la Cernavodă (surse) Digi24 Reactorul 1 de la Centrala Nuclearelectrică Cernavodă va funcționa la putere nominală cu…",
-        "pubDate": "Wed, 11 Nov 2026 20:17:13 GMT"
+        "summary": "SUA: Scandal în Partidul Democrat. 11 congresmeni au lipsit de la votul de demitere a lui Pete Hegseth... Digi24 SUA: Procedura de destituire împotriva lui Hegseth a fost blocată d…",
+        "pubDate": "Wed, 11 Nov 2026 21:48:35 GMT"
+      },
+      {
+        "title": "Fotbal: România, învinsă de Italia în preliminariile Campionatului European Under-19",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZThBMXFyanhwUUtkdGloN2ZrazcyTFpnYzF2T0VmZnc0SXNzLV9hVjhnXzFZczZ0T0dvNDBnRVBqSkRpbDZFaEJvMF8xUlhBQzVDV1djT09HY3NlWktHTkx2b1hJVmFsWF93aW5JaVNmWks4VnNDQWR1MXUzNDIwNk1kMFpsVFB2dmlHZXhrUUdhd2RKNDdSWGYyeEdFem5mc091dldKYWU1Z0otZVpPSkUyTmktbE1GYUFjZHZUYTlHVkNZdm5wTEtBd9IB1gFBVV95cUxOWWVKMU1fN3M2NFVUbVZQMWM1azUtVzZ4dHYwQ19Cam1SenhCS05jT29rM2NVREFqdkV6bmRBWTNNLVlSckxMNVJ2NVNxc1B2NmdGUDBvU0tTb1lza0JoSS1xejY5cV9uVjFFdWNYdGFTcDU3ZWw0cE95cV9PaUNHTjJPOGFjcHdld1R1aW10ZUVMbC1XdEljX21PUGpodWtkTlhHeHB1NENwT2dER3ROMWhoTi1EQkxkLVVZQnNGQVBvOGo3aEliSVdlTV9Rc2V0RUkzcl9n?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Fotbal: România, învinsă de Italia în preliminariile Campionatului European Under-19 Digi24Vedeți mai multe titluri și perspective în Știri Google",
+        "pubDate": "Wed, 11 Nov 2026 20:52:13 GMT"
       },
       {
         "title": "Alertă la granița României. Armata a ridicat două avioane de luptă F-16",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNzhBbFg3a3lUYVFVaXkxcjNodzlpVm5RV2t2MGpGZFFGcFlUX2sweVpZTTZfVVNrWk1BcGdNR2J0dnc0cDJOLWd4QXhRM05MRXpxMFNvTG91bDEzZkxXWmpkNFlRR0NjQUd0ZkpQY1o4bzIxd1hEblVjZVpJQXQyZzNvbnhDYmtSUzdVSUE0aEFFZEc0SjI1T2ttb0FUQQ?oc=5",
         "source": "HotNews.ro",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Alertă la granița României. Armata a ridicat două avioane de luptă F-16 HotNews.ro Tulcea: Un nou mesaj RO-ALERT de posibile incursiuni de drone Agerpres Județul Tulcea: Dronă dete…",
+        "summary": "Alertă la granița României. Armata a ridicat două avioane de luptă F-16 HotNews.ro Județul Tulcea: Dronă detectată la 25 de kilometri de Sulina. MApN a ridicat două avioane F-16 :…",
         "pubDate": "Wed, 11 Nov 2026 19:59:40 GMT"
       },
       {
@@ -645,7 +661,7 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNUdPNl9MNTdPaWxvSmZpalNTX2N2Wk96R0lZdTFqT1VnU25SVXN6SWx2YlZfdmtBUHFyNVRtM0pJUVdvRGV2N3VheEFzZ2J3MWZueUZwcE1odXFmbDZJa2xnb2RSanRERWhVX2FKZGVKR04xUVRxWGdobDgzckZyWURxSjU1OFNGRUpyUlo2TzFiOXFCMzF0ZkZyZy1VdTBaZWJpdmJhcXhUOGNVX2JSaXZIanBaSXQ1ZkZYRXFoeHhBcEo4cGZ3VnBiaDBmWFhfYzQ0V2REcHNMckRNSVE?oc=5",
         "source": "HotNews.ro",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Ilie Dumitrescu mizează pe jucătorul de la FCSB: „Dacă era în altă societate, într-un an valora 50-60 de milioane de euro” HotNews.ro Ilie Dumitrescu prevede o lovitură din Superli…",
+        "summary": "Ilie Dumitrescu mizează pe jucătorul de la FCSB: „Dacă era în altă societate, într-un an valora 50-60 de milioane de euro” HotNews.ro Ilie Dumitrescu s-a convins de fotbalistul din…",
         "pubDate": "Wed, 11 Nov 2026 19:05:20 GMT"
       },
       {
@@ -655,22 +671,6 @@
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
         "summary": "Un ingredient consumat frecvent ar putea crește riscul de cancer la sân. Ce au descoperit cercetătorii Ziare.com",
         "pubDate": "Wed, 11 Nov 2026 18:42:45 GMT"
-      },
-      {
-        "title": "Motivul pentru care Călin Georgescu a fost plasat în arest la domiciliu. Ce arată motivarea instanței",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUWZadzlBbHl0NVZXdVY3SUVBZlhsSGxwODJqVlhVd1ljVXVxaEtiR1JwSGw1SzlXeXQ0VGdzX3RWeUtrTFI2TEEtc0VXVnhnS2RHODdiVF96cFBnTlVsRHFZaW55bm51U1lLTEY4SnlmSE5ISkVWbG9vWWZIRVVfWk1OdFlpQTltMmVoMzJwMTZGb2ZUT0xXU1RZRkMzWVp0QkVQbEtFNG9nQlVCTm9obF9seGxmSTNCYTl5OVVobUVGcUE0NXR6aGpCTVBvUlFzeEJuYQ?oc=5",
-        "source": "Stirile ProTV",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Motivul pentru care Călin Georgescu a fost plasat în arest la domiciliu. Ce arată motivarea instanței Stirile ProTV Motivarea Tribunalului București privind arestul la domiciliu: C…",
-        "pubDate": "Wed, 11 Nov 2026 17:43:49 GMT"
-      },
-      {
-        "title": "Șoferul român reținut în cazul tragediei din Bulgaria a fost eliberat. Ce a spus bărbatul în fața...",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSmcwNGMtU1FGYmVmdVNPTjVTcGo5blBwV3BRWVJ3Zmh0QVppN0dzXzZzTTJER09WZVJiNlZWMkJvcml5YmVpUmZpUkQ2UHRra0dxd013ZEZiLXZxazNtaEdvd3M3eGdlbjVVZVlIYVJXX2d6OGpYX1Fyb202ZkZpN0tEM3NleVVnOHdxNGZoYnNZUmhmYmFzMzZndGp2T3dQeXlENGxJOFpwa3hVV3lKbTg1NVZZRHM4dnlBQ2Zhd3d6MnBvOGN2bkw5SkVlb2RYREh1NW95akRTSE54MkZpUUdZdGx5Rm11c3pBV2hhYw?oc=5",
-        "source": "Digi24",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Șoferul român reținut în cazul tragediei din Bulgaria a fost eliberat. Ce a spus bărbatul în fața... Digi24 Șoferul român implicat în accidentul grav de pe autostrada Trakia, elibe…",
-        "pubDate": "Wed, 11 Nov 2026 16:24:58 GMT"
       },
       {
         "title": "Lupta de pe Facebook între ministrul PSD și fostul ministru USR de la Transporturi privind tunelul Momaia...",
@@ -685,8 +685,48 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa1czbmEyOXlaWWVHeHVuS2lfLWI2V0hlb2hlZkJxZFNHa3dLZjRxcGlOdHJKYUExQUwyT0l4OTd5V05GRllpQWVPVVBaUkpkZXhLQkIwclQ0Wkk5MmlIYzRJNUc2ZEdIR0sxR1oxdG9DZWNQNG1FNVJqLXZIWTBUemQ5b3gwV0NYWkZyVmJfWEx1bEwtNUU0LTdRekNfbjRPTHZlbURPYTEzemJSNmtWbw?oc=5",
         "source": "Agerpres",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Un nou test sangvin detectează riscul precoce de cancer ovarian Agerpres",
+        "summary": "Un nou test sangvin detectează riscul precoce de cancer ovarian Agerpres Un test de sânge experimental a identificat leziuni precanceroase asociate unei forme agresive de cancer ov…",
         "pubDate": "Wed, 11 Nov 2026 15:38:29 GMT"
+      },
+      {
+        "title": "Ce pensie vor primi românii care câștigă salariul minim și salariul mediu. Calculele unui economist pentru „Adevărul”",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdWhCWmFWQWdGQzFwaEtsaFZlMVc1czhlRFlDNzhhY2pOOGxGZ0JZb1Q3UzV1V3lyckd4eTNpamxHUkxrcE51eWpFWDNzNTMtNFk2VmJzUEZ0ZVVSSTlSUUNJY2ZMTTBkV2J0bm4xMTF2U0FPMzlWaEZUaVpxampsVWNLQklfOF9VQWdPSm5Fek1acjZxY1E?oc=5",
+        "source": "Adevărul",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Ce pensie vor primi românii care câștigă salariul minim și salariul mediu. Calculele unui economist pentru „Adevărul” Adevărul INS: Îmbătrânirea populației pune presiune pe piața m…",
+        "pubDate": "Wed, 11 Nov 2026 15:11:46 GMT"
+      },
+      {
+        "title": "Vaccinul gripal, testat ca tratament împotriva cancerului. La trei pacienți, medicii nu au mai găsit celule canceroase",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWXYxSnctWVJOcktTQ1lZUzEwRW91d1hwM29wUDR1ODNaZDJzYk82S05hb211TVczMm41bjVNWTRsRDJWN3l0eWV3NDJpREhyOV9VSF9VTnA2ZmoyNEQ5SmJFQzZXdk5xd0pSbTNXN1ZXUTdVX1RUaTVjdVlaTzdiZ0F1ZFlzYVRMUXNnNmZ5SkZyZEcxWElOLTBiRHoyT19ReFBWT3BhQWhtZUVvT2pmT1p1R2JMN0tRSDE4bWd4Ni05N2hpd2FoN2J3OUpJVURPUXZTdFUzY1o4QQ?oc=5",
+        "source": "HotNews.ro",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Vaccinul gripal, testat ca tratament împotriva cancerului. La trei pacienți, medicii nu au mai găsit celule canceroase HotNews.ro Un vaccin adaptat tumorii fiecărui pacient ar pute…",
+        "pubDate": "Wed, 11 Nov 2026 14:01:52 GMT"
+      },
+      {
+        "title": "Rusia a cerut NATO să revină la configurația din 1997. Ce condiții a pus Moscova la negocierile de la Abu Dhabi",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSWZxSEZMYkdqYUFCeHNOMlJvZHRPOFN5aUxhZDVDczdwZFM3dHZ6TzJOb3NaT2xhOV9OTFZOb0dCUTF6b25RWHhsVmRZaGpOaU5PTEt3ZWdtVFZjVXplZ2tIbFhKb3BrMHZLSDR0d2p3TjROLWM1NWlfdzAtMHJFem9JZFZRaWFzVVFtVV9lR3FoOXhhdlMtRkduenlvWDhTTm1FZjVGc3BVZXh1dlJZZFBqU2IyWHB6MVNxRE52WmFfeVQybGIwNmFyNUpjUUZnX2NoeWR6X3N4dUotLXRmMFpHcU5meDZ4?oc=5",
+        "source": "Stirile ProTV",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Rusia a cerut NATO să revină la configurația din 1997. Ce condiții a pus Moscova la negocierile de la Abu Dhabi Stirile ProTV SUA au cerut Rusiei să prezinte o propunere privind un…",
+        "pubDate": "Wed, 11 Nov 2026 12:53:45 GMT"
+      },
+      {
+        "title": "Interzicerea accesului jurnalistului Ovidiu Vanghele la conferinţele de presă ale preşedintelui, discutată joi în şedinţa Consiliului Naţional al Audiovizualului / Dorina Rusu, membră CNA: „Un precedent periculos”",
+        "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQN1hHYTh4R0lSVkhGTElhc0JlRDJ3RGpBcEItYWpvOGJvS1RqUHQxbmJlaWdPaktjd1E1SVNXSFFYTHdZaF9KSU5JUjMtUGtmUmt2RzRXT0lTWURBUlZ2VVdwR0hLc2xHQXhRYU0tVlpfRkdOZGFIamxjUVF6WTF3R1g2YlFZcl81QVFFRmFhXzRXYXZXZ3pxekZGSDN6em5jZ1JYb1MxM0w0VU9sU0I4YTZocE5DR0UyU1E5N1Y3Y2Jkb0JJVFM4aTVZRFVFN3hZTTJiRjlwb2hjYU5JQkFiLVk2eFhnbk1qY0RieG9qVUNZV01yWnlqQVpjMTVKSm5fR1htOE1MR0tjcElYcGdMSG15cWdhWk54T2FRbE9LOFdaUFpTVHVWWWZ6ZHRDdGxmWFdneU01NE8?oc=5",
+        "source": "G4Media",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Interzicerea accesului jurnalistului Ovidiu Vanghele la conferinţele de presă ale preşedintelui, discutată joi în şedinţa Consiliului Naţional al Audiovizualului / Dorina Rusu, mem…",
+        "pubDate": "Wed, 11 Nov 2026 11:25:16 GMT"
+      },
+      {
+        "title": "Economistul Ionuț Dumitru avertizează că este nevoie de „moderație și cumpătare” la creșterea pensiilor și...",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTWY5NmdCbWEwSlV2emJDdEtJSXktRER1cFBVR1M3QV80WVBxTzVCWGtRbHc4Z0tsdGNjRE5oLWRaWnVLVWJRbndwZHJ5QURBS1NFY1ZZMW96TVJ6a0NtLWk0Y1p1dnJkOGtNaXZldm5mT3NUQS1fRlB4MnlXazd6R0RjcDk5ZG9zYks3b3BVMHJyM1NMTXFuMXUxS1JseVNHNjNteDlJVVVlVVVKajhiYWRlVUY5TnpRVTZyUFJ5RFp1UXpkdEZQREhLaGk2NExlbVo0TTA3SGRBRUhSbHNVYkhiTFhtY3lPWjRvelFPVUNWY2E3OWpnWkJKX2RGSEHSAYoCQVVfeXFMT0t4MjBSZWpzMWNpZVVaaFBKODN3aWdNV3dvRGd2bFd2WlJoRWxUM3pTN2l0bzUtc1RlU2gwUzJ1Q04zd2QzSjYxV1Q5YlVIdXFuTEFQX2dFdGZQck1PcVJzYTNxalNTRmpwVXI0aFhjYk9vbUlzU2NRdHlERWlMN25fTi1RLUpEQnlmdEFnZTVQeVVYZTNGdUlsZVBQMTY3cFY5OTcxSE5DTk5iaDlQX0tJcVNBUUZGdHR6SE9jVjZkeEVPMzhjdzFPQWd5eDNIOWRVVDlxOXlaZmNiaFk2MHFLakJxdjJMU1BOM3duS053VDN1OEt4Q1VCbzJRZUQ0MDExRkxSOVcwOHc?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Economistul Ionuț Dumitru avertizează că este nevoie de „moderație și cumpătare” la creșterea pensiilor și... Digi24 Orașul unde pensionarii primesc 600 lei în plus la pensie de Să…",
+        "pubDate": "Wed, 11 Nov 2026 10:57:51 GMT"
       },
       {
         "title": "Stacy Keach a murit. Biografia celebrului actor care s-a stins din viață la 85 de ani",
@@ -701,23 +741,23 @@
         "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZ0hGYjdvR0xyd0l5cEVKcERqUm56RVIxWTd2dVMwaXFoWm1kTkgzOXl5T0tSWmhWTlh2cXlvcTF0bkdTM3BiMUF0dzVadVMxcnhlZGpneFJldS1LcW1jOVVuY2EybTZBWVdVS0JNUC1pcHBiRERPVS1QUTJ6V0JESGtGY2JXOG5Nb3hOYWc5ZG1kRFZQSXlPMGc2N1pDRjFEUEZOYUVwOEI3VnJhOXgwTi1laWh6U21mNlprbUFFdDhRV0x3bE1UeDk5QlZUZ1gyTzNWS1RHZ0I5bndBbGgzYjBacFY1aGNGLU1keGcxRnVIeEZmQWVqdm5RalVGd21VdnlmUS1raw?oc=5",
         "source": "HotNews.ro",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Nicușor Dan ne demonstrează cum arată o țară croșetată de mâna unui singur om. Conferința de presă de la Cotroceni a confirmat informațiile din culise HotNews.ro După conferința lu…",
+        "summary": "Nicușor Dan ne demonstrează cum arată o țară croșetată de mâna unui singur om. Conferința de presă de la Cotroceni a confirmat informațiile din culise HotNews.ro INTERVIU „Președin…",
         "pubDate": "Wed, 11 Nov 2026 08:23:30 GMT"
       },
       {
-        "title": "Prima reacţie a jurnalistului Ovidiu Vanghele, după ce Nicușor Dan i-a interzis accesul la Cotroceni: „Am...",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObXdYeFdWUTVFUTBSRVpnZGdzU1NRU1JKWUFGX2Y3dTczbnk0RGE3QTgzWFBISzNuU1NWQjh5ekpsUVVNdDNjbnVtZnRRTXBweWw5ZURORWEwQnVsUHUzeDd1VkNoZ0lleF9HRlo4WDBlZTZSYjJUWDhEWmtPUDZCSGUyZkc5U3d4eGZ5bFFEdWZjemd4Z1hiWE5Db1lnSmhEbWxUcUtpa19NVGpYeDlrZGZITVFteWpaWnpqLTVZMzFmdkx5b2lRUmNjdTR4WTR3Nmk2bTJ6MWprclhYNHdOYXR3eVphdzU5S2ZsZ1lsazI2MV9aUk5YTzJB0gGEAkFVX3lxTE4xeTRFRU5TTXVQU2ViTncxdTVUeUtOcFg5dWRmRVVUNFlVendYUmNRWVJMQTVIcmRkUGs5NUZQNnBiY0NiNzdSel9LNkJuckRKSm00X3JlekRwSmUzdWxZNnlrRUlENXdJcTRYd0RJaDhaWWtONHowazNJSkFSa1NWY0hBbW5hcEd2OFhFQmhIa1hLakUyMDhxQkJvd2hxYUtIRWJoZjJ0cWtKdUNDelRDNS1MOC1MYmJMeWViTUdpY3F3SkFZSERVODQ5dVlfQ2s5WVJhYWFRekVfN1h4RGZ4bHQyeGlZUm53dTVWTkxkVFA4QW1OX3J0bHVHUHB2eTBtZ2dz?oc=5",
+        "title": "Șofer de TIR român reținut după accidentul grav din Bulgaria. Cum arată autostrada Trakia la o zi după tragedie",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSmcwNGMtU1FGYmVmdVNPTjVTcGo5blBwV3BRWVJ3Zmh0QVppN0dzXzZzTTJER09WZVJiNlZWMkJvcml5YmVpUmZpUkQ2UHRra0dxd013ZEZiLXZxazNtaEdvd3M3eGdlbjVVZVlIYVJXX2d6OGpYX1Fyb202ZkZpN0tEM3NleVVnOHdxNGZoYnNZUmhmYmFzMzZndGp2T3dQeXlENGxJOFpwa3hVV3lKbTg1NVZZRHM4dnlBQ2Zhd3d6MnBvOGN2bkw5SkVlb2RYREh1NW95akRTSE54MkZpUUdZdGx5Rm11c3pBV2hhYw?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Prima reacţie a jurnalistului Ovidiu Vanghele, după ce Nicușor Dan i-a interzis accesul la Cotroceni: „Am... Digi24 Jurnalistul Ovidiu Vanghele, despre conferința de la Cotroceni:…",
-        "pubDate": "Wed, 11 Nov 2026 06:37:28 GMT"
+        "summary": "Șofer de TIR român reținut după accidentul grav din Bulgaria. Cum arată autostrada Trakia la o zi după tragedie Digi24 Șoferul român implicat în accidentul grav de pe autostrada Tr…",
+        "pubDate": "Wed, 11 Nov 2026 08:21:40 GMT"
       },
       {
         "title": "Beijingul, la vânătoare de secrete AI: cazul Jensen Huang scoate la lumină metodele discrete de „spionaj...",
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSDZKbEtSQ0RqcmZnakNfeWEta1ZRUjNISzBNSklxb3hrYXBhMGJJcm9ocWdKLW5GMmJWTGZKdk9ST1RVUHg0VDBsVFJ5SVp5RTE0eEEzUElpT1hQaGpoY0pjMFMzVDBUZlRrZlh2bUVILTdqbmdHVXYwYmJYQ2kzV0xQTDRkYXlWUzdwRmFoQlRQZGFDZDNaSWxyeHFLTkRoSUdTeC0yYUZKa1JicGxHWmZPTXBoOFN4TjVnS2xxWGF1RHZNUy1YTlM3SHo3Ylg0bVdZelh2T0hUV3REZDlmUGlOZks1VXBHZFVXbnFibEJXM1pQZ0VWZ1NfbmjSAYcCQVVfeXFMTTRTajVBQ3RwVkJqRzNsMTVqdmNZbWUxUnFpYzhvOVdBWnFidGQ5UTdJMEJjblhOMUEtSGNUSkY3VlFPMEtFbG9hSlBMUjkwNHZxWGxoUVEwZ1NBTFRaZURuODFIMmdWdHFQM1dHeXBVRlhkM0Z4MUN5WVlGa0lMZnlXRUlVZEZLUlFsZno4Q3R4Yk5BZmhXUVhHZ3dwakNiSGoyV1M0eHYxczk5R3BnTHZMVmV6X3Q2MFczVXA3Zl9RTlhjeUk0QThYQzFRNE9IcG1MTzZOVERTVnZLY2wxWTJXRF8zQ1oxOUdFaGxqc2hsMjJvTF9IM0pFN2diUkFMbEpxR2hjaWc?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Beijingul, la vânătoare de secrete AI: cazul Jensen Huang scoate la lumină metodele discrete de „spionaj... Digi24 Nvidia: Vânzătorul short care a văzut scandalul acum 6 luni avert…",
+        "summary": "Beijingul, la vânătoare de secrete AI: cazul Jensen Huang scoate la lumină metodele discrete de „spionaj... Digi24 Acțiunile Nvidia scad brusc, după ce consiliul de administrație i…",
         "pubDate": "Wed, 11 Nov 2026 05:00:41 GMT"
       },
       {
@@ -729,14 +769,6 @@
         "pubDate": "Wed, 11 Nov 2026 04:30:56 GMT"
       },
       {
-        "title": "Cancelarul german Friedrich Merz amenință că va bloca bugetul UE dacă nu acceptă toate statele membre să finanțeze Ucraina",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2lPWkVqeC1Oa04yQTZFWS1JdmZvQmlYUjFySk9wWFptOWlWel9PUWdtWURPd2tOcjlzQldxNGpjdGFmcF9kU0JPUVRhZmpGSkxtekMyeTdMcmtDak9Ec21UUkZRQjlHYU1nV1Vna0dNSlZvZHIyNnNiN0NEMU14Mm10U0tKSWx0Nm8xSTNhcHBRRkRhRmpLX242ZmY2OTMyMWhV?oc=5",
-        "source": "Adevărul",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Cancelarul german Friedrich Merz amenință că va bloca bugetul UE dacă nu acceptă toate statele membre să finanțeze Ucraina Adevărul Friedrich Merz: Fără un acord privind sprijinul…",
-        "pubDate": "Wed, 11 Nov 2026 03:04:25 GMT"
-      },
-      {
         "title": "Sir Paul McCartney a devenit miliardar și al treilea cel mai bogat cântăreț din lume",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVAzRkRVUVNlOGdGWklKUzZfT0YwS3dHUUhrUE1YREUyUVg5Zi00eVpfY3Z1emhTd0w4TmxYdmtIM2FiMEFGS3BZemhWZkYwNFVIU3EwcnpBeUJGcVMyNHp1LXliWThPeUFLZEl2TUM4VkJ5NDdlLWU3RjZtQlA5cXZhcE9qX1ZmX1Q2NnZ5ZXpkYmtDTnptSEZsREgxaTYwVUdKWkxCR2lEOG43UVJOdQ?oc=5",
         "source": "HotNews.ro",
@@ -745,12 +777,28 @@
         "pubDate": "Tue, 10 Nov 2026 15:40:30 GMT"
       },
       {
-        "title": "Video&Foto O statuie uriașă a Papei Leon al XIV-lea îl așteaptă pe suveranul pontif pe coasta Pacificului, în Peru",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNzBJTGVnS0oyUEppdHZiVk5wODhoVkZNaHlBZVJsT1RQUXNtVGJPclJNNUllOWxEcVR6UmFGOHkyb2lINTQzcTlvZjMyVlA0QWRkZXVuVmxKSXZaQWdlcER6cXF3NlNkUTk4MjdoWVg0NDlaUkxlZTJma2xxU2tQVjg1Z2Iybnc0aTVQZnZCT1Q1eFI0WGhZaThPT2YzazB6SzVnTVJTNDFNejN1WEo2Z2Z5LVlfanJORHdGQTc4NnVtNUhLaVQ4ck14Wk5qWjUxd3lWOQ?oc=5",
+        "title": "O statuie uriașă a Papei Leon al XIV-lea îl așteaptă pe suveranul pontif pe coasta Pacificului, în Peru",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNzBJTGVnS0oyUEppdHZiVk5wODhoVkZNaHlBZVJsT1RQUXNtVGJPclJNNUllOWxEcVR6UmFGOHkyb2lINTQzcTlvZjMyVlA0QWRkZXVuVmxKSXZaQWdlcER6cXF3NlNkUTk4MjdoWVg0NDlaUkxlZTJma2xxU2tQVjg1Z2Iybnc0aTVQZnZCT1Q1eFI0WGhZaThPT2YzazB6SzVnTVJTNDFNejN1WEo2Z2Z5LVlfanJORHdGQTc4NnVtNUhLaVQ4ck14Wk5qWjUxd3lWOdIB3wFBVV95cUxQOWtqbEs2QllGcGdweHJBRWR4U1NWVWR0ZmNNNnlqb3JUcEZseUppWDN1ZWpMc3dsWVpDRDhNM3JpMUh5TG4ycFBkbGpOQk02cDZRUzhNSkpkVmVwRXU5ZVRpTHoxT09mMmt6a0daamNWRDcxb1VZZGVTVVg2eXV5S1FCRnVJTFVzSFZsT25lWE56M3ktUG1TbVFHLW5aSjd0MDhjd2RDa2dRWllIVERDeTlEbnRIY0ZDTHhmMHVMR2NPa0pTWTIwUmhYS0xzVW5QNlVjaFRTZ2Jla2lwaUtB?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Video&Foto O statuie uriașă a Papei Leon al XIV-lea îl așteaptă pe suveranul pontif pe coasta Pacificului, în Peru Digi24 Peste 2 milioane de oameni au asistat la Lujan la ultima l…",
+        "summary": "O statuie uriașă a Papei Leon al XIV-lea îl așteaptă pe suveranul pontif pe coasta Pacificului, în Peru Digi24 „Argentina, ridică-te şi mergi!”. Peste 2 milioane de oameni au asist…",
         "pubDate": "Tue, 10 Nov 2026 08:23:12 GMT"
+      },
+      {
+        "title": "Cele 4 zodii care încheie anul 2026 cu o schimbare majoră. Ce se întâmplă până la Revelion",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDdLS1F1R0NDMkhwaDJDUlNlTHVCb1dUa0R4MlBLdjBJME9XNHpOLTdmb1FNcXF1UW5mWlJ6VlRvc1FIcDJ1WTkwSUZWUjh0SUxOUXJXMkVRdUNpTlloUGpJQlJhVkhxbVlpd05oemw5R3BkTEEtRFdsQnJpcFhQOGJlYWZuMl92VTZ6TWlEdlhsSlR6SklTY1VWcWNSWW5tY1ptTnNNQWFSa3M3UmpPVlVhZEN6Ukd5ZHlKQWJMM2lGLU0?oc=5",
+        "source": "PRO TV.ro",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Cele 4 zodii care încheie anul 2026 cu o schimbare majoră. Ce se întâmplă până la Revelion PRO TV.ro 5 luni de naștere ale oamenilor care intră într-o etapă majoră de evoluție prof…",
+        "pubDate": "Mon, 09 Nov 2026 14:16:00 GMT"
+      },
+      {
+        "title": "Comunicat de presă - Muzeul 'Vasile Pârvan' din Bârlad",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdi00Zjk4NE1CZE1yMGhlWGVoaFAxb0FhYUlyakNlZnJNa2ZwSnlhcUlHMkdHbEpqbXBaSXNjUm9EMnhDejNqZVh4U0kyVDVBMjNpWlFlVkFKb1hwZUw0cmhXMzBjVmNHclo1TE5DTTFkV185S0Q0VmhnUS0tSFlfbUVsVDBYaFhQcFBQWUxtbjh0ZzJ4ek50N3NMcE1ldkFzNVVxM0tn?oc=5",
+        "source": "Agerpres",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Comunicat de presă - Muzeul 'Vasile Pârvan' din Bârlad Agerpres",
+        "pubDate": "Mon, 09 Nov 2026 11:10:45 GMT"
       },
       {
         "title": "INTERVIU „Eu am scăpat, ei nu”. O regizoare din Marea Britanie, adoptată din „orfelinatele groazei”, și-a găsit familia biologică",
@@ -763,20 +811,188 @@
     ],
     "🇲🇽 Mexico": [
       {
-        "title": "Evo Morales suma acusaciones: Gobierno de Bolivia lo señala de ser jefe de un cartel de narcotráfico",
-        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/11/evo-morales-suma-acusaciones-gobierno-de-bolivia-lo-senala-de-ser-jefe-de-un-cartel-de-narcotrafico/",
-        "source": "EFE",
+        "title": "Venezuela manda equipos de perforación petrolera a EU para su reparación por primera vez en años",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/11/venezuela-manda-equipos-de-perforacion-petrolera-a-eu-para-su-reparacion/",
+        "source": "Bloomberg / Fabiola Zerpa",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Evo Morales lleva dos años refugiado en el Trópico de Cochabamba.",
-        "pubDate": "Wed, 11 Nov 2026 22:52:55 +0000"
+        "summary": "Venezuela volvió a enviar equipo petrolero a EU para su restauración luego de décadas.",
+        "pubDate": "Thu, 12 Nov 2026 04:26:19 +0000"
       },
       {
-        "title": "Bajan asesinatos en México: Homicidios ‘matan’ principalmente a jóvenes",
-        "link": "https://www.elfinanciero.com.mx/nacional/2026/11/11/menos-asesinatos-en-mexico-homicidios-matan-principalmente-a-jovenes/",
-        "source": "David Saúl Vela",
+        "title": "Paraguay, bajo la lupa de Fitch: ¿Está en riesgo su calificación crediticia tras colapso de Ueno Bank?",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/11/paraguay-bajo-la-lupa-de-fitch-esta-en-riesgo-su-calificacion-crediticia-tras-colapso-de-ueno-bank/",
+        "source": "Bloomberg / Carolina Wilson",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Guanajuato fue el estado con mayor número de asesinatos, según el INEGI.",
-        "pubDate": "Wed, 11 Nov 2026 22:42:53 +0000"
+        "summary": "La calificadora Fitch Ratings puso en revisión negativa la deuda de Paraguay por las repercusiones económicas y políticas tras el colapso de Ueno Bank.",
+        "pubDate": "Thu, 12 Nov 2026 04:23:22 +0000"
+      },
+      {
+        "title": "Suspenden audiencia del ‘R2′: Estado de salud del líder del CJNG no permite comparecencia desde hospital",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/11/suspenden-audiencia-del-r2-estado-de-salud-del-lider-del-cjng-no-permite-comparecencia-desde-hospital/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Autoridades suspendieron la audiencia del 'R2' en Jalisco debido a su estado de salud.",
+        "pubDate": "Thu, 12 Nov 2026 04:06:02 +0000"
+      },
+      {
+        "title": "Dani Flow explica su motivo para abandonar apresuradamente ‘La Mansión VIP 2′: ‘Voy a ver a mi psicóloga\"",
+        "link": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/11/dani-flow-explica-su-motivo-para-abandonar-la-mansion-vip-2/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Dani Flow solo duró unas horas dentro de la segunda temporada de 'La Mansión VIP'. Las cámaras captaron el momento de su salida.",
+        "pubDate": "Thu, 12 Nov 2026 03:57:20 +0000"
+      },
+      {
+        "title": "Detienen en Jalisco a ‘El Chucky 69’, presunto líder de una red internacional de explotación sexual infantil",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/11/detienen-en-jalisco-a-el-chucky-69-presunto-lider-de-una-red-internacional-de-explotacion-sexual-infantil/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "La captura de Adalberto Rodríguez, buscado por autoridades de Arizona desde 2017, fue resultado de un operativo de inteligencia y colaboración entre México y Estados Unidos.",
+        "pubDate": "Thu, 12 Nov 2026 03:42:46 +0000"
+      },
+      {
+        "title": "América con un ala en semifinales: Le gana a Toluca en la ida de los cuartos del Apertura 2026",
+        "link": "https://www.elfinanciero.com.mx/deportes/2026/11/11/liga-mx-femenil-america-vs-toluca-resultados-de-cuartos-de-final-ida/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "América Femenil goleó 3-0 a Toluca en la ida de los cuartos de final del Apertura 2026 y tomó una ventaja importante rumbo a las semifinales.",
+        "pubDate": "Thu, 12 Nov 2026 03:38:23 +0000"
+      },
+      {
+        "title": "Violencia en Michoacán: Matan a aspirante de Morena en Lázaro Cárdenas y atentan contra alcalde de Contepec",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/11/violencia-en-michoacan-matan-a-aspirante-de-morena-en-lazaro-cardenas-y-atentan-contra-alcalde-de-contepec/",
+        "source": "Arturo Estrada",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Eduardo Valdovinos, empresario y aspirante a coordinar los trabajos de la Cuarta Transformación en Lázaro Cárdenas, Michoacán, fue asesinado a balazos durante un acto público.",
+        "pubDate": "Thu, 12 Nov 2026 03:18:22 +0000"
+      },
+      {
+        "title": "¿Regina Torné murió sin volver a ver a su hija? La historia de su condena por homicidio y secuestro",
+        "link": "https://www.elfinanciero.com.mx/espectaculos/2026/11/11/regina-torne-murio-sin-volver-a-ver-a-su-hija-la-historia-de-su-condena-por-homicidio-y-secuestro/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "La hija de Regina Torné fue detenida en 2006, cuando fue condenada a prisión por su complicidad en dos secuestros.",
+        "pubDate": "Thu, 12 Nov 2026 02:52:32 +0000"
+      },
+      {
+        "title": "¿Quién es quién en ‘Los juegos del hambre: Amanecer en la cosecha’?",
+        "link": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/11/quien-es-quien-en-los-juegos-del-hambre-amanecer-en-la-cosecha/",
+        "source": "Nayeli Reyes Castro",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Joseph Zada, Mckenna Grace, Ralph Fiennes y Elle Fanning forman parte del elenco de Amanecer en la cosecha, la nueva precuela de Los Juegos del Hambre.",
+        "pubDate": "Thu, 12 Nov 2026 02:46:58 +0000"
+      },
+      {
+        "title": "Asesinato de Gabriel Rivas, regidor de Cuernavaca: Detienen al presunto autor material del homicidio",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/11/asesinato-de-gabriel-rivas-regidor-de-cuernavaca-detienen-al-presunto-autor-material-del-homicidio/",
+        "source": "Teodoro Rentería",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "La Fiscalía de Morelos informó la detención de Ricardo Alejandro 'N', presunto autor intelectual del homicidio de Gabriel Rivas.",
+        "pubDate": "Thu, 12 Nov 2026 02:45:24 +0000"
+      },
+      {
+        "title": "Cancelan el Palenque de Culiacán 2026 por violencia; ¿qué pasará con la Feria Ganadera?",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/11/cancelan-el-palenque-de-culiacan-2026-por-violencia-que-pasara-con-la-feria-ganadera/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "La Feria Ganadera de Culiacán comenzará el 20 de noviembre con un operativo de seguridad y descuentos en los juegos mecánicos.",
+        "pubDate": "Thu, 12 Nov 2026 02:43:33 +0000"
+      },
+      {
+        "title": "María Alicia Delgado nunca se retiró por un problema de salud de su hijo: ‘No fue fácil’",
+        "link": "https://www.elfinanciero.com.mx/espectaculos/2026/11/04/maria-alicia-delgado-nunca-se-retiro-de-la-actuacion-por-una-discapacidad-de-su-hijo/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "María Alicia Delgado trabajo como actriz hasta su muerte, ella participó en diferentes telenovelas y series mexicanas.",
+        "pubDate": "Thu, 12 Nov 2026 02:40:32 +0000"
+      },
+      {
+        "title": "¡Adiós, mamá Elena! Muere Regina Torné, actriz de ‘Como agua para chocolate’, a los 82 años",
+        "link": "https://www.elfinanciero.com.mx/espectaculos/2026/11/11/muere-regina-torne-actriz-de-como-agua-para-chocolate/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Regina Torné, actriz de Como agua para chocolate y El Chavo del 8, murió a los 82 años. Esto se sabe sobre las causas de su muerte.",
+        "pubDate": "Thu, 12 Nov 2026 02:33:07 +0000"
+      },
+      {
+        "title": "‘Saludos hermanos extraterrestres’: ¿Qué es el Disco de Oro que la NASA mandó en el Voyager 1?",
+        "link": "https://www.elfinanciero.com.mx/ciencia/2026/11/11/saludos-hermanos-extraterrestres-que-es-el-disco-de-oro-que-la-nasa-mando-en-el-voyager-1/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "¿Qué escucharía un extraterrestre si encontrara las sondas Voyager? La respuesta está en el Disco de Oro de la NASA.",
+        "pubDate": "Thu, 12 Nov 2026 02:10:08 +0000"
+      },
+      {
+        "title": "Renuncia de Dámaso Castro: ¿Qué trabajo hacía el exvicefiscal de Sinaloa para Los Chapitos según EU?",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/11/renuncia-de-damaso-castro-que-trabajo-hacia-el-exvicefiscal-de-sinaloa-para-los-chapitos-segun-eu/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Esto sabemos de las funciones de Dámaso Castro, exvicefiscal de Sinaloa, en favor de Los Chapitos.",
+        "pubDate": "Thu, 12 Nov 2026 01:58:37 +0000"
+      },
+      {
+        "title": "’Valentín: La muerte del gallo de oro’; Versión de ‘Tano’ Elizalde, hipótesis del asesinato y todo lo que revela",
+        "link": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/11/valentin-la-muerte-del-gallo-de-oro-hipotesis-del-asesinato-y-todo-lo-que-revela-el-documental/",
+        "source": "Ricardo Díaz Canseco",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "'Valentín: La muerte del gallo de oro' estructura la historia del antes, durante y después del asesinato del cantante.",
+        "pubDate": "Thu, 12 Nov 2026 01:46:06 +0000"
+      },
+      {
+        "title": "Batacazo histórico para los republicanos: Demócratas ganan en Mississippi y amplían mayoría en Senado",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/11/batacazo-historico-para-los-republicanos-democratas-ganan-en-mississippi-y-amplian-mayoria-en-senado/",
+        "source": "Bloomberg/Caitlin Reilly",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Los demócratas ampliaron su mayoría en el Senado de Estados Unidos con una victoria sorpresiva de Scott Colom, fiscal de distrito que derrotó a la senadora republicana Cindy Hyde-S…",
+        "pubDate": "Thu, 12 Nov 2026 01:43:29 +0000"
+      },
+      {
+        "title": "Derrumbe de un edificio de tres pisos en Nueva York deja un muerto y 10 heridos",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/11/derrumbe-de-un-edificio-de-tres-pisos-en-nueva-york-deja-un-muerto-y-10-heridos/",
+        "source": "EFE",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Hasta el momento se desconoce la causa del derrumbe del edificio en Nueva York.",
+        "pubDate": "Thu, 12 Nov 2026 01:35:43 +0000"
+      },
+      {
+        "title": "Diputados aprueban presupuesto para AFAC: Dan 875 mdp para 2027",
+        "link": "https://www.elfinanciero.com.mx/empresas/2026/11/11/incumplen-promesa-a-afac-tendra-presupuesto-de-875-mpd-para-2027/",
+        "source": "Aldo Munguía",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Expertos de la industria aérea afirman que la AFAC necesita un presupuesto mínimo de 2 mil millones de pesos al año para sus operaciones.",
+        "pubDate": "Thu, 12 Nov 2026 01:20:35 +0000"
+      },
+      {
+        "title": "Abogados de Vadhir Derbez niegan que el actor esté prófugo: ‘No vive en la CDMX’",
+        "link": "https://www.elfinanciero.com.mx/espectaculos/2026/11/11/abogados-de-vadhir-derbez-niegan-que-el-actor-este-profugo-por-las-acusaciones-de-violacion/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Abogados de Vadhir Derbez aclaran su situación legal, qué pasó con el amparo y qué saben de la segunda denuncia por presunta agresión sexual.",
+        "pubDate": "Thu, 12 Nov 2026 01:01:34 +0000"
+      },
+      {
+        "title": "Marco Rubio gasta 1.2 millones de dólares en vuelos para ir a juegos de futbol americano de su hijo",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/11/marco-rubio-gasta-12-millones-de-dolares-en-vuelos-para-ir-a-juegos-de-futbol-americano-de-su-hijo/",
+        "source": "EFE",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Marco Rubio emplea aeronaves del gobierno estadounidense para viajar a Florida a ver el futbol americano colegial.",
+        "pubDate": "Thu, 12 Nov 2026 00:58:20 +0000"
+      },
+      {
+        "title": "Revelan nueva aventura de Jensen Huang: Estuvo con una ejecutiva de Nvidia que le reportaba directamente",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/11/revelan-otra-infidelidad-de-jensen-huang-ceo-de-nvidia-estuvo-con-ejecutiva-kimberly-powell-que-le-reportaba-directamente/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Informes sugieren que Jensen Huang tuvo otra pareja dentro de Nvidia. Una mujer casada que es directiva del área de salud.",
+        "pubDate": "Thu, 12 Nov 2026 00:32:58 +0000"
+      },
+      {
+        "title": "Hospitalizan a Frankie Muniz tras choque en NASCAR: ¿Qué le pasó al actor de ‘Malcolm, el de en medio’?",
+        "link": "https://www.elfinanciero.com.mx/deportes/2026/11/11/hospitalizan-a-frankie-muniz-tras-choque-en-nascar-esto-fue-lo-que-le-paso-al-actor-malcom-el-de-en-medio/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Frankie Muniz, actor de Malcolm, el de en medio, fue hospitalizado tras sufrir un accidente durante una carrera de autos en Daytona.",
+        "pubDate": "Thu, 12 Nov 2026 00:20:43 +0000"
       },
       {
         "title": "¿Había The Legend of Zelda y GTA piratas? IMPI asegura 6 locales con videojuegos en Plaza Meave",
@@ -784,183 +1000,15 @@
         "source": "Héctor Usla",
         "sourceUrl": "https://www.elfinanciero.com.mx",
         "summary": "Videojuegos de Nintendo Switch, consolas, controles y accesorios fueron asegurados en Plaza Meave; los comerciantes tendrán 10 días para demostrar su procedencia legal.",
-        "pubDate": "Wed, 11 Nov 2026 22:33:36 +0000"
+        "pubDate": "Thu, 12 Nov 2026 00:10:58 +0000"
       },
       {
-        "title": "Detención del ‘R2’: Juez pide a concubina del líder del CJNG aclarar amparo contra su extradición a EU",
-        "link": "https://www.elfinanciero.com.mx/estados/2026/11/11/detencion-del-r2-juez-pide-a-concubina-del-lider-del-cjng-aclarar-amparo-contra-su-extradicion-a-eu/",
+        "title": "El fin de Jensen Huang en Nvidia: Junta directiva se prepara para destituirlo tras aventuras",
+        "link": "https://www.elfinanciero.com.mx/tech/2026/11/11/el-fin-de-una-era-en-nvidia-junta-directiva-se-prepara-para-separar-a-jensen-huang/",
         "source": "Redacción",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Un juez de distrito pidió a la concubina de ‘El R2’ informar en tres días qué autoridad tiene bajo custodia al presunto jefe de ‘Los Rs’.",
-        "pubDate": "Wed, 11 Nov 2026 22:29:04 +0000"
-      },
-      {
-        "title": "Renuncia Dámaso Castro a la Fiscalía; es uno de los señalados de nexos con el Cártel de Sinaloa según EU",
-        "link": "https://www.elfinanciero.com.mx/estados/2026/11/11/renuncia-damaso-castro-a-la-fiscalia-es-uno-de-los-senalados-de-nexos-con-el-cartel-de-sinaloa-segun-eu/",
-        "source": "Carlos Velázquez",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "El vicefiscal Dámaso Castro fue señalado junto con otros funcionarios de Sinaloa por presuntamente tener nexos con el narcotráfico; tras pedir licencia, ya anunció su renuncia.",
-        "pubDate": "Wed, 11 Nov 2026 22:19:00 +0000"
-      },
-      {
-        "title": "La NASA está por alcanzar un récord con la sonda Voyager 1: ¿Por qué será un hito para la humanidad?",
-        "link": "https://www.elfinanciero.com.mx/ciencia/2026/11/11/la-nasa-esta-por-alcanzar-un-record-con-la-sonda-voyager-1-por-que-sera-un-hito-para-la-humanidad/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "La NASA prepara un récord histórico: Voyager 1 llegará a un día luz de la Tierra el 18 de noviembre de 2026, tras casi 50 años de viaje espacial.",
-        "pubDate": "Wed, 11 Nov 2026 22:04:52 +0000"
-      },
-      {
-        "title": "Caso Fernando Cerimedo: Nadia Beller sale de Bolivia y viaja a México tras recibir salvoconducto",
-        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/11/caso-fernando-cerimedo-nadia-beller-sale-de-bolivia-y-viaja-a-mexico-tras-recibir-salvoconducto/",
-        "source": "EFE",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "La Cancillería de Bolivia informó que otorgó el salvoconducto a la abogada Nadia Beller, expareja de Fernando Cerimedo, y confirmó que salió del país con rumbo a México.",
-        "pubDate": "Wed, 11 Nov 2026 21:54:21 +0000"
-      },
-      {
-        "title": "Fomento Cultural Banamex celebra 55 años: Abre una nueva etapa para acercar el patrimonio cultural",
-        "link": "https://www.elfinanciero.com.mx/nacional/2026/11/11/fomento-cultural-banamex-celebra-55-anos-abre-una-nueva-etapa-para-acercar-el-patrimonio-cultural/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "En 55 años, Fomento Cultural Banamex ha realizado cerca de 680 exposiciones que han recibido a más de 52 millones de visitantes y ha consolidado importantes colecciones de arte, f…",
-        "pubDate": "Wed, 11 Nov 2026 21:47:23 +0000"
-      },
-      {
-        "title": "¡Cecina, chocolate y café! Así será Sabor es Morelos: ¿Cuándo y qué habrá en el festival gastronómico?",
-        "link": "https://www.elfinanciero.com.mx/food-and-drink/2026/11/11/sabor-es-morelos-cuando-y-que-habra-en-el-festival-gastronomico/",
-        "source": "Cecilia L. García",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Sabor es Morelos se realiza el primer fin de semana de diciembre y tendrá como invitado a Costa de Marfil, que presentará sus platillos y bebidas tradicionales.",
-        "pubDate": "Wed, 11 Nov 2026 21:34:25 +0000"
-      },
-      {
-        "title": "TikTok España es investigado por posibles delitos de abuso sexual infantil en sus publicaciones",
-        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/11/tiktok-espana-es-investigado-por-posibles-delitos-de-abuso-sexual-infantil-en-sus-publicaciones/",
-        "source": "EFE",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "La Agencia Española de Protección de Datos aseguró que, una vez analizada la información que le ofrezca la plataforma, ordenará el bloqueo.",
-        "pubDate": "Wed, 11 Nov 2026 21:21:29 +0000"
-      },
-      {
-        "title": "Caso ‘Barbie Regia’: Condenan a 51 años de prisión a Francisco ‘N’ por el feminicidio de la influencer",
-        "link": "https://www.elfinanciero.com.mx/estados/2026/11/11/caso-barbie-regia-condenan-a-51-anos-de-prision-a-francisco-n-por-el-feminicidio-de-la-influencer/",
-        "source": "Jesús Vargas / Corresponsal",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Francisco 'N' atacó con un cuchillo a la influencer Cindy Elizabeth Hernández, conocida como 'La Barbie Regia', causándole heridas mortales.",
-        "pubDate": "Wed, 11 Nov 2026 21:21:26 +0000"
-      },
-      {
-        "title": "Tren Maya ‘sufre descalabro’: Perdió 15 mdp por día... y tuvo déficit por 4 mil mdp al tercer trimestre",
-        "link": "https://www.elfinanciero.com.mx/empresas/2026/11/11/tren-maya-sufre-descalabro-perdio-15-mdp-por-dia-y-sumo-4-mil-mdp-de-perdidas-en-tercer-trimestre/",
-        "source": "Aldo Munguía",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "La pérdida promedio por día generada por el Tren Maya asciende a 15.7 millones de pesos, según información de El Financiero.",
-        "pubDate": "Wed, 11 Nov 2026 21:17:48 +0000"
-      },
-      {
-        "title": "Nayarit registra reducción de 71.8% en homicidios dolosos",
-        "link": "https://www.elfinanciero.com.mx/estados/2026/11/11/nayarit-registra-reduccion-de-718-en-homicidios-dolosos/",
-        "source": "El Financiero",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "",
-        "pubDate": "Wed, 11 Nov 2026 21:15:13 +0000"
-      },
-      {
-        "title": "Final explicado de ‘VisionQuest’: ¿Qué reveló sobre ‘Avengers: Doomsday’?",
-        "link": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/11/final-explicado-de-visionquest-que-revelo-sobre-avengers-doomsday/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "El final de VisionQuest revela qué ocurrió con la Bruja Escarlata y cuáles son los planes de Doctor Doom para Avengers: Doomsday.",
-        "pubDate": "Wed, 11 Nov 2026 21:13:16 +0000"
-      },
-      {
-        "title": "Sectur Jalisco revisa si captura de R2 afectará reservaciones",
-        "link": "https://www.elfinanciero.com.mx/viajes/2026/11/11/sectur-jalisco-revisa-si-captura-de-r2-afectara-reservaciones/",
-        "source": "Laura Rodríguez",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "",
-        "pubDate": "Wed, 11 Nov 2026 21:06:56 +0000"
-      },
-      {
-        "title": "Buen Fin 2026 en Soriana: fechas, categorías y beneficios de “Este Buen Fest, llévate un Buen”",
-        "link": "https://www.elfinanciero.com.mx/comunicados/2026/11/11/buen-fin-2026-en-soriana-fechas-categorias-y-beneficios-de-este-buen-fest-llevate-un-buen/",
-        "source": "El Financiero",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "",
-        "pubDate": "Wed, 11 Nov 2026 21:00:51 +0000"
-      },
-      {
-        "title": "Irán acusa a EU e Israel de provocar una crisis ambiental por la guerra: ¿Cuánto CO2 liberaron?",
-        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/11/iran-acusa-a-eu-e-israel-de-provocar-una-crisis-ambiental-por-la-guerra-cuanto-co2-liberaron/",
-        "source": "EFE",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "El presidente de Irán, Masoud Pezeshkian, denunció en la COP31 que los ataques de Estados Unidos e Israel contra su país provocaron incendios en depósitos de petróleo.",
-        "pubDate": "Wed, 11 Nov 2026 21:00:37 +0000"
-      },
-      {
-        "title": "Le ‘vieron la cara’ a la AFAC: Diputados aprueban presupuesto de solo 875 mdp para 2027",
-        "link": "https://www.elfinanciero.com.mx/empresas/2026/11/11/incumplen-promesa-a-afac-tendra-presupuesto-de-875-mpd-para-2027/",
-        "source": "Aldo Munguía",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Expertos de la industria aérea afirman que la AFAC necesita un presupuesto mínimo de 2 mil millones de pesos al año para sus operaciones.",
-        "pubDate": "Wed, 11 Nov 2026 20:46:35 +0000"
-      },
-      {
-        "title": "Tipo de cambio HOY: Peso pierde ‘una ligera pluma’ frente al dólar por diferencial de tasas",
-        "link": "https://www.elfinanciero.com.mx/mercados/2026/11/11/peso-dolar-tipo-de-cambio-precio-hoy-11-de-noviembre-de-2026/",
-        "source": "Valeria López",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "La depreciación del peso llegó este martes a 0.06 centavos.",
-        "pubDate": "Wed, 11 Nov 2026 20:40:38 +0000"
-      },
-      {
-        "title": "Frente frío 5 entra a México: ¿Qué estados prevén de -5 a 0 grados HOY?",
-        "link": "https://www.elfinanciero.com.mx/nacional/2026/11/11/frente-frio-5-entra-a-mexico-que-estados-preven-de-5-a-0-grados-hoy/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Por efectos del frente frío 5, hay probabilidad de lluvias muy fuertes en Tamaulipas, fuertes en Nuevo León y chubascos en Coahuila.",
-        "pubDate": "Wed, 11 Nov 2026 20:29:33 +0000"
-      },
-      {
-        "title": "Bukele ‘apuesta’ por su ofensiva contra las pandillas en Haití antes de elecciones en El Salvador",
-        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/11/bukele-apuesta-por-su-ofensiva-contra-las-pandillas-en-haiti-antes-de-elecciones-en-el-salvador/",
-        "source": "AP",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Con su ofensiva en Haití, Bukele busca posicionarse como 'el salvador' ante la crisis de pandillas en el país vecino.",
-        "pubDate": "Wed, 11 Nov 2026 20:19:07 +0000"
-      },
-      {
-        "title": "Golpe a la piratería en México: IMPI asegura más de 1.5 millones de productos en el último año",
-        "link": "https://www.elfinanciero.com.mx/economia/2026/11/11/golpe-a-la-pirateria-en-mexico-impi-asegura-mas-de-15-millones-de-productos-en-el-ultimo-ano/",
-        "source": "Héctor Usla",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Desde junio de 2025, el IMPI aseguró más de 1.5 millones de productos pirata y falsificados en México, con un valor cercano a los 34 millones de pesos",
-        "pubDate": "Wed, 11 Nov 2026 20:17:38 +0000"
-      },
-      {
-        "title": "Gusano barrenador vuelve a atacar en EU: ¿Por qué aumentan los casos y qué provoca su expansión?",
-        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/11/gusano-barrenador-vuelve-a-atacar-en-eu-por-que-aumentan-los-casos-y-que-provoca-su-expansion/",
-        "source": "Bloomberg",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "El brote de gusano barrenador aumenta en Estados Unidos pese a las medidas para contener la plaga y los controles al ganado procedente de México.",
-        "pubDate": "Wed, 11 Nov 2026 20:09:06 +0000"
-      },
-      {
-        "title": "Ari Telch aclara que no estuvo secuestrado, pero se peleó a golpes con montachoques: ‘No iban armados’",
-        "link": "https://www.elfinanciero.com.mx/espectaculos/2026/11/11/ari-telch-aclara-que-no-estuvo-secuestrado-pero-se-peleo-con-montachoques/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Tras publicar un mensaje en Facebook en el que aseguraba estar en peligro y pedía ayuda por un supuesto secuestro, Ari Telch aclaró que se trató de una broma y relató el verdadero…",
-        "pubDate": "Wed, 11 Nov 2026 19:54:05 +0000"
-      },
-      {
-        "title": "América vs. Toluca EN VIVO: ¿A qué hora y dónde ver los cuartos de final de la Liga MX Femenil HOY?",
-        "link": "https://www.elfinanciero.com.mx/deportes/2026/11/11/liga-mx-femenil-america-vs-toluca-resultados-de-cuartos-de-final-ida/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Toluca busca revancha ante América en los cuartos de final de la Liga MX Femenil. Consulta el horario, la transmisión y dónde ver el partido en vivo.",
-        "pubDate": "Wed, 11 Nov 2026 19:35:04 +0000"
+        "summary": "La decisión de Nvidia de separar a Jensen Huang se daría después de que se reveló que el CEO de la empresa tuvo otra relación fuera del matrimonio.",
+        "pubDate": "Thu, 12 Nov 2026 00:05:58 +0000"
       }
     ]
   }
