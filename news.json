@@ -1,216 +1,376 @@
 {
-  "lastUpdated": "2026-11-21T17:48:11.617Z",
+  "lastUpdated": "2026-11-21T22:29:19.098Z",
   "regions": {
     "🌍 Global": [
-      {
-        "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
-        "link": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
-        "source": "Robert Mackey",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "US vice-president says it’s not his place to second-guess the president, but refrains from endorsing Trump’s claim At a White House news conference on Friday, JD Vance stopped shor…",
-        "pubDate": "Sat, 21 Nov 2026 17:24:51 GMT"
-      },
-      {
-        "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-        "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
-        "pubDate": "Sat, 21 Nov 2026 17:20:03 +0000"
-      },
-      {
-        "title": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRRX05leU91eDNOcGU0ZjVxQ0N2MVpwQ3lCZXFsNUVDcDlySkJ5RFZfLTR5QkwyUF91TzFkSDNpYTlPMzZTaFhfWmJ4TEpKTVAzTEJhNGVYRFltRmRMVDJfdUVpcFoyYnRRRGNEX3ZKRU96bjVxYjZEQ2V0WWFZOXhDb3dTT2FfTGpVTWtjX1JLeVpXUzN3OFlSdm5DdXJ1YzlHSnNJa3pjT0FDX3c?oc=5",
-        "source": "WSJ",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation WSJ Tankers hit in Strait of Hormuz as Iran tightens grip on shipping Al Jazeera UK maritime agency reports two tank…",
-        "pubDate": "Sat, 21 Nov 2026 17:00:00 GMT"
-      },
-      {
-        "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
-        "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-        "source": "José Olivares",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers A mathematician at Anthropic is contending that the San Francisco-b…",
-        "pubDate": "Sat, 21 Nov 2026 16:39:49 GMT"
-      },
-      {
-        "title": "FBI reportedly investigating apparent hack of its criminal database",
-        "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/world",
-        "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-        "pubDate": "Sat, 21 Nov 2026 16:35:15 GMT"
-      },
-      {
-        "title": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEdyR1RJcnpvbkdBNFFKbHQ3bWh2SzBfVnBfdklPRGlubDVuZjVOYUVrTUtaVGNQc2ZtM042TmpvWFNUZU1vNlRDeUhWbS0xUU5IWndHdlNZa3JIYm1OQm55YVNvbVpxaUhBNExXbS1NOU91ODdGa2d4elRXOWhIUXZCRHR5T3ZTei1fRWRyOVJvOXJRSXNIM25QT1JIOXFPa2VTcg?oc=5",
-        "source": "AP News",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores AP News Russian ‘triple-tap’ attack in Ukraine kills emergency worker and 7-year-old i…",
-        "pubDate": "Sat, 21 Nov 2026 16:35:00 GMT"
-      },
-      {
-        "title": "India’s opposition stages protests against Meta over account removals",
-        "link": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.",
-        "pubDate": "Sat, 21 Nov 2026 16:14:01 +0000"
-      },
-      {
-        "title": "Scoop: Witkoff and Kushner meet Qatari mediators to discuss Iran negotiations",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaUJNYkNiQm5OX0tYbUNBcTR4VUZTRm1ZYlF0ajJHM2JudHNwSEJ3dGxCNDhVdUE5QWVoMk1mSjRxc2pkVUxaV1p6dXRpUTVZcE9VWDFvMW5JbDBDRmtPVk01enNSQi10ZVFYYWUzd2lRRHh3clhKQXIyQkZQTzcySw?oc=5",
-        "source": "Axios",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Scoop: Witkoff and Kushner meet Qatari mediators to discuss Iran negotiations Axios Qatari delegation visited Tehran last night for talks, Iranian official says The Times of Israel…",
-        "pubDate": "Sat, 21 Nov 2026 16:11:15 GMT"
-      },
-      {
-        "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-        "link": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.",
-        "pubDate": "Sat, 21 Nov 2026 16:03:16 +0000"
-      },
-      {
-        "title": "Rescue efforts under way as drones hit Russian ship off Finland coast",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2U3ZVVxRFhhdW1QdlBWLXJwRUpVYjlfb2YzMGFBR0RCTUdWM3VsRUtyZVItZFdCQ1lhbjFZa0tjLTl5MVZma2FrQkRfT0doQ212M3ZZbXM2ZDVwX2gtZF94N3UwN3gxX2gySUFCZGYxWk5ONmJacE02LVdaOXVGazlwYTZteUJ2SVRTN0NrTUxHM295VFlCRGtYeFhHX2pXaXVrN3M2MUFFZUp2WW9MWkRR0gG3AUFVX3lxTE0yZHFzYlU2ZzZ1b1VSc1htTi00Tjc3WmtxWXhwYjJRbERDMXhmdzQ0dFpQcmU4TkQyRnI2NHhrdFJIenpWR095MUFsZmhhX0gtbUgzSlBieEpmUVBqRDIyZW9YNmRab3RmbUlyOHI1aThMZWFFTXhIRTdmZWZzT0d5Wm1BU05XNFc2QVlXZHBaejhxVTVFdk9RRmI1QXctZTVCeFljXzluVUpTUmpqN1FZLWpvSUNDTQ?oc=5",
-        "source": "Al Jazeera",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Rescue efforts under way as drones hit Russian ship off Finland coast Al Jazeera Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security Reuters Russia S…",
-        "pubDate": "Sat, 21 Nov 2026 15:58:32 GMT"
-      },
-      {
-        "title": "French presidential candidate blames media for racist attack",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "French presidential candidate blames media for racist attack",
-        "pubDate": "Sat, 21 Nov 2026 15:46:18 +0000"
-      },
-      {
-        "title": "British man recalls ‘despair’ over son’s death after fall from Cyprus window",
-        "link": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
-        "source": "Patrick Daly",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Joshua Foster tells of moment he ‘lost control’ of two-year-old when he fell from fourth storey of hotel A British father who was fined by the courts after his two-year-old son fel…",
-        "pubDate": "Sat, 21 Nov 2026 15:19:03 GMT"
-      },
-      {
-        "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-        "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "sourceUrl": "https://www.aljazeera.com",
-        "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
-        "pubDate": "Sat, 21 Nov 2026 15:01:18 +0000"
-      },
-      {
-        "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
-        "link": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
-        "source": "Sara Braun",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "The viral satirization of the caregiving burden left to women and daughters hit home for many viewers The Saturday Night Live sketch, titled Sister quickly went viral this week for…",
-        "pubDate": "Sat, 21 Nov 2026 15:00:01 GMT"
-      },
-      {
-        "title": "The Russian POW Camp Where Sex Abuse Became Part of the System",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUFIWDN5aGMwZVlveC05RHRTc2ZkTExGTHZ6eXpGVWJDeGJXUmR5VlV6d1l4MzE5VGdrVERWUmZzVUU1dWRqaklFRUxvd2xOSHY4SVJydGtsbzJVbVdWNm52d3kzcmMwQ1p0UTNrYnhXSi1uREtNeEZoSndwZWNHUHdGMVdIMmVKaUVxbVliRGNDTl8wT2Z0OGVnR0RlQ29BVGJCVVduQQ?oc=5",
-        "source": "WSJ",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "The Russian POW Camp Where Sex Abuse Became Part of the System WSJ",
-        "pubDate": "Sat, 21 Nov 2026 15:00:00 GMT"
-      },
       {
         "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
         "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/world",
         "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-        "pubDate": "Sat, 21 Nov 2026 14:54:24 GMT"
+        "pubDate": "Sat, 21 Nov 2026 22:19:43 GMT"
       },
       {
-        "title": "Cold gives way to rain in parts of UK as weather warning issued for south-west England",
-        "link": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
-        "source": "Harry Taylor",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Flood alerts in place and risk of power cuts as more than 100mm predicted to fall on Dartmoor on Sunday Cold snaps are to make way for heavy rain in some parts of the country as th…",
-        "pubDate": "Sat, 21 Nov 2026 14:51:37 GMT"
-      },
-      {
-        "title": "Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal",
-        "link": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
-        "source": "Harry Cockburn",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Documentary records Catherine taking on Three Peaks challenge and finding ‘sense of hope alongside uncertainty’ The Princess of Wales has spoken candidly about the impact of her ca…",
-        "pubDate": "Sat, 21 Nov 2026 14:42:56 GMT"
-      },
-      {
-        "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-        "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+        "title": "Bahrain says Iranian attack hits industrial facility",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Iran's FM Araghchi says there is 'major strategic debate' about the future of Iran's nuclear doctrine.",
-        "pubDate": "Sat, 21 Nov 2026 14:15:36 +0000"
+        "summary": "Bahrain says Iranian attack hits industrial facility",
+        "pubDate": "Sat, 21 Nov 2026 22:02:03 +0000"
       },
       {
-        "title": "Phumzile Mlambo-Ngcuka, former South Africa deputy president and UN Women chief, dies at 71",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd0lJTWktaUFCdjJlNHdvWUY3YThWbnJjMGpCUTJSejQyLXUwdVFvbkM4Wk5uMnZvczVRWV9YOVFFeWJWcDBCQXBSNFg5NmpHdkVKb3gzbUJwTnk2V3ROTlVhWnJ5Q1Z3QVN0alotWXRnVURER1hRSVNQbXE3YndXQTNzTk9lYUxOOElUTHd0MHdRQWppM2VMZmdCVHJuNjA3c2ZodVlxdm9RblN5RUEzdQ?oc=5",
+        "title": "Lock of former US President George Washington's hair sells for $4,000",
+        "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/world",
+        "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+        "pubDate": "Sat, 21 Nov 2026 22:01:19 GMT"
+      },
+      {
+        "title": "Poland says Russian missiles hit its territory; Trump calls it a ‘mistake’",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2NDX2gya2JxN0FLNlFBSjdJcXNqczVsWGJrNHdGVHoxNEF6a2hrSnlKc2hkVC0wSGROWkMzcXgyN0YtaHdMX0k0U043RE5BSkRXVGtlQ3h1Ym9iVk9uaVFnV0YyZEw0a3ZjRWxvUkZ6NHNGVWJSc1dDcEU5aUtrODZ5YTRQMVQ5UTA2WHd5U0ZGUkhybGllQXNseGR0ZHl4dC1JdGtPa2FGT3MzNzhXdkxrSU9XcENkLUE?oc=5",
+        "source": "The Washington Post",
+        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Poland says Russian missiles hit its territory; Trump calls it a ‘mistake’ The Washington Post NATO will defend every inch of Polish territory, Rutte says Reuters Russian missile h…",
+        "pubDate": "Sat, 21 Nov 2026 21:59:33 GMT"
+      },
+      {
+        "title": "Bahrain says Iranian attack causes fire at industrial facility",
+        "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+        "pubDate": "Sat, 21 Nov 2026 21:31:03 +0000"
+      },
+      {
+        "title": "Impunity fuels surge in settler violence across occupied West Bank",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Impunity fuels surge in settler violence across occupied West Bank",
+        "pubDate": "Sat, 21 Nov 2026 21:11:54 +0000"
+      },
+      {
+        "title": "Indian man jailed over plot to kill Sikh separatist in US",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
+        "pubDate": "Sat, 21 Nov 2026 21:09:18 +0000"
+      },
+      {
+        "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+        "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/world",
+        "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+        "pubDate": "Sat, 21 Nov 2026 21:05:29 GMT"
+      },
+      {
+        "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+        "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
+        "pubDate": "Sat, 21 Nov 2026 21:02:18 +0000"
+      },
+      {
+        "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
+        "source": "Reuters",
+        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates Reuters Russian military-linked cargo ship ablaze in Baltic Sea after drone strike CNN Russia-bound ship…",
+        "pubDate": "Sat, 21 Nov 2026 21:01:49 GMT"
+      },
+      {
+        "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+        "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
+        "pubDate": "Sat, 21 Nov 2026 20:56:35 +0000"
+      },
+      {
+        "title": "Taiwan warns Canada faces the China risks Carney has cautioned against",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMk94aHBLLVI3V1JkYU1DWGQ1Qk5ZVnlBN2JFYWYtbzNPOU1GSkgzTmJCRXVzcllCZERfVkpWQnpIMWdXbjI5LWNaal8wTzBwdWtWSDZITm5RZVZhejZ4WldzNVpEVm90ODJ5UTY0REJUWTUtQk5PUk5CUXNSekIzSTYyRlEwOE5QZzkxZ2dic3dwTWNKZF8yRm9pSEVWbkw1cnc?oc=5",
         "source": "AP News",
         "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Phumzile Mlambo-Ngcuka, former South Africa deputy president and UN Women chief, dies at 71 AP NewsSee more headlines & perspectives on Google News",
-        "pubDate": "Sat, 21 Nov 2026 14:06:38 GMT"
+        "summary": "Taiwan warns Canada faces the China risks Carney has cautioned against AP NewsSee more headlines & perspectives on Google News",
+        "pubDate": "Sat, 21 Nov 2026 20:48:00 GMT"
       },
       {
-        "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+        "title": "Thousands protest across Europe over living costs and housing",
+        "link": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "sourceUrl": "https://www.aljazeera.com",
-        "summary": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-        "pubDate": "Sat, 21 Nov 2026 14:06:06 +0000"
+        "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+        "pubDate": "Sat, 21 Nov 2026 20:47:50 +0000"
       },
       {
-        "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM1EyLVMza0xpLVJacm1ZUEN3cXgwWTlDeFJFYm9LZU14dTVKWUNkT1NKcmllZF9Uc0lfalc2ZXEwS0g0bWZiRW9na25OLVNHQklPeVZ0d1AzWTlHb2pKWGtlajI5LVp1N2dEUzQ3VmxTV2NXSER4UnhTLTVjT2Z6ZFJZa05pOWNNV2c?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film The New York Times ‘Cancer does change you’: Princess of Wales talks candidly about her experience in new docum…",
-        "pubDate": "Sat, 21 Nov 2026 14:04:52 GMT"
+        "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC.",
+        "pubDate": "Sat, 21 Nov 2026 20:38:20 +0000"
       },
       {
-        "title": "Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper",
-        "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
-        "source": "Donna Ferguson and agencies",
-        "sourceUrl": "https://www.theguardian.com/world",
-        "summary": "Moscow intelligence thought to be behind plan to kill musician Kyivstoner before concert in Denmark Denmark’s foreign minister has said Russia’s defence attache in Copenhagen would…",
-        "pubDate": "Sat, 21 Nov 2026 14:03:50 GMT"
-      },
-      {
-        "title": "Denmark accuses Russia of assassination plot against U.S.-Ukrainian citizen on its soil",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM1hTby15U1dTTGJnTEZPZ283Tm1jZG9aQnI1aGQ3MnJCaWNnbFN6Q0ZTdkhFZVM3LTY1ZEV2UEhkQkh0UGFJVHhNNUtfQ3M5VDVxQ2twQmpsbVVDdzk1b3NzWnRMTzA3SDF4WFZxUXhNWUwwMkNNZzFTejdQbEYxR3MtT3VHMk4yQzQ3S1M1eHJmREJCR3U4QWtPdXluNWprbWc?oc=5",
+        "title": "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGgwZTZaQWNtSzNpRDhQajRHRHFFTDhiVXczZmUtaFJiMVdTMFcwN1dWV053c1lGY2hiUnJrNnc3X1JoREFHLWNYTG52bVk5cXhMSDlCU2NkcDVCeWhQamZsX3JXdVBYdzJSdWQ1NDlKaTE4ZzIxc3U1SE1lcnhjdm45TmtHVzBMTmI4?oc=5",
         "source": "CBS News",
         "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Denmark accuses Russia of assassination plot against U.S.-Ukrainian citizen on its soil CBS News EXCLUSIVE: Denmark pushes EU to tighten travel curbs on Russians after foiled plot…",
-        "pubDate": "Sat, 21 Nov 2026 13:21:35 GMT"
+        "summary": "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027 CBS News ‘No deal needed’ to ‘permanent deal’: Trump's Iran zigzag Ynetnews Li…",
+        "pubDate": "Sat, 21 Nov 2026 20:29:00 GMT"
       },
       {
-        "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94cXdVVUc1b3ZQMTdhdXdRUWF4RFVlNTNMYlJDeWxoR0NZX3hxd3BBOEJwTzhYdDJMQnZNRkZ4TDc3c0pTN3hyX0xBbkVUanpHejhWQUJKMzR2VEE?oc=5",
-        "source": "BBC",
+        "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+        "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+        "source": "José Olivares",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco-bas…",
+        "pubDate": "Sat, 21 Nov 2026 20:15:57 GMT"
+      },
+      {
+        "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
+        "link": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
+        "pubDate": "Sat, 21 Nov 2026 20:15:13 +0000"
+      },
+      {
+        "title": "Man charged with attempted murder after councillor stabbed in Bradford",
+        "link": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
+        "source": "Nadeem Badshah",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Arfan Ali, 31, has also been charged with assault and possession of an offensive weapon in a public place A man has been charged with attempted murder after a local councillor was…",
+        "pubDate": "Sat, 21 Nov 2026 19:42:42 GMT"
+      },
+      {
+        "title": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVlUcjlPZURmRnhmY2JJZVVBTkhfUEM2bmhqRDZfQkZJMTBEc2hQSDdRVFQ0N1BjTW1rMXNrSnM4R0R6SVcyZXJpWEVVU3hkU0dsX0otVk1HNV9abFFBTkVUeXMtdHk2WVFUcEVFOVVUVlZUeTFUdXBuVzVHMVFmeFdFVExwTWtJVC1sd0dEVDVSdXdHZUhVRDc4MU5rYU1laFBn?oc=5",
+        "source": "AP News",
         "sourceUrl": "https://news.google.com/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting BBC Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’ Al Jazeera Clean-up of…",
-        "pubDate": "Sat, 21 Nov 2026 13:17:38 GMT"
+        "summary": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news AP News Iran posts video of new underground ‘missile city’ NewsNation IRGC Chief Visits Missile Cit…",
+        "pubDate": "Sat, 21 Nov 2026 19:38:00 GMT"
+      },
+      {
+        "title": "Russia-bound ship attacked in Gulf of Finland",
+        "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/world",
+        "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+        "pubDate": "Sat, 21 Nov 2026 19:20:22 GMT"
+      },
+      {
+        "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
+        "source": "Andrew Messenger",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessors Get our daily political email,…",
+        "pubDate": "Sat, 21 Nov 2026 19:00:08 GMT"
+      },
+      {
+        "title": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
+        "source": "Melissa Davey Medical editor",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’ Get our breaking news email, free app or daily news podcast An A…",
+        "pubDate": "Sat, 21 Nov 2026 19:00:07 GMT"
+      },
+      {
+        "title": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
+        "source": "Tory Shepherd",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "GiveSendGo has been accused of facilitating the financing of extremism, but the platform says it does not ‘condone racism, discrimination, hate speech, or violence of any kind’ Get…",
+        "pubDate": "Sat, 21 Nov 2026 19:00:06 GMT"
+      },
+      {
+        "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com",
+        "summary": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+        "pubDate": "Sat, 21 Nov 2026 18:42:38 +0000"
+      },
+      {
+        "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
+        "link": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+        "source": "Harry Cockburn",
+        "sourceUrl": "https://www.theguardian.com/world",
+        "summary": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’ Residents of a Suffolk village have voted to “leav…",
+        "pubDate": "Sat, 21 Nov 2026 18:20:37 GMT"
       }
     ],
     "🇺🇸 United States": [
       {
-        "title": "ATP Finals 2026: Semifinals draw and schedule as Carlos Alcaraz beats Ben Shelton - The Athletic",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUWZQdVBLQVBvRkp6UWVCd09pQm1vMGJjM3haaGd5SGlkTDZ0ZUJJU3ZfMUFURnFhb0J3V25GQ0hBcU01Z3NfZ1RmdXVqcUFiTEZXTF9qLUo0d01jeTdNeWw5N0p2MVhaUmV6elplb1RSY21paU4teGVaazhMVElCUUtwVGxaUzJObUdMd2RtYlA4czhEMDZLc3FzY1JGUl90dTRvbg?oc=5",
+        "title": "Book Review: ‘Jolt,’ by Ted Scheinman",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50S2h2TklmUWNjS0Jpczd0dHhiRl9mMmZaNkZQWHo4VHRXUk8yaTZCZFV5QWx6UDFRTHRraGd6NTBLaFJoRHJiZDJ2ZFZtY1l1X0pLWWd1RjBBUlVuVXZoSHdKM1N4cjdyVFRiMEFnVllCV2RwdDYxWUZGOA?oc=5",
         "source": "The New York Times",
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "ATP Finals 2026: Semifinals draw and schedule as Carlos Alcaraz beats Ben Shelton - The Athletic The New York Times",
-        "pubDate": "Sat, 21 Nov 2026 17:38:39 GMT"
+        "summary": "Book Review: ‘Jolt,’ by Ted Scheinman The New York Times",
+        "pubDate": "Sat, 21 Nov 2026 21:50:08 GMT"
+      },
+      {
+        "title": "BYU escapes Kansas with 3-OT win, preserving College Football Playoff chances",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaWsxeWxpd2FiODhSaFV5dVMzT1FLYm1TT0hOUGZDNWlGN0Q5MzZyTGRfY3NiY3M4YTlYWDBjQ1J0SmVhc1pxcTdrdWpsUkRIS3ZXRDRpQm1CaUtkeHVZVS1rOTJHM2VWU0JVeWROTXN6VWFIcWk4eFR6ZG1zaGV4RVZfX09wZlA2dlFmaUs5OA?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "BYU escapes Kansas with 3-OT win, preserving College Football Playoff chances The New York Times",
+        "pubDate": "Sat, 21 Nov 2026 21:41:04 GMT"
+      },
+      {
+        "title": "Donal Lunny, Pillar of the Irish Trad Revival, Dies at 79",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zVWFQVUR3dk9iWXVGUGRTOGRmbUt2WE5rbTkyQ1VBYkdta21jdlNOSjVrSER3T0YyV2JvbjR5OWxfTFN0ZjNSdVU4M1RsS29sOXZoMzZTZlZIZVRuZElVbkozM1VrQTBnb1NTd3FGRWJLR0VweEE?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Donal Lunny, Pillar of the Irish Trad Revival, Dies at 79 The New York Times",
+        "pubDate": "Sat, 21 Nov 2026 21:33:25 GMT"
+      },
+      {
+        "title": "Map: Earthquake Shakes Peru",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFI2ZkdVM21PODM4OUotYlUzSUNudkxJSkREMkp5aEJ4bHFfNVNfNHZXenA3ZXdFeDQ2empmdWJqTDZ2aFp5cy1oNWlHSWRfd1AwOVhRNUdzTlNKcEliazZ0Q2xNMUdRX0pRSjJyeFZ6WVV6TFZmYnpsSzc1QnZWdnhKMl9ZZGhOV3p1MGhZUE1sUHQwMzBIVmNR?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Map: Earthquake Shakes Peru The New York Times",
+        "pubDate": "Sat, 21 Nov 2026 21:28:30 GMT"
+      },
+      {
+        "title": "Gold Star families frustrated with Pentagon investigation into Iran drone strike that killed 6 soldiers",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcFlHd1lLa29JeElZX3p5aXdWU1JQZU1mMmVvQndCb2lGbHNsaGJmV1ZyUjZBdEd3aG9XRUF1a1dyWkJxOGRvZnZJQ044Wm5jSmxBalBQbmJManAzdHZYaFBCczJncUdTdjh3V3FtUnF1UUpTbXdHZFVVc09XMWRKRlZqcjd0RUNsRV85eXRUMA?oc=5",
+        "source": "CBS News",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Gold Star families frustrated with Pentagon investigation into Iran drone strike that killed 6 soldiers CBS News",
+        "pubDate": "Sat, 21 Nov 2026 21:24:30 GMT"
+      },
+      {
+        "title": "Russian military-linked cargo ship ablaze in Baltic Sea after drone strike",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03c0w4dmN2aEdLWTBCeTR6eEFtZ1BkSi1SQlV5NS1WVExuUnZJTjFxZDlCRU13U1dmc1lkdjNwM3pVUjJjTktDOU81Qy0yaEVHS2JlVFlnUVRVRWlQbnM1WEQtX0pqYWI0VmJaV2UySkxaTFZuS09XV094R1huQQ?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Russian military-linked cargo ship ablaze in Baltic Sea after drone strike CNN",
+        "pubDate": "Sat, 21 Nov 2026 21:23:25 GMT"
+      },
+      {
+        "title": "The Army Rejected a Safer Option to Destroy Lead-Laced Explosives in Iowa",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiRVVwNTRDWXZubUNuR3d5QzlvX29WSzQ3a1JyVTNGTlZFRkVJaUVxLWlXaXRzUnRsbGdEMDgzanhReDdsRFhiUFQ2bFR4Vko3NjkyRUZ2ZXlxVG5UckNxMGM1WUJGdC1lY2Z4RDI2ME9TYzBSY2tpdQ?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "The Army Rejected a Safer Option to Destroy Lead-Laced Explosives in Iowa The New York Times",
+        "pubDate": "Sat, 21 Nov 2026 21:11:16 GMT"
+      },
+      {
+        "title": "CBS News | Breaking News, Top Stories & Exclusive Coverage",
+        "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9EVEtXMDN5TmpVNF9PRksyV1ZtQUVOUV9PVmVmZjByTVNmRmJ4QVhhLUk5WHN4X09pa0V4VA?oc=5",
+        "source": "CBS News",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "CBS News | Breaking News, Top Stories & Exclusive Coverage CBS News",
+        "pubDate": "Sat, 21 Nov 2026 20:49:31 GMT"
+      },
+      {
+        "title": "Trump Moves to Restrict Congressional Oversight of Contractors",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVkR5Sk9sSy1xNFpWVHJ4Vlg2VlJSLThaM21KVlRZUTRYYkd2REJVX29uOGVmb0pCUEtab20zS3NaaGJXMFFETkg3Yk9yNm5lNzhlUlp5VEhGX2tFQ2tYTlB4VmFoTjlkYS1KcHlFN3BMOU1OVV81dFBzTHl3RXhPYUhYMUdKbmJMdnZNdFVGOHFHZ0JhTXJmbQ?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Trump Moves to Restrict Congressional Oversight of Contractors The New York Times",
+        "pubDate": "Sat, 21 Nov 2026 20:16:39 GMT"
+      },
+      {
+        "title": "International Student Enrollment Plunged. Schools Are Bracing for More Losses.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2F3SHZOb2ljcEF5VFpuR25ORV9XZ2M0M1loQ2Fmc2hFZTY4R0hQaUdOM1l6TzF2SUh5ci1obTE1OENZSjN0YXpsNldDOWVwWjlfWEVZd3F4dUtKOUF5ZFgyUDZlNk04NmVCUDNxamZ0enRsdllhSl9VQlVwRVk2cFRYeHU0OGdKU0NRZkVDTjBrN2JCUTVR?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "International Student Enrollment Plunged. Schools Are Bracing for More Losses. The New York Times",
+        "pubDate": "Sat, 21 Nov 2026 19:58:02 GMT"
+      },
+      {
+        "title": "What I’m Hearing on Puka Nacua’s suspension, Cowboys coaching pressure, Colts’ surprise Daniel Jones release",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUc5d1VEOGhMcFN4Z3ZHSm4zYjNqMWxMUEkweWR6UVlrMUQzOHBoVUtzYllmWTBoblhOcjM3dm1nVE5MOXVLeWNKelh0OXVSSS1Ld3NoSnhSdk1YTkkwU01FQ0V0ektZMHVBSldWQlExRXBveWxId3JhSGZuc3BYYkhQaldZblB0SXRDbDFMQnFIa0xXWEtzOQ?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "What I’m Hearing on Puka Nacua’s suspension, Cowboys coaching pressure, Colts’ surprise Daniel Jones release The New York Times",
+        "pubDate": "Sat, 21 Nov 2026 19:54:08 GMT"
+      },
+      {
+        "title": "Biden-era spending law found unconstitutional by federal appeals court",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWNZb2ltVTk0b0hUZzFPTElpNDEwdDBpZ05BMzgwMDNqR0F2MW5SR0I4a0RNX0lzU1dfLXFXeTlaY19fa1hvU0RJdmRpV0dsdWN0Q0t4dzVucGRIbGJSc2Z0bWdVaGk2LXB0TjRMVE1lZ2Yzd1R3WXdoSFJjbjN0MjNVOHBYeEt3ZWt4MGhrSmsxWFU?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Biden-era spending law found unconstitutional by federal appeals court CNN",
+        "pubDate": "Sat, 21 Nov 2026 18:58:15 GMT"
+      },
+      {
+        "title": "Mets sign A.J. Ewing to 8-year, $95 million extension: Sources",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYldaTE9BanVaX1d1VGx2X0p0c3hfWEpFZlRpbzlrRFR1LWVfTVk3NU1PXzRSdG5XWWl1YjVBU0tfcXd4aWdRUlRVc1RPSHhoS3lzMUJaNkE1NXM2SjRqMHNkQXIzTWFWRnNEMEdvbUExSXBkbzNxQ2FnN1VWMDh6Z21OMjBTTW1QbHh2b3dn?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Mets sign A.J. Ewing to 8-year, $95 million extension: Sources The New York Times",
+        "pubDate": "Sat, 21 Nov 2026 18:37:19 GMT"
+      },
+      {
+        "title": "Tottenham 2 Ipswich 0: Williams-Barnett revels in first league start to inspire Spurs",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQenhlSmhPbzVwNUhfV2EwMUNBTDV2dklqZURvWF9nOUpnOVotUUw5RndtQzc0VXFlNXFEelJ3eHE2dExXRUJiSUxkS2JLaEdRUnJIYU5oV2xyQzl0aDJ3ZE44bTVRbU5uVExDc29aM0tra1FNOFp1WEpseThUQzRzRGFaMElEelZwOE1YSkE3OENMRm1NRGg1ejFLdWZRNm13SEVGWQ?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Tottenham 2 Ipswich 0: Williams-Barnett revels in first league start to inspire Spurs The New York Times",
+        "pubDate": "Sat, 21 Nov 2026 18:16:26 GMT"
+      },
+      {
+        "title": "Trump directs federal contractors to coordinate with White House on congressional requests for information",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX1JhZV9CWnAwQ1RGWFVRTmN4V05CbUtfcHMwd2NibmtfVFU2X1RENW1ia250c3laOXEwcHhPTThaWWZXMGVzdU1BTUdHcm5lSlhZSktrd3dRbnBfU29YZ1NXbklaZDlWWUI2REdQVFNFYWdiNHlVYlhlc0YzY3MxNTd1cFJ5dzZOYnFYLURmODREM3NhdnlhcFNnMS1YU1NCWEN2UjlrOA?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Trump directs federal contractors to coordinate with White House on congressional requests for information CNN",
+        "pubDate": "Sat, 21 Nov 2026 18:02:38 GMT"
+      },
+      {
+        "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0M2dXVZWU9jNzEySnF2YXRxeE1lSWEyTzdISXBGc2dqdEFjZWJmaGUyVmVwbktreFZ2eHB5VmNEWVdLZzVCMDJONHpVNDB2eHNmWFJlLTdDNzFqdEJBU0VhRGt6anhxaHltazE0UG5IcWNyYlFQR3ZjWm9CYXRLMzhkZGFZUQ?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions. The New York Times",
+        "pubDate": "Sat, 21 Nov 2026 17:40:46 GMT"
+      },
+      {
+        "title": "The world is on the verge of a religious shift. What’s driving it?",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmE0TkphdGtNSG5vRGplXzBERWxxVVNfRHlfMDVzUjdpbVIwSm9pYUo1emtJWlM1R1FyU3JZUUMtVHQ4NVgtWWZvTU1Tc1JWcEhfbkFzLVFvMmdvbjNVVEFtYldsTDNuVEMwcGx0cm1iQmlVaXhLTWF3RmtGX0w3dFdpempiVXVyajZqTlREb3Y3X2dNYWxBS3VBa3dpUWFVQ2NVVHAyR0xEZw?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "The world is on the verge of a religious shift. What’s driving it? CNN",
+        "pubDate": "Sat, 21 Nov 2026 17:18:23 GMT"
+      },
+      {
+        "title": "Why does your body store fat in your butt?",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PMjhXLU5oMEVORmtlYkRYTy1Ebmtnc2hBWjV4d2FWNi15QmpkTk1hdnNSRkFCUmo5Sm5UclFmWTZTM1NXTmVoNWRYNFdtNkJHQ3ppLWxTOWxWdmlsYnFVblA3YjdwQWh1dFhJaG54bGNLZw?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Why does your body store fat in your butt? CNN",
+        "pubDate": "Sat, 21 Nov 2026 17:00:15 GMT"
+      },
+      {
+        "title": "Republicans seeking an alternative to JD Vance ask: How about a governor?",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTBwWEFVM0w4UXlmVmQ3SkFYbXNUUkE2UzdrVFNYTWV2TklBbDh6dWFEMVpfLXJfWDgyRjFDWlI1SjJQTDBIYzJTSHBSX1ZWS0luUGVQbW9adjZDV3c5bmtELWlyejExTnlBSWZHNXRrdUxpVkduXzZYMnh3N0lNaFN4UUVEWi04VWJjcHZaaFI3UjZOY3RzOWJrUEk?oc=5",
+        "source": "CNN",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Republicans seeking an alternative to JD Vance ask: How about a governor? CNN",
+        "pubDate": "Sat, 21 Nov 2026 17:00:15 GMT"
+      },
+      {
+        "title": "How I’m Tackling Thanksgiving Desserts This Year",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTUdnbEhlYjNBSXdUMjk4VXRtakhRYm43SWpTMkwyNFFvT2NJc2F4Wi03M0VfUG5HYXpCQzhuM01TcEsxYUtTNjVJTmRMUlRxXy1rX1F5eDRjM0ctMDdQZHFmRV9yMzJ1RFk1V3FTT0V6RTgyVFpETVNSTW5kdzhhTFhKelJldHVZZkRrTjRqZDA?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "How I’m Tackling Thanksgiving Desserts This Year The New York Times",
+        "pubDate": "Sat, 21 Nov 2026 16:18:39 GMT"
+      },
+      {
+        "title": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0bUFOQVZ6OHYzbGhHbUJ6YzFHaEtIZi1fMm5ESmFiRE42SW0yOE40MmsyaTlXUnNEN19UMmQzM21QQzJxOEZ2cW8tdjJUNURTUHZxR0lYMWhNdzlJclpQaWNVNDRfbXJIM1BsSk52eHI2LTdKTEh0ZlZuemRRTEk?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead The New York Times",
+        "pubDate": "Sat, 21 Nov 2026 16:03:26 GMT"
       },
       {
         "title": "We looked at College Football Playoff blind resumes. The results were surprising: Bubble Watch",
@@ -219,6 +379,14 @@
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
         "summary": "We looked at College Football Playoff blind resumes. The results were surprising: Bubble Watch The New York Times",
         "pubDate": "Sat, 21 Nov 2026 15:59:43 GMT"
+      },
+      {
+        "title": "Did You Notice: The tactical trends of the 2026-27 Premier League season",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjBtY2psVS13LWhaOEF2eW1pVVVnUkRYZUhySW5WWkNHcUJjc2ZjVnJQaXUxM3lFUUJ2Qjg1LTRTVkFQUTlmekRNUUNZY1pjdHVtVHJENzJPWWhIcHN3dERFUVhBU0Y0dXFCaExDZExURDJ1MHZzVlFuampkTTFhVHM3X0NHU2JSbFZxOVRpRXNzNS1ySFUyOGt0RkZlQQ?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
+        "summary": "Did You Notice: The tactical trends of the 2026-27 Premier League season The New York Times",
+        "pubDate": "Sat, 21 Nov 2026 15:33:52 GMT"
       },
       {
         "title": "Jury in Palisades Fire Trial Finds Man Guilty of Arson in Devastating Blaze",
@@ -235,426 +403,314 @@
         "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
         "summary": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI CNN",
         "pubDate": "Sat, 21 Nov 2026 15:10:40 GMT"
-      },
-      {
-        "title": "‘Cancer does change you’: Princess of Wales talks candidly about her experience in new documentary",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMZ1JVNmxhdEo0NGNPV2RSTWdHenVFcFllMmVHMEV2WVRTSlB6MU1CYXdTeGxFUmJwMFZUejgyc29LMW0tb1Q4eFVRaEJuckJXYlFsTU1qNE92MEZiU0JjRkh6Tm1YQ01hbnNjTXU0cw?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "‘Cancer does change you’: Princess of Wales talks candidly about her experience in new documentary CNN",
-        "pubDate": "Sat, 21 Nov 2026 14:47:44 GMT"
-      },
-      {
-        "title": "French police officers convicted of racist assault on Black music producer",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vOHhhWHVjakpKdDV6V2VQVm5xRFVMWHZ0c2JIYktIcmN1ckgtaWdxUmoycGxGYTFKSWJweld1bWtqVmFVWVc3Q0RDNER4bDNvcDh4R09NZi1ydU1nQ1JSSS1LMlU0VzBGSkg3NDc4Y2xGX2RPZzBRN25scGlPUUk?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "French police officers convicted of racist assault on Black music producer CNN",
-        "pubDate": "Sat, 21 Nov 2026 14:19:02 GMT"
-      },
-      {
-        "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM1EyLVMza0xpLVJacm1ZUEN3cXgwWTlDeFJFYm9LZU14dTVKWUNkT1NKcmllZF9Uc0lfalc2ZXEwS0g0bWZiRW9na25OLVNHQklPeVZ0d1AzWTlHb2pKWGtlajI5LVp1N2dEUzQ3VmxTV2NXSER4UnhTLTVjT2Z6ZFJZa05pOWNNV2c?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film The New York Times",
-        "pubDate": "Sat, 21 Nov 2026 14:04:52 GMT"
-      },
-      {
-        "title": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ta1ZyUTJoeFlCYVB6Y3RLT3pUQVBSMGc5WXh5a3R0eDhCRGFYOGs0WHRBZ0c1NENGT25IR3kwd2xvMXEtZ2pLRENIZ1dBclRxVExqOF92emNPWE5XV2lnZl9iejdON002TlNv?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy The New York Times",
-        "pubDate": "Sat, 21 Nov 2026 14:04:00 GMT"
-      },
-      {
-        "title": "Texas says an execution went as planned. A witness says screams showed ‘tremendous distress’",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNHhnLVdLeVFrNWppS0drbjlzdE00TlBEUzl0cmJEaEJwOGpvM0I4SGRQcUh0S3EtZ2tELVAtaWtjNk82aGd2djFJUHQwX2lnT3RsenF6TmJnZEZXU1NVN1d5Z25XWVFZTUcydG1Ub2pkZ012TkUtQ3VYWFZHUFNiOE1saw?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Texas says an execution went as planned. A witness says screams showed ‘tremendous distress’ CNN",
-        "pubDate": "Sat, 21 Nov 2026 13:47:38 GMT"
-      },
-      {
-        "title": "Russian ‘triple-tap’ attack in Ukraine kills emergency worker and 7-year-old in Zelensky’s home city",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVFENUFiWHpVUERfMGl2ZDViQ2NXUExGZWItNUFEVWJ6b1hDX05rRERkR2VaUWJ0dVhRSGRua2N6SFJTaWU0MXRzYVFWdENPVVNKRmkxUDR6LWNNZzE1SDA4QnJWVURhcUVjam56aDdUS1BRQ09nWjBtSHA1ZDk0Tg?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Russian ‘triple-tap’ attack in Ukraine kills emergency worker and 7-year-old in Zelensky’s home city CNN",
-        "pubDate": "Sat, 21 Nov 2026 13:00:43 GMT"
-      },
-      {
-        "title": "Russian triple tap strike kills two in central Ukraine",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakxvZFEwOVo1eXRRdV80aHp6RHFEQXVFN0FQdEtoMkFab0pNbWJORXRwTWJHUlRVckluQUxYTzR5N3pSMGh6UnJ5ZnlJQ0ZHOFFMaDVRSVBSYmV6d1RPTkh6YW5WQWFKc2ViM2ZEQzlQVEpDZm4tQnRjMGhMMFQxZVhuUkVhU2FNdkhWWGFkemwyUmk5NmJsbDFKN1JUV25EOGlkZ2p4VEZidUZsVlRyb0hZNA?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Russian triple tap strike kills two in central Ukraine CNN",
-        "pubDate": "Sat, 21 Nov 2026 12:14:00 GMT"
-      },
-      {
-        "title": "Two sisters checked into an English B&B. The trouble started when the key broke in the lock",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUhBV0NqM3V4a3BQWmdNZFRwRlI3ZGlobnRyd0tleUU1YU1QOVlXamhmSDBXWkpqX09La01mTFZLTWRlVXNFaXRYNmQ0di1WY0sxMjNhWWdnU0xxOVFuMGcwdk5tNnNZNmZNT3JHSlVxWDY1UTAxdTNGQ1lSVEU5RXFWVG1DUQ?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Two sisters checked into an English B&B. The trouble started when the key broke in the lock CNN",
-        "pubDate": "Sat, 21 Nov 2026 12:00:15 GMT"
-      },
-      {
-        "title": "Recipe: Apple Cider Risotto with Bacon and Butternut Squash",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaDRQX3ZuUVRBVVlBbmFTYmVueDRPNUtsNUlmRGNrNm1XZS1La2Z1dnQ2eEd6cFA4S1diSnhyRU5MWjhBdWlqd0xKQW1qU2lwamwxdFRVU1Q4LU1yR2lKa1hRSnBoNkl4V1lRRWI1clluSW5PQzNwbV9LeHhWNUZZUWJETk9pYzE4NHJxTklSYVRVUQ?oc=5",
-        "source": "CBS News",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Recipe: Apple Cider Risotto with Bacon and Butternut Squash CBS News",
-        "pubDate": "Sat, 21 Nov 2026 11:38:16 GMT"
-      },
-      {
-        "title": "An extra ‘mini-moon’ will orbit Earth for the next months",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mWWRCUUxlSEVXWFpDU1NXTnFoSDBnaGxSOTdYMmUwZTBrODFsY2FBX211VVZjQWpTd0JpLUc0ZkJaLU5uYWNIblNzVE5UNG1DZXo4dUM3aFI3YnNLb2NNQk5SOXpPcUdQaHp1MnltakI?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "An extra ‘mini-moon’ will orbit Earth for the next months CNN",
-        "pubDate": "Sat, 21 Nov 2026 11:30:16 GMT"
-      },
-      {
-        "title": "The Democrats’ top 9 targets for investigations next Congress",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYkJ5QVdwenZXMFVLSE80Y2hzYkwzaXhZNmtYa2VCTFdpYkItZ0tXQnpRaU91TFd1VGMzNzFBeE8zNFJUM3FDNzNRRURHU25RdVM5VnNxNkdFaGkxMHhzTmh3Rzg3ZUNvcTRJLWNNWFlrdUlsNkwtaDRPQVNaNkpvSk43aw?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "The Democrats’ top 9 targets for investigations next Congress CNN",
-        "pubDate": "Sat, 21 Nov 2026 11:30:15 GMT"
-      },
-      {
-        "title": "A capsizing cruise ship and a gutsy risk: How a quick-thinking police chief turned a looming tragedy into a miracle",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvNkNKU2RwWHFZQlJVLUxMNUllNUJlS1BucGNtTkc1b3J3Vl8xQWphdjhnU1RnekRLdDdnRkJPV2ktWGtfS1ltUFJmUk00bkFVbWFPOTEtTlFMZUJhSzN6Q3ptX3lCWXZSS2p5cFFvYVpYQQ?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "A capsizing cruise ship and a gutsy risk: How a quick-thinking police chief turned a looming tragedy into a miracle CNN",
-        "pubDate": "Sat, 21 Nov 2026 11:00:17 GMT"
-      },
-      {
-        "title": "The next big travel nightmare could start at the TSA check-in line",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnbVpPVzNwQU1PcHB3dmdUMnRHQTZuS1pVbEVzRks0aERiZ0g3RUlGWVhaSi10Q0NUd0pxSkNUd01hbjV5Q2ZCZzFiV1hGemEwV0xySHB2WGJPWC1WM29QVGx0VmM3X09WeWZ2VzBuVEtoTnNNaldBY2dTbw?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "The next big travel nightmare could start at the TSA check-in line CNN",
-        "pubDate": "Sat, 21 Nov 2026 11:00:16 GMT"
-      },
-      {
-        "title": "Tennis coach takes on more work and cuts spending after expert advice",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTUVkNFVjZ0VMUTFZaklyM2FMb05PLXBxaWhleUJSSkFuQ2JlTXZ5ZjlYMjBIbkFHT2xXS3laWVpST0YtUlVzWU9hZVdoV2NLNmFxQ3BXMEZ2b0dpemZya3pxaThxUVJtUDZ4eFVpWlg2UjcwZEFzQWpTeVZ6ZDg3MnJuZVd3X1RfVkYwcTZRM21UT1pBaGV5NA?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Tennis coach takes on more work and cuts spending after expert advice CNN",
-        "pubDate": "Sat, 21 Nov 2026 11:00:16 GMT"
-      },
-      {
-        "title": "Fears about toxic lead dust spur battle over US Army plan to detonate bomb-making material in Iowa",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13ZGhGOVZ3Y1dvb2FocF9uUnRWcHlsNWJYQXNHbU9yT2VOLTh6VzRwOGxhOFgzOVVWM0xkdlFYR1dVZHhsYVZRU1paM2JXZjA3MEFZMnRRTkhFZWZnUUFYSU15VkRpbWVmYUlnUThEMmZkbWtqWWc?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Fears about toxic lead dust spur battle over US Army plan to detonate bomb-making material in Iowa CNN",
-        "pubDate": "Sat, 21 Nov 2026 11:00:15 GMT"
-      },
-      {
-        "title": "Your 401(k) is full of AI. How to deal with the volatility",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQNUpLbERtV0lEQTJqc0NmWG9mY3FiYUZrRDlGOV92QU1WcWFjYjZtZDFnU1dUazZwRUlKa0t0M2M5Y0l2Q1RuSGVaYkVMNVJBZjB4cXpud3V6dGRFRWs1bkhMR0VUMkwtc3pzOEk5eUtGdjhTcFlKTlFR?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Your 401(k) is full of AI. How to deal with the volatility CNN",
-        "pubDate": "Sat, 21 Nov 2026 11:00:15 GMT"
-      },
-      {
-        "title": "She asked El Salvador’s president for help. Days later, a gang leader’s house was destroyed",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMWhuZTdFeE9pUGRsTmNCV3EyWHE3eFdhM1BKT0tIZmhZb2xpUXllakJORFB4MWl6U0Eyc1BFRE02aEhhOWxvWm1QS29lMjNHOHhFblhXWHpIbWJ0YmtCb3RfdDBBTWhrUGN4Y3FSVk1mY1c5WlNqdXh3MWRzQlpmMUplSW9OZEVYOWc?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "She asked El Salvador’s president for help. Days later, a gang leader’s house was destroyed CNN",
-        "pubDate": "Sat, 21 Nov 2026 11:00:15 GMT"
-      },
-      {
-        "title": "Doctors Push Back on ‘Bounce Back’ Culture",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDMwWDlCLUg0dW04WDFyMm5GelRpWW9JM3hWWGhyNy1pMDNvMTA0eHU1VXV0c0dDd21UVmhTM2RaM1cwNGNRc3hJcFNHaE9aUHphbUd1bGVCT0dNc3ZrMlNHVzNodXFSWEdEclJ5OE5Wb1Z0S09jQjMtZEpFdXpFVTRSRTJhTUpvbE13N18zcF90ZlpxZEZTM210dDA1QkQxeFhOVUs4RnIxZVE?oc=5",
-        "source": "CNN",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Doctors Push Back on ‘Bounce Back’ Culture CNN",
-        "pubDate": "Sat, 21 Nov 2026 11:00:00 GMT"
-      },
-      {
-        "title": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0bUFOQVZ6OHYzbGhHbUJ6YzFHaEtIZi1fMm5ESmFiRE42SW0yOE40MmsyaTlXUnNEN19UMmQzM21QQzJxOEZ2cW8tdjJUNURTUHZxR0lYMWhNdzlJclpQaWNVNDRfbXJIM1BsSk52eHI2LTdKTEh0ZlZuemRRTEk?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead The New York Times",
-        "pubDate": "Sat, 21 Nov 2026 10:15:08 GMT"
-      },
-      {
-        "title": "The White Sox gave up a lot to land Luis Castillo — and to move him. Will it be worth it?",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWWMwaF80aXlMeFFXanJoSUJ3enl4ZXQ4YkllMTdKalEtZDlKMnFYM3RYVWh5MDFiSjZsQS1qZXlES3YycnhmbmFDYTY2VHlXY0ItQlIzNU5ZX1UwNkVTS1NyWjBhb1c3UERmSVoyaVVPYl9mNUhEanA3S2g4OUJrR1BHb2J5eFZYenZOaGtBejJCMUtz?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "The White Sox gave up a lot to land Luis Castillo — and to move him. Will it be worth it? The New York Times",
-        "pubDate": "Sat, 21 Nov 2026 10:04:42 GMT"
-      },
-      {
-        "title": "Obsessive Throwbacks on G.T.A. VI and 9 More Songs We’re Talking About",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSjNVd011S2Y2UnFoWUNXTV9yUzg3aTZKR3NUeFBCQjNoMXVZSFQyOTNteG1IUlRfZlNxNFdxQXZSWHF1QURGZkY1eFdLYjVxdHNUQ0dQaUJZSjJubmNpTG1ta0NUT0wxT3Z2STlLckZ1UW1qWUY3eUEyVUc1SVNRaVVxVS13Zw?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/search?q=when:1d+(site:cnn.com+OR+site:nytimes.com+OR+site:economist.com+OR+site:cbsnews.com+OR+site:cbc.ca+OR+site:forbes.com)&hl=en-US&gl=US&ceid=US:en",
-        "summary": "Obsessive Throwbacks on G.T.A. VI and 9 More Songs We’re Talking About The New York Times",
-        "pubDate": "Sat, 21 Nov 2026 10:02:43 GMT"
       }
     ],
     "🇪🇺 Europe": [
       {
-        "title": "Villagers in Barnham vote to 'leave the UK' over plan to house migrants at former military base",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBadUxDU3RKNk9FUUtISVFiQnRGRU43RVdfa2Q4dHJQZEkwb3hWMnJ5czJFZHRkUlg0RnZHTTZVRm9ZYVdxTGVEMHdkVS1CaGVBQjZ6WmVDcVQ?oc=5",
-        "source": "BBC",
+        "title": "Ukraine-Russia war latest: Zelensky calls Putin a ‘killer’ as he slams Trump’s friendship with Moscow",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNXlCUjNkbEhncnBEbUFvX0NrTnlfUDVWYTFxZEo5VGVHWnp6Zi1IV05kZ09QOUV5d1RuU3dwOFE2cER4QnJZUGRITnBCVVN6SEZ0VHpLQUszTHZmTzJkN0F2T1V2VGhLRXhwSE10X1NWZGMyRjk4bGtHeGpGTC1kTkJyYkswSTV6OTVkNThQVElLRmRWc2Z0S1F1MXQ5MEpHUjVYWWdBaURiRTVaUVIxZTZKQk5lamVTbW04SmVR?oc=5",
+        "source": "The Independent",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Villagers in Barnham vote to 'leave the UK' over plan to house migrants at former military base BBC Barnham residents hold vote to leave UK over planned migrant base The Telegraph…",
-        "pubDate": "Sat, 21 Nov 2026 17:42:35 GMT"
+        "summary": "Ukraine-Russia war latest: Zelensky calls Putin a ‘killer’ as he slams Trump’s friendship with Moscow The Independent Zelensky says Putin is a 'killer' after Trump calls Russian le…",
+        "pubDate": "Sat, 21 Nov 2026 22:26:28 GMT"
       },
       {
-        "title": "RFK Jr. vows to curb a measles crisis he initially underestimated",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckhpUXNVWXJrVGVkeGZJYVh4aXN2VlV4UHR2SXJMS0V6WFlYVnBjRjNkRldNVDVzTVZiSkFoN3Jqdy01aEMyYWkxRFJSR2FQelg0UnFvcms2NzlIRnJvLWlsQnl1aVFkVXl2MGhRY09OYnNoZ0ZCUDN6cVplS0NhN3g4dHRUZ2JqRFU4QXRoMThiMU9xZC1NRWtOMExHWlJyUDlXUVVXZ0xRWkhsSmc?oc=5",
+        "title": "Coventry 3-2 Crystal Palace: Dwight McNeil own goal hands Sky Blues important win and Thomas Frank a losing start with Eagles",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaG9kbHBzbmlYeTVXcnQwYmZ1N0JPejRsMVNjdjdHV3JseTRPTnZEZ19DVE9XLWtKekZGeG45VWxRakc5WUZUazFTMkxuT2xGZWNvcGhiWmRQWWxzOUlxRHExWWx6TzI4N3JPcFFWYXc0Ynl2WlROQmpfTWhCOTJNTU1wRmRoZWsxZWFPQkZCVEVNaVo2M0ZmdFJ2LXE2Nl9vTWpZUnFBeGZaYlkya2VWUWgyTWtWaW85MEs2TVNRdXA5dXlUeXNNTEtrSHZxRnhyQk1GNjJ2QlZHYmpWMUlidUJpeWVlTHJ5SVNiYTNTbXRYMlZjWEVvRWVXd3lBdGdaV3NV?oc=5",
+        "source": "Sky Sports",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Coventry 3-2 Crystal Palace: Dwight McNeil own goal hands Sky Blues important win and Thomas Frank a losing start with Eagles Sky Sports Coventry 3-2 Crystal Palace: Thomas Frank's…",
+        "pubDate": "Sat, 21 Nov 2026 21:54:08 GMT"
+      },
+      {
+        "title": "Virginia reports young child has died of measles, first since 1978",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXJqdU1xX3B6V0RuY1JkaVB0dXQyUEpubzc4Zm1uSHZRaFU2MzJHdFVMYUxvd21iR3JWTzRDVDlWdWZaSzc3bDF1SElLTzVIcEltRDc1Z1cxZzVGY1JDV0NLZGlWczk3WWNxRGVvMGhLYTBfYnRBRWVKelVsU2gzVjRHV19nOVNVTDBVQUNCUlZqQmFXaXczZ3J1V0RvbHJMXzNMUU16V2tYSFhrclo1N3p3?oc=5",
         "source": "The Washington Post",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "RFK Jr. vows to curb a measles crisis he initially underestimated The Washington Post The return of measles in America The Economist CIDRAP Op-Ed: Measles didn't come back overnigh…",
-        "pubDate": "Sat, 21 Nov 2026 17:32:49 GMT"
+        "summary": "Virginia reports young child has died of measles, first since 1978 The Washington Post Young child dies of measles, marking first death of year in Virginia, VDH says WSET Child wit…",
+        "pubDate": "Sat, 21 Nov 2026 21:23:59 GMT"
       },
       {
-        "title": "Newcastle United vs Arsenal: Premier League preview, team news, stats & head-to-head",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGRWR2LVRCd2xEYW4wMU9iMDV2UzRCS2c2LUJPWVhVUGZUelR4elZUUjRrOGZVeEFhVWtkM3F0eTNSTFV0blB2VjE0bVdaeHowWHZaVXFyemo3T3FPeHBhV2dISVYyQQ?oc=5",
-        "source": "BBC",
+        "title": "Burnham’s EU reset ‘to cost families £281 a year’",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEpfMWxmalY4NzFTU2hVMWN2ZjJXaTdrMXpCZ1JrcXIzQzBkazdlZnRfZWFOUDQ4UXQwUXdlNGpRcE1xU25XZEpzX1N1cGprNkF1ZTFMSHlGNkNjaEVqcEd5QTBuaGdKYWJoczVyU3ZVQ0ZvR2I3V1diUy1HaUtvSGN4Y1g2RjNmQWhBTGtCU1h1cm0tNXJXSw?oc=5",
+        "source": "The Telegraph",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Newcastle United vs Arsenal: Premier League preview, team news, stats & head-to-head BBC Newcastle vs Arsenal LIVE! Premier League match updates, free highlights, news and score Sk…",
-        "pubDate": "Sat, 21 Nov 2026 17:26:15 GMT"
+        "summary": "Burnham’s EU reset ‘to cost families £281 a year’ The Telegraph Good growth really is possible in every UK postcode Financial Times Energy bills in Great Britain forecast to rise b…",
+        "pubDate": "Sat, 21 Nov 2026 20:50:00 GMT"
       },
       {
-        "title": "Chelsea 1-4 Leeds: Okafor brace powers Farke's side to win - as it happened",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ3FGUlJ6Zko2MThYWFg0WG0yc2xrdERGdDA1MkRqanNZZ1lmXzhsVXp4bU1FLS1UNTVTcDhHSmFlTXZqSzB5QTREM0Y3Q3RoYmlQSEllSkwwQl91ZThneUlEVWhkYVlObXZSWGkwZFZSLTNjVnF5cno0QmhxeGo1R3d5Ul90TGpfbFBxWkxtSUt2Q21FYkRXZl9lUjlLUVFXdHc?oc=5",
+        "title": "Nebraska snaps AP Top 25 losing skid, upsets Ohio State",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHpIU2picGxpMnVwZmZFWXV5YXlEX0ZVaVpNNlIwa25rMUotYkZodVNvTnUwRzYtV2dOR1VrY0IzdFhXbEVrMmg5cWZacW0tN2d3emR4NWIxNHFsVml6eHI1aDhxWkpRRFFVY3AzLVJMelVhSzg1eVFzV1JXSHZEMnM5NjdzS2pjdXRWNHY4ZXpHVzBoTEtYVWtfb0dmbWtXaEdTZ20yM0ljWHRPSU5abEhB?oc=5",
         "source": "ESPN",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Nebraska snaps AP Top 25 losing skid, upsets Ohio State ESPN Nebraska ends 31-game losing streak against ranked opponents as it buries No. 14 Ohio State's playoff chances Yahoo Spo…",
+        "pubDate": "Sat, 21 Nov 2026 20:50:00 GMT"
+      },
+      {
+        "title": "Main Card Results | UFC Qatar",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyVkZBdjNvX0NKQnV5SUlMaUtvOTBHaUV3eHk5LUhKV0JBQmpLNGt6azNKbXJESXplbnlSNmtiUGRPc3hXVVFSbjhSa2dYQjZBTDhpR0tOa3hGMjFPT1R6Qkw3a0I1c2gwcG9OenpKQ1dDZw?oc=5",
+        "source": "UFC.com",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Main Card Results | UFC Qatar UFC.com Navajo Stirling knocks out another ex-champ in Jirí Procházka to cap Fight Night ESPN UFC Fight Night: Prochazka vs. Stirling Live Updates, Hi…",
+        "pubDate": "Sat, 21 Nov 2026 20:33:46 GMT"
+      },
+      {
+        "title": "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGgwZTZaQWNtSzNpRDhQajRHRHFFTDhiVXczZmUtaFJiMVdTMFcwN1dWV053c1lGY2hiUnJrNnc3X1JoREFHLWNYTG52bVk5cXhMSDlCU2NkcDVCeWhQamZsX3JXdVBYdzJSdWQ1NDlKaTE4ZzIxc3U1SE1lcnhjdm45TmtHVzBMTmI4?oc=5",
+        "source": "CBS News",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027 CBS News ‘No deal needed’ to ‘permanent deal’: Trump's Iran zigzag Ynetnews Li…",
+        "pubDate": "Sat, 21 Nov 2026 20:29:00 GMT"
+      },
+      {
+        "title": "New pancreatic cancer drug stops tumor growth: Study",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEU1WUljbVoySEdNdXJFSWJzZjJyM2ZUeGpiLTE1TEUtWnpsS09UT19Pakt4U2JXZ2lhZ253UVFMTVJLMmRWQTByU0pYYTNuaHhSVERISHRQM0dLNXlzV09obmNkaGpRUzdGVzVybFJfRE54bW4wSldFMlRrNTN1aXo1ZWd1QdIBiwFBVV95cUxOb2g1TUpDajZTWUJVWDl0ZktDZmFuYjhTNFBTSnZkWVctMnhYVnR5SUdjT0ZSTk41aUhhN0Fha0lVaHdJSWJTX2lpeTU5WUdsRUY1eHhfN3lQSk80dFFFeXlEd01hODdDLUVHQmFGbVhudjh6dVcwVVVKSEhfczIxOVdKMWhKNE9KRzdV?oc=5",
+        "source": "NewsNation",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "New pancreatic cancer drug stops tumor growth: Study NewsNation Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ | Pancreas cancer The Guardian Metastati…",
+        "pubDate": "Sat, 21 Nov 2026 20:26:00 GMT"
+      },
+      {
+        "title": "Two teenagers in hospital after stabbing as Oldham park cordoned off by police",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTZtVGV1c0Z5TXctX25lbFVETS1KenVoQ0Q5cjN4MGQyVk1qUmtkbDdjR1hpdHcxZkVZTFBiVVQyd3dRcGFkRzY1Qnc5aV9nak5NUTVXQXNaZnlqLXJXdXN4b0FxemRHbDZsQjlhUE42T1pqaXZzcUdCb29vUDBEYmE0azN3R2JEUm9BZV8zTS1NalZDRjZMUXVmaVZ3TGJ6T05uUmNzS3pSNE9HNFNoOWlZNHN3UdIBuwFBVV95cUxNUktTdWJTTC1kUVJVQ2lYNkFQdlVUdTVfd3RqN3JfZFNvVjJKd1RUb2hQbEZEMFBGR0E2ZWNaU3RyY0R2eWNyel9NVjJrZVlialIyOGtza2ZjMXVqWllZaFNsQUNiQVVDbjhHbXlDVDNoSkV3NlBwXzlqemU4LWphN3pEZXlDRjNsVGR3N0NlRFBnQUM3Mkx2WXdGbjl6dTVXcjJwa2Y4Q1RBN0JOTDZ2cno0YXM3YmVFTzY0?oc=5",
+        "source": "Manchester Evening News",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Chelsea 1-4 Leeds: Okafor brace powers Farke's side to win - as it happened ESPN Chelsea 1-4 Leeds: Noah Okafor scores twice as visitors win BBC Chelsea 1-4 Leeds: Blues dismantled…",
-        "pubDate": "Sat, 21 Nov 2026 17:23:00 GMT"
+        "summary": "Two teenagers in hospital after stabbing as Oldham park cordoned off by police Manchester Evening News Two teens injured in suspected stabbing as police close off Oldham park Oldha…",
+        "pubDate": "Sat, 21 Nov 2026 20:15:00 GMT"
       },
       {
-        "title": "What top minds in markets are saying about the sell-off ripping through tech and AI",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWh6YUdkVkxHaVNudVdOOWlBM2ZjY3lMTS1rNEhfeVFETnRNVjBlMUt0ODVzRE1HQUxUdU85MXhJdWVfTnUtUnV1YS1mQjZ3QnNPc3RmZzk3RlNKRjNDdVByMUgwcEI1TFY1WUk4cVlXVWlwOE5WMWZSUUc1Q3FnMjVNRUNZMUVjRE5FMmZtbng1ekVZ?oc=5",
-        "source": "Business Insider",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "What top minds in markets are saying about the sell-off ripping through tech and AI Business Insider The AI boom had a really bad week — and it's raising loud alarms NPR 7 reasons…",
-        "pubDate": "Sat, 21 Nov 2026 17:23:00 GMT"
-      },
-      {
-        "title": "‘GTA 6’ live updates: Record $3.8 billion launch, viral clips and the secrets players are finding in Leonida",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa3k0X0tIYW5JdWJNeEpEUzhSbFdhbW9WbnNWMU5DaGFZYXZSeWc1UkVzMENpOXdCRkZQUEl2dEFIREVPS0VWU1M5dnI2YjBrOVZETnZPY293aHQ1Q0FTVzBvSlFKMnd3d3BmNE0yMVNoYXh1akVaTmNGRlVmNG5iR05VRXpYN0owdktTN2xJZWQtaEZwV1F5Z2U5eHVpemJua2ZpckZjWHJ4YlFGeGk0QWczdW9TTm5MZ1FnbzlFalBoWWtXdnBORGZ4NXBNMmhRdTFWN2QzYk9wOFAtSUpfUENsUWxfR1dHb1FyWXN2R1EyY1JXNV9HbUpB?oc=5",
-        "source": "Yahoo Tech",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "‘GTA 6’ live updates: Record $3.8 billion launch, viral clips and the secrets players are finding in Leonida Yahoo Tech Find Serenity in Grand Theft Auto VI. (Or Just Embrace the C…",
-        "pubDate": "Sat, 21 Nov 2026 16:30:38 GMT"
-      },
-      {
-        "title": "Rescue efforts under way as drones hit Russian ship off Finland coast",
+        "title": "Russian crew evacuating ship hit by drones off coast of Finland",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2U3ZVVxRFhhdW1QdlBWLXJwRUpVYjlfb2YzMGFBR0RCTUdWM3VsRUtyZVItZFdCQ1lhbjFZa0tjLTl5MVZma2FrQkRfT0doQ212M3ZZbXM2ZDVwX2gtZF94N3UwN3gxX2gySUFCZGYxWk5ONmJacE02LVdaOXVGazlwYTZteUJ2SVRTN0NrTUxHM295VFlCRGtYeFhHX2pXaXVrN3M2MUFFZUp2WW9MWkRR0gG3AUFVX3lxTE0yZHFzYlU2ZzZ1b1VSc1htTi00Tjc3WmtxWXhwYjJRbERDMXhmdzQ0dFpQcmU4TkQyRnI2NHhrdFJIenpWR095MUFsZmhhX0gtbUgzSlBieEpmUVBqRDIyZW9YNmRab3RmbUlyOHI1aThMZWFFTXhIRTdmZWZzT0d5Wm1BU05XNFc2QVlXZHBaejhxVTVFdk9RRmI1QXctZTVCeFljXzluVUpTUmpqN1FZLWpvSUNDTQ?oc=5",
         "source": "Al Jazeera",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Rescue efforts under way as drones hit Russian ship off Finland coast Al Jazeera Ukraine war latest: Zelenskyy compared to Winston Churchill as he meets Streeting in Kyiv Sky News…",
-        "pubDate": "Sat, 21 Nov 2026 15:58:32 GMT"
-      },
-      {
-        "title": "Virginia child dies in state’s first measles-associated death of 2026",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEU1RXFwUGlBR3N0WHBXWnFPa1kxX3lkb1ZaUnQ5T1lQVlU4LXJWVHZXZ0tVYk5NZy1qdGlxUWpJaTNzUzZHMzhIM25lQzFCeUtoNXpBdDlfb056LVo5b0RRWTViV3VSSkdmS0JiU29rdnAyYWZYUjRyemtMTHJERg?oc=5",
-        "source": "The Guardian",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Virginia child dies in state’s first measles-associated death of 2026 The Guardian Young child dies of measles, marking first death of year in Virginia, VDH says WJLA Child with me…",
-        "pubDate": "Sat, 21 Nov 2026 15:30:00 GMT"
-      },
-      {
-        "title": "Tube strike officially ends but disruption to go on for hours - live updates",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX25SajQ4NDVQVi1kWElhQjl4a1FmUE5ISzNmZ25CdjRibGFCcTdZTnJVTGpNX05VR2syZzREYkpTTjhsRnRGYTVPdTJaRlUzeUdEVUJfY0J6N1E1YW9PcmtrR2g0djJxRzV2d1A0YlM3cUNVNlJlSUluQzlBSmJ2QVRoejF4NWY4YVc1dGNMa2JTS0xiT2hNV0k3cF8za0gtRmpTVnhlTmdSb0hHMEI5Q3B6dldWNllkQV9BSXhR?oc=5",
-        "source": "London Evening Standard",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Tube strike officially ends but disruption to go on for hours - live updates London Evening Standard Piccadilly line strike ends after 24-hour walkout BBC Piccadilly line closure a…",
-        "pubDate": "Sat, 21 Nov 2026 15:14:55 GMT"
-      },
-      {
-        "title": "Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNakZGSlRMelhZOFcwSGxkSEFRTkVYZkszYjJiOU1jYjc4QmZUamlidDBmQzRtRXNONGQ0Rm13VmVRdlZLQi1WdXFlYXRSS1NsYjUwekFXOGcxanQtTDlBS1dZNkFUNWJkcXZzaEJZbHNwX3hzSWJnUHd6MnJ0WnJPLUtvcUZOWjdlalpvSHlWdEpybDhkd1BTVkg0dVUtSTVlY3ROcEZ3?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal The Guardian Princess of Wales: Catherine talks about her cancer journey in new documentary Heal BBC BBC…",
-        "pubDate": "Sat, 21 Nov 2026 15:14:00 GMT"
-      },
-      {
-        "title": "Zelenskyy says Putin’s a ‘killer’ as Trump defends calling him a friend | ITV News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzlVaDJiczlkZjJ4M3lXaXVfQlA1LTlKZUt1SUQtbExoaHctTDV0ZlkwdUhMVkR5RUROYTk3c3F0MUZTeFhMOG1yTG4yQ1dfajVoV1Z3T3JxN2pmazZWOW00NzgyM29sVF9xYUF3RFNPNlFZRV9iS1RzYnRyeU9RdlRHMXhta1h2d1Uyd3NIMklpSG1jRVcxZG5ZWG9Tc3BHVTB3OEhKaw?oc=5",
-        "source": "ITVX",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Zelenskyy says Putin’s a ‘killer’ as Trump defends calling him a friend | ITV News ITVX Wes Streeting: Zelensky is our generation’s Churchill The Telegraph Putin is ‘cold-blooded k…",
-        "pubDate": "Sat, 21 Nov 2026 15:11:33 GMT"
-      },
-      {
-        "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85OS1rb3RuN3M1WEd1ZFJTbDJDSzY2YTBwTm9Cb0lZVmdwQ2RQcUxHNXBIWnM1VVQ5eGNwNWtOUF9GUVhuYm9nbGVHTzV1a3ByajhPdUptemJSTEZWcFVKYXRIcGJWbFBwV0hNdzU3RDFMX1hYV2hMWkpTRGlOaW8?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’ The Guardian That ‘S.N.L.’ Sketch About Sister? It’s More Like Nonfiction. The…",
-        "pubDate": "Sat, 21 Nov 2026 15:02:00 GMT"
-      },
-      {
-        "title": "First patient has surgery at £41.5m cancer centre in Guildford",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1S01wNW9zdjhKV0F0MWZMWGlPYU5LNERyM1A0dWlYbmlaVVFqNDdLeEh1UWptSzRsRFQtVXZ1dzhpU0lsOG4xWHhOVlZHaUNGMHR0aHA5VER2SzFmVWc?oc=5",
-        "source": "BBC",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "First patient has surgery at £41.5m cancer centre in Guildford BBC",
-        "pubDate": "Sat, 21 Nov 2026 14:47:11 GMT"
-      },
-      {
-        "title": "Think life is bad now? Ten reasons the past was truly rubbish",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdlNMc212V05rSVFkTDZWTmlDOTVLTWhKMDB5NnctSzBYUTdPX3p2cm8zSGppcC1WSERpUnBxUnl6TkZpRW5YeFoxZmtOTnJ0endoTG44TUtFNVM4Z1k3VlpGaWxSbjNpOV82UDBhTlhPNW5CeVJoOXVxaE1xakxGV2JVR0k1amVSOGdvVUVXd1JQOUt0dW4tazJvUC1XX1YwU2NTZzg3TlRaUjFPR3NOM1lzMWw?oc=5",
-        "source": "The Times",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Think life is bad now? Ten reasons the past was truly rubbish The Times",
-        "pubDate": "Sat, 21 Nov 2026 14:40:00 GMT"
-      },
-      {
-        "title": "Man City 1-1 Fulham: How the players rated",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uejFKQURXOXQ5NjcxODFVX1dsV2ZRaW56bE5aLWxKd0x1TG45ei1TcUloUE1ITHJ4N3V0V3BOUWhYX185dnlyTGNaTWdjZEoyUzR6bU1CREJQNlNDTzBsWW1tOC1tMnNu?oc=5",
-        "source": "BBC",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Man City 1-1 Fulham: How the players rated BBC Manchester City 1-1 Fulham: Elliot Anderson and Ayyoub Bouaddi leave Enzo Maresca with Enzo Fernandez dilemma BBC Man City 1-1 Fulham…",
-        "pubDate": "Sat, 21 Nov 2026 14:21:31 GMT"
-      },
-      {
-        "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM1EyLVMza0xpLVJacm1ZUEN3cXgwWTlDeFJFYm9LZU14dTVKWUNkT1NKcmllZF9Uc0lfalc2ZXEwS0g0bWZiRW9na25OLVNHQklPeVZ0d1AzWTlHb2pKWGtlajI5LVp1N2dEUzQ3VmxTV2NXSER4UnhTLTVjT2Z6ZFJZa05pOWNNV2c?oc=5",
-        "source": "The New York Times",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film The New York Times ‘Cancer does change you’: Princess of Wales talks candidly about her experience in new docum…",
-        "pubDate": "Sat, 21 Nov 2026 14:04:52 GMT"
-      },
-      {
-        "title": "New forecast shows how El Niño will shape winter weather in US",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFFjeE1iNTd3YWhTQ0phTzV2RWM5NmJVS1JHYUQ4Vm9IclZQNUhxR3ZPOV9FZ3A0QXZ0Szl2QzFSRDhwYkhXcXRFZXB2TFZKOXN1VVVUVXNxZzh5YVdna1BaTE5JLTE5Y05EbHhUbXB0Qmg4ZEt6T1ZqQ3BJb0Q0OHVXTF9Zemt4VUxlYktYdDRfc1g0VDljdnFkZlpzV2FpaWFTS1E3NA?oc=5",
-        "source": "USA Today",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "New forecast shows how El Niño will shape winter weather in US USA Today What a strong El Niño could mean for Washington’s coast this winter king5.com California's coastal cities b…",
-        "pubDate": "Sat, 21 Nov 2026 14:04:00 GMT"
-      },
-      {
-        "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9odU5MVEZEWWhIZWZoR1BWdHdtOVdXOFpUQzd4NzhQRGpidjJReWVkSVN0RVdmOFhwWkRuaE1SWUlveDFRcjZ0RTZ2cTBoRU5TamNhbENrNmdHbk9zaWFpY05qSXNWUGNWUURyMWNlLWpFenlFWTF4NWN3?oc=5",
-        "source": "NPR",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles NPRSee more headlines & perspectives on Google News",
-        "pubDate": "Sat, 21 Nov 2026 13:58:33 GMT"
+        "summary": "Russian crew evacuating ship hit by drones off coast of Finland Al Jazeera Russian military-linked cargo ship ablaze in Baltic Sea after drone strike CNN Russia-bound ship attacked…",
+        "pubDate": "Sat, 21 Nov 2026 20:09:35 GMT"
       },
       {
         "title": "Mexico arrests drug kingpin on FBI's 10 Most Wanted, sparking violence in Sinaloa",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQU02N05ZSjQzY0IyYWZwc2VDSGVzeFBMWmdRLVpMR05HVUViSF9iVjh4VmUwemVaRHRuM1RTek81RXBoZHJOazNBeXpURHhTNnNUZGJRVzJsQ3U0NURZYlNEZGp6d2R1NUZrOUV6ems3ZHZZOXhkUjV5R0laNGlMcjZiQ0hhd1Njd1l6RTFJVnlVOVM5?oc=5",
         "source": "CBS News",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Mexico arrests drug kingpin on FBI's 10 Most Wanted, sparking violence in Sinaloa CBS News Fausto Isidro Meza Flores: Cartel kingpin on FBI’s most wanted list captured in dramatic…",
-        "pubDate": "Sat, 21 Nov 2026 13:56:00 GMT"
+        "summary": "Mexico arrests drug kingpin on FBI's 10 Most Wanted, sparking violence in Sinaloa CBS News Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts The New York Times Alleged…",
+        "pubDate": "Sat, 21 Nov 2026 19:58:01 GMT"
       },
       {
-        "title": "Miley Cyrus & Maxx Morando's Rehearsal Dinner Menu Revealed in Wedding Weekend Photos",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1hrZWhNUVl5NmZTOGUtSGZ0VGV5QWtuM2NBVU1YNWpweUVsM2RMVUV1MnRWLTZTaTJmTlpSUFd1aGpOLXN6dVh4cHczV1cyVnpYcVNuSm1ycS1DZl94X0pkbVNOUlhZSTdKZlUxYklTSFRUSXVoT2FKQnRfYXZTOU9IdVhWUmI4Q2tHcndmZGRCMWhzOHk5VG53TG1BQQ?oc=5",
-        "source": "TMZ",
+        "title": "What I’m Hearing on Puka Nacua’s suspension, Cowboys coaching pressure, Colts’ surprise Daniel Jones release",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUc5d1VEOGhMcFN4Z3ZHSm4zYjNqMWxMUEkweWR6UVlrMUQzOHBoVUtzYllmWTBoblhOcjM3dm1nVE5MOXVLeWNKelh0OXVSSS1Ld3NoSnhSdk1YTkkwU01FQ0V0ektZMHVBSldWQlExRXBveWxId3JhSGZuc3BYYkhQaldZblB0SXRDbDFMQnFIa0xXWEtzOQ?oc=5",
+        "source": "The New York Times",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Miley Cyrus & Maxx Morando's Rehearsal Dinner Menu Revealed in Wedding Weekend Photos TMZ",
-        "pubDate": "Sat, 21 Nov 2026 13:27:31 GMT"
+        "summary": "What I’m Hearing on Puka Nacua’s suspension, Cowboys coaching pressure, Colts’ surprise Daniel Jones release The New York Times Rams WR Puka Nacua to serve 3-game suspension while…",
+        "pubDate": "Sat, 21 Nov 2026 19:54:08 GMT"
       },
       {
-        "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RS2RscnZ2UG8tUGVZQzJzenZRY1NUUGZmM19rT3BuZEZvOTlJamRNOU95QlBaalZUcGZKZUFRRXlMNXdEQmxvWnRKSm95MWp5ZGlWUHhWVUxLMGJ0dHc?oc=5",
+        "title": "Miley Cyrus and Maxx Morando’s wedding rehearsal dinner menu revealed ahead of weekend nuptials",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWxwNHFaTnZCaVRIUTJ3clJSUHN4V3hMR0pyejRmRm9mMjVTNHhTd0ZoeXNlMkdscDBJd3BRZExscGYyV3BhV25fdVBoUU54OHB3emRhUWRidFFhN19rcVBNUlBNdFZpVHAtUUJiNWVMOFVHNm5EYl94YnhCd0E3WHlIMHpsX2NKQVVXREd2a210MU0xYU1wWU8waHlKWjhMS2ZQU1ZSWE5BVjdpV3RHMDREaENIZw?oc=5",
+        "source": "Page Six",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Miley Cyrus and Maxx Morando’s wedding rehearsal dinner menu revealed ahead of weekend nuptials Page Six Miley Cyrus and Maxx Morando Joined by Loved Ones for a Rehearsal Dinner Ah…",
+        "pubDate": "Sat, 21 Nov 2026 19:53:00 GMT"
+      },
+      {
+        "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdnJOSnBfdXFJdTl2aXIxcjZaSVlnYnE1NjdaQkRwQUYwVFFGNFR3N3hCaWMzM2pDQzFFNVhMaXZGcE83V2FfMVBheUhtcTF5eHFFbkRUbnNyLV9OV1VzWl9uM1RGeTZUQVUtNTNHWFZkM2FFaXdnMEI4eVFWcVJMZnNfLVZzTmlnbGh3OUc5MkRrUVBGSFpielBZQkZpdzFEYlhaZkhRcWdIZTU2WlZWRkkyR0Y1SUFaLVBF?oc=5",
+        "source": "AP News",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Democrats who swept into the Senate promised change. A leadership vote is testing them early AP News Van Hollen, once an insider, has started Democrats’ first big fight The Washing…",
+        "pubDate": "Sat, 21 Nov 2026 19:52:00 GMT"
+      },
+      {
+        "title": "Village votes to 'leave UK' over migrant plan",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DaTlJY3FMbGw4bWhOTHFLc01na2ZZRVhuZVBmcWZWQXplZUFVcEZxekFZWVZFT1l4cFp4dDBPUlF2WG9xUW9zeVRtb3BlSjZHUzJOcjZqa3pJdWhpQlE?oc=5",
         "source": "BBC",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out BBC Fausto Isidro Meza Flores: Cartel kingpin on FBI’s most wanted list captured in dramatic Mexican military o…",
-        "pubDate": "Sat, 21 Nov 2026 13:15:21 GMT"
+        "summary": "Village votes to 'leave UK' over migrant plan BBC Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby The Guardian Second village votes to ‘leave UK’…",
+        "pubDate": "Sat, 21 Nov 2026 19:51:08 GMT"
       },
       {
-        "title": "England 37-12 New Zealand: Hosts storm to historic Nations Championship win over All Blacks – as it happened",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQamdqUlBENWZKREVfZGFmUmFJUUF5WGxncWxwaktFdFZtaHdFUDNlZnhKTzBYT3dwTlNuY0dxcDBjdnloeG5vTlBkbjh3OUZkMmQwZUl3d0VGWXU3cE5pM2xhbDVqUFF5dU5PRDc1dk1pcmptSkoyUmtzRDgwaDk5RzBFNG1RMzEtQUJxLWFXamtZWFBsWUhnanRpeU9zUGZpYmZpOVlnU0RvaWJ2a3o0?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "England 37-12 New Zealand: Hosts storm to historic Nations Championship win over All Blacks – as it happened The Guardian Recap: England 37-12 New Zealand in Nations Championship a…",
-        "pubDate": "Sat, 21 Nov 2026 13:15:00 GMT"
-      },
-      {
-        "title": "International UN talks on controlling use of autonomous weapons collapse",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUNMSUo1X2dYS3gzSVJxMmttOF95YXNZSHVxdkVqcVNocWdsSzdqMVROd0hjdWZWM3ZDbFB3UVFiNVZtZjQtTjhvUVBIMDF1eXAzdXRhRGcwTmVHajZyS09KU2hZdFRfam5GZlZSNng4emstWlNWakpZUW91dU05aTVZcjdXMmRMX2VZYlEyUWZHbTFTcm1ueklldGNia0IzeG4yVW92RmJISUVIVlE?oc=5",
-        "source": "The Guardian",
-        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "International UN talks on controlling use of autonomous weapons collapse The Guardian Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein the…",
-        "pubDate": "Sat, 21 Nov 2026 13:15:00 GMT"
-      },
-      {
-        "title": "Worker dies putting up Christmas lights in Brent Shopping Centre",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RS05jRlQ5S0VSR2pXcHI3cC03M2Njdkc5dll0Wm50YzhzUFAtbnBNNWZ5UWEtWUVaanRzWVFkUmdXYWk1azlWOTlUVmxHTzZ3STh3aEZNazlYdllsVWc?oc=5",
+        "title": "Can win over All Blacks finally break England's boom-bust cycle?",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jcXVUT0MzMHpCa005WkkybFhWWXVWMVh6Z05yOFhKSU1GZVd4VFdfb0pWc3JyUXdYX3ZiOHQtc3owOGV6aWFNRWN5dzBJUmNMRE55ekZDV3Z6QzR4dTdBQW1YLXlTd0RFdXB1cQ?oc=5",
         "source": "BBC",
         "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
-        "summary": "Worker dies putting up Christmas lights in Brent Shopping Centre BBC Man dies hanging Christmas lights in London shopping centre The Telegraph Man dies ‘after being electrocuted pu…",
-        "pubDate": "Sat, 21 Nov 2026 13:09:48 GMT"
+        "summary": "Can win over All Blacks finally break England's boom-bust cycle? BBC England 37-12 New Zealand: Hosts run up record win over All Blacks BBC Slade helps sparkling England power to r…",
+        "pubDate": "Sat, 21 Nov 2026 19:49:02 GMT"
       },
       {
-        "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5",
-        "source": "CNBC",
+        "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU1kxQzdNNXpJY0dmendlY1VjSG5EdHUwbmpjTkdCMDgxR3UxWnZOOEs3MEktTW1PakJWOExhMzdEX0wwSVdQS29Rb3lXeVhwRnlvYW1Ia3o3RGJYQkxmejhVTWhxZTRIdmlxQjJFbWVpUHdRTHhZV2ZQaGtFZ1VpdEhOcGhqYjhaOTl2WjJ0OEtqZ2VwbzNOazFMaGRVbTh0bDdIeDlOUkUtZ200VjZJYjdJMlZVaWhpZGUtSEZIRHl1THVy?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout The Guardian Fight over fossil fuels leaves COP31 climate talks in deadlock BBC EU raises…",
+        "pubDate": "Sat, 21 Nov 2026 19:46:04 GMT"
+      },
+      {
+        "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yMVRFODNfVnF1S2l4VW9PMmczOWd4TDVKSjU1TGZFVHlwekpaRkIxRE16Wl9vank4Y3pMbHVDVi1rMFVsV1BrSF9uU2dGdVhoNjFDSndnV2hncUdsblE?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Spitting Image co-creator Peter Fluck dies aged 85 BBCSee more headlines and perspectives on Google News",
+        "pubDate": "Sat, 21 Nov 2026 19:43:19 GMT"
+      },
+      {
+        "title": "Newcastle 2-2 Arsenal: Player ratings for Premier League draw",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rOGVKV1p1VkhMUGlWZjR4SF91T2NNVDF0enNWcERSVDIySWlCVlFIRmJlamY2dF81UFY1U0J3WXVTbE5xYWlnWTRDQWl1bmo4blJxQWhxQlNFcXVtSzFDLXpjR1hxVXJ4eEVV?oc=5",
+        "source": "BBC",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Newcastle 2-2 Arsenal: Player ratings for Premier League draw BBCSee more headlines and perspectives on Google News",
+        "pubDate": "Sat, 21 Nov 2026 19:29:48 GMT"
+      },
+      {
+        "title": "GOP set to block Trump Pentagon picks as other military moves face headwinds",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1MVZIcEYybWVKN04zcHJRMWlNQmtvME4wSGFQMUZvV2kwRUdFM01kTDNjUkZ6dzJvVUs4VlBKcw?oc=5",
+        "source": "The Washington Post",
         "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
-        "summary": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 CNBC Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley The New York Tim…",
-        "pubDate": "Sat, 21 Nov 2026 13:00:01 GMT"
+        "summary": "GOP set to block Trump Pentagon picks as other military moves face headwinds The Washington Post Trump’s Picks for Top Jobs Keep Running Into Trouble in Senate WSJ Trump’s looming…",
+        "pubDate": "Sat, 21 Nov 2026 19:00:00 GMT"
+      },
+      {
+        "title": "Lock of George Washington's hair sold at auction for $4,000",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6TWlyQklTb3dyaWNnemlxUUZFMW5peE95eldCajBTQ0R0TGxPWUFzblZZUm1uTWVEdkVob2daWVpFSTJ0SVloNDBOTzE3MHNucEszbm9pbFpXOVlBUHJpVTUzRExpTU1xa05iVFBtMXRraW1lakJv?oc=5",
+        "source": "CBS News",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Lock of George Washington's hair sold at auction for $4,000 CBS NewsSee more headlines & perspectives on Google News",
+        "pubDate": "Sat, 21 Nov 2026 18:54:00 GMT"
+      },
+      {
+        "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQnJSMERqdENGQlNBMVRtemJ1STE4WmRsM0ZKcjA3NFdJdHBaakV5RjNrZ3Y0RXVRb25kZHFfeHk0RDlUSXFSOWdxNzJ2RFNXSU4wbUhEMllVN0pqODh2Z2FLemZkYWduZlZMUldMclhZUi0wUTJteFNpbWY5Z2k5aU1lYjB0VWJUellfbzZEX2NvRk1qZE9SbERnUE9lU3VrT3VfTkZ3MXRpRHdsbVo2UFU3QUpKUQ?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid The Guardian At least 11 dead after suspected cartel leader 'El Chapo Isidro' captured in Mexico…",
+        "pubDate": "Sat, 21 Nov 2026 18:38:00 GMT"
+      },
+      {
+        "title": "Trump vows to work with Democrats to cap credit card interest rates",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfbzctNUlGb3RpalZ0UDkzMGlQLWtpR01iSGdiMzV0ZmdIaGNOTXZETTVlYjk0Y0s1czVPdXFvbTVDckQtc3ljVHlkYmR2XzJfeGhpRXlsWU1rRjR3Q0JVV0JVaGZHdkhycG43WnJYdUJtbk56Mi05Y0x4X3Y?oc=5",
+        "source": "CBS News",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "Trump vows to work with Democrats to cap credit card interest rates CBS News Trump says he'd work with Dems to cap credit card interest, fees Axios Trump vows to work with Democrat…",
+        "pubDate": "Sat, 21 Nov 2026 18:27:57 GMT"
+      },
+      {
+        "title": "The $2.4 Billion Auction Week: Big Sales, Bigger Expectations",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnNwUHZJRXlSRmNjZWV1VU8xNmVGc0ZoY3ZzcVNXMmMzanY3Y21GQ2lRQnRfdW02b1hVWl9BMm1vQlZ1bERFVlZOaEpkYlhKSXVTQVBOVUg1d21CeVA2VG9pQnRaOExZT2ZQMGRXalVqTW9CeVY5Z2lFbWI5aXItSWN5MkVGVllydl9jcHRVVUt1Tm9JSFNuZWxBNXdHU296c0FMcTJMX21WZ0VKOGdsUWtVTQ?oc=5",
+        "source": "The New York Times",
+        "sourceUrl": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+        "summary": "The $2.4 Billion Auction Week: Big Sales, Bigger Expectations The New York Times Sotheby’s New York Impressionist and Modern Art Sale Rakes in $777.8 M., Italian Exhibition Ordered…",
+        "pubDate": "Sat, 21 Nov 2026 18:04:17 GMT"
+      },
+      {
+        "title": "Strictly Come Dancing: Blackpool special – as it happened",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONDZtTlFrbE9PM1N2ZkZ1enhFNEdJempBZFJySUV2X0F2WDVLZG9NWGMzSnJZNi1Ia2hIY1dJamRzUDZqdUpyNWs2SVl2bkNfU3d0czJJV2Mwc001eVZ0ZDc4ZUdRc241ZXRSR2RLeGpHUENCcHJnQ1d3ZmtzSE91bTI3ZGVLa3VSU25KamZiNlpCX3I2Q0RxWGhMa0hJOTlEbk55ag?oc=5",
+        "source": "The Guardian",
+        "sourceUrl": "https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en",
+        "summary": "Strictly Come Dancing: Blackpool special – as it happened The Guardian Strictly Come Dancing arrives in Blackpool and the Blackpool Week Song and Dance list is confirmed BBC Why do…",
+        "pubDate": "Sat, 21 Nov 2026 18:04:00 GMT"
       }
     ],
     "🇷🇴 Romania": [
       {
-        "title": "Tenorul Cezar Ouatu, jefuit în propria casă. Hoții au furat ceasuri de colecţie şi bijuterii. Mărturia artistului",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX0U0bWVId0dJbTd3NnloOVlBaHdQbG9mY3FJcWZzajBWMXlLOG1yQlVzYlRwbVVlQTliVUE2RER0eXRzbXRoSkpxajI1c2NnblF6WTVFWHFXY0tzRDNWSVNZUVFUYThoc2g4X3Z5RHM3MHF4c2hWWTJkaWhpUEg1V3VHZ3RySzM5dkVwbkVNakIxblpTVVo4V2pXU016TElUd3picUpMTkFrUVltUm5fYi1YejdNWHAxUkRjWTRPTVhEdm9uQ3lIZkdodzhHajlZb3dKODZhUWpJZXdlR0E?oc=5",
+        "title": "Aeroporturile unei țări europene vor fi paralizate luni de o grevă generală. Aproape toate zborurile, anulate",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTWU3MDd2SVo0WlNBQy04NHFwWDZqS1c1d29FbGlvMkU0dHVCcWh0V09zbF9mRXppeWxBejVuTHpVd2pDWFNiN2xhSGF2b3dEWmIzM2RMZHRFa041SEI5dUZUV2pFSEM1T0hRLUdndmlYeFVsc3JBYmk4aEFXWkJCeVprSklDYUxxOGV1TVFzaWV3ZXRWblVIQ1lGb21kY0NDME1oWjE2aEJNeTNmYjlLSDFLSHByWjhEaDdtQUVuU2lFMmRjZ195bnRwSEl2cTQ?oc=5",
         "source": "HotNews.ro",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Tenorul Cezar Ouatu, jefuit în propria casă. Hoții au furat ceasuri de colecţie şi bijuterii. Mărturia artistului HotNews.ro Anchetă a Poliţiei după ce tenorul Cezar Ouatu a reclam…",
-        "pubDate": "Sat, 21 Nov 2026 16:27:38 GMT"
+        "summary": "Aeroporturile unei țări europene vor fi paralizate luni de o grevă generală. Aproape toate zborurile, anulate HotNews.ro Grevă generală în Belgia. Cele mai multe zboruri de pe aero…",
+        "pubDate": "Sat, 21 Nov 2026 21:46:49 GMT"
       },
       {
-        "title": "Nicoleta Pauliuc pierde șefia Organizației de Femei a PNL",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRU5CbFE2Y1BGSWxiQkhWNnAybi0tbGdZVDhmSThtVDE2NjNUQlVkUkRmZkwyUGVSQXd2V3Ewa1lkSUxXc0V4TnJhZ1liR1k4bkdTYzBfM1NlODNwVE5LUnNxNjZHT3I1UmlzUHBNVXpHeG1UNDd3a1VVMzBFZXJxQWtGclVDN192VDQ4cFloOHEtWUVHQVFIeDNHcDM4bUdPSjV0MkxrRTFHOWlPTFlPbTJPTjHSAb8BQVVfeXFMTjhrUDVtYnNHRWQ0andGd2hTb2w0dnhpbVR0NVF6bm9aTzctal96VHdhVmlaak05UExjbXNldVBTRUpUSWlPRDZsSklQSi1DVzR6ODZLTmZGV21DSlg4dVNvZlBRSmZmSDZTSnJBVjZZUzJrbWFzcUl6RzVUcXdxRWJUbEpsY1lNNnVXX29QTW43cWM3RFlFbDhIQmR2NkxndzNUSy1iM1VEOHlrZmRmRXZJMkp4NUFSLTJpY2lUVzg?oc=5",
+        "title": "Explozii și alerte de raid aerian în Kaliningrad. O bază strategică a Flotei ruse ar fi fost vizată de un...",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTmswaFdlWVdPd0pKaUZTcnRKNlRWY1VRTUtyVXdkdEk5d3ZWa0xZajFaMnFUSTBVc1hSZlVCdmV2ZlZVcDRBWXEyTTQ4STZvVzUxd3JPcXRjTUdUSFhxODBxRE1Ia2cyOVN3LXNrcVZwOGJqZVdzM0ZVUjhZUFJYdlJBRi1Wa1FqcUU2WmkyMWZFUXUxdnJBWnpFRnNuWmR6bUlseFhXOTIydkxOUUk1Zzc4cnVEUS1VVnh1TGtYMnc2dC1VUjY1MHplUXJOQnozWjVITmhpZW94LTNfZXNsMVJ4aGVsNmxyYW54ZjRLbERJUGg20gH_AUFVX3lxTFB0aUtPUFM2bk0tTUpLZ1pxWEU1MXozNzN2NlZscVBnWXN1RVpJaWE5a2NSRWRNOHM0Q0gta2VVMFg0eVN4bmI2UXVpaXktalFOQzgyNm5ZQ3RWOS1mZXE5Q3FQUG5vSDZjTkFnSEYxY0JpN3NockpMejlXS0JjLTdPc0QxU19zWWNETUxYWUtwZ0dIdFBxNWlsUjA0dTRVRGpqd1JNc0RBRGc1TF9UQURJNzZ2SWxaajhFcVNIMllUNzl4cFd1YTZKajl6QW0wSFN4VGEzRndlMGxXS0p3cTgxWWZMOExvWHVtaXlURUZVbVEtQzluclFwRWZ3SWNyaw?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Nicoleta Pauliuc pierde șefia Organizației de Femei a PNL Digi24 Contestatara lui Bolojan, înlăturată de la șefia unei organizații din PNL HotNews.ro Geanina Pistru-Popa, desemnată…",
-        "pubDate": "Sat, 21 Nov 2026 16:23:06 GMT"
+        "summary": "Explozii și alerte de raid aerian în Kaliningrad. O bază strategică a Flotei ruse ar fi fost vizată de un... Digi24 Euronews: Navă de marfă rusească lovită de drone în Golful Finla…",
+        "pubDate": "Sat, 21 Nov 2026 20:10:50 GMT"
+      },
+      {
+        "title": "Cadavrele a două persoane din localităţi diferite, găsite de poliţişti în aceeaşi gospodărie din Dâmbovița",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS2pkTmVCeTZSTlFkSWo2V3h5dExZbjdqRThyUDBmV1JZWHB0OERrM2JBNFJfR1I1WW5ZR285RXZlVWpQbDJmdXZUU0tkODVuVHZjSE5NY2hsQW1pSUlTNENiX1JjbFM4MUFLWEZUNElITVBtUko1UkVDaUtkamVubU9WSUFGTlJzaWtvdTJfTTNmTkQ1Y2JOd0pHTDdzc0ZwOXg3ei1NRGstd24yei1IWW51ZExtRFpQblRmN2lTSmxnNGc5OFJVOGF6dkhpbzF3ZGxGa1E1cktPbTMtUmQtOU9NOFJZdGc?oc=5",
+        "source": "Stirile ProTV",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Cadavrele a două persoane din localităţi diferite, găsite de poliţişti în aceeaşi gospodărie din Dâmbovița Stirile ProTV Morți suspecte într-o casă din Dâmbovița: O femeie dată dis…",
+        "pubDate": "Sat, 21 Nov 2026 18:22:12 GMT"
+      },
+      {
+        "title": "Povestea lui George Vraca, soldatul de la Oituz care a devenit un titan al teatrului. Cum vedea cinemaul în anii ’30: „Când se va găsi capital suficient, vom avea industrie de cinematograf în țară“",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUjBDSWtxbkFkZHllSEtYWUNMSk1pN09Rek4wWERFRjR0REhaNnFiRVYxTkZZdkk1bWltMzVqX1Eta1lNV2FZS1BPLU50WDBOcDJfREpkSTZmRlAxWjVYMHBCV29jbUU2aWd2RzVKdWpzU1hRaFdGU2JPbW81blk3NEZFOHFCSDRxRjJqWldkWUo5UzU1YUJzc0lQVUQ5SXNvZWxR?oc=5",
+        "source": "Adevarul.ro",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Povestea lui George Vraca, soldatul de la Oituz care a devenit un titan al teatrului. Cum vedea cinemaul în anii ’30: „Când se va găsi capital suficient, vom avea industrie de cine…",
+        "pubDate": "Sat, 21 Nov 2026 18:10:21 GMT"
+      },
+      {
+        "title": "Acord major între UE și Marea Britanie. La 10 ani după Brexit, Londra pare a tatona terenul pentru o întoarcere în Uniune",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNN3l2STJTUFhhZ05aUS11WWFLMXRTS19nNk4zNzczdGgwS2xucEN0RUxsdmRmV2IzTE9JR1BiTlU5X1JFdVphcW1YNlJTWE9CR3VwLV80TzhINzNEa3FZRTBNNVpSeWh3SHN3RUJlSHVKSmFycTBjMEJDdU8ySWdHa0d1TnZvN052eUNScU1HblN3N1h0aXFacGpISTJVa0xmc1ctUzlBUnd5UWFlTERGczQzTFd1SUNYeEJISmFfZTJETENtMGJDUW5raWVGN2hhZk1NVTdaUzN2ZGwxU0xlM0psQU5iamlOV0V6RHRlQnVweWpwSUk5NEMzcnI?oc=5",
+        "source": "Stirile ProTV",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Acord major între UE și Marea Britanie. La 10 ani după Brexit, Londra pare a tatona terenul pentru o întoarcere în Uniune Stirile ProTV „Negocierile s-au terminat”. Acord între Lon…",
+        "pubDate": "Sat, 21 Nov 2026 17:31:10 GMT"
+      },
+      {
+        "title": "Mersul Trenurilor 2027 vine cu scumpiri semnificative ale biletelor, atât la CFR, cât și la privați. Cu cât cresc prețurile",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdzhkMVprMzBQckwxS0lQQWtGRWE1b1lpcGNPZk9oUWM2OFNEYS0yWVhicU5RTnloci1EdUU1Y0gtVTdVR0NXYUJDa28wdTJYMzJtSzFsa0FxcDZmMl9EcWFpcGo2QkNKazlhaEk4MmxJd2xDWTB0WWhYYllBSlc2aUVrUmdCZDlTeTRJdGxkR1pGSXRZSUJoUVYwOGQ2bnNwZ1Q3VElwOUVjR1VabkFwWWZYUXZqbFdnV1VCMjNpWjNxNWJ5QXYyZExnRlVUSFFob185RlRlTFRYUVdLZVp2a05KY001c3hqcUZoN1JWY09waTlB?oc=5",
+        "source": "Stirile ProTV",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Mersul Trenurilor 2027 vine cu scumpiri semnificative ale biletelor, atât la CFR, cât și la privați. Cu cât cresc prețurile Stirile ProTV Biletele de tren se scumpesc din decembrie…",
+        "pubDate": "Sat, 21 Nov 2026 17:12:26 GMT"
+      },
+      {
+        "title": "Trump le-a spus liderilor UE că ar putea folosi pentru propriile țări banii trimiși Ucrainei",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdVFtQ3hrS2ZlLTk2ME85RzVoTnJSTVZKR0RfZWV0UmpHaGp1b3JoNmhBTVEySU5HWlp1N0p5a2VtN0RFT0xDQnk3d2t5dDJtbGtBcy1Gazk2Z1o4Q0Rkcl9HRWtURU8yY2kyQ1lzRFJ4Y0QtZjhFci1EMjhmWXBibF9ObF9zYjllNk11V1JDcWdjS3R6YUVlMGc0NXdmaWdiX1ozaFdFMHZUNXpNUVhLYVMtWFdTa2huaXVJ?oc=5",
+        "source": "HotNews.ro",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Trump le-a spus liderilor UE că ar putea folosi pentru propriile țări banii trimiși Ucrainei HotNews.ro Zelenski: Trump le-a spus liderilor europeni că cheltuiesc prea mult pentru…",
+        "pubDate": "Sat, 21 Nov 2026 16:10:57 GMT"
+      },
+      {
+        "title": "Horoscop. Soarele intră în Săgetător pe 22 noiembrie 2026. Ce schimbări se anunță pentru toate zodii până la finalul anului",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ2xKZWtldzVLY3p3cTVSX01JNmVoVFJtX1ZIbDlpZHJqU2JCYm1DWHN1cFVWR19tQ3BIUDFRSU84b2lQaHc0bVY4NHNrOUFRUF9CazlhaGp5d0NRTnEwUWdHLXdxRlEwaFFNT1Q0OUdRREpNblZLYkx4OXlEaWtRR2tWRHlLWTlzNi1CaV9nZW00U25uMDhmVGxtYjU4YnZacmFSNUF6dXV2WVJMTEVOTF9ydzRuQTRXbl9hYTJnai1OUjFjWDVSM19tMXp0Q0ZhOEt1bkZlcGRxNVpRVTNfZ01IZXlSRlA3R0dhNHVB?oc=5",
+        "source": "Stirile ProTV",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Horoscop. Soarele intră în Săgetător pe 22 noiembrie 2026. Ce schimbări se anunță pentru toate zodii până la finalul anului Stirile ProTV E scris în stele – duminică, 22 noiembrie…",
+        "pubDate": "Sat, 21 Nov 2026 16:09:50 GMT"
+      },
+      {
+        "title": "A murit Paolo Bulgari, fostul președinte al casei de bijuterii de lux. Nepotul fondatorului avea 89 de ani",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjR2VmtlR1VvekttSDI3TXZOQ0lyZ21EUVZhQTZPMWlOZmdOVlNvalQ2MXNrV3FBVTdHX1hQdWx5YUJ0V096cEx4TDl5R0JfTUtiWlBEZ3hXOWtjdFluX09aWmFoQUVlRkNLV1Foakxqa3lxdWFnU0ZIQVlBZks2a21zRjZHSkJnNE5xeGlMWEg4LWl4VV96aVJBaVE?oc=5",
+        "source": "Adevarul.ro",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "A murit Paolo Bulgari, fostul președinte al casei de bijuterii de lux. Nepotul fondatorului avea 89 de ani Adevarul.ro A murit Paolo Bulgari, nepotul fondatorului casei de bijuteri…",
+        "pubDate": "Sat, 21 Nov 2026 16:06:31 GMT"
       },
       {
         "title": "Povestea de succes a lui Yasmin Razavi, tânăra născută în Iran care a pariat pe Anthropic înainte să devină una dintre cele mai valoroase companii",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTWJUeFZISTd0XzlGclNBdVJva3dNV1hRaS12RmlWbmgxLWZjMGx0aXpzODhhdktScmhWUlFmUjZsVVZuZzliTktuRFJFYVg1c2Nxc2xaX0dBOXk2SlZjdDBrWFJpdDVDM1M3R1Z3alYxQmUtVC1LT1hXWXNIM1U4SW5yY051OUxTUWtCeVNWZEhZUk10SzRjLVlFaXo5Q0hFZkgzTnpQNjZ3QllOSzc0Ni1EVS15Y05ibHp0R1JLSE55TEZlNThpYnRFaF9VT0NYZkllVnBaMzFlNFZwWXVvbWt5WDFzYTEtWDdtZXA4YUNyZEhXeko1bmwyaWxYSVFNOEE?oc=5",
         "source": "HotNews.ro",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Povestea de succes a lui Yasmin Razavi, tânăra născută în Iran care a pariat pe Anthropic înainte să devină una dintre cele mai valoroase companii HotNews.ro Rumoare pe Wall Street…",
+        "summary": "Povestea de succes a lui Yasmin Razavi, tânăra născută în Iran care a pariat pe Anthropic înainte să devină una dintre cele mai valoroase companii HotNews.ro Acţiunile Anthropic sc…",
         "pubDate": "Sat, 21 Nov 2026 15:43:51 GMT"
       },
       {
-        "title": "Avertisment de la Londra: abordarea agresivă a lui Putin față de Occident ar putea duce la o „eroare de calcul semnificativă”",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmZTdWVERlIydFpKUmkxZEpRTHJ3VkV1cjI1VHJiM0FldHAwZFItOXY1VG03alBqcmhOQ0VKMnJhWFAzaXc4dHNYZUg3M0ZDYmRsMWVBQVBLZzlrZ2VWUnZMNHgzVXpjdjl3LVdnc2dFNndiTEJKVzNxX0k1T1NlRE5GVWRwUWV4UXROYlpVZVJfOURfTWNKYjZGSi05ZE01VjRWM0lR?oc=5",
-        "source": "Adevarul.ro",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Avertisment de la Londra: abordarea agresivă a lui Putin față de Occident ar putea duce la o „eroare de calcul semnificativă” Adevarul.ro „Putin se află sub presiune”. Șeful spiona…",
-        "pubDate": "Sat, 21 Nov 2026 14:26:30 GMT"
-      },
-      {
-        "title": "Un proces pentru pensie alimentară dezvăluie unde au ajuns o parte din banii plătiți de România pentru...",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTE0yejUxUzhhVDVjZlZQREpabWNwZmJFNVl1RXNsNU9IQmFiZzYtSTl6ZWRMQllwRGNGbmMyc0ppTXhTczhlNURHV2NVSXRrUDJyTXNFUVRuX0Z2YzE4OWF2V3N4UFZab1hJTzR1WVltOTBTcFl1TVNQeHhodU1OU1g2cU9OY2VTeDhIOHlucW0yNF9Rbm1pVEVndWhYOTVsbDZJVU1hOXFGMUV3Xy11cmk1b2NmUTZUTE0tb3JGRFcyVGNKNWNJUE40VHRGMDZxS040U0tndjBDSkpjYjh0akNMMXB1TksyOFczVzZkVHBjeExzem5IOGF6cjRjUk1FY1HSAYwCQVVfeXFMTmpyOUwwb01SVnl5V1lWTW05Vi13SW5iNXBzZDdhOERZSFliZHpNX2pMRTdNbFVNQ0tETnktSl83UmJOZVRTUVBnNXdJakpmLVowejRrY1c4LWpTUzNSVGZJRTBuTUVXeU9pd3FIdzA4dzBnZTktdVdNUmFwUXZrM1U5TzBubU1IZUF6Y0JKZnowTFI0U1BBX1M1eUhEc2d0UkRXdEYtc3IyeVF0d2FhYzFfWkRNVTY1UGdzUGg4MnZ5cV9NOHpVeWJ6SGt2cGFpZjVTdXJtOFFHM3NPWlRGdm1YNFFRcnNGTzhIcDdmaXlGd0VFUkZVWFU0RE9tV0U0R0Y4UkRhNTE2MGdweg?oc=5",
+        "title": "Rutte: NATO va apăra fiecare centimetru din teritoriul Poloniei, după încălcarea spaţiului aerian de către...",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTTJMY3lQQzJSVzlvenRHbzhrWnRzenZaVTE0VjlYblBTSktPblBNQ0NLX2w1TnExS0JVNnF6NFdoSC1WWUM2TDBGOE5DTjRwYXlRQmh4cmsxQ2N1ckVsM0VSNEl0TFVQdHZacXJFZWZ1Y210N2dNWktfMkpISXpEbURmOHNYRDktR1BLQWo3SHJqUDIzVG1sT1ZvRENNMktpbUoyLVBTZ2hkOTJQaUZ1MnJoQnZtUTZYWVFiSEEyenZpbWlINmpCNHBjN0h1MU9YZnl4YVNpY2t1cGxwdng4TnlETkMxeEMzN2RXb3JtQm9HOC16N2FKeHdn0gGEAkFVX3lxTFBESDR6MjZidG5ROTAtb1FEQ1R1bmFDMmUzeHdqMUJiQmI0NlJQU0cyX3FSZmFCZzd1OUQyX1lJdU9zVHE3NTl5NE1PVGlRcjZSeHpzdnc2dVd0eGVoYzJ2Wjl0dTM3WFpYdGktV0lGV1E0QjNlQ0taMV9CaDh5OTVFaUJvQkd4RWo0TjZBaGVjN1R5RXAzVkE4Q1htT1VIZFREdjJaU3drOFVyc3k1T0lON19YWEtuaGFyZVBIcG1HMENMalR1RHM5SGZlNFBsZ1Y4MjB4SFJZTGJLTENGUXMwTnY2MmtCc28xR3l6cWNqbUNKeF9lS3JBVTB0OXgxY0xJd0Fj?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Un proces pentru pensie alimentară dezvăluie unde au ajuns o parte din banii plătiți de România pentru... Digi24 Un proces pentru pensie alimentară a scos la iveală veniturile de 1…",
-        "pubDate": "Sat, 21 Nov 2026 13:36:00 GMT"
+        "summary": "Rutte: NATO va apăra fiecare centimetru din teritoriul Poloniei, după încălcarea spaţiului aerian de către... Digi24 Neculăescu: Atacuri în Marea Neagră, rachete deasupra Poloniei…",
+        "pubDate": "Sat, 21 Nov 2026 15:11:18 GMT"
       },
       {
-        "title": "Zelenski: „Podul Kerci nu va rămâne în picioare”. Ce mesaj îi transmite lui Putin",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3gwZTVwWlFtV0kwMzdud3Q5RzhjeXRfUUhtX1ZtSFRRQVdVMjVKVkd5YlJwVXo1T0U0UEJrSUlzQzJ2bUxsSVZOZ05EbE9uWHVpZXVoY1FldUhLZGo1bDluTm96MGc0UHg0ZzdHUVVpSUJfdGFYaDZuS29vR2l3WVRlU0pGYmdxMlY2bC1HaTY2ZXpidnNEWVZId2htUHdzU3NXTmZ3OU1DOWFZaHpYTVBEUU5ycFU4Rk1EYktB0gHIAUFVX3lxTE1OR1FRSUVRQjZMSVNpcWxmTmdsazJsT3czeUpoVjBXQ0dVcldIalZKLWNYa1RQY1dWak4tcFhFd1hRNTJaajJhbno2THR6a2dsMnNaclV6bU1qdklSb2ZpTHhoVnV1TlVrZTFudFNMdDhJRkF4TTJhdV9UVEN3WVotdGZrczU5dkIwcEhpdFNBT3ZmbW53NTh1SnFXZml3ME1qcUJwNWhFMWY0Z0ZnaGF1VVBwYy0takxUU1JCTGRZcTBQaUZUTU9a?oc=5",
+        "title": "Ministra Culturii, la Bruxelles: România sprijină introducerea unei vârste minime europene pentru accesul copiilor la…",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPN2gyZFhxMlppRHRESWpBTTZ1VXB3M09fMVBjVmxERi1QYm10QmoxM2dRdThfWm1YN3k3a0QzZ0I5cEhLWi0xRHI2YTdmVy0tWFdFTE1EbzJnelRpaGV3SEJHVnlYelNfb1VNU1VrQzQwMDJCcDNuMDE0cjJLV29TeGdTQ21jbmJrMjIzTHh0Ui1JNlpTX3ZpUktyNTBiVVRvS0VmTjJDUVVmbXU3OFlMRTBDNnpYVktwVkd2OE9oaDMwYUgwQy1UZEl5cUZJSXItVndqRDlKS3VNX0l4bVd3SnJNcHRIRVNpZ05qcTlna1hUaTNmcnluQmE2dm9zc0NWc2NSa05yVzBmQ09velVCUE1BRmPSAZoCQVVfeXFMUDVvZVQ2ejdWUGNHVjVrS0UySjVvMVBXcGZId2wxSDNTd0kzR3hrdmdTX1VfREhUYjY2TGNkVm9ULXdab3pkLTlDa3FNSlZoRFhOa2h5OWtTMkttMkNKZDB0bXppQlh2Wmpkbm1EM2g4UW5JSWUzZlNEc3M1eXpMZUhwV1lLTjdCV1VqUGF1OFYtRG05Nm9LVVlXN0d0cHNtYmlmYVJmQVJoMmtjblBXRFZTaFdiRGpNamVhNUUteWdVdERDZHc1LUwtOG92VUVFS3VFSXVQSTFnWFlMeUFlbnRmRWFYTE40azJYUlQ2S2p5QkJEUnF6ek1HV2NtdnNOX001bHhBcU5LRkowZGhnMkZxS2t2dV9fZ2N3?oc=5",
+        "source": "Mediafax",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Ministra Culturii, la Bruxelles: România sprijină introducerea unei vârste minime europene pentru accesul copiilor la… Mediafax MC: Prioritățile României în domeniul culturii și al…",
+        "pubDate": "Sat, 21 Nov 2026 14:14:57 GMT"
+      },
+      {
+        "title": "„Putin se află sub presiune”. Ce spune șeful spionajului militar britanic despre atacurile rusești în...",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaEJDUGxWTVJ4Q0tMM2ZzTmdScmJ3NTRadWdIZFA0WmhzNjF3LThzT2xLR3NxWDNGVUlsbDdST2xlSHA3d0lnM2RXOE1qeHNKYzdKY1pLYU9mU2RoNENhSTc3QkVLRWhSYi1FWk1RTV9NOHRHMHVxQVZacFI4bExFQlFlckROWlUwUVpkdU5GemlqbzVWa19aLUlWU3gweGJoa3VLcmlrOVROSGVOdUhmNzZiVHpwTVlGWS1weC1YajFHSnVoeGtOc0piMGlzSmNXYTVwYWlPa0x0NHpPR1NJaUJyU0dQSW9nUEg0?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Zelenski: „Podul Kerci nu va rămâne în picioare”. Ce mesaj îi transmite lui Putin Digi24 Rusia anunță reluarea completă a traficului feroviar pe Podul Kerci din Crimeea Agerpres Po…",
-        "pubDate": "Sat, 21 Nov 2026 13:11:53 GMT"
+        "summary": "„Putin se află sub presiune”. Ce spune șeful spionajului militar britanic despre atacurile rusești în... Digi24 Șeful spionajului militar britanic face o referire importantă și îng…",
+        "pubDate": "Sat, 21 Nov 2026 13:43:20 GMT"
       },
       {
         "title": "Prințesa Kate, mărturii despre cum a schimbat-o cancerul. „Există o latură mult mai profundă a ceea ce se schimbă în tine”",
@@ -665,14 +721,6 @@
         "pubDate": "Sat, 21 Nov 2026 12:58:18 GMT"
       },
       {
-        "title": "Românul din centrul bătăliei de 2.000 de miliarde de euro: Nu vom accepta propunerea de azi. Există însă „o victorie importantă de etapă”",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOWlyQklwd0Z1Mkd5ZWZtMzZKMlFCdlR6NUo1OFVRT2hGejhBRmdzZVhwSWJiS0JFWHZIdmUtUHhjSUpsWVU3TGh0SjlpbmlBdmJ3SzBtczVHSTRGM2JUNzJ0dmV6MWVTMV8xaDQ4RWpZX1hINDN0X0ZENm8wTkdBSjhQTG55cE4zMHVUR0sxUW9ROWhkVlh4Y1NuVzNWanRqTUg1MDlWQ1VoZ1BxSTVpMDc0NVpVamN4MEtCNV9MVDdSUUJwSTVrWGU2V2NiVVBNN3NuRFJpVzI5X0ZCYmN0eG13N3JYZEstRW4tbjU3S1VXdw?oc=5",
-        "source": "HotNews.ro",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Românul din centrul bătăliei de 2.000 de miliarde de euro: Nu vom accepta propunerea de azi. Există însă „o victorie importantă de etapă” HotNews.ro Președintele Consiliului Europe…",
-        "pubDate": "Sat, 21 Nov 2026 12:24:49 GMT"
-      },
-      {
         "title": "Secretul din spatele întoarcerii prințului Harry în Marea Britanie: de ce a plecat brusc din SUA, alături...",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQllNWjFMdHFuNm9aRHFuaU5NV0lDQ3d3OE5XTlZ0SzRXWVVKaTZSRzBnMkFJWWtGeGhHcWs0MFVwT0swZmdzVzg3VWtVWktRWElVWFZuV1BoMUpMSFVDaThXQm5xX1BYRHFveGwtYUJFZ1MtU0dCeVVaV1huT0t6d05VZzBUWjNCcHdoY2R6Yjd0bHp6OVdtQW5RaG9rTjcxSlIzSjRqa3ZyZHpQRWpWZzdCQ2JIZE9FUXBQUFVjTmZUaVNHcGNYQ3dRdmZfMzZEUDhpMXhzR2xhSHRFektlbUdCN19Uc01Bb0FZSkRrb19fZk5iVkVOYUdrMEppRXRXTld4eXVnTmlwd9IBlAJBVV95cUxNZG5Sd3pIbGZmem1yWkoybjVPXzhhZDhDTGVtNjRtUTZJWmRSUnV2YnpjSG9tWElGOEVXX3ViVVN5dmhUWjlMWk5pbGhNa2l6ZnM4RzVZZzI4dXJYZzkzak43ZGNya2RydUhCVFJ2QUZTLUozQlFTbjB4Zmx5cUlNU1hjQWJQaks2T1hqZnkyOHl2ZUVRNlRjM3VXQkdiYXVqdW1meC1ySjVqdFB2Nm55eEpFRmJRLWFSRXUyRjE1MV8tT01qWXlVVVVXYXh2YXl1V3RDbnEyR1lCUE0zcmhUOXgwNzJXNHJVYXVJemVoeGhHZjltWjhyenQzdDRYVVM5VXFaS3FoQ3MtdVdrT3F0S1hMRGg?oc=5",
         "source": "Digi24",
@@ -681,36 +729,12 @@
         "pubDate": "Sat, 21 Nov 2026 11:25:59 GMT"
       },
       {
-        "title": "J.D. Vance evită să spună dacă a autorizat atacurile SUA asupra Iranului",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVU9yTDF2N3dBYW9pUElKOUJCdUNkUnZfZGlfYXpCdGk4SzF3YkdrTDdfc2dLaXBzRFNZWU5rVHQ3ci1saGQxWVhvWFZmOE9Pd3dVMWx3RnBWM3lJYVplVjI2QnE4Q1pmWWZISVFhRGhPay1IUnVVSzkyR0d5cFJfckNPaVVLTElFVFUtZWtyblY5NWVtZ1RuTkJpWWtyb1RH?oc=5",
-        "source": "G4Media",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "J.D. Vance evită să spună dacă a autorizat atacurile SUA asupra Iranului G4Media Vicepreședintele american J.D. Vance evită să spună dacă ar fi autorizat atacuri asupra Iranului Ag…",
-        "pubDate": "Sat, 21 Nov 2026 10:55:49 GMT"
-      },
-      {
         "title": "Val de vânzări pe Wall Street, pe fondul declarațiilor controversate ale lui Trump. Ce anticipează...",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNmZSdHV1eU8tNm5xUFladjRuRElEbUk1c0dFaF83c2paTFU0R0c5aTNkUGlhZVo2RlZJazVqUkJPeDhJeWZMMHZZVE52TkptU3dPeUpWQVpUM29pZW1TcS02WjJkbkRYaU9tVVBsaE93aTNLZjlxTEpFTXpGR0txT1lmVVFaM25MbV9KYlRDMXNHc3Z1TU1SNzA3cUVZc3ZqX0hyOG8xaGxRVFdnTlNxV3Nhd0hnaXpXOUxnTnZXMGV0QU9RSlVyeGVsMThrdkUzTnN5VmEzWDNhUkVldHd3NWZncHQ0NUJ3cmJEaDdna9IB-gFBVV95cUxQdm42YVF5T3VEb2RvcklsRWJRMWRhLWV3aW9sQi1uSGtldnl4V1VTMkRWMi0wc1FaY0xlRC1tSDBuZ09XRFJYTW1tZ1hVMFpfQ250SDQ1Q0t6OVRxejA2cUZLU1VQTENoUFRrRHhLTVUyVVVNZ195ekpKSENlbXU3VVdYYmFPT3JNWkdIRVpUNGJGLW5KVXAycko5Wm9mYVotSnZEaG0tMm9qcUk3TWdwcmZGcE1Vc2JBbFl0STFud05WaGx5VmFfR3FpZGxTSlp2MkVqS0VoczBiRmZCa0RMcU1ZTGd6bC1VRElHem44R3F4RDNWMzZrZHRR?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
         "summary": "Val de vânzări pe Wall Street, pe fondul declarațiilor controversate ale lui Trump. Ce anticipează... Digi24 Nasdaq pierde toate câștigurile din 2026. Acțiunile companiilor AI se p…",
         "pubDate": "Sat, 21 Nov 2026 10:35:10 GMT"
-      },
-      {
-        "title": "Cum răspunde președintele AEP acuzațiilor că modificările la legea partidelor favorizează PSD. „Astăzi...",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPcHNUeEV1OTM1U1UxRUhSSFNkc1lMdEhrNEZ3RkhHcnItcU5fVmE4Vmg5RXltckw5SUpwZXZMVWhIWlIxQlZuNlZCbGFDWnU3QU5hVUc0OHR5b3U3Y0RiWUJqMUR0ZHpTSDF4SThXM3U2M0FZLW5PdUNoRVFiY1VjTGc4LXVrdTJxcWNNSGxESmg2QWRsNWFjWi1GNUVkZ2hDT29CVzRnRGdvY1BuUDFEUmdYX2xaUXFGWkZwTlF0WnQ2MFhRdTJJT1hPTWpRamhjdmFiLUxScldxTEFZR1V6RGI2Z1lyT2JLcDk1bzQ0Njd0M3k1QkFFcEsyendUVDliajNKVGd0S3RVaERTeU14VXlrUTDSAZ8CQVVfeXFMT01fNVFodEQyWkl3TEh4XzF5RzhYUEY4aVBxc25XS3NjbnlOT1RIaEZsNzhOMHdBMzJnWTVvVE5hU0VMTEc4SHpHZFFORC1fd29sNU83aWt2cUVYalMyWlRCcDN5QjNONlh0NG9WMmwtVUw3dzdRVGxoZzd4dXYxVVU4S1hHZ2lFU3RSekc1S19nWFFBMWIwOC04V083LTdWYWN4SHhYazY2RkZvY2VaZGFhTy1aSHlxYUpIQ2JYX045dGpLcW96clN2TW5XeWlyV25fZG1ERllIU1hUYVZyd3BlMlBkSzFEZllUeE9DSUg3YkNxX2xPVXo3SVlMeFZDR0ZMcFJMY1huSmV4clFJNU1JcVlvemxISnBxYV9PNTg?oc=5",
-        "source": "Digi24",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Cum răspunde președintele AEP acuzațiilor că modificările la legea partidelor favorizează PSD. „Astăzi... Digi24 AEP a confiscat „sume importante de bani” de la toate partidele par…",
-        "pubDate": "Sat, 21 Nov 2026 10:10:12 GMT"
-      },
-      {
-        "title": "Vreme la extreme în România: ninsori și viscol la munte, temperaturi de primăvară în Capitală. ANM a...",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZ3QwYTZPV1otVVZldDRvbWt0OE5rUXpkTjVWZ01MM0otN0VNcmxndzhPR19KTTBEQ3lkLVNfeEZiZXFCY3VwTzdZRzhDNlVMakFnS2t1SWVmcW54UmNWei1GMlNwOXREVnpHMk00dlpZQmVQdlZLS1RKNVpNMzRnMHdDTGRWUko1T1BrZ01oWm9zWVI1dTNPdW5sS25qRTVoUmJCOUphOUNGNS1BdmZCZlk0MEJraGhmWkhjcm1sZG1tdmItandKaWRXZjRxd1lmeFlVSTJHdE5RMlNHUHhKRlREeHNDdjdyMkVRajR1RC3SAfsBQVVfeXFMTUo3aTk2ZTBJSVB5bzluSExrZE1SZzFJTTFEaFFtT2hFYXc5RUN5VUdWTjdLWndfWDJpU2dlNm02ckUyeTdNR2cxZTFPa2ptZnFrd0FHamdyUlQ5Tk9abVZ4WkgzMER2YS03YlZYQzdnWnZ4VDhZMDZCd05hMDR4cnQzWFBUOE9LUkpLNS05ajRZTlZ4MnFudGEyMWlBNlJ0N09yQ1R1bmNtTW9NVGxqRW8ydnRKckJMMFJRek5BZGJyMVJUMkxMYVZpLUNKZ2ZrRFExX1RFVDY3LUdUdjBIVkgySHJTVG5xaTM2ZnJjOGRhQURLSVk2VzUySWs?oc=5",
-        "source": "Digi24",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Vreme la extreme în România: ninsori și viscol la munte, temperaturi de primăvară în Capitală. ANM a... Digi24 Alertă cod galben de viscol. ANM anunță zonele unde stratul de zăpadă…",
-        "pubDate": "Sat, 21 Nov 2026 09:50:37 GMT"
       },
       {
         "title": "STUDIU | Picăturile nazale experimentale ar putea preveni pierderile de memorie asociate bolii Alzheimer",
@@ -733,40 +757,16 @@
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb0lZbGtOWnFsY25mX0ZEVlVic2RYQ1VrSV9lLTk4cTVXSWhQbzFIdDl2WjR2dUQtNEhlZE5HQkktZENPYWZaRE1zTTNHc0IwQmxxTlFGb3BaTEhzMjBzMmdUSlIyNDR3NTVpME9JVU1kby1sT1VIUEUya1hUb0djWnk5aHE2dzJDckc5VlZ1dzhQN0RJMmlaeHVHQ1FrbUwtb3lNVGNfQ1dUMjdPVzBTT05YTWNJSzNIN0VVTDlYV05UVU8tN0F2U1A3eG00blhzSVo1T2RJYm5OZw?oc=5",
         "source": "Digi24",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Dincolo de strălucirea summitului: Donald Trump se laudă că a fost primit cu fast, Xi Jinping mută decisiv... Digi24 Summitul trilateral Xi, Putin, Trump de la Shenzen: riscurile p…",
+        "summary": "Dincolo de strălucirea summitului: Donald Trump se laudă că a fost primit cu fast, Xi Jinping mută decisiv... Digi24 „S-a terminat cu izolarea”. Întâlnirea cu Trump și Xi, un trium…",
         "pubDate": "Sat, 21 Nov 2026 09:23:49 GMT"
       },
       {
-        "title": "ISW: Rusia a încălcat intenționat spațiul aerian al Poloniei pentru a testa reacția NATO",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUmNuaFpvU1gwV1owdHp0NGlzUVlXZ3FULUY4eDZIOW5XbXZaTmhjai1SOGtJMF9DTjJPNmpid0s3UDNvTjR0U1pKS1ZHXzB1eVA4NjdiWUxuYnNQZjlfeTdYVnJmWWZELW5TSEsxaERMd3lkSHdRdUp1QzFFVEw1SGRYUDdHbXkzNWt5ajV6THhBS0Z1T0Y1R1BQVEZOVDVxd3F3X0tGdXJkRDctencyZ2RnYUxpdw?oc=5",
-        "source": "G4Media",
+        "title": "Prăbușire pe piața criptomonedelor. Bitcoin a ajuns la cel mai mic nivel din ultimii doi…",
+        "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPOTQwdWZXdHJqNWxVS1FFNHlkVXVkWTFlRWlWbm9WNHNwX21POXlQSlVfTFRYSGRqWHczdVFqMC1QYm9xbFZhUlBLb2ZjVHI4dDJoc3hFckZTYzlkUThNQ2VlejR0MUlzTmxjUTYyek5JVXB0eHQzLWQ3VjVBeVFZLXBTbm5qSmxtLVFEa0JoYlNQOEVIdUlvUnRyLVN6VzlrdzdkU1pmcjRmUUZtcjlwR0M5UWt4NFJVU240VVFycWZvVXI5MEJESVNKSDc3emRBU3lOTGVtOVd1Q2h3ZG1rWWFKejlCMXpSU0JHbXVwWkQ2cWptbW4wZ2ZnLTB0dldIZGg0SzRtakdUSHhwek1FM3hUSEpPTmpuMkMyYzFuWkrSAaYCQVVfeXFMTmRKV3dwLXdtRnNuQ0tqM1VGRUxzYlNKaXYtNmdJSXRUcXBNbWV5MHA3WFRqTEdBMndFNDNMbVRrc2pRN3B1d015MHZ5TEcyaFJ2MGtrV1RVMkJWZ0hPRjNQZVZYS0U5UkFIZUQtTHU3MlNISnlEQWV4M3cxMndjWlpGRmMzQkJJUHR4c3hWekVPZW1LUVVmTG9RazZNLUt6aFNNXy1Da05YS1l1aEdiN2RUUUh6M1VnaWt2aVRRQ3ZnOHB2VldsU0FwNUdPVS0xNjNaNzdYVzRiam5DSm8xZ3pVRnRvS0JJdVlEZUpIOXFIUHM4RHRyWXhhUTFEaVNHM3VOeWFZVnZFVkgtQ0JwNG1YUFFRRkhhLTk3QnNRay1NN3VySWR3?oc=5",
+        "source": "Mediafax",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "ISW: Rusia a încălcat intenționat spațiul aerian al Poloniei pentru a testa reacția NATO G4Media Rusia a încălcat intenționat spațiul aerian al Poloniei. Ce ar fi urmărit Moscova p…",
-        "pubDate": "Sat, 21 Nov 2026 08:40:55 GMT"
-      },
-      {
-        "title": "INTERVIU Liderul primarilor de comune, despre comasarea anunțată de la București: „Treaba că una e voluntară, iar alta obligatorie ține de șarlatanie”",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUHJHZ3B1RmhXLXFSQ3FPQ085UkwzMlAwYXZ2X2NsMzdFNnRBOXN0MWxKMlVhUEhFVjdfM0NkMEZEcEFyRFhPVDRCMERyTGcwckRTOVJPXzM3TlRpSldwR29KNURjNmdHdU83YThtY1VVTVhMY2dCWlBWRktHQkF3XzhFMlFFN2cwRnpNMGRVTmVyYTdIUkdIVl9RSGR1VktyTmRvR1Rrc2h1QjVOcFN0LWFqcnpwaHNudHJscHF5Z0lZNkRtM003MFNGd0dwZFlCT1ZBUGpjZlU1X1YyWXJHTkF3ZFZmbjBJRW02c0dXVjZWdHFFM0RlSnZxelBxdEs0c2c?oc=5",
-        "source": "HotNews.ro",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "INTERVIU Liderul primarilor de comune, despre comasarea anunțată de la București: „Treaba că una e voluntară, iar alta obligatorie ține de șarlatanie” HotNews.ro Guvernul pregăteșt…",
-        "pubDate": "Sat, 21 Nov 2026 07:00:19 GMT"
-      },
-      {
-        "title": "Mercur, planeta misterelor, va fi explorată de o sondă după o călătorie de opt ani prin Sistemul Solar",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVDFQdExKa2ZKSHoxaWxZc1U1a2ZYSGFHbDNEZlltNEE5RFI5N2FfY19xV3ViTnJrM05LR0NpTHNqZWxHMVNhZFAwRzllTmthZjJSb2p6WHB1ang3M0hhX2JjRGJPeXhKMkJJNjU0OVRUWC04S3Rwbm1ZX2FocXBxMURPQ2lyMkFvVlRycExrQ09aUjZmS0h6TG5GTmctVWRZRTNibWNVRFozV2F6aUZQZ2VlZDdZMlpFckYwZ3Fjb3Vnc2wxVm1kaTUwQldnN3kzYTI0bkd1TTRtU25RNVRTNlNVWjM2N013cW9qVTdWRFPSAf4BQVVfeXFMT0hEU1lhOHUtSURwZlEwRFhwa0VubGc0MEs5aUNPYjR3SE5qVDRvbUY3WHIzREJ2eElNYUt4S3BnMzZLS3plbEFfN2EzMU9yUXpYblExOTF0dEkxZkZKRTg2ZG11bDNHRldIYk1PMjhRRjd2V04xdElfbHBuVXZOZ0RpOHFRYmJBS1ptM2NKWUY3Tnh0NjZoOVZIREVubWxfcWhNMlczRjdpeEk0N2Rab01RdXRTbC1YUWctR1p0WXFXaW1tS1VObVpfaGEwdE1pdUtzNkdFNkhfQlpLY3MyR3pEMTc4LXZFaGJnelhiTGRrUE01VG1jc0hTbE53eVE?oc=5",
-        "source": "Digi24",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Mercur, planeta misterelor, va fi explorată de o sondă după o călătorie de opt ani prin Sistemul Solar Digi24Vedeți mai multe titluri și perspective în Știri Google",
-        "pubDate": "Sat, 21 Nov 2026 05:00:37 GMT"
-      },
-      {
-        "title": "Trump insistă asupra unui acord de pace cu Ucraina până în ianuarie (Financial Times)",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0ZidFA4U1d4dUxOWUtkOUYtTWl4WTFSMU5FMVhmbzMxMFBVdzd5ZG1icjNwcTdZRjNPbGJ0OE9DaWJNUWtXZ2tkSzVsREV6a2U4NTVxd1c5aFZud1hNbkN6S0FtaXltdjNTNTZQWGloeHBRc29acklDb1RLYkxKeGxiT2FQTDhELUMyOTdKbXplay1Gd0t1OGpESlRzaDdNVFJaNk1iNS1fZ3BnRWVTLVhXam1DQW1sYzJGV0pxTnlPUU9lanfSAdABQVVfeXFMTTkydlJXZEI2MmJWNHhuS0RTTkViT1ZPOWZTdnhRVTY5dnp3dnVudDdBVi1QdlVJaFhQVm5pd0EtZEJpeUU3RVI5R0JtbTlreV9VVGhQUEFqQmhfN1ZvRVBjVmZJVngyX3c3TnhXb2FpN0pJZnZjbF9YRVh0NkdrSm00bk5yM2Jnd0taRFJRM3V2Rk9BUGRoWmtfZEFvRmJUOEVLOXdHWllNcFNxdnNCdTlhb3gwa0wyak40OWNYUlgyUlppQTZmRFFMc1BWV2w2Rg?oc=5",
-        "source": "Digi24",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Trump insistă asupra unui acord de pace cu Ucraina până în ianuarie (Financial Times) Digi24 Zelenski reafirmă că #Ucraina dorește să adere la NATO, în contextul discuțiilor privin…",
-        "pubDate": "Sat, 21 Nov 2026 05:00:25 GMT"
+        "summary": "Prăbușire pe piața criptomonedelor. Bitcoin a ajuns la cel mai mic nivel din ultimii doi… Mediafax Bitcoin scade sub 60.000 de dolari pentru prima dată din iulie. Ce provoacă turbu…",
+        "pubDate": "Sat, 21 Nov 2026 08:13:35 GMT"
       },
       {
         "title": "OLED vs. Micro RGB: merită investiția? Experiență cinema, gaming spectaculos și sport la superlativ, ecrane gigant sub 10.000 de lei și reduceri de 46%. The Ultimate TV Experience",
@@ -777,38 +777,142 @@
         "pubDate": "Sat, 21 Nov 2026 04:07:45 GMT"
       },
       {
-        "title": "Declin dramatic al Bitcoin – a coborât sub pragul de 60.000 de dolari pentru prima…",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObE1VXzdBX09ZZENmWTVtS3VibU91ZktlaWx1UFQ0WlJpQmM0SW9WY0IxaEZoUl90TjRmZG5hajdoUkZPd1pQWVB6NUh3dFVubWkyMVdWalRFQkNucVVmMkJ6MTdWZ3JteTI0UEp4em1pTHNRWTZWNEdZenl2Q2dLM0lmZWlpRmhlUU1Ua09fOEQwc1lIcWRGb2cyaFVjMTFOeVdUMWV0T2ZXTzVwbERwMHBIRks1UXcwVGtmQVAwTUlsaHZ0RUstM2tqb1RsTHpHNlJF?oc=5",
-        "source": "Mediafax",
-        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Declin dramatic al Bitcoin – a coborât sub pragul de 60.000 de dolari pentru prima… Mediafax Bitcoin scade sub 60.000 de dolari pentru prima dată din iulie. Ce provoacă turbulențel…",
-        "pubDate": "Fri, 20 Nov 2026 20:16:47 GMT"
-      },
-      {
         "title": "Trump îndeamnă Nvidia să-i ofere lui Jense Huang o „a doua şansă”",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNThLVWJwWGZaeW5OZWxyZkpIS2pKMmFvbkc1ZFJxaDVaVFQ4ektBbC1aYlNNS3FDYTFKX3Z3ckVCVHB1b2hVTGktVHV5SS03RTMtbkQxYTY2Sk5hN29nNXBXYWJJSWRTVlQ2RUNkRERfZlpSWTlVSVdNa29zTWY0Q0ZUTVhoMm5BNGZVRzlhdW9mUkg3WEE?oc=5",
         "source": "G4Media",
         "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
-        "summary": "Trump îndeamnă Nvidia să-i ofere lui Jense Huang o „a doua şansă” G4Media Trump pledează ca Jensen Huang să primească „a doua șansă” la Nvidia HotNews.ro Umiliri, petreceri și „fam…",
+        "summary": "Trump îndeamnă Nvidia să-i ofere lui Jense Huang o „a doua şansă” G4Media Trump pledează ca Jensen Huang să primească „a doua șansă” la Nvidia HotNews.ro CNBC: Contractele futures…",
         "pubDate": "Fri, 20 Nov 2026 19:22:00 GMT"
+      },
+      {
+        "title": "Guvernul nu a calculat cât va economisi prin comasarea comunelor. Alexandru Stoica: „Nu vreau să vorbim...",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVGVGdGh1WXhqam81Sl84VkczcUFhNGI0cjZMV1JwbXpXQ3dVemN2bjFGSkJIRTdCVVo3ZUpMaERZdmxPc2RpMVVsNTk5THYzcWh5WFc3UkNrc3JCQWJwRGxXaWdqRTdueDdzY3d3UWQySVJzajR4b0dRUThYQS13czQ1WlFQcmxHSG9wQ3Y4YS1sak9DM3FKM29BMTJ4NWo5Wmd0Y2lIQVREb28tVGtmVUVFbVUtLTl1bkgzZmtIVHg2dDVDbHR5a2tINEFiektxMklralczbVFlY2p2bGJrdDV2S3FZX01uRGZFa2hvZFdJWVnSAf4BQVVfeXFMTTRuUkdxQXlpeUFLYklMdmFsMzJHS1JSc09Jc1F2N0lrTEJfMGVSUkR2SWd4cThKVUtTS2dtdEU4Skx1d0hhaGxQMFVqQkxxUnFrNlpEb2xBSjRVcnF6d01QU2JGV2ZLaVoxWE8xSHVGTDlRX3pvb0VKam5WUHgyeTVLcGRUNm1IU05RNkkzdkFmVVlHMWkxOGgwTUtIemNzN0J2LTU1WVYweDQ5TVIzUVJ6aHFITThVelR2VnJzVjJxTmdMVElXeGstaWtJN2NjeUptc1lVSjFKdkI1dmM5ZUc1ZkNGeG54dkpEaHhrLURHQXo4TjVPV0dzYUk1bUE?oc=5",
+        "source": "Digi24",
+        "sourceUrl": "https://news.google.com/?hl=ro&gl=RO&ceid=RO:ro",
+        "summary": "Guvernul nu a calculat cât va economisi prin comasarea comunelor. Alexandru Stoica: „Nu vreau să vorbim... Digi24 Guvernul pregătește comasarea primăriilor. Ce se întâmplă cu funcț…",
+        "pubDate": "Fri, 20 Nov 2026 11:58:39 GMT"
       }
     ],
     "🇲🇽 Mexico": [
       {
-        "title": "GP de Las Vegas 2026 EN VIVO: ¿A qué hora y dónde ver la carrera nocturna de Fórmula 1 con ‘Checo’ Pérez?",
-        "link": "https://www.elfinanciero.com.mx/deportes/2026/11/21/f1-gp-de-las-vegas-en-vivo-resultado-como-le-fue-a-checo-perez/",
+        "title": "Con destino a EU: ¿De qué delitos acusan al ‘Chapo Isidro’ y por qué tiene una orden de extradición?",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/21/con-destino-a-eu-de-que-delitos-acusan-al-chapo-isidro-y-por-que-tiene-una-orden-de-extradicion/",
         "source": "Redacción",
         "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Consulta a qué hora y dónde ver en vivo el GP de Las Vegas 2026 de F1, la parrilla de salida, el desempeño de ‘Checo’ Pérez y los resultados de la carrera.",
-        "pubDate": "Sat, 21 Nov 2026 17:41:04 +0000"
+        "summary": "Fausto Isidro ‘N’, ‘El Chapo Isidro’, permanece detenido en la FEMDO tras su captura en Guasave, Sinaloa.",
+        "pubDate": "Sat, 21 Nov 2026 22:13:51 +0000"
       },
       {
-        "title": "Detención del ‘Chapo Isidro’ EN VIVO: Sigue las reacciones tras la balacera en Guasave minuto a minuto",
+        "title": "Asesina a su madre en periferia de Acapulco: Vecinos acusan que el hombre tenía una crisis toxicológica",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/21/asesina-a-su-madre-en-periferia-de-acapulco-vecinos-acusan-que-el-hombre-tenia-una-crisis-toxicologica/",
+        "source": "Darío Lagunas",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Los vecinos de la asesinada indicaron que el altercado familiar se suscitó alrededor de las 3:00 de la mañana al interior del domicilio particular de la víctima.",
+        "pubDate": "Sat, 21 Nov 2026 22:03:01 +0000"
+      },
+      {
+        "title": "Damon Albarn, vocalista de Gorillaz, elogia a Claudia Sheinbaum en el Corona Capital: ‘Es muy importante’",
+        "link": "https://www.elfinanciero.com.mx/espectaculos/2026/11/21/damon-albarn-vocalista-de-gorillaz-elogia-a-claudia-sheinbaum-en-el-corona-capital/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "¿Qué dijo Damon Albarn sobre Claudia Sheinbaum? El vocalista de Gorillaz reconoció el viaje que hizo la presidenta a China en clase económica.",
+        "pubDate": "Sat, 21 Nov 2026 21:59:54 +0000"
+      },
+      {
+        "title": "Daniela, hermana de Gaby Spanic, sufre accidente automovilístico rumbo a Toluca: ‘Los ángeles nos salvaron’",
+        "link": "https://www.elfinanciero.com.mx/espectaculos/2026/11/21/daniela-hermana-de-gabriela-spanic-sufre-accidente-automovilistico-rumbo-a-toluca/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "La actriz Daniela Spanic sufrió un accidente automovilístico. Su representante compartió un video y reveló cómo se encuentran.",
+        "pubDate": "Sat, 21 Nov 2026 21:21:48 +0000"
+      },
+      {
+        "title": "Sismo de magnitud 6.7 en Perú: Se registran dos réplicas y hay 15 personas heridas",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/21/sismo-de-67-en-peru-se-registran-dos-replicas-y-hay-15-personas-heridas/",
+        "source": "EFE",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Durante la noche del viernes, la Municipalidad de Lima también reportó que una joven resultó herida en la cabeza, tras el impactó de un trozo de cemento desprendido de un edificio.",
+        "pubDate": "Sat, 21 Nov 2026 21:16:52 +0000"
+      },
+      {
+        "title": "Antonio Carlos Santos pide ayuda a Sheinbaum: Exjugador del América denuncia presunto fraude en Pemex",
+        "link": "https://www.elfinanciero.com.mx/deportes/2026/11/21/antonio-carlos-santos-pide-ayuda-a-sheinbaum-por-presunto-fraude-millonario-en-pemex/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Antonio Carlos Santos, exjugador del América, pidió ayuda a Claudia Sheinbaum tras denunciar un presunto fraude millonario relacionado con Pemex.",
+        "pubDate": "Sat, 21 Nov 2026 20:22:45 +0000"
+      },
+      {
+        "title": "Asesinato de Joselyn Rocha: Secretaría de Seguridad de CDMX detiene a Israel ‘N’, presunto responsable",
+        "link": "https://www.elfinanciero.com.mx/cdmx/2026/11/21/asesinato-de-joselyn-rocha-fiscalia-cdmx-detiene-a-israel-n-presunto-responsable-de-atropellarla/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "El hecho se registró el pasado 13 de noviembre en la avenida Santa Fe, colonia Lomas de Santa Fe, alcaldía Cuajimalpa de Morelos, donde se reportó a una mujer sobre la cinta asfált…",
+        "pubDate": "Sat, 21 Nov 2026 20:08:51 +0000"
+      },
+      {
+        "title": "(VIDEO) ‘Están disparando’: Gente queda atrapada por la balacera tras la detención de ‘El Chapo Isidro’",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/21/video-estan-disparando-gente-queda-atrapada-por-la-balacera-tras-la-detencion-de-el-chapo-isidro/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Familias quedaron atrapadas en el Kuroda Park de Guasave durante la balacera que ocurrió tras el operativo militar para detener a ‘El Chapo Isidro’.",
+        "pubDate": "Sat, 21 Nov 2026 20:05:32 +0000"
+      },
+      {
+        "title": "Captura del ‘Chapo Isidro’ en Guasave: ¿Dónde hay bloqueos en Sinaloa?",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/21/captura-del-chapo-isidro-en-guasave-donde-hay-bloqueos-en-sinaloa/",
+        "source": "Carlos Velázquez Martínez",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Tras la detención de 'El Chapo' Isidro grupos criminales reaccionaron con balaceras, narcobloqueos y quema de vehículos de carga y camiones en distintos puntos del estado.",
+        "pubDate": "Sat, 21 Nov 2026 19:38:10 +0000"
+      },
+      {
+        "title": "Detención del ‘Chapo Isidro’ EN VIVO: 4 soldados murieron en el operativo",
         "link": "https://www.elfinanciero.com.mx/estados/2026/11/21/balacera-guasave-en-vivo-violencia-sinaloa-ultimas-noticias/",
         "source": "Redacción",
         "sourceUrl": "https://www.elfinanciero.com.mx",
         "summary": "Fausto Isidro Meza, alias 'El Chapo Isidro' fue detenido en Sinaloa; esta es la cobertura EN VIVO tras la balacera en Guasave y la detención del líder del cártel de los Beltrán Ley…",
-        "pubDate": "Sat, 21 Nov 2026 17:27:43 +0000"
+        "pubDate": "Sat, 21 Nov 2026 19:29:31 +0000"
+      },
+      {
+        "title": "Captura del ‘Chapo Isidro’: Sara Carter, zar antidrogas de EU, felicita a las autoridades mexicanas",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/21/captura-del-chapo-isidro-sara-carter-zar-antidrogas-de-eu-felicita-a-las-autoridades-mexicanas/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Meza Flores era responsable de la distribución de fentanilo, heroína y otras drogas en Estados Unidos.",
+        "pubDate": "Sat, 21 Nov 2026 19:09:31 +0000"
+      },
+      {
+        "title": "Alejandro Speitzer critica la violencia tras detención de ‘Chapo Isidro’: ‘¿Quién asume la responsabilidad?’",
+        "link": "https://www.elfinanciero.com.mx/espectaculos/2026/11/21/alejandro-speitzer-critica-la-violencia-tras-detencion-de-el-chapo-isidro/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Alejandro Speitzer, de ‘Atrévete a soñar’, compartió su sentir tras los hechos de violencia registrados en Guasave, a causa de la detención de ‘Chapo Isidro’.",
+        "pubDate": "Sat, 21 Nov 2026 19:07:24 +0000"
+      },
+      {
+        "title": "Detienen al ‘Chapo Isidro’ en Guasave, Sinaloa; EU ayudó con inteligencia",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/21/detienen-al-fausto-isidro-meza-el-chapo-isidro-en-guasave-sinaloa-eu-ayudo-con-inteligencia/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Fausto Isidro Meza Flores, conocido como ‘El Chapo Isidro’, fue detenido la noche de este viernes 20 de noviembre en Guasave, Sinaloa, confirmó la Sedena a través de un comunicado.",
+        "pubDate": "Sat, 21 Nov 2026 18:52:57 +0000"
+      },
+      {
+        "title": "DEA felicita a México por captura de ‘El Chapo Isidro’: ‘Es una victoria contra cárteles’",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/21/dea-felicita-a-mexico-por-captura-de-el-chapo-isidro-es-una-victoria-contra-carteles/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "La DEA reconoció el operativo en Guasave, Sinaloa, que culminó con la detención de ‘El Chapo Isidro’, presunto líder de una organización criminal vinculada al tráfico de drogas.",
+        "pubDate": "Sat, 21 Nov 2026 18:02:17 +0000"
+      },
+      {
+        "title": "F1 EN VIVO Gran Premio de Las Vegas 2026: ¿A qué hora y dónde ver la carrera nocturna con ‘Checo’ Pérez?",
+        "link": "https://www.elfinanciero.com.mx/deportes/2026/11/21/f1-gp-de-las-vegas-en-vivo-resultado-como-le-fue-a-checo-perez/",
+        "source": "Redacción",
+        "sourceUrl": "https://www.elfinanciero.com.mx",
+        "summary": "Consulta a qué hora y dónde ver en vivo el GP de Las Vegas 2026 de F1, la parrilla de salida, el desempeño de ‘Checo’ Pérez y los resultados de la carrera.",
+        "pubDate": "Sat, 21 Nov 2026 17:42:53 +0000"
       },
       {
         "title": "Verstappen ‘hereda’ la pole de Antonelli tras penalización: Parrilla de salida del GP de Las Vegas",
@@ -883,116 +987,12 @@
         "pubDate": "Sat, 21 Nov 2026 14:30:00 +0000"
       },
       {
-        "title": "Detienen al Fausto Isidro Meza, ‘El Chapo Isidro’ en Guasave, Sinaloa; EU ayudó con inteligencia",
-        "link": "https://www.elfinanciero.com.mx/estados/2026/11/21/detienen-al-fausto-isidro-meza-el-chapo-isidro-en-guasave-sinaloa-eu-ayudo-con-inteligencia/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Fausto Isidro Meza Flores, conocido como ‘El Chapo Isidro’, fue detenido la noche de este viernes 20 de noviembre en Guasave, Sinaloa, confirmó la Sedena a través de un comunicado.",
-        "pubDate": "Sat, 21 Nov 2026 14:11:16 +0000"
-      },
-      {
         "title": "‘Navidad con tamales’: Levi Drake Rodríguez, el defensivo de los Vikings que lleva a México en su historia familiar",
         "link": "https://www.elfinanciero.com.mx/deportes/2026/11/21/levi-drake-rodriguez-el-defensivo-de-los-vikings-que-lleva-a-mexico-en-su-historia-familiar/",
         "source": "Vladimir Fernández",
         "sourceUrl": "https://www.elfinanciero.com.mx",
         "summary": "Conoce las raíces mexicanas de Levi Drake Rodríguez, jugador de los Vikings, y la historia familiar que marcó su camino hacia la NFL.",
         "pubDate": "Sat, 21 Nov 2026 14:00:00 +0000"
-      },
-      {
-        "title": "‘Era muy místico’: La vez que militares se disfrazaron para atrapar a ‘El Mayo’ en Chichén Itzá",
-        "link": "https://www.elfinanciero.com.mx/nacional/2026/11/21/era-muy-mistico-la-vez-que-militares-se-disfrazaron-para-atrapar-a-el-mayo-en-chichen-itza/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Militares del Ejército mexicano se disfrazaron de turistas para intentar capturar a Ismael ‘El Mayo’ Zambada durante el equinoccio de primavera en Chichén Itzá.",
-        "pubDate": "Sat, 21 Nov 2026 13:45:00 +0000"
-      },
-      {
-        "title": "Inés Gómez Mont, la constructora: Así habría recibido 178 mdp de dos empresas, según la FGR",
-        "link": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/21/cuanto-dinero-habria-ganado-ines-gomez-mont-por-delincuencia-organizada-y-lavado-de-dinero-segun-fgr/",
-        "source": "Redacción",
-        "sourceUrl": "https://www.elfinanciero.com.mx",
-        "summary": "Inés Gómez Mont habría sido beneficiaria de 27 depósitos relacionados con los delitos de delincuencia organizada y lavado de dinero, según la investigación de la FGR.",
-        "pubDate": "Sat, 21 Nov 2026 13:00:00 +0000"
-      },
-      {
-        "title": "Editorial: Desinformación y poder económico",
-        "link": "https://www.jornada.com.mx/2026/11/21/opinion/002a1edi?partner=rss",
-        "source": "La Jornada",
-        "sourceUrl": "https://www.jornada.com.mx/2026/11/21/",
-        "summary": "Un habitante de la Ciudad de México que haya usado redes sociales en semanas recientes habrá notado la proliferación de mensajes que, en tonos más o menos apocalípticos, advierten…",
-        "pubDate": "Sat, 21 Nov 2026 07:58:09 GMT"
-      },
-      {
-        "title": "Gobierno británico se burla tras anuncio de que Robert Pattinson será James Bond",
-        "link": "https://www.jornada.com.mx/2026/11/21/espectaculos/a07n2esp?partner=rss",
-        "source": "La Jornada",
-        "sourceUrl": "https://www.jornada.com.mx/2026/11/21/",
-        "summary": "Con su racha de películas que abarcan toda una generación, Robert Pattinson parece estar recibiendo todos los papeles en Hollywood. Y tras su elección como James Bond, el gobierno…",
-        "pubDate": "Sat, 21 Nov 2026 07:58:09 GMT"
-      },
-      {
-        "title": "Bernardo Cueva seguirá en Europa mientras hay escasez de talento local en la Liga MX",
-        "link": "https://www.jornada.com.mx/2026/11/21/deportes/a09n2dep?partner=rss",
-        "source": "La Jornada",
-        "sourceUrl": "https://www.jornada.com.mx/2026/11/21/",
-        "summary": "El técnico mexicano Bernardo Cueva seguirá en el futbol europeo y en una lista selecta de entrenadores que emigran al balompié internacional, mientras en la Liga MX es escaso el ta…",
-        "pubDate": "Sat, 21 Nov 2026 07:58:09 GMT"
-      },
-      {
-        "title": "Trump niega necesitar a China y Rusia para resolver guerra en Irán",
-        "link": "https://www.jornada.com.mx/2026/11/21/mundo/018n2mun?partner=rss",
-        "source": "La Jornada",
-        "sourceUrl": "https://www.jornada.com.mx/2026/11/21/",
-        "summary": "Washington. El presidente de Estados Unidos, Donald Trump, afirmó ayer que Irán busca llegar a un acuerdo, pero bajo condiciones “inaceptables” para Washington y reiteró que no nec…",
-        "pubDate": "Sat, 21 Nov 2026 07:58:09 GMT"
-      },
-      {
-        "title": "Ingresa al país avanzada de cuarta caravana proveniente de Honduras",
-        "link": "https://www.jornada.com.mx/2026/11/21/politica/008n1pol?partner=rss",
-        "source": "La Jornada",
-        "sourceUrl": "https://www.jornada.com.mx/2026/11/21/",
-        "summary": "Tapachula, Chis., Un grupo de unos 200 migrantes que forman parte de la cuarta caravana que partió de Honduras ingresaron la mañana de ayer a México por el municipio de Suchiate.",
-        "pubDate": "Sat, 21 Nov 2026 07:58:09 GMT"
-      },
-      {
-        "title": "Juan Pablo Duch: Apuntes postsoviéticos",
-        "link": "https://www.jornada.com.mx/2026/11/21/opinion/017o1mun?partner=rss",
-        "source": "Juan Pablo Duch",
-        "sourceUrl": "https://www.jornada.com.mx/2026/11/21/",
-        "summary": "Tanto las pláticas trilaterales en Abu Dabi como la reunión de los líderes de China, Estados Unidos y Rusia en Shenzhen no sólo no permitieron avanzar hacia una solución negociada…",
-        "pubDate": "Sat, 21 Nov 2026 07:58:09 GMT"
-      },
-      {
-        "title": "Tigres femenil cesa a Pedro Martínez",
-        "link": "https://www.jornada.com.mx/2026/11/21/deportes/a10n5dep?partner=rss",
-        "source": "La Jornada",
-        "sourceUrl": "https://www.jornada.com.mx/2026/11/21/",
-        "summary": "Luego de no avanzar a las semifinales del torneo Apertura 2026, al caer ante Pumas, Tigres femenil anunció ayer la salida del técnico español Pedro Martínez, quien durante casi dos…",
-        "pubDate": "Sat, 21 Nov 2026 07:58:09 GMT"
-      },
-      {
-        "title": "Se ha duplicado mortalidad infantil en Cuba por el bloqueo de EU, denuncian",
-        "link": "https://www.jornada.com.mx/2026/11/21/politica/007n1pol?partner=rss",
-        "source": "La Jornada",
-        "sourceUrl": "https://www.jornada.com.mx/2026/11/21/",
-        "summary": "Durante la edición número 18 de la Reunión Interparlamentaria México-Cuba, las delegaciones de ambos países coincidieron en fortalecer la histórica relación de amistad y solidarida…",
-        "pubDate": "Sat, 21 Nov 2026 07:58:09 GMT"
-      },
-      {
-        "title": "Nuevo rector de la UPN",
-        "link": "https://www.jornada.com.mx/2026/11/21/politica/010n2pol?partner=rss",
-        "source": "La Jornada",
-        "sourceUrl": "https://www.jornada.com.mx/2026/11/21/",
-        "summary": "La Secretaría de Educación Pública (SEP) nombró a Carlos Ramírez Sámano como nuevo rector de la Universidad Pedagógica Nacional (UPN), en sustitución de Rosa María Torres Hernández…",
-        "pubDate": "Sat, 21 Nov 2026 07:58:09 GMT"
-      },
-      {
-        "title": "Hasta un momento más tarde, retrato íntimo sobre vínculos complejos y sueños compartidos",
-        "link": "https://www.jornada.com.mx/2026/11/21/espectaculos/a06n1esp?partner=rss",
-        "source": "La Jornada",
-        "sourceUrl": "https://www.jornada.com.mx/2026/11/21/",
-        "summary": "El documental Hasta un momento más tarde, dirigido por Pablo Tamez Sierra, cuenta la relación entre el pianista estadunidense Romayne Wheeler y su ahijado rarámuri Romeyno Gutiérre…",
-        "pubDate": "Sat, 21 Nov 2026 07:58:09 GMT"
       }
     ]
   }
